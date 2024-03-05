@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 0004000000130500
+  name: Photos with Mario™
+  updates: []

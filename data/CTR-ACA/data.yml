@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 0004000000040600
+  name: 'Captain America™: Super Soldier'
+  updates: []

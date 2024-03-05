@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001C9500
+  name: 美容師デビュー物語 トップスタイリストをめざそう！
+  updates: []

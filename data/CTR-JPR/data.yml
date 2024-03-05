@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000117500
+  name: 'Vacation Adventures: Park Ranger'
+  updates: []

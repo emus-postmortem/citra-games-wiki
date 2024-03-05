@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 000400000006FB00
+  name: NES Open Tournament Golf
+  updates: []
+- regions:
+  - JP
+  id: 000400000006F900
+  name: マリオオープンゴルフ
+  updates: []
+- regions:
+  - US
+  id: 000400000006FA00
+  name: NES Open Tournament Golf™
+  updates: []

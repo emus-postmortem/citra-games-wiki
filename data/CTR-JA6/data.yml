@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 00040000000DAA00
+  name: Super Little Acorns 3D Turbo
+  updates: []

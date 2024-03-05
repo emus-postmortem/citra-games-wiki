@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F703B00
+  name: Kirby's Dream Course™
+  updates: []
+- regions:
+  - JP
+  id: 000400000F703A00
+  name: カービィボウル
+  updates: []

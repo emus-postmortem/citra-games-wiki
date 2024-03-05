@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000174E00
+  name: メダロット9 カブトVer.
+  updates:
+  - id: 0004000E00174E00
+    name: 更新データ Ver. 1.1 メダロット9 カブトVer.

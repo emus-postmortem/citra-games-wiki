@@ -1,0 +1,21 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000011C200
+  name: 'LEGO® Batman™ 3: BEYOND GOTHAM'
+  updates:
+  - id: 0004000E0011C200
+    name: 'LEGO® Batman™ 3: BEYOND GOTHAM - Update'
+- regions:
+  - JP
+  id: 0004000000162D00
+  name: LEGO®バットマン3 ザ･ゲーム ゴッサムから宇宙へ
+  updates: []
+- regions:
+  - US
+  id: 000400000011DD00
+  name: 'LEGO® Batman™ 3: Beyond Gotham'
+  updates:
+  - id: 0004000E0011DD00
+    name: 'LEGO® Batman™ 3: Beyond Gotham Update Ver. 1.1.0'

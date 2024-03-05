@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000159300
+  name: PUZZLEBOX setup
+  updates: []
+- regions:
+  - JP
+  id: 0004000000167B00
+  name: パズルボトル
+  updates: []
+- regions:
+  - US
+  id: 000400000015AA00
+  name: PUZZLEBOX setup
+  updates: []

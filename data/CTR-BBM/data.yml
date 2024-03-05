@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - US
+  id: 0004000000160200
+  name: 'Goosebumps: The Game'
+  updates:
+  - id: 0004000E00160200
+    name: 'Goosebumps: The Game Update Ver. 1.01'

@@ -1,0 +1,19 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001C1D00
+  name: 'Sushi Striker™: The Way of Sushido'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000196700
+  name: 超回転 寿司ストライカー  The Way of Sushido
+  updates:
+  - id: 0004000E00196700
+    name: 更新データ Ver. 1.1.0 超回転 寿司ストライカー The Way of Sushido
+- regions:
+  - US
+  id: 00040000001C1C00
+  name: 'Sushi Striker™:  The Way of Sushido'
+  updates: []

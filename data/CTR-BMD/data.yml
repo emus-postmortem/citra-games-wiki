@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000169C00
+  name: ちゃおイラストクラブ
+  updates:
+  - id: 0004000E00169C00
+    name: 更新データ Ver. 1.2 ちゃおイラストクラブ

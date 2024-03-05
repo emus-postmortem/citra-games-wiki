@@ -1,0 +1,7 @@
+platform: NES
+releases:
+- regions:
+  - JP
+  id: 00040000000F8F00
+  name: 半熟英雄
+  updates: []

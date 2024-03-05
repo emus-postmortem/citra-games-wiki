@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000A4C00
+  name: Star Soldier
+  updates: []
+- regions:
+  - JP
+  id: 00040000000A4A00
+  name: スターソルジャー
+  updates: []
+- regions:
+  - US
+  id: 00040000000A4B00
+  name: Star Soldier™
+  updates: []

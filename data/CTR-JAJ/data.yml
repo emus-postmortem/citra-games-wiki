@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000F2000
+  name: Brunch Panic
+  updates: []
+- regions:
+  - US
+  id: 00040000000F2C00
+  name: Brunch Panic
+  updates: []

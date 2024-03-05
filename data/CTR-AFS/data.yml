@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000039600
+  name: プロ野球 ファミスタ2011
+  updates: []

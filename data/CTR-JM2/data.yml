@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000071900
+  name: '@SIMPLE DLシリーズ Vol.2 THE 密室からの脱出 学校の旧校舎編'
+  updates: []

@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000017F500
+  name: Radiohammer
+  updates: []
+- regions:
+  - JP
+  id: 0004000000163D00
+  name: ラジオハンマー
+  updates: []
+- regions:
+  - KR
+  id: 0004000000183200
+  name: 라디오해머
+  updates: []
+- regions:
+  - US
+  id: 000400000017A100
+  name: Radiohammer
+  updates: []

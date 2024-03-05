@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000D8300
+  name: '@SIMPLE DLシリーズ Vol.9 THE 密室からの脱出 テレビ局編'
+  updates: []

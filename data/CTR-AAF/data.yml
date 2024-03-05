@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000CD100
+  name: Games Festival 2
+  updates: []

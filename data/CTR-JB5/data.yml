@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D0500
+  name: Smash Bowling 3D
+  updates: []
+- regions:
+  - US
+  id: 00040000000EC800
+  name: Smash Bowling 3D
+  updates: []

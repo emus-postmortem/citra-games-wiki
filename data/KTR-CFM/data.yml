@@ -1,0 +1,37 @@
+platform: New3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000F70CD00
+  name: Fire Emblem Warriors™
+  updates:
+  - id: 0004000E0F70CD00
+    name: 'Fire Emblem Warriors™:  Update'
+- regions:
+  - JP
+  id: 000400000F70C100
+  name: ファイアーエムブレム無双
+  updates:
+  - id: 0004000E0F70C100
+    name: 更新データ Ver. 1.5.0 ファイアーエムブレム無双
+- regions:
+  - KR
+  id: 000400000F70CF00
+  name: Fire Emblem Warriors (영어)
+  updates:
+  - id: 0004000E0F70DE00
+    name: 업데이트 데이터 Ver1.5.0 Fire Emblem Warriors (일본어)
+  - id: 0004000E0F70CF00
+    name: 업데이트 데이터 Ver1.5.0 Fire Emblem Warriors(영어)
+- regions:
+  - KR
+  id: 000400000F70DE00
+  name: Fire Emblem Warriors (일본어)
+  updates: []
+- regions:
+  - US
+  id: 000400000F70CC00
+  name: Fire Emblem Warriors
+  updates:
+  - id: 0004000E0F70CC00
+    name: Fire Emblem Warriors  Update Ver. 1.5.0

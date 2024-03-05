@@ -1,0 +1,8 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000014A300
+  name: Pokémon Omega Ruby and Alpha Sapphire Special Demo
+  updates: []

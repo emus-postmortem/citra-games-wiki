@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000053000
+  name: 'ARC STYLE: Jazzy BILLIARDS 3D Professional'
+  updates: []

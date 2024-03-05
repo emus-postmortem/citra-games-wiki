@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000019DB00
+  name: Journey to Kreisia
+  updates: []
+- regions:
+  - JP
+  id: 0004000000198A00
+  name: 巡界のクレイシア
+  updates: []
+- regions:
+  - US
+  id: 000400000019E100
+  name: Journey to Kreisia
+  updates: []

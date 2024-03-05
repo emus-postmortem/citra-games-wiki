@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000017D700
+  name: 暗殺教室 アサシン育成計画!!
+  updates: []

@@ -1,0 +1,40 @@
+title = "Theatrhythm Final Fantasy: Curtain Call"
+description = "Theatrhythm Final Fantasy: Curtain Call is a rhythm video game published and developed by Square Enix. A sequel to the 2012 video game Theatrhythm Final Fantasy and the latest title in the rhythm series, it features similar gameplay to its predecessor."
+github_issues = [3012]
+needs_system_files = false
+needs_shared_font = true
+
+[[ releases ]]
+title = "00040000000FD500"
+region = "usa"
+release_date = "2011-09-16"
+
+[[ releases ]]
+title = "00040000000FCA00"
+region = "eur"
+release_date = "2014-09-19"
+
+[[ releases ]]
+title = "00040000000E9A00"
+region = "jpn"
+release_date = "2014-04-24"
+
+[[ testcases ]]
+title = "00040000000FD500"
+compatibility = "0"
+date = "2017-07-04"
+version = "HEAD-22e7402"
+author = "DrewThatGamer"
+cpu = "Intel Core i5 6400"
+gpu = "NVIDIA GeForce GTX 1050"
+os = "Windows 10"
+
+[[ testcases ]]
+title = "00040000000FD500"
+compatibility = "1"
+date = "2017-10-17"
+version = "HEAD-e9d1e8c"
+author = "AuraOfTheDawn"
+cpu = "Intel Xeon E31240"
+gpu = "NVIDIA GeForce GTX 750"
+os = "Windows 7 7601"

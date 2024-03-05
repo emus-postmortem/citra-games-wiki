@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000FF400
+  name: 'Street Fighter 2010: The Final Fight'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000FF200
+  name: 2010 ストリートファイター
+  updates: []
+- regions:
+  - US
+  id: 00040000000FF300
+  name: 'Street Fighter 2010: The Final Fight'
+  updates: []

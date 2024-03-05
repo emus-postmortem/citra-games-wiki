@@ -1,0 +1,15 @@
+title = "Mercenaries Saga 2: Order of the Silver Eagle"
+description = "Mercenaries Saga 2 is a Tactical Strategy RPG based on a fantasy world’s stage. Battles engage in quarter view map and tactics vary from different terrain."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "000400000016CC00"
+region = "usa"
+release_date = "2015-07-02"
+
+[[releases]]
+title = "000400000016B100"
+region = "eur"
+release_date = "2015-07-23"

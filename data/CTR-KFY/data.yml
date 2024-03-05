@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000018FB00
+  name: 'Dan McFox: Head Hunter'
+  updates: []
+- regions:
+  - US
+  id: 000400000018FC00
+  name: 'Dan McFox: Head Hunter'
+  updates: []

@@ -1,0 +1,19 @@
+title = "The Sims 3"
+description = "The Sims 3 is a strategy / life simulation game developed by The Sims Studio and published by Electronic Arts. The Sims 3 is built upon the same concept as its predecessors. Players control their own Sims' activities and relationships in a manner similar to real life."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000036500"
+region = "usa"
+release_date = "2011-03-27"
+
+[[releases]]
+title = "0004000000033D00"
+region = "eur"
+release_date = "2011-03-25"
+
+[[releases]]
+title = "0004000000037F00"
+region = "jpn"
+release_date = "2014-04-11"

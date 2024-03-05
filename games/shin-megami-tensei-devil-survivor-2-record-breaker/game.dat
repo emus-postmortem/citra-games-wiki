@@ -1,0 +1,9 @@
+title = "Shin Megami Tensei: Devil Survivor 2 Record Breaker"
+description = "Shin Megami Tensei: Devil Survivor 2 Record Breaker is a role-playing game and enhanced port of Shin Megami Tensei: Devil Survivor 2. It was published by Atlus in North America and NIS America in Europe."
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000159500"
+region = "usa"
+release_date = "2015-05-05"

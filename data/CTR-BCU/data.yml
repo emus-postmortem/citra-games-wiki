@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - US
+  id: 000400000012EE00
+  name: 'Scooby Doo & Looney Tunes Cartoon Universe: Adventure '
+  updates: []

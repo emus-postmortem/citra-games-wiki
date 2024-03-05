@@ -1,0 +1,27 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000007AF00
+  name: New Super Mario Bros.™ 2
+  updates: []
+- regions:
+  - JP
+  id: 000400000007AD00
+  name: New スーパーマリオブラザーズ 2
+  updates: []
+- regions:
+  - KR
+  id: 00040000000B8900
+  name: 뉴 슈퍼 마리오브라더스 2
+  updates: []
+- regions:
+  - TW
+  id: 00040000000B8A00
+  name: New 超級瑪利歐兄弟 2
+  updates: []
+- regions:
+  - US
+  id: 000400000007AE00
+  name: New Super Mario Bros.™ 2
+  updates: []

@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000017B300
+  name: モンスターストライク
+  updates:
+  - id: 0004000E0017B300
+    name: 更新データ Ver. 1.1.0 モンスターストライク

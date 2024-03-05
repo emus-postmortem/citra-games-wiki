@@ -1,0 +1,17 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 0004000000042500
+  name: Game & Watch™ Gallery
+  updates: []
+- regions:
+  - JP
+  id: 0004000000042400
+  name: ゲームボーイギャラリー
+  updates: []
+- regions:
+  - US
+  id: 0004000000042300
+  name: Game & Watch™ Gallery
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000C3100
+  name: Mahjong Mysteries - Ancient Athena
+  updates: []
+- regions:
+  - US
+  id: 00040000000C0F00
+  name: Mahjong Mysteries - Ancient Athena
+  updates: []

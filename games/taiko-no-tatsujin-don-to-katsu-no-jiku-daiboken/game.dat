@@ -1,0 +1,15 @@
+title = "Taiko no Tatsujin: Don to Katsu no Jikū Daibōken"
+description = "Taiko no Tatsujin: Don to Katsu no Jikū Daibōken is a rhythm game developed and published by Bandai Namco Games, and the second Taiko no Tatsujin game exclusively for the Nintendo 3DS. It features licensed and original songs and is played with the touchscreen and buttons to drum to a beat."
+incomplete = true
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000102F00"
+region = "jpn"
+release_date = "2014-06-26"
+
+[[releases]]
+title = "000400000016D900"
+region = "kor"
+release_date = "2015-08-27"

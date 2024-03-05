@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 000400000009DF00
+  name: Dig Dug
+  updates: []
+- regions:
+  - JP
+  id: 000400000009DD00
+  name: ディグダグ
+  updates: []
+- regions:
+  - US
+  id: 000400000009DE00
+  name: DIG DUG™
+  updates: []

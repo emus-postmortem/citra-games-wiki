@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000A7100
+  name: Balloon Pop® Remix
+  updates: []
+- regions:
+  - US
+  id: 00040000000A8300
+  name: Balloon Pop® Remix
+  updates: []

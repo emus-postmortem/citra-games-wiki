@@ -1,0 +1,27 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000031100
+  name: French Bulldog & New Friends
+  updates: []
+- regions:
+  - JP
+  id: 0004000000031000
+  name: nintendogs + cats フレンチ･ブル & Newフレンズ
+  updates: []
+- regions:
+  - KR
+  id: 0004000000031400
+  name: nintendogs + cats 프렌치 불 & NEW친구들
+  updates: []
+- regions:
+  - TW
+  id: 0004000000090800
+  name: 任天狗狗 + 貓貓 法國鬥牛犬與新伙伴們
+  updates: []
+- regions:
+  - US
+  id: 0004000000031200
+  name: 'nintendogs™ + cats: French Bulldog'
+  updates: []

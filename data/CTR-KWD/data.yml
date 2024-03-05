@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 000400000013EE00
+  name: Woah Dave!
+  updates: []

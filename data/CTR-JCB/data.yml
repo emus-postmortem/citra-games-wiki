@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000192D00
+  name: Chain Blaster
+  updates: []
+- regions:
+  - JP
+  id: 00040000000CF100
+  name: CHAIN BLASTER
+  updates: []
+- regions:
+  - US
+  id: 00040000000DCC00
+  name: Chain Blaster
+  updates: []

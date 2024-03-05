@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000E5600
+  name: Christmas Wonderland 3
+  updates: []

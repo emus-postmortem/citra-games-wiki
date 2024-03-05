@@ -1,0 +1,30 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000016E900
+  name: 'Etrian Odyssey 2 Untold: The Fafnir Knight'
+  updates:
+  - id: 0004000E0016E900
+    name: 'Etrian Odyssey 2 Untold: The Fafnir Knight - Update'
+- regions:
+  - JP
+  id: 0004000000120500
+  name: 新･世界樹の迷宮2 ファフニールの騎士
+  updates:
+  - id: 0004000E00120500
+    name: 更新データ Ver. 1.2 新･世界樹の迷宮2 ファフニールの騎士
+- regions:
+  - KR
+  id: 000400000016D700
+  name: 신 세계수의 미궁 2 파프니르기사
+  updates:
+  - id: 0004000E0016D700
+    name: 업데이트 데이터 Ver. 1.1 신 세계수의 미궁 2 파프니르기사
+- regions:
+  - US
+  id: 000400000015F200
+  name: 'Etrian Odyssey 2 Untold:  The Fafnir Knight'
+  updates:
+  - id: 0004000E0015F200
+    name: 'Etrian Odyssey 2 Untold: The Fafnir Knight Update Ver. 1.1'

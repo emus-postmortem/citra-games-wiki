@@ -1,0 +1,16 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001AD900
+  name: Elliot Quest
+  updates:
+  - id: 0004000E001AD900
+    name: 'Elliot Quest:  Update'
+- regions:
+  - US
+  id: 00040000001AD800
+  name: Elliot Quest
+  updates:
+  - id: 0004000E001AD800
+    name: Elliot Quest  Update Ver. 1.4

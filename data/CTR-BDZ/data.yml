@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000120800
+  name: IslandDays
+  updates:
+  - id: 0004000E00120800
+    name: 更新データ Ver. 1.1 IslandDays

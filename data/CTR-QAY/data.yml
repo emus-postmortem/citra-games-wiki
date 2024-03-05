@@ -1,0 +1,7 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - JP
+  id: 00040000000EA400
+  name: 真･女神転生デビルチルドレン 赤の書
+  updates: []

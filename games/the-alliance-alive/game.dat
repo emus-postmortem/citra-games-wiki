@@ -1,0 +1,14 @@
+title = "The Alliance Alive"
+description = "The Alliance Alive is a Japanese RPG (JRPG) for the Nintendo 3DS, developed by Cattle Call and published by FuRyu in Japan, and Atlus in the United States. It uses turn based battles and an overworld map. It follows a group of heroes as they fight against the Daemons, a race of beings who blotted out the sun a millennium in the past."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001CCD00"
+region = "usa"
+release_date = "2018-03-27"
+
+[[releases]]
+title = "00040000001B4500"
+region = "jpn"
+release_date = "2017-06-22"

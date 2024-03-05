@@ -1,0 +1,20 @@
+title = "Megaman Legacy Collection"
+description = "Mega Man Legacy Collection, known as Rockman Classics Collection (ロックマン クラシックス コレクション?) in Japan, is a game collection from the classic Mega Man series produced by Capcom and Digital Eclipse. It contains the first six Mega Man games with high definition 8-bit graphics and additional content."
+github_issues = [2526]
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000174100"
+region = "usa"
+release_date = "2016-02-23"
+
+[[testcases]]
+title = "0004000000174100"
+compatibility = "4"
+date = "2017-10-24"
+version = "HEAD-b36f748"
+cpu = "Intel Xeon E31240"
+gpu = "NVIDIA GeForce GTX 750"
+os = "Windows 7 7601"
+author = "AuraOfTheDawn"

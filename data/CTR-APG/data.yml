@@ -1,0 +1,17 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000045D00
+  name: PAC-MAN™ & Galaga™ Dimensions
+  updates: []
+- regions:
+  - JP
+  id: 0004000000039900
+  name: パックマン&ギャラガ ディメンションズ
+  updates: []
+- regions:
+  - US
+  id: 0004000000036300
+  name: PAC-MAN® & Galaga® Dimensions
+  updates: []

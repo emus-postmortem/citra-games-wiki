@@ -1,0 +1,19 @@
+title = "Animal Crossing: Happy Home Designer"
+description = "Animal Crossing: Happy Home Designer is a sandbox video game developed and published by Nintendo, with assistance from Monolith Soft, for the Nintendo 3DS. The game is a spin-off of the Animal Crossing series where the player has to design homes for various anthropomorphic animal characters."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "000400000014F100"
+region = "usa"
+release_date = "2015-09-25"
+
+[[releases]]
+title = "000400000014F200"
+region = "eur"
+release_date = "2015-10-02"
+
+[[releases]]
+title = "000400000014F000"
+region = "jpn"
+release_date = "2015-07-30"

@@ -1,0 +1,31 @@
+title = "Mario Golf: World Tour"
+description = "Mario Golf: World Tour is a golf video game developed by Camelot Software Planning and published by Nintendo for the Nintendo 3DS."
+incomplete = true
+needs_system_files = true
+needs_shared_font = true
+game_type = "3ds"
+
+[[ releases ]]
+title = "00040000000DCD00"
+region = "usa"
+release_date = "2014-05-02"
+
+[[ releases ]]
+title = "00040000000DCE00"
+region = "eur"
+release_date = "2014-05-02"
+
+[[ releases ]]
+title = "00040000000A5300"
+region = "jpn"
+release_date = "2014-05-01"
+
+[[ testcases ]]
+title = "00040000000DCD00"
+compatibility = "5"
+date = "2017-07-04"
+version = "HEAD-22e7402"
+author = "DrewThatGamer"
+cpu = "Intel Core i5 6400"
+gpu = "NVIDIA GeForce GTX 1050"
+os = "Windows 10"

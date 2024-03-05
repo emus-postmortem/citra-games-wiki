@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000136E00
+  name: Citizens of Earth
+  updates: []
+- regions:
+  - JP
+  id: 0004000000177300
+  name: シチズンズ オブ アース
+  updates: []
+- regions:
+  - US
+  id: 000400000012C100
+  name: Citizens of Earth
+  updates: []

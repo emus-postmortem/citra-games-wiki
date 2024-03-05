@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 000400000006AC00
+  name: みんなでオートレース3D
+  updates: []

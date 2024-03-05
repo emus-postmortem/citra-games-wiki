@@ -1,0 +1,17 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 000400000005AA00
+  name: Shinobi™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000065F00
+  name: Shinobi 3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000055B00
+  name: Shinobi™
+  updates: []

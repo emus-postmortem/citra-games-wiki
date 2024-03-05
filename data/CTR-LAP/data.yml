@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001C9F00
+  name: Little Adventure on the Prairie
+  updates: []
+- regions:
+  - US
+  id: 00040000001C9200
+  name: Little Adventure on the Prairie
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001A8800
+  name: Legna Tactica
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A5A00
+  name: レグナタクティカ
+  updates: []
+- regions:
+  - US
+  id: 00040000001A9500
+  name: Legna Tactica
+  updates: []

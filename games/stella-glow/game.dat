@@ -1,0 +1,19 @@
+title = "Stella Glow"
+description = "Stella Glow is a turn-based role-playing game developed by Imageepoch. The game was published in Japan by Sega, in North America by Atlus, and in Europe and Australia by NIS America."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000173700"
+region = "usa"
+release_date = "2015-11-17"
+
+[[releases]]
+title = "000400000017C700"
+region = "eur"
+release_date = "2016-03-11"
+
+[[releases]]
+title = "0004000000144500"
+region = "jpn"
+release_date = "2015-06-04"

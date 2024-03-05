@@ -1,0 +1,20 @@
+title = "Picross e8"
+description = "Picross e is a series of nonogram puzzle video games developed and published by Jupiter for the Nintendo 3DS handheld game console."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "00040000001CF700"
+region = "usa"
+release_date = "2017-12-21"
+
+[[releases]]
+title = "00040000001CE000"
+region = "eur"
+release_date = "2018-01-18"
+
+[[releases]]
+title = "00040000001CFD00"
+region = "jpn"
+release_date = "2017-12-21"

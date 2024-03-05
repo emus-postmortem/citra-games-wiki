@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000FCC00
+  name: Rabi Laby 3
+  updates: []
+- regions:
+  - JP
+  id: 0004000000077F00
+  name: ラビ×ラビ えぴそーど3
+  updates: []

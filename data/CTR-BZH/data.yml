@@ -1,0 +1,30 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000017EB00
+  name: Hyrule Warriors™ Legends
+  updates:
+  - id: 0004000E0017EB00
+    name: 'Hyrule Warriors™ Legends:  Update'
+- regions:
+  - JP
+  id: 000400000017D500
+  name: ゼルダ無双 ハイラルオールスターズ
+  updates:
+  - id: 0004000E0017D500
+    name: 更新データ Ver. 1.6.0 ゼルダ無双 ハイラルオールスターズ
+- regions:
+  - KR
+  id: 0004000000189E00
+  name: 젤다무쌍 하이랄의 전설들
+  updates:
+  - id: 0004000E00189E00
+    name: 업데이트 데이터 Ver. 1.6.0 젤다무쌍 하이랄의 전설들
+- regions:
+  - US
+  id: 000400000017EA00
+  name: Hyrule Warriors Legends
+  updates:
+  - id: 0004000E0017EA00
+    name: Hyrule Warriors Legends Update Ver. 1.6.0

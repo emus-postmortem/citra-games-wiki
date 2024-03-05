@@ -1,0 +1,30 @@
+title = "Picross 3D: Round 2"
+description = "Picross 3D: Round 2 known in Japan as Rittai Picross 2 is a Japanese puzzle video game developed by HAL Laboratory for the Nintendo 3DS. It is the sequel to the 2009 Nintendo DS game, Picross 3D."
+github_issues = [2521]
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000187D00"
+region = "usa"
+release_date = "2016-09-01"
+
+[[ releases ]]
+title = "0004000000187E00"
+region = "eur"
+release_date = "2016-12-02"
+
+[[ releases ]]
+title = "0004000000169A00"
+region = "jpn"
+release_date = "2015-10-01"
+
+[[ testcases ]]
+title = "0004000000187D00"
+compatibility = "4"
+date = "2017-06-05"
+version = "HEAD-8f0a23b"
+author = "SonofUgly"
+cpu = "i5-6600k @ 4.3GHz"
+gpu = "GeForce GTX 750Ti"
+os = "Windows 8.1"

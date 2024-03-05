@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000172100
+  name: アナと雪の女王 オラフの贈りもの
+  updates: []

@@ -1,0 +1,7 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 000400000F710100
+  name: Now I know my ABCs 2
+  updates: []

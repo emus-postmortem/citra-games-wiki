@@ -1,0 +1,24 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000017BB00
+  name: 'Bravely Second™: End Layer'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000DC800
+  name: ブレイブリーセカンド
+  updates:
+  - id: 0004000E000DC800
+    name: 更新データ Ver. 1.0.2 ブレイブリーセカンド
+- regions:
+  - KR
+  id: 000400000017BC00
+  name: BRAVELY SECOND
+  updates: []
+- regions:
+  - US
+  id: 000400000017BA00
+  name: 'BRAVELY SECOND™: END LAYER'
+  updates: []

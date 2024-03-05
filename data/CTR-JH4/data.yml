@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000092200
+  name: Sudoku by Nikoli
+  updates: []
+- regions:
+  - JP
+  id: 0004000000052900
+  name: ニコリのパズル 数独
+  updates: []
+- regions:
+  - KR
+  id: 00040000000CD600
+  name: Sudoku by Nikoli
+  updates: []
+- regions:
+  - US
+  id: 000400000008E000
+  name: Sudoku by Nikoli
+  updates: []

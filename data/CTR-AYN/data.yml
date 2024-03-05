@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000132800
+  name: 'Mario & Luigi™: Paper Jam Bros.'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000132600
+  name: マリオ&ルイージRPG ペーパーマリオMIX
+  updates: []
+- regions:
+  - KR
+  id: 0004000000188900
+  name: 마리오&루이지 RPG  페이퍼 마리오 MIX
+  updates: []
+- regions:
+  - US
+  id: 0004000000132700
+  name: 'Mario & Luigi™: Paper Jam'
+  updates: []

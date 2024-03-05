@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000F7500
+  name: おしゃれな仔犬3D
+  updates: []

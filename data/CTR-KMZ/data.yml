@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000015F400
+  name: KAMI
+  updates: []
+- regions:
+  - JP
+  id: 0004000000164C00
+  name: KAMI
+  updates: []
+- regions:
+  - US
+  id: 0004000000160300
+  name: KAMI
+  updates: []

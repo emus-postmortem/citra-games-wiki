@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000ED900
+  name: Bella Sara 2 - The Magic of Drasilmare
+  updates: []

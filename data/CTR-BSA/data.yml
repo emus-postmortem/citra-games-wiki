@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000014A900
+  name: そろばん･あんざん･ フラッシュ暗算 完全版
+  updates:
+  - id: 0004000E0014A900
+    name: 更新データ Ver. 1.1 そろばん･あんざん･フラッシュ暗算 完全版

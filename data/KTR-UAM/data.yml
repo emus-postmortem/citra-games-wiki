@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F702600
+  name: Mega Man™ X
+  updates: []
+- regions:
+  - JP
+  id: 000400000F702500
+  name: ロックマンX
+  updates: []

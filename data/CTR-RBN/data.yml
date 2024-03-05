@@ -1,0 +1,22 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 000400000007DC00
+  name: Kirby's Dream Land™ 2
+  updates: []
+- regions:
+  - JP
+  id: 000400000007DA00
+  name: 星のカービィ 2
+  updates: []
+- regions:
+  - KR
+  id: 0004000000191A00
+  name: Kirby's Dream Land 2
+  updates: []
+- regions:
+  - US
+  id: 000400000007DB00
+  name: Kirby's Dream Land™ 2
+  updates: []

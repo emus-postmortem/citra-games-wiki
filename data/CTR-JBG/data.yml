@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000D1600
+  name: Witch's Cat
+  updates: []
+- regions:
+  - JP
+  id: 0004000000059200
+  name: ラビラビ外伝 Witch's Cat (ウィッチズキャット)
+  updates: []

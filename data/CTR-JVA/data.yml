@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000194900
+  name: Pocket Card Jockey™
+  updates: []
+- regions:
+  - JP
+  id: 00040000000EB000
+  name: ソリティ馬
+  updates: []
+- regions:
+  - KR
+  id: 0004000000194A00
+  name: Pocket Card Jockey
+  updates: []
+- regions:
+  - US
+  id: 0004000000194800
+  name: Pocket Card Jockey™
+  updates: []

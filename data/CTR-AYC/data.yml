@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000FB400
+  name: モデル☆おしゃれオーディション ドリームガール
+  updates:
+  - id: 0004000E000FB400
+    name: 更新データ Ver. 1.1 モデル☆おしゃれオーディション ドリームガール

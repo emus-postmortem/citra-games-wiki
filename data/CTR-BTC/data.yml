@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000FB300
+  name: トリコ アルティメットサバイバル
+  updates:
+  - id: 0004000E000FB300
+    name: 更新データ Ver. 1.1 トリコ アルティメットサバイバル

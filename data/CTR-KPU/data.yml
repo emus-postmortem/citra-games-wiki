@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000019EA00
+  name: 燃えろ！！プロ野球2016
+  updates: []

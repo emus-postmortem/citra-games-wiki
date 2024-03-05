@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000A2E00
+  name: Family Tennis 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000052F00
+  name: おきらくテニス3D
+  updates: []
+- regions:
+  - KR
+  id: 00040000000CB000
+  name: Family Tennis
+  updates: []
+- regions:
+  - US
+  id: 000400000008BF00
+  name: Family Tennis 3D
+  updates: []

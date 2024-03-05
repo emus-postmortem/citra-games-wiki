@@ -1,0 +1,17 @@
+platform: GameGear
+releases:
+- regions:
+  - EU
+  id: 0004000000096900
+  name: Sonic Labyrinth™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000096C00
+  name: ソニックラビリンス
+  updates: []
+- regions:
+  - US
+  id: 0004000000096800
+  name: Sonic Labyrinth™
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000144700
+  name: 藤子･F･不二雄キャラクターズ 大集合! SFドタバタパーティー!!
+  updates: []

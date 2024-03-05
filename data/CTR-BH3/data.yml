@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000170800
+  name: ほっぺちゃん ぷにっとしぼって大冒険!
+  updates:
+  - id: 0004000E00170800
+    name: 更新データ Ver. 1.1 ほっぺちゃん ぷにっとしぼって大冒険!

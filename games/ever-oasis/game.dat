@@ -1,0 +1,30 @@
+title = "Ever Oasis"
+description = "Ever Oasis is an action-adventure role-playing video game developed by Grezzo and published by Nintendo for the Nintendo 3DS video game console. Ever Oasis tells the story of Tethu/Tethi, a young seedling, who with the help of a water spirit named Esna creates an oasis after Tethu/Tethi's brother Nour's oasis falls to Chaos."
+github_issues = [2802]
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "00040000001A4800"
+region = "usa"
+release_date = "2017-06-23"
+
+[[ releases ]]
+title = "00040000001A4900"
+region = "eur"
+release_date = "2017-06-23"
+
+[[ releases ]]
+title = "0004000000164A00"
+region = "jpn"
+release_date = "2017-07-13"
+
+[[ testcases ]]
+title = "00040000001A4900"
+compatibility = "4"
+date = "2017-07-10"
+version = "HEAD-669757a"
+author = "Hexagon12"
+cpu = "Intel Core i3-6100"
+gpu = "Nvidia GTX 750 Ti"
+os = "Windows 10 Pro 15063"

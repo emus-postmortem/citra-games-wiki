@@ -1,0 +1,7 @@
+platform: GameBoy
+releases:
+- regions:
+  - JP
+  id: 0004000000082A00
+  name: ゲームボーイギャラリー2
+  updates: []

@@ -1,0 +1,7 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000F701C00
+  name: ねじ巻きナイト2
+  updates: []

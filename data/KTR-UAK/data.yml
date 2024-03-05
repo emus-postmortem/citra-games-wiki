@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F702200
+  name: Pilotwings™
+  updates: []
+- regions:
+  - JP
+  id: 000400000F702100
+  name: パイロットウイングス
+  updates: []

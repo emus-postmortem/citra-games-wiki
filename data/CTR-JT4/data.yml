@@ -1,0 +1,27 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000BCE00
+  name: 2 Fast 4 Gnomz
+  updates: []
+- regions:
+  - JP
+  id: 00040000000F5200
+  name: ゲキヤバランナー
+  updates: []
+- regions:
+  - KR
+  id: 0004000000113C00
+  name: GEKIYABA RUNNER
+  updates: []
+- regions:
+  - TW
+  id: 0004000000105C00
+  name: 爆走老精靈
+  updates: []
+- regions:
+  - US
+  id: 0004000000097200
+  name: 2 Fast 4 Gnomz
+  updates: []

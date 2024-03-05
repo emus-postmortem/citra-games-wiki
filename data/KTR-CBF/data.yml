@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F707100
+  name: BlockForm
+  updates: []
+- regions:
+  - US
+  id: 000400000F707000
+  name: BlockForm
+  updates: []

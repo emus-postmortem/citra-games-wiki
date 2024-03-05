@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 0004000000036C00
+  name: 'Generator Rex: Agent of Providence'
+  updates: []

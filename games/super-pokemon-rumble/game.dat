@@ -1,0 +1,20 @@
+title = "Super Pokémon Rumble"
+description = "Super Pokémon Rumble is an action video game in the Pokémon series for the Nintendo 3DS. It was the first Pokémon game released for Nintendo 3DS."
+incomplete = true
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000066D00"
+region = "eur"
+release_date = "2011-12-02"
+
+[[ testcases ]]
+compatibility = "2"
+date = "2017-06-19"
+title = "0004000000066D00"
+version = "HEAD-d0888f8"
+author = "Kloen"
+cpu = "Intel Core i5-760"
+gpu = "AMD Radeon HD 5670"
+os = "Windows 10 Education 1511"

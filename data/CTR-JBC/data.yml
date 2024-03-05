@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000D2900
+  name: だるめしスポーツ店
+  updates: []
+- regions:
+  - KR
+  id: 0004000000126200
+  name: 달구네 스포츠 야구편
+  updates: []
+- regions:
+  - US
+  id: 0004000000106400
+  name: Rusty's Real Deal Baseball™
+  updates: []

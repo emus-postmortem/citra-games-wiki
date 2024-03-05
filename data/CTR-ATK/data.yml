@@ -1,0 +1,22 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 000400000007E900
+  name: TEKKEN 3D PRIME EDITION
+  updates: []
+- regions:
+  - JP
+  id: 0004000000069F00
+  name: 鉄拳3D プライムエディション
+  updates: []
+- regions:
+  - KR
+  id: 0004000000091E00
+  name: 철권 3D 프라임 에디션
+  updates: []
+- regions:
+  - US
+  id: 0004000000080300
+  name: TEKKEN 3D Prime Edition
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001B5200
+  name: Dodge Club Pocket
+  updates: []
+- regions:
+  - US
+  id: 00040000001A0200
+  name: Dodge Club Pocket
+  updates: []

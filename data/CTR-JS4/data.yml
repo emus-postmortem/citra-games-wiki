@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000DA200
+  name: 'BUGS vs. TANKS!™ '
+  updates: []
+- regions:
+  - JP
+  id: 00040000000D0F00
+  name: 虫けら戦車
+  updates: []
+- regions:
+  - US
+  id: 00040000000D9800
+  name: 'BUGS vs. TANKS!™ '
+  updates: []

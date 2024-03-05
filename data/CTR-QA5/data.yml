@@ -1,0 +1,17 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 00040000000FFB00
+  name: Super Mario Bros.™ Deluxe
+  updates: []
+- regions:
+  - KR
+  id: 0004000000181400
+  name: Super Mario Bros. Deluxe
+  updates: []
+- regions:
+  - US
+  id: 00040000000FFA00
+  name: Super Mario Bros.™ Deluxe
+  updates: []

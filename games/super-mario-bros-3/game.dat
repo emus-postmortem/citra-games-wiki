@@ -1,0 +1,32 @@
+title = "Super Mario Bros. 3"
+description = "Super Mario Bros. 3 (Japanese: スーパーマリオブラザーズ3 Hepburn: Sūpā Mario Burazāzu Surī) is a platform video game developed and published by Nintendo for the Nintendo Entertainment System (NES) video game console"
+github_issues = [2552]
+needs_system_files = false
+needs_shared_font = true
+game_type = "vc"
+vc_system = "nes"
+
+[[ releases ]]
+title = "000400000006E700"
+region = "jpn"
+release_date = "2013-01-01"
+
+[[ releases ]]
+title = "000400000006E900"
+region = "eur"
+release_date = "2013-12-26"
+
+[[ releases ]]
+title = "000400000006E800"
+region = "usa"
+release_date = "2014-04-17"
+
+[[ testcases ]]
+title = "000400000006E700"
+compatibility = "1"
+date = "2017-06-05"
+version = "HEAD-8c22334"
+author = "Clector"
+cpu = "Intel Core i3-4160"
+gpu = "Intel HD Graphics 4400"
+os = "Windows 8.1"

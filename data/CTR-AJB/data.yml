@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001C2600
+  name: 'Nintendo presents:   New Style Boutique™ 3'
+  updates: []
+- regions:
+  - JP
+  id: 000400000019F600
+  name: Girls Mode 4 スター☆スタイリスト
+  updates: []
+- regions:
+  - US
+  id: 00040000001C2500
+  name: 'Style Savvy: Styling Star'
+  updates: []

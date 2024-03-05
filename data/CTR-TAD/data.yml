@@ -1,0 +1,22 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 000400000006EF00
+  name: Metroid™
+  updates: []
+- regions:
+  - JP
+  id: 000400000006ED00
+  name: メトロイド
+  updates: []
+- regions:
+  - KR
+  id: 0004000000191500
+  name: Metroid
+  updates: []
+- regions:
+  - US
+  id: 000400000006EE00
+  name: Metroid™
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000008C200
+  name: escapeVektor
+  updates: []
+- regions:
+  - JP
+  id: 000400000010F400
+  name: 電脳からの脱出 escapeVektor
+  updates: []
+- regions:
+  - US
+  id: 0004000000086C00
+  name: escapeVektor™
+  updates: []

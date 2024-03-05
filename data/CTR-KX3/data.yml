@@ -1,0 +1,19 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000016D400
+  name: 'Excave III : Tower of Destiny'
+  updates: []
+- regions:
+  - JP
+  id: 000400000015DC00
+  name: エクスケーブ ～運命の夢幻塔編～
+  updates:
+  - id: 0004000E0015DC00
+    name: 更新データ Ver. 1.1 エクスケーブ ～運命の夢幻塔編～
+- regions:
+  - US
+  id: 000400000016E000
+  name: 'Excave III : Tower of Destiny'
+  updates: []

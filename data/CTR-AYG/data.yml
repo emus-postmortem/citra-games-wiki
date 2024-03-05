@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000065600
+  name: 勇現会社ブレイブカンパニー
+  updates: []

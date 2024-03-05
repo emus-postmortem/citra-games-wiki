@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000181000
+  name: マイメロディ 願いがかなう不思議な箱
+  updates: []

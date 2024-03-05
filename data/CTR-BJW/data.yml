@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000012FA00
+  name: ドーリィ♪カノン
+  updates:
+  - id: 0004000E0012FA00
+    name: 更新データ Ver. 1.2 ドーリィ♪カノン

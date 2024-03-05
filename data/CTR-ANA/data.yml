@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000ADA00
+  name: ピカピカナース物語2
+  updates:
+  - id: 0004000E000ADA00
+    name: 更新データ Ver. 1.1 ピカピカナース物語2

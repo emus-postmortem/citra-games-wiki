@@ -1,0 +1,29 @@
+title = "Dragon Ball Fusions"
+description = "Dragon Ball Fusions is a platform-fighter videogame developed by Ganbarion.co and distributed by Bandai Namco, based on the Dragon Ball series."
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "00040000001AA900"
+region = "usa"
+release_date = "2016-11-22"
+
+[[ releases ]]
+title = "00040000001AA000"
+region = "eur"
+release_date = "2017-02-17"
+
+[[ releases ]]
+title = "0004000000196D00"
+region = "jpn"
+release_date = "2016-08-04"
+
+[[ testcases ]]
+title = "0004000000196D00"
+compatibility = "0"
+date = "2017-06-16"
+version = "HEAD-3146e95"
+author = "Krikic"
+cpu = "Intel Core i5-6400"
+gpu = "GeForce GTX 1070M"
+os = "Windows 10 14393"

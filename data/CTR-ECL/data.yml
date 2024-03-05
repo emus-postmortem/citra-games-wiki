@@ -1,0 +1,13 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  - JP
+  - KR
+  - TW
+  - US
+  id: 000400000011C500
+  name: Pokémon™ Alpha Sapphire
+  updates:
+  - id: 0004000E0011C500
+    name: Pokémon™ Alpha Sapphire Update Ver. 1.4

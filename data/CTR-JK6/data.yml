@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000066A00
+  name: ニコリのパズル カックロ
+  updates: []
+- regions:
+  - KR
+  id: 0004000000109B00
+  name: Kakuro by Nikoli
+  updates: []
+- regions:
+  - US
+  id: 0004000000087200
+  name: Kakuro by Nikoli
+  updates: []

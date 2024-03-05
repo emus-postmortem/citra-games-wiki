@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001B6700
+  name: ねむネコ パズルでも寝ています
+  updates: []

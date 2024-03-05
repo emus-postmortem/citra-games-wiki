@@ -1,0 +1,24 @@
+title = "Yo-kai Watch"
+description = "Yo-kai Watch is a role-playing video game developed and published by Level-5 in Japan with Nintendo localizing it in the West and the first game in the Yo-kai Watch franchise. The game is based around the Yōkai of Japanese folklore, who are said to be ghosts and apparitions that cause mischief in daily life."
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "0004000000167700"
+region = "usa"
+release_date = "2015-11-06"
+
+[[releases]]
+title = "000400000017C200"
+region = "eur"
+release_date = "2016-04-29"
+
+[[releases]]
+title = "00040000000CF400"
+region = "jpn"
+release_date = "2013-07-11"
+
+[[releases]]
+title = "0004000000167600"
+region = "kor"
+release_date = "2015-11-26"

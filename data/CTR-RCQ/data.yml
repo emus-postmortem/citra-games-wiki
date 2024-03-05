@@ -1,0 +1,8 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  - US
+  id: 0004000000171000
+  name: Pokémon™ Red Version (English Version)
+  updates: []

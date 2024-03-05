@@ -1,0 +1,9 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000053600
+  name: ペンギンの問題 ザ・ウォーズ
+  updates:
+  - id: 0004000E00053600
+    name: 更新データ Ver. 1.1 ペンギンの問題 ザ･ウォ―ズ

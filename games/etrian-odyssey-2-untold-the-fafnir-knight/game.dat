@@ -1,0 +1,19 @@
+title = "Etrian Odyssey 2 Untold - The Fafnir Knight"
+description = "Etrian Odyssey 2 Untold: The Fafnir Knight[a] is a role-playing video game developed and published by Atlus.  It is part of the Etrian Odyssey series, and is a remake of the Etrian Odyssey II: Heroes of Lagaard."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "000400000015F200"
+region = "usa"
+release_date = "2015-07-04"
+
+[[releases]]
+title = "000400000016E900"
+region = "eur"
+release_date = "2016-02-12"
+
+[[releases]]
+title = "0004000000120500"
+region = "jpn"
+release_date = "2014-11-27"

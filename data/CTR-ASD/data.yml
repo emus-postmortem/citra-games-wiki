@@ -1,0 +1,17 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000032300
+  name: Steel Diver
+  updates: []
+- regions:
+  - JP
+  id: 0004000000030300
+  name: スティールダイバー
+  updates: []
+- regions:
+  - US
+  id: 0004000000032400
+  name: Steel Diver™
+  updates: []

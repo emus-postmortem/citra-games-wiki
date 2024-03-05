@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000007F500
+  name: URBAN TRIAL FREESTYLE™
+  updates: []
+- regions:
+  - JP
+  id: 00040000000DBE00
+  name: たまごっちの ドキドキ☆ドリームおみせっち
+  updates: []
+- regions:
+  - US
+  id: 00040000000C7400
+  name: URBAN TRIAL FREESTYLE
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000190900
+  name: ポムポムプリン コロコロ大冒険
+  updates: []

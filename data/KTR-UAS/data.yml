@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F703100
+  name: 'Super Street Fighter™ II: The New Challengers'
+  updates: []
+- regions:
+  - JP
+  id: 000400000F703000
+  name: スーパーストリートファイターⅡ ザ ニューチャレンジャーズ
+  updates: []

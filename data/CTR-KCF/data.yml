@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  - JP
+  - US
+  id: 0004000000164600
+  name: Pokémon™ Rumble World
+  updates: []

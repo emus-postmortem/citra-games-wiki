@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000103700
+  name: '@SIMPLE DLシリーズ Vol.19 THE 囲碁'
+  updates: []

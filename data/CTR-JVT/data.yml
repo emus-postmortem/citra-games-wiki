@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000012C400
+  name: Best of Solitaire
+  updates: []
+- regions:
+  - US
+  id: 0004000000123600
+  name: Best of Solitaire
+  updates: []

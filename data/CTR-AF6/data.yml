@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000C2C00
+  name: 50 Classic Games 3D
+  updates: []
+- regions:
+  - US
+  id: 00040000000BF300
+  name: 50 Classic Games 3D
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000D1800
+  name: Bloody Vampire
+  updates: []
+- regions:
+  - JP
+  id: 0004000000088B00
+  name: ブラッディヴァンパイア
+  updates: []

@@ -1,0 +1,17 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 00040000000EF900
+  name: Mega Man™ 4
+  updates: []
+- regions:
+  - JP
+  id: 00040000000EF700
+  name: ロックマンワールド4
+  updates: []
+- regions:
+  - US
+  id: 00040000000EF800
+  name: Mega Man™ IV
+  updates: []

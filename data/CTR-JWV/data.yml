@@ -1,0 +1,23 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000153600
+  name: Nintendo Badge Arcade
+  updates:
+  - id: 0004000E00153600
+    name: 'Nintendo Badge Arcade: Update'
+- regions:
+  - JP
+  id: 0004000000134600
+  name: バッジとれ～るセンター
+  updates:
+  - id: 0004000E00134600
+    name: 更新データ Ver. 1.3.1 バッジとれ～るセンター
+- regions:
+  - US
+  id: 0004000000153500
+  name: Nintendo Badge Arcade
+  updates:
+  - id: 0004000E00153500
+    name: Nintendo Badge Arcade Update Ver. 1.3.1

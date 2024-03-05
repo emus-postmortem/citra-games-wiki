@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 0004000000035300
+  name: 'Green Lantern™: Rise of the Manhunters'
+  updates: []

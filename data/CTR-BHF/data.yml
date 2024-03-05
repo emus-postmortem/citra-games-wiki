@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000014A000
+  name: My Life on a Farm 3D
+  updates: []

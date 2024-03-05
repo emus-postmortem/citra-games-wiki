@@ -1,0 +1,7 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 0004000000171E00
+  name: Pokémon™ Versione Gialla
+  updates: []

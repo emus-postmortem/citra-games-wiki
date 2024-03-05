@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000C9400
+  name: '@SIMPLE DLシリーズ Vol.13 THE タクシー 僕はカリスマ運転手'
+  updates: []

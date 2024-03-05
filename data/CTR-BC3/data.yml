@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000152500
+  name: 金色のコルダ3 フルボイス Special
+  updates: []

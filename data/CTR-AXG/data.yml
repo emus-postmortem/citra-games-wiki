@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000F7F00
+  name: 'Inazuma Eleven® 3: Team Ogre Attacks!'
+  updates: []

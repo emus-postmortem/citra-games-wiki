@@ -1,0 +1,7 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F713800
+  name: War & Romance Visual Novel
+  updates: []

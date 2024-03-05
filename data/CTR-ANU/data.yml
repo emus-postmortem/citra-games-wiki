@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001B8D00
+  name: 'Miitopia™: Casting Call'
+  updates: []
+- regions:
+  - JP
+  id: 00040000001B1700
+  name: 好きなMiiで見る Miitopia (ミートピア) 予告編
+  updates: []
+- regions:
+  - US
+  id: 00040000001B8C00
+  name: 'Miitopia™: Casting Call'
+  updates: []

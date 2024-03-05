@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001C1100
+  name: 行政書士試験平成29年度版
+  updates: []

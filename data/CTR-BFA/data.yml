@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001A0E00
+  name: フューチャーカードバディファイト 目指せ！バディチャンピオン！
+  updates:
+  - id: 0004000E001A0E00
+    name: 更新データ Ver. 1.2 フューチャーカード バディファイト 目指せ！バディチャンピオン！

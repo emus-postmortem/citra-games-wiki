@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000036F00
+  name: 花といきもの立体図鑑
+  updates:
+  - id: 0004000E00036F00
+    name: 更新データ Ver. 1.1 花といきもの立体図鑑

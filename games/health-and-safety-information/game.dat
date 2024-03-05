@@ -1,0 +1,30 @@
+title = "Health and Safety Information"
+description = "Health and Safety Information for the Nintendo 3DS is pre-installed on the 3DS as a system application."
+incomplete = true
+needs_system_files = false
+needs_shared_font = true
+
+[[releases]]
+title = "0004001000021300"
+region = "usa"
+release_date = "2011-03-27"
+
+[[releases]]
+title = "0004001000022300"
+region = "eur"
+release_date = "2011-03-25"
+
+[[releases]]
+title = "0004001000020300"
+region = "jpn"
+release_date = "2011-02-26"
+
+[[ testcases ]]
+ title = "0004001000021300"
+ compatibility = "0"
+ date = "2017-07-11"
+ version = "HEAD-c017065"
+ author = "Breadfish64"
+ cpu = "Intel Core i7-4700mq"
+ gpu = "Nvidia Geforce GT 740m"
+ os = "Windows 10 Home 1703"

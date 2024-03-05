@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000009FC00
+  name: ニコリのパズル 四角に切れ
+  updates: []
+- regions:
+  - KR
+  id: 0004000000109F00
+  name: Shikaku by Nikoli
+  updates: []

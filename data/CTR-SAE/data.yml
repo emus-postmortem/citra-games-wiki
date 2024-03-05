@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000054E00
+  name: 3D Classics Excitebike™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000045C00
+  name: 3Dクラシックス エキサイトバイク
+  updates: []
+- regions:
+  - US
+  id: 0004000000054300
+  name: '3D Classics: Excitebike™'
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000103F00
+  name: '@SIMPLE DLシリーズ Vol.26 THE テニス'
+  updates: []

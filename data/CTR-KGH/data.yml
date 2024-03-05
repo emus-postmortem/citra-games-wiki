@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000015B900
+  name: 3D Gunstar Heroes
+  updates: []
+- regions:
+  - JP
+  id: 0004000000162600
+  name: 3D ガンスターヒーローズ
+  updates: []
+- regions:
+  - US
+  id: 0004000000158400
+  name: 3D Gunstar Heroes
+  updates: []

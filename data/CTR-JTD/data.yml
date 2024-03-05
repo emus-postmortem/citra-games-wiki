@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000186100
+  name: Toy Defense
+  updates: []
+- regions:
+  - US
+  id: 00040000000FE600
+  name: Toy Defense
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001CB200
+  name: 'Captain Toad™:  Treasure Tracker'
+  updates: []
+- regions:
+  - JP
+  id: 00040000001CB000
+  name: 進め！キノピオ隊長
+  updates: []
+- regions:
+  - US
+  id: 00040000001CB100
+  name: 'Captain Toad™:  Treasure Tracker'
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000017CE00
+  name: Japanese Rail Sim 3D Journey to Kyoto
+  updates: []
+- regions:
+  - JP
+  id: 000400000014AA00
+  name: 鉄道にっぽん!路線たび 叡山電車編
+  updates: []
+- regions:
+  - US
+  id: 0004000000173F00
+  name: Japanese Rail Sim 3D Journey to Kyoto
+  updates: []

@@ -1,0 +1,13 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  - JP
+  - KR
+  - TW
+  - US
+  id: 0004000000132500
+  name: 'Code Name: S.T.E.A.M.'
+  updates:
+  - id: 0004000E00132500
+    name: 'Code Name: S.T.E.A.M. Update Ver. 1.2.0'

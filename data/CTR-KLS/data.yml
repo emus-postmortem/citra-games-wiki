@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000157600
+  name: マル合格! 医療事務 診療報酬 請求事務能力認定試験(医科)
+  updates: []

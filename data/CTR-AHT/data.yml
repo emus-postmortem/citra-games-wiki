@@ -1,0 +1,9 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 000400000004B700
+  name: G1グランプリ
+  updates:
+  - id: 0004000E0004B700
+    name: '更新データ Ver. 1.1 G1グランプリ '

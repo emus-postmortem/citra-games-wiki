@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000D8F00
+  name: まめゴマ はっぴー!スイーツファーム
+  updates:
+  - id: 0004000E000D8F00
+    name: 更新データ Ver. 1.1 まめゴマ はっぴー!スイーツファーム

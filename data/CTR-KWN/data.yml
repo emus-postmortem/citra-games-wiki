@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001B1800
+  name: WORLD END ECONOMiCA Episode.3
+  updates: []

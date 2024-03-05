@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70F700
+  name: Christmas Night Archery
+  updates: []
+- regions:
+  - US
+  id: 000400000F70FE00
+  name: Christmas Night Archery
+  updates: []

@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70F000
+  name: 36 Fragments of Midnight
+  updates: []
+- regions:
+  - US
+  id: 000400000F70E300
+  name: 36 Fragments of Midnight
+  updates: []

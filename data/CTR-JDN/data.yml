@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000B0E00
+  name: 'Dot Runner: Complete Edition'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000066400
+  name: ドットイーター ニューピックダン
+  updates: []
+- regions:
+  - US
+  id: 0004000000095300
+  name: 'Dot Runner: Complete Edition'
+  updates: []

@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000101300
+  name: ヒーローバンク
+  updates:
+  - id: 0004000E00101300
+    name: 更新データ Ver. 1.1 ヒーローバンク

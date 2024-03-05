@@ -1,0 +1,27 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000198900
+  name: Shift DX
+  updates: []
+- regions:
+  - JP
+  id: 0004000000187B00
+  name: Shift DX
+  updates: []
+- regions:
+  - KR
+  id: 000400000019B900
+  name: Shift DX
+  updates: []
+- regions:
+  - TW
+  id: 0004000000199E00
+  name: Shift DX (日文版)
+  updates: []
+- regions:
+  - US
+  id: 0004000000190000
+  name: Shift DX
+  updates: []

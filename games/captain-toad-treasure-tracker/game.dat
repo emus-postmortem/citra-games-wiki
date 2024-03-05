@@ -1,0 +1,20 @@
+title = "Captain Toad: Treasure Tracker"
+description = "Captain Toad: Treasure Tracker is an action puzzle video game developed and published by Nintendo. It is a spin-off of the Super Mario series which builds upon an uncommon type of level in Super Mario 3D World."
+github_issues = [3920]
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "00040000001CB100"
+region = "usa"
+release_date = "2018-07-13"
+
+[[releases]]
+title = "00040000001CB200"
+region = "eur"
+release_date = "2018-07-13"
+
+[[releases]]
+title = "00040000001CB000"
+region = "jpn"
+release_date = "2018-07-13"

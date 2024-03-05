@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000017D800
+  name: ダウンタウンの ガキの使いやあらへんで
+  updates:
+  - id: 0004000E0017D800
+    name: 更新データ Ver. 1.1.0 ダウンタウンのガキの使いやあらへんで!! 絶対に捕まってはいけないガースー黒光りランド

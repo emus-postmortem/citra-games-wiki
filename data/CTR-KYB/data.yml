@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001B1F00
+  name: Sudoku Party
+  updates: []
+- regions:
+  - JP
+  id: 00040000001C3500
+  name: みんなでナンプレ
+  updates: []
+- regions:
+  - US
+  id: 00040000001B2000
+  name: Sudoku Party
+  updates: []

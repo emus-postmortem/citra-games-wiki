@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70F800
+  name: BLOK DROP CHAOS
+  updates: []
+- regions:
+  - US
+  id: 000400000F70FB00
+  name: BLOK DROP CHAOS
+  updates: []

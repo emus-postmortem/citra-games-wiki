@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000156800
+  name: '@SIMPLE DLシリーズ Vol.38 THE アイテム探し'
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001D5500
+  name: イナズマイレブン for ニンテンドー3DS
+  updates: []

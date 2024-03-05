@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000138000
+  name: 新テニスの王子様 ～Go to the top～
+  updates: []

@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000CC600
+  name: "Dillon's Rolling Western™: The Last Ranger"
+  updates: []
+- regions:
+  - JP
+  id: 00040000000C7200
+  name: ザ･ローリング･ウエスタン 最後の用心棒
+  updates: []
+- regions:
+  - KR
+  id: 00040000000EDC00
+  name: Dillon's Rolling Western The Last Ranger
+  updates: []
+- regions:
+  - US
+  id: 00040000000CC500
+  name: Dillon's Rolling Western™ The Last Ranger
+  updates: []

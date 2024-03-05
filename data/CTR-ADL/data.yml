@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000034800
+  name: ドクターロートレックと 忘却の騎士団
+  updates: []
+- regions:
+  - US
+  id: 0004000000036800
+  name: Doctor Lautrec and the Forgotten Knights
+  updates: []

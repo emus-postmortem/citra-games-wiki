@@ -1,0 +1,17 @@
+platform: GameGear
+releases:
+- regions:
+  - EU
+  id: 000400000009B700
+  name: Defenders of Oasis™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000097C00
+  name: シャダム･クルセイダー  遥かなる王国
+  updates: []
+- regions:
+  - US
+  id: 000400000009C200
+  name: Defenders of Oasis™
+  updates: []

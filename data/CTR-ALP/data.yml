@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000032100
+  name: NEWラブプラス
+  updates:
+  - id: 0004000E00032100
+    name: 更新データ Ver. 1.2 NEWラブプラス

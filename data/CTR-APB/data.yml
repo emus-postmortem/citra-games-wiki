@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 000400000004C600
+  name: 'Pinball Hall of Fame: The Williams Collection'
+  updates: []

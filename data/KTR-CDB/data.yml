@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70A400
+  name: PINK DOT BLUE DOT
+  updates: []
+- regions:
+  - US
+  id: 000400000F709E00
+  name: PINK DOT BLUE DOT
+  updates: []

@@ -1,0 +1,19 @@
+title = "Dragon Quest Monsters: Terry no Wonderland 3D"
+description = "A 3D remake of the classic Dragon Quest Monsters: Terry no Wonderland, the first video game in the Dragon Quest Monsters series."
+needs_system_files = true
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000074600"
+region = "jpn"
+release_date = "2012-05-31"
+
+[[ testcases ]]
+title = "0004000000074600"
+compatibility = "0"
+date = "2017-09-07"
+version = "HEAD-e0cdaf7"
+author = "SonofUgly"
+cpu = "i5-6600k @ 4.3GHz"
+gpu = "GeForce GTX 750Ti"
+os = "Windows 8.1"

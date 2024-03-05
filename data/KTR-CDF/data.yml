@@ -1,0 +1,7 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000F705900
+  name: ドラゴンファング
+  updates: []

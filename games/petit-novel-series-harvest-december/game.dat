@@ -1,0 +1,20 @@
+title = "Petit Novel series - Harvest December"
+description = "Petit Novel Series: Harvest December is a collection of 13 stories set in the small, snowy town of Tagami. Publisher: CIRCLE Ent. Genre: Visual Novel"
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000182800"
+region = "usa"
+release_date = "2015-12-10"
+
+[[testcases]]
+title = "0004000000182800"
+compatibility = "0"
+date = "2017-07-31"
+version = "HEAD-fc43e02"
+cpu = "Intel Core i7-6700"
+gpu = "GeForce GTX 970"
+os = "Windows 10 15063"
+author = "Roran-Vanq"

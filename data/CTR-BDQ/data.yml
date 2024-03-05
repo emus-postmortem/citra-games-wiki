@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001ACB00
+  name: DQモンスターズ ジョーカー3 プロフェッショナル
+  updates:
+  - id: 0004000E001ACB00
+    name: 更新データ Ver. 1.3 DQM ジョーカー3 プロフェッショナル

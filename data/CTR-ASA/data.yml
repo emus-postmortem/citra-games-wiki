@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000D6200
+  name: 'Secret Agent Files: Miami'
+  updates: []
+- regions:
+  - US
+  id: 00040000000C6E00
+  name: 'Secret Agent Files: Miami'
+  updates: []

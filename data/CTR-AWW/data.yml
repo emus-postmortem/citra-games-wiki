@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000006A900
+  name: Word Wizard 3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000107900
+  name: Word Wizard 3D
+  updates: []

@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000014FB00
+  name: 'PROJECT X ZONE 2: BRAVE NEW WORLD'
+  updates:
+  - id: 0004000E0014FB00
+    name: 更新データ Ver. 1.2 PROJECT X ZONE 2

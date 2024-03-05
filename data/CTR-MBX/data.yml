@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000162C00
+  name: カールじいさんの空飛ぶ家 3D
+  updates: []

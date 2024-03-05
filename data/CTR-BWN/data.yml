@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000103200
+  name: わんニャンペットショップ
+  updates:
+  - id: 0004000E00103200
+    name: 更新データ Ver. 1.2 わんニャンペットショップ

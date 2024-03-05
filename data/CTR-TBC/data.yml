@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000A0E00
+  name: Mega Man™ 3
+  updates: []
+- regions:
+  - JP
+  id: 00040000000A0C00
+  name: ロックマン3 Dr.ワイリーの最期!?
+  updates: []
+- regions:
+  - US
+  id: 00040000000A0D00
+  name: Mega Man™ 3
+  updates: []

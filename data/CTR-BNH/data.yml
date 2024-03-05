@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001A1600
+  name: 百ますドラ算 のび太のタイムバトル
+  updates:
+  - id: 0004000E001A1600
+    name: 更新データ Ver. 1.1.0 百ますドラ算 のび太のタイムバトル

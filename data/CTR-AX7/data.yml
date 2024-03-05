@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000EE500
+  name: Starry☆Sky～in Winter～3D
+  updates: []

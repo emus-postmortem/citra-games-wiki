@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000162F00
+  name: Chibi-Robo!™ Zip Lash
+  updates: []
+- regions:
+  - JP
+  id: 0004000000152600
+  name: なげなわアクション! ぐるぐる!ちびロボ!
+  updates: []
+- regions:
+  - US
+  id: 0004000000163000
+  name: Chibi-Robo!™ Zip Lash
+  updates: []

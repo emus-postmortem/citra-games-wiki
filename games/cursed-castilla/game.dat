@@ -1,0 +1,31 @@
+title = "Cursed Castilla EX"
+description = "Cursed Castilla EX (Originally released as Maldita Castilla in 2012) is an arcade action video game developed by Locomalito. (Assisted by Abylight on 3DS) The game is primarily based on myths from Spain and other parts of Europe. Maldita Castilla was developed as a tribute to the video games of the late 1980s, such as Ghosts'n Goblins, Tiger Road, Black Tiger, and Shinobi. The game was inspired by Amadis of Gaul, a sixteenth-century Spanish chivalric romance."
+github_issues = [3021]
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "00040000001BF000"
+region = "usa"
+release_date = "2017-07-13"
+
+[[releases]]
+title = "00040000001BF100"
+region = "eur"
+release_date = "2017-07-13"
+
+[[releases]]
+title = "00040000001C4800"
+region = "jpn"
+release_date = "2017-07-12"
+
+[[testcases]]
+title = "00040000001BF000"
+compatibility = "4"
+date = "2017-10-18"
+version = "HEAD-e9d1e8c"
+cpu = "Intel Xeon E31240"
+gpu = "NVIDIA GTX 750"
+os = "Windows 7 7601"
+author = "AuraOfTheDawn"

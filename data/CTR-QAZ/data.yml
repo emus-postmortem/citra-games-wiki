@@ -1,0 +1,17 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 00040000000F0400
+  name: Mega Man™ Xtreme
+  updates: []
+- regions:
+  - JP
+  id: 00040000000EFD00
+  name: ロックマンX サイバーミッション
+  updates: []
+- regions:
+  - US
+  id: 00040000000EFE00
+  name: Mega Man™ Xtreme
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000198800
+  name: Digger Dan DX
+  updates: []
+- regions:
+  - US
+  id: 000400000018F300
+  name: Digger Dan DX
+  updates: []

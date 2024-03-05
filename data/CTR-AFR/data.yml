@@ -1,0 +1,17 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000056100
+  name: Frogger 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000053800
+  name: フロッガー3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000036900
+  name: Frogger 3D
+  updates: []

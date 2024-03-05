@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000117800
+  name: European Conqueror 3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000119500
+  name: European Conqueror 3D
+  updates: []

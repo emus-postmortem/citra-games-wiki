@@ -1,0 +1,33 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000177000
+  name: 'The Legend of Zelda™: Tri Force Heroes'
+  updates:
+  - id: 0004000E00177000
+    name: 'The Legend of Zelda™: Tri Force Heroes: Update'
+- regions:
+  - JP
+  id: 0004000000176E00
+  name: ゼルダの伝説 トライフォース3銃士
+  updates:
+  - id: 0004000E00176E00
+    name: 更新データ Ver. 2.1.0 ゼルダの伝説 トライフォース3銃士
+- regions:
+  - KR
+  id: 0004000000182B00
+  name: 젤다의 전설 트라이포스 삼총사
+  updates: []
+- regions:
+  - TW
+  id: 0004000000182C00
+  name: ゼルダの伝說　 トライフォース３銃士 (日文版)
+  updates: []
+- regions:
+  - US
+  id: 0004000000176F00
+  name: 'The Legend of Zelda™: Tri Force Heroes'
+  updates:
+  - id: 0004000E00176F00
+    name: 'The Legend of Zelda™: Tri Force Heroes Update Ver. 2.1.0'

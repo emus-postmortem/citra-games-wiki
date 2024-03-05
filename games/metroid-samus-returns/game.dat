@@ -1,0 +1,29 @@
+title = "Metroid: Samus Returns"
+description = "Metroid: Samus Returns is a side-scrolling action-adventure video game developed collaboratively by MercurySteam and Nintendo, with the latter also publishing it for the Nintendo 3DS handheld game console. The game is a reimagining of the 1991 Game Boy game Metroid II: Return of Samus. It follows series protagonist Samus Aran, who is sent by the Galactic Federation to exterminate the parasitic Metroids on their home planet of SR388."
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "00040000001BB200"
+region = "usa"
+release_date = "2017-09-15"
+
+[[ releases ]]
+title = "00040000001BFB00"
+region = "eur"
+release_date = "2017-09-15"
+
+[[ releases ]]
+title = "00040000001BFC00"
+region = "jpn"
+release_date = "2017-09-15"
+
+[[testcases]]
+title = "00040000001BB200"
+compatibility = "1"
+date = "2017-09-29"
+version = "HEAD-0d42706"
+cpu = "Intel Core i5-3570HQ"
+gpu = "Nvidia Geforce GTX 650M"
+os = "Windows 10 15063"
+author = "eclenaeu"

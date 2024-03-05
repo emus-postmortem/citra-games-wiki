@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000157100
+  name: 101 Pony Pets 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000166000
+  name: ポニーペット3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000124F00
+  name: 101 Pony Pets 3D
+  updates: []

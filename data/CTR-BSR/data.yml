@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000127900
+  name: スーパーロボット大戦BX
+  updates: []

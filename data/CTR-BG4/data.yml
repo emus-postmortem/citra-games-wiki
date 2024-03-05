@@ -1,0 +1,19 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001A6B00
+  name: 'Shin Megami Tensei IV: Apocalypse'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000166B00
+  name: 真・女神転生Ⅳ FINAL
+  updates:
+  - id: 0004000E00166B00
+    name: 更新データ Ver. 1.1 真・女神転生Ⅳ FINAL
+- regions:
+  - US
+  id: 000400000019A200
+  name: 'Shin Megami Tensei IV:  Apocalypse'
+  updates: []

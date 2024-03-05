@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001B7100
+  name: 'YO-KAI WATCH™ 2: Special Demo'
+  updates: []
+- regions:
+  - KR
+  id: 00040000001BB500
+  name: 요괴워치 2 특별체험판
+  updates: []

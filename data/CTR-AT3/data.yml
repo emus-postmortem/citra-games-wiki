@@ -1,0 +1,15 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  - JP
+  - TW
+  - US
+  id: 0004000000183600
+  name: Kirby Planet Robobot™
+  updates: []
+- regions:
+  - KR
+  id: 000400000017C600
+  name: 별의 커비 로보보 플래닛
+  updates: []

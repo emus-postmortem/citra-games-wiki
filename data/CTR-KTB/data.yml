@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000162900
+  name: タッチバトル戦車3D-3
+  updates: []

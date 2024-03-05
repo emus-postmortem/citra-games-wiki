@@ -1,0 +1,24 @@
+title = "Mario & Sonic at the London 2012 Olympic Games"
+description = "Mario & Sonic at the London 2012 Olympic Games is a sports and party game developed by Sega Japan. As with the previous two Mario & Sonic titles, it was published by Nintendo in Japan and by Sega in all other regions. The game is officially licensed by the International Olympic Committee (IOC) through exclusive licensee International Sports Multimedia. It is the third installment in the Mario & Sonic series after the commercial success of its predecessors."
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "0004000000054800"
+region = "usa"
+release_date = "2012-02-14"
+
+[[releases]]
+title = "0004000000054900"
+region = "eur"
+release_date = "2012-02-09"
+
+[[releases]]
+title = "0004000000032500"
+region = "jpn"
+release_date = "2012-03-01"
+
+[[releases]]
+title= "0004000000053500"
+region = "kor"
+release_date = "2012-06-21"

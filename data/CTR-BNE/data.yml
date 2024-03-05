@@ -1,0 +1,13 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  - JP
+  - KR
+  - TW
+  - US
+  id: 0004000000175E00
+  name: Pokémon™ Moon
+  updates:
+  - id: 0004000E00175E00
+    name: Pokémon™ Moon Update Ver. 1.2

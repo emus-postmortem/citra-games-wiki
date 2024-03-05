@@ -1,0 +1,12 @@
+title = "Dai Gyakuten Saiban - Naruhodou Ryuunosuke no Bouken"
+
+description = "Dai Gyakuten Saiban: Naruhodō Ryūnosuke no Bōken (The Great Ace Attorney) is an adventure game in the Ace Attorney series, developed and published by Capcom. It was directed and produced by Shu Takumi and Shintaro Kojima, respectively. Set near the end of the 19th century, Dai Gyakuten Saiban focuses on Ryūnosuke Naruhodō – an ancestor of Phoenix Wright, the primary protagonist of the Ace Attorney series – who seeks to become a full-fledged defence attorney. Joined by his assistant, Susato Mikotoba, Ryūnosuke travels to England to further his studies, where he encounters world-famous detective Sherlock Holmes and works alongside him in solving mysterious cases."
+
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+
+title = "000400000014AD00"
+region = "jpn"
+release_date = "2015-07-19"

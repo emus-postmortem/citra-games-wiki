@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70C500
+  name: TABLE TENNIS INFINITY
+  updates: []
+- regions:
+  - US
+  id: 000400000F70C400
+  name: TABLE TENNIS INFINITY
+  updates: []

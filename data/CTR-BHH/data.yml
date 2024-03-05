@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000109200
+  name: Hello Kitty Happy Happy Family
+  updates: []

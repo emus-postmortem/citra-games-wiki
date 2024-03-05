@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000014E000
+  name: アイカツ!365日のアイドルデイズ
+  updates:
+  - id: 0004000E0014E000
+    name: 更新データ Ver. 1.1 アイカツ!365日のアイドルデイズ

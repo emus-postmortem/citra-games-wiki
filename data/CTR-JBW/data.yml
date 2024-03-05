@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000010B100
+  name: Family Bowling 3D
+  updates: []
+- regions:
+  - JP
+  id: 000400000006DE00
+  name: おきらくボウリング3D
+  updates: []
+- regions:
+  - US
+  id: 00040000000AE800
+  name: Family Bowling 3D
+  updates: []

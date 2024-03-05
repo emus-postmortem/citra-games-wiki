@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000110C00
+  name: ぼくは航空管制官 エアポート ヒーロー3D 新千歳 with JAL
+  updates: []

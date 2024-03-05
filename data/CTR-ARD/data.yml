@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000006A700
+  name: Arcade Classics 3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000107600
+  name: Arcade Classics 3D
+  updates: []

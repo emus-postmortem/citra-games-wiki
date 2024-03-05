@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000C3000
+  name: Snow Moto Racing 3D
+  updates: []
+- regions:
+  - JP
+  id: 000400000011ED00
+  name: スノーモーターレーシング3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000097400
+  name: Snow Moto Racing 3D™
+  updates: []

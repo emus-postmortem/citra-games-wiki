@@ -1,0 +1,11 @@
+title = "Pokémon Ultra Sun"
+description = "Pokémon Ultra Sun is a role-playing video game developed by Game Freak, published by The Pokémon Company, and distributed by Nintendo for the Nintendo 3DS. Announced in June 2017, the title is an enhanced version of Pokémon Sun with a modified storyline, similar to previous enhanced versions like Platinum, Emerald and Yellow. The game is the second installment in the seventh generation of the main series and the last planned installment of the main series Pokémon games for Nintendo 3DS."
+github_issues = [2190, 3128, 3133, 3703]
+needs_system_files = true
+needs_shared_font = false
+wiki_override = "pokemon-ultra-sun-ultra-moon"
+
+[[ releases ]]
+title = "00040000001B5000"
+region = "all"
+release_date = "2017-11-17"

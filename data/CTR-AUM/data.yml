@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000073800
+  name: パチパラ3D プレミアム海物語 ～夢見る乙女とパチンコ王決定戦～
+  updates: []

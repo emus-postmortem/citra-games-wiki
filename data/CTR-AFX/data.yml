@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000118700
+  name: 'Hollywood Fame: Hidden Object Adventure '
+  updates: []
+- regions:
+  - US
+  id: 000400000011D300
+  name: 'Hollywood Fame: Hidden Object Adventure'
+  updates: []

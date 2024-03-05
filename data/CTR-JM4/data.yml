@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000052700
+  name: '@SIMPLE DLシリーズ Vol.1 THE 密室からの脱出'
+  updates: []

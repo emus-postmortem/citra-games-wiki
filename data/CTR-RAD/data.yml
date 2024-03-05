@@ -1,0 +1,22 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 0004000000041300
+  name: Tennis
+  updates: []
+- regions:
+  - JP
+  id: 0004000000041200
+  name: テニス
+  updates: []
+- regions:
+  - KR
+  id: 0004000000181700
+  name: Tennis
+  updates: []
+- regions:
+  - US
+  id: 0004000000041100
+  name: Tennis
+  updates: []

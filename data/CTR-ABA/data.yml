@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 000400000004C300
+  name: Imagine® Babyz®
+  updates: []

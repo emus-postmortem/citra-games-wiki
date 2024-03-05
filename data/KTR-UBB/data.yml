@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F705600
+  name: Breath of Fire II
+  updates: []
+- regions:
+  - JP
+  id: 000400000F705500
+  name: ブレス オブ ファイアⅡ 使命の子
+  updates: []

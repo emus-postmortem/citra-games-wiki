@@ -1,0 +1,11 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  - JP
+  - KR
+  - TW
+  - US
+  id: 00040000000C9B00
+  name: Pokémon™ Bank
+  updates: []

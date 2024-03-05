@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000196900
+  name: ショベルナイト
+  updates:
+  - id: 0004000E00196900
+    name: 更新データ Ver. 4.0 ショベルナイト

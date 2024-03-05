@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 000400000004D800
+  name: 剣と魔法と学園モノ。3D
+  updates: []

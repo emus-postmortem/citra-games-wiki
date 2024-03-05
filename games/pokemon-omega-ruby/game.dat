@@ -1,0 +1,11 @@
+title = "Pokémon Omega Ruby"
+description = "Pokémon Omega Ruby is a 2014 role-playing video game developed by Game Freak and published by Nintendo for the Nintendo 3DS family of systems. It is part of the sixth generation of the Pokémon series, serving as an enhanced remake of the 2002 Game Boy Advance title Pokémon Ruby."
+github_issues = [2419, 3703]
+needs_system_files = true
+needs_shared_font = true
+wiki_override = "pokemon-omega-ruby-alpha-sapphire"
+
+[[ releases ]]
+title = "000400000011C400"
+region = "all"
+release_date = "2014-11-21"

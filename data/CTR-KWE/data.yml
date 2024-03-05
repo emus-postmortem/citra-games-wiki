@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001A3600
+  name: Word Logic by POWGI
+  updates: []
+- regions:
+  - US
+  id: 00040000001A0900
+  name: Word Logic by POWGI
+  updates: []

@@ -1,0 +1,26 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000169500
+  name: Rodea the Sky Soldier
+  updates:
+  - id: 0004000E00169500
+    name: Rodea the Sky Soldier - Update
+- regions:
+  - JP
+  id: 00040000000C3C00
+  name: ロデア･ザ･スカイソルジャー
+  updates: []
+- regions:
+  - KR
+  id: 0004000000183100
+  name: 로데아 더 스카이 솔져
+  updates:
+  - id: 0004000E00183100
+    name: 업데이트 데이터 Ver. 1.1 로데아 더 스카이 솔져
+- regions:
+  - US
+  id: 0004000000168800
+  name: Rodea the Sky Soldier
+  updates: []

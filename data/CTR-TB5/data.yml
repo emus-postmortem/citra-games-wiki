@@ -1,0 +1,7 @@
+platform: NES
+releases:
+- regions:
+  - JP
+  id: 00040000000B6100
+  name: ファミコン探偵倶楽部 消えた後継者(前後編)
+  updates: []

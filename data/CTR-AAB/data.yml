@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 000400000004A700
+  name: テイルズ オブ ジ アビス
+  updates: []
+- regions:
+  - US
+  id: 0004000000061300
+  name: Tales of the Abyss 3D
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000108A00
+  name: EDGE
+  updates: []
+- regions:
+  - JP
+  id: 0004000000139B00
+  name: EDGE
+  updates: []
+- regions:
+  - US
+  id: 0004000000108B00
+  name: 'EDGE '
+  updates: []

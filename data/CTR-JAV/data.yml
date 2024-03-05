@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 0004000000107800
+  name: Race To The Line
+  updates: []

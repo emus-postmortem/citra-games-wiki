@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001B6B00
+  name: Mini Sports Collection
+  updates: []
+- regions:
+  - JP
+  id: 0004000000198B00
+  name: ミニスポ魂
+  updates: []
+- regions:
+  - US
+  id: 00040000001B6E00
+  name: Mini Sports Collection
+  updates: []

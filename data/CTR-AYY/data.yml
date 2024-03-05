@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000F7100
+  name: My Little Baby 3D
+  updates: []

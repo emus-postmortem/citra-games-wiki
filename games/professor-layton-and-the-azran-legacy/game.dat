@@ -1,0 +1,25 @@
+title = "Professor Layton and the Azran Legacy"
+description = "Professor Layton and the Azran Legacy is a puzzle game developed by Level-5 for the Nintendo 3DS. It is the sixth entry in the Professor Layton series, making up the third and final part of the prequel trilogy of games. The game was published by Level-5 in Japan and Nintendo everywhere else."
+github_issues = [2160]
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "00040000000F3000"
+region = "eur"
+release_date = "2013-11-08"
+
+[[releases]]
+title = "00040000000F3100"
+region = "eur"
+release_date = "2013-11-08"
+
+[[releases]]
+title = "00040000000F2F00"
+region = "usa"
+release_date = "2014-02-28"
+
+[[releases]]
+title = "00040000000C0200"
+region = "jpn"
+release_date = "2013-02-28"

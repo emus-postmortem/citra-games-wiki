@@ -1,0 +1,17 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 000400000004D200
+  name: Cave Story 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000084C00
+  name: 洞窟物語3D
+  updates: []
+- regions:
+  - US
+  id: 000400000004A100
+  name: Cave Story 3D
+  updates: []

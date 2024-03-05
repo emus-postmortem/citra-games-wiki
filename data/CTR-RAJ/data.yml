@@ -1,0 +1,17 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 0004000000042200
+  name: Mario's Picross™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000042100
+  name: マリオのピクロス
+  updates: []
+- regions:
+  - US
+  id: 0004000000042000
+  name: Mario's Picross™
+  updates: []

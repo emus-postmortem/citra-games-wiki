@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000112700
+  name: 子猫のアルバム～My Little Cat～
+  updates: []

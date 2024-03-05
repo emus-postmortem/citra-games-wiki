@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000062200
+  name: Sonic Generations™
+  updates: []
+- regions:
+  - JP
+  id: 000400000004CA00
+  name: ソニックジェネレーションズ 青の冒険
+  updates: []
+- regions:
+  - US
+  id: 0004000000062300
+  name: Sonic Generations™
+  updates: []

@@ -1,0 +1,25 @@
+title = "Code of Princess"
+description = "Code of Princess is a Hack and slash video game that features several game modes and over 50 playable characters. In single player mode there are available a story-driven campaign mode with several scenarios where only 4 characters (Solange, Ali, Zozo and Allegro) are playable, a 'free play' mode that allows to play any campaign scenario with any available character, and a 'Bonus Quests' mode where additional scenarios are unlocked and must be beaten with specific requirements."
+incomplete = true
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "00040000000A2C00"
+region = "usa"
+release_date = "2012-10-09"
+
+[[ releases ]]
+title = "0004000000068000"
+region = "jpn"
+release_date = "2012-04-19"
+
+[[ testcases ]]
+compatibility = "1"
+date = "2017-06-19"
+title = "00040000000A2C00"
+version = "HEAD-d0888f8"
+author = "Kloen"
+cpu = "Intel Core i5-760"
+gpu = "AMD Radeon HD 5670"
+os = "Windows 10 Education 1511"

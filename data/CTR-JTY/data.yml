@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000A1F00
+  name: AZITO 3D Tokyo
+  updates: []

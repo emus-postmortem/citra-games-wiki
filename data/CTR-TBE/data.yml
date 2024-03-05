@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000A1400
+  name: Mega Man™ 5
+  updates: []
+- regions:
+  - JP
+  id: 00040000000A1100
+  name: ロックマン5 ブルースの罠!?
+  updates: []
+- regions:
+  - US
+  id: 00040000000A1300
+  name: Mega Man™ 5
+  updates: []

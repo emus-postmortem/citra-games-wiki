@@ -1,0 +1,30 @@
+title = "New Super Mario Bros. 2"
+description = "New Super Mario Bros. 2 is a side-scrolling platformer video game in the Super Mario series developed by Nintendo for the Nintendo 3DS handheld console. The game is a direct sequel to the 2006 Nintendo DS game New Super Mario Bros. The game continues the style of gameplay from New Super Mario Bros., featuring side-scrolling platform action as Mario or Luigi attempt to rescue Princess Peach from Bowser and his Koopalings."
+github_issues = [1681]
+needs_system_files = true
+needs_shared_font = true
+
+[[ releases ]]
+title = "000400000007AE00"
+region = "usa"
+release_date = "2012-08-19"
+
+[[ releases ]]
+title = "000400000007AF00"
+region = "eur"
+release_date = "2012-08-17"
+
+[[ releases ]]
+title = "000400000007AD00"
+region = "jpn"
+release_date = "2012-07-28"
+
+[[ testcases ]]
+title = "000400000007AE00"
+compatibility = "1"
+date = "2017-06-11"
+version = "HEAD-9a8a90b"
+author = "Hexagon12"
+cpu = "Intel Core i3-6100"
+gpu = "Nvidia GTX 750 Ti"
+os = "Windows 10 Pro 15063"

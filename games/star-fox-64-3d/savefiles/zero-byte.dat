@@ -1,0 +1,4 @@
+title = "Zero-byte save files"
+description = "Zero-byte save files. Required to get past the \"creating save\" screen when you first boot the game."
+author = "eientei95"
+title_id = "0004000000049000"

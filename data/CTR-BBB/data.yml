@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000104800
+  name: メタルファイト ベイブレード 4DxZEROG
+  updates:
+  - id: 0004000E00104800
+    name: 更新データ Ver. 1.1 メタルファイト ベイブレード 4DxZEROG アルティメットトーナメント

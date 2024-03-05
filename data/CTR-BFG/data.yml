@@ -1,0 +1,35 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000126100
+  name: Monster Hunter™ 4 Ultimate
+  updates:
+  - id: 0004000E00126100
+    name: 'Monster Hunter™ 4 Ultimate: Update'
+- regions:
+  - JP
+  id: 000400000011D700
+  name: モンスターハンター4G
+  updates:
+  - id: 0004000E0011D700
+    name: 更新データ Ver. 1.2 モンスターハンター4G
+- regions:
+  - KR
+  id: 0004000000153200
+  name: 몬스터헌터 4G
+  updates: []
+- regions:
+  - TW
+  id: 0004000000141A00
+  name: MONSTER HUNTER 4G(日文版)
+  updates:
+  - id: 0004000E00141A00
+    name: MONSTER HUNTER 4G 更新資料 ver.1.1
+- regions:
+  - US
+  id: 0004000000126300
+  name: Monster Hunter™ 4 Ultimate
+  updates:
+  - id: 0004000E00126300
+    name: Monster Hunter™ 4 Ultimate Update Ver. 1.1

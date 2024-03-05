@@ -1,0 +1,19 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001BAE00
+  name: RPG Maker Player
+  updates: []
+- regions:
+  - JP
+  id: 000400000019ED00
+  name: RPGツクール フェス プレイヤー
+  updates:
+  - id: 0004000E0019ED00
+    name: 更新データ Ver. 1.1.4 RPGツクール フェス プレイヤー
+- regions:
+  - US
+  id: 00040000001BD400
+  name: RPG Maker Player
+  updates: []

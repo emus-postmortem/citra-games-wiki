@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000059C00
+  name: 超速変形ジャイロゼッター アルバロスの翼
+  updates: []

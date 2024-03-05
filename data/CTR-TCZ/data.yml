@@ -1,0 +1,22 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000D3300
+  name: The Mysterious Murasame Castle
+  updates: []
+- regions:
+  - JP
+  id: 00040000000D3100
+  name: 謎の村雨城
+  updates: []
+- regions:
+  - KR
+  id: 0004000000196000
+  name: The Mysterious Murasame Castle
+  updates: []
+- regions:
+  - US
+  id: 00040000000D3200
+  name: The Mysterious Murasame Castle
+  updates: []

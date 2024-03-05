@@ -1,0 +1,24 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000018F000
+  name: 'Dragon Quest® VII: Fragments of the Forgotten Past'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000065E00
+  name: ドラゴンクエストⅦ エデンの戦士たち
+  updates:
+  - id: 0004000E00065E00
+    name: 更新データ Ver. 1.1 ドラゴンクエストⅦ エデンの戦士たち
+- regions:
+  - KR
+  id: 0004000000198600
+  name: 'DRAGON QUEST VII: Fragments of the Forgotten Past'
+  updates: []
+- regions:
+  - US
+  id: 000400000018EF00
+  name: 'Dragon Quest® VII: Fragments of the Forgotten Past'
+  updates: []

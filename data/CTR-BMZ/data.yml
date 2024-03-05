@@ -1,0 +1,19 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001C5300
+  name: 'Etrian Odyssey V:  Beyond the Myth'
+  updates: []
+- regions:
+  - JP
+  id: 000400000018D000
+  name: 世界樹の迷宮Ⅴ 長き神話の果て
+  updates:
+  - id: 0004000E0018D000
+    name: 更新データ Ver. 1.1 世界樹の迷宮Ⅴ 長き神話の果て
+- regions:
+  - US
+  id: 00040000001C5100
+  name: 'Etrian Odyssey V:  Beyond the Myth'
+  updates: []

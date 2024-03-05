@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000164E00
+  name: 怪盗ジョーカー 時を超える怪盗と失われた宝石
+  updates: []

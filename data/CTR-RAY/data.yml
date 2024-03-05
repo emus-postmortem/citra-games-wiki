@@ -1,0 +1,17 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 000400000004F900
+  name: CATRAP
+  updates: []
+- regions:
+  - JP
+  id: 000400000004F700
+  name: PITMAN
+  updates: []
+- regions:
+  - US
+  id: 000400000004F800
+  name: CATRAP
+  updates: []

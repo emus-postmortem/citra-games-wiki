@@ -1,0 +1,27 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000049100
+  name: Star Fox 64™ 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000030400
+  name: スターフォックス64 3D
+  updates: []
+- regions:
+  - KR
+  id: 0004000000080E00
+  name: 스타폭스 64 3D
+  updates: []
+- regions:
+  - TW
+  id: 0004000000080A00
+  name: 星際火狐64 3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000049000
+  name: Star Fox 64™ 3D
+  updates: []

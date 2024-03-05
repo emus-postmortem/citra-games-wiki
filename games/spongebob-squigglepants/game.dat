@@ -1,0 +1,25 @@
+title = "Spongebob SquigglePants"
+description = "SpongeBob SquigglePants is an action video game based on the SpongeBob SquarePants television series, developed by WayForward Technologies and published by THQ."
+incomplete = true
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000044500"
+region = "usa"
+release_date = "2011-05-17"
+
+[[ releases ]]
+title = "000400000004EA00"
+region = "eur"
+release_date = "2011-05-27"
+
+[[ testcases ]]
+title = "0004000000044500"
+compatibility = "4"
+date = "2017-07-04"
+version = "HEAD-22e7402"
+author = "DrewThatGamer"
+cpu = "Intel Core i5 6400"
+gpu = "NVIDIA GeForce GTX 1050"
+os = "Windows 10"

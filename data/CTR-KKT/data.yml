@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001AB400
+  name: Kutar Apple
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A1E00
+  name: クターの取り放題
+  updates: []
+- regions:
+  - US
+  id: 00040000001ABD00
+  name: Kutar Apple
+  updates: []

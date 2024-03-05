@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000018BD00
+  name: 'Gurumin 3D: A Monstrous Adventure'
+  updates: []
+- regions:
+  - JP
+  id: 00040000001B3800
+  name: ぐるみん3D
+  updates: []
+- regions:
+  - US
+  id: 000400000018C200
+  name: 'Gurumin 3D:  A Monstrous Adventure'
+  updates: []

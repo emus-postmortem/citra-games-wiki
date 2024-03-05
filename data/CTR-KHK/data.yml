@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000014B600
+  name: '@SIMPLE DLシリーズ Vol.35 THE 呪いの廃校舎'
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000157F00
+  name: 3D Out Run™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000128900
+  name: 3D アウトラン
+  updates: []
+- regions:
+  - US
+  id: 0004000000158A00
+  name: 3D Out Run
+  updates: []

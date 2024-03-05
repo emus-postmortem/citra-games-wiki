@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D2C00
+  name: Block-a-Pix Colour
+  updates: []
+- regions:
+  - JP
+  id: 00040000001D3200
+  name: スクエアピクト Block-a-Pix
+  updates: []
+- regions:
+  - US
+  id: 00040000001D3000
+  name: Block-a-Pix Color
+  updates: []

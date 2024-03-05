@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000DC300
+  name: Pick-A-Gem
+  updates: []
+- regions:
+  - JP
+  id: 0004000000131A00
+  name: ピック･ア･ジュエル
+  updates: []
+- regions:
+  - US
+  id: 00040000000D6C00
+  name: Pick-A-Gem
+  updates: []

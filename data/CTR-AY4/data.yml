@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000F4C00
+  name: 世界名作童話 親子で読める ゲーム絵本 プリンセス編
+  updates: []

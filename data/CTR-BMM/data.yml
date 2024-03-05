@@ -1,0 +1,27 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000175500
+  name: Mega Man Legacy Collection
+  updates: []
+- regions:
+  - JP
+  id: 0004000000177F00
+  name: ロックマン クラシックス コレクション
+  updates: []
+- regions:
+  - KR
+  id: 0004000000180300
+  name: Mega Man®  Legacy Collection
+  updates: []
+- regions:
+  - TW
+  id: 000400000017C000
+  name: Mega Man® Legacy Collection (日英版)
+  updates: []
+- regions:
+  - US
+  id: 0004000000174100
+  name: Mega Man® Legacy Collection
+  updates: []

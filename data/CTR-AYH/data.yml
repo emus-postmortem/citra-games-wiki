@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000FBD00
+  name: Best of Arcade Games
+  updates: []

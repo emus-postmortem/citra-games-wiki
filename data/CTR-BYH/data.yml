@@ -1,0 +1,30 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000019AC00
+  name: 'YO-KAI WATCH® 2: Fleshy Souls'
+  updates:
+  - id: 0004000E0019AC00
+    name: 'YO-KAI WATCH® 2:  Fleshy Souls: Update'
+- regions:
+  - JP
+  id: 000400000012F800
+  name: 妖怪ウォッチ2 本家
+  updates:
+  - id: 0004000E0012F800
+    name: 更新データ Ver. 2.1 妖怪ウォッチ2 本家
+- regions:
+  - KR
+  id: 000400000019AF00
+  name: 요괴워치 2 본가
+  updates:
+  - id: 0004000E0019AF00
+    name: 업데이트 데이터 Ver.2.0 요괴워치 2 본가
+- regions:
+  - US
+  id: 000400000019AA00
+  name: 'YO-KAI WATCH™ 2:  Fleshy Souls'
+  updates:
+  - id: 0004000E0019AA00
+    name: 'YO-KAI WATCH™ 2: Fleshy Souls Update Ver. 2.0'

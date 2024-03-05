@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000139900
+  name: 忍びのPAZURU
+  updates: []
+- regions:
+  - KR
+  id: 0004000000166700
+  name: PAZURU
+  updates: []
+- regions:
+  - TW
+  id: 0004000000169000
+  name: PAZURU(日文版)
+  updates: []

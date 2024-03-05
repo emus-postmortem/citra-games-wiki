@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000017CF00
+  name: マル合格! 社会福祉士試験 平成28年度版
+  updates: []

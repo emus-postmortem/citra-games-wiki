@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000138900
+  name: Proun+
+  updates: []
+- regions:
+  - JP
+  id: 000400000016A200
+  name: ループラインレーシング
+  updates: []
+- regions:
+  - US
+  id: 0004000000148F00
+  name: Proun+
+  updates: []

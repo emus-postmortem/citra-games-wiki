@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000012DA00
+  name: The Keep
+  updates: []
+- regions:
+  - JP
+  id: 0004000000156600
+  name: THE KEEP ～呪われしクリスタルの迷宮～
+  updates: []
+- regions:
+  - US
+  id: 0004000000124000
+  name: The Keep
+  updates: []

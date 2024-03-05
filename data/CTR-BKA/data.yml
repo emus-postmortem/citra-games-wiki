@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000166900
+  name: ぼくは航空管制官 エアポート ヒーロー3D 羽田 ALL STARS
+  updates: []

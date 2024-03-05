@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000ED400
+  name: SteamWorld Dig
+  updates: []
+- regions:
+  - JP
+  id: 0004000000111D00
+  name: スチームワールド ディグ
+  updates: []
+- regions:
+  - US
+  id: 00040000000B7C00
+  name: SteamWorld Dig
+  updates: []

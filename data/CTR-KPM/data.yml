@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000016C000
+  name: 'Puzzle & Dragons SMB Edition: Special Demo'
+  updates: []
+- regions:
+  - KR
+  id: 000400000016BF00
+  name: 퍼즐앤드래곤 Z + 퍼즐앤드래곤 슈퍼 마리오브라더스 에디션 체험판
+  updates: []
+- regions:
+  - TW
+  id: 000400000016D200
+  name: Puzzle & Dragons Z + Super Mario Bros. Edition 特別試玩版
+  updates: []
+- regions:
+  - US
+  id: 000400000016C500
+  name: Puzzle & Dragons Z + Super Mario Bros. Edition Demo
+  updates: []

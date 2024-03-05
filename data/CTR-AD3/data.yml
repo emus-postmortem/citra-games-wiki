@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000D5C00
+  name: 3D Game Collection
+  updates: []
+- regions:
+  - JP
+  id: 000400000010EE00
+  name: ゲームざんまい
+  updates: []
+- regions:
+  - US
+  id: 00040000000C0500
+  name: 3D Game Collection
+  updates: []

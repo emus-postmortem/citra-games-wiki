@@ -1,0 +1,29 @@
+title = "Ultimate NES Remix"
+description = "Ultimate NES Remix, known as Famicom Remix: Best Choice (Japanese: ファミコン リミックス：ベストチョイス Famikon Rimikkusu: Besto Choisu) in Japan, is the third installment of the NES Remix series and the first installment on a handheld for the Nintendo 3DS."
+needs_system_files = false
+needs_shared_font = true
+
+[[ releases ]]
+title = "0004000000132000"
+region = "usa"
+release_date = "2014-12-05"
+
+[[ releases ]]
+title = "0004000000132100"
+region = "eur"
+release_date = "2014-11-07"
+
+[[ releases ]]
+title = "0004000000131F00"
+region = "jpn"
+release_date = "2015-08-27"
+
+[[ testcases ]]
+title = "0004000000132000"
+compatibility = "1"
+date = "2017-06-08"
+version = "HEAD-8c22334"
+author = "Clector"
+cpu = "Intel Core i3-4160"
+gpu = "Intel HD Graphics 4400"
+os = "Windows 8.1"

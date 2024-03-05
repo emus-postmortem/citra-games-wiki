@@ -1,0 +1,25 @@
+title = "Inazuma Eleven GO Chrono Stones: Wildfire and Thunderflash"
+description = "Inazuma Eleven GO Chrono Stones is a role-playing video game and sports video game for the Nintendo 3DS, developed and published by Level-5. It's the second game of the Inazuma Eleven GO series and the fifth installment of the Inazuma Eleven games. There are two versions of the game, Wildfire and Thunderflash."
+incomplete = true
+needs_system_files = false
+needs_shared_font = true
+
+[[releases]]
+title = "0004000000136C00"
+region = "eur"
+release_date = "2015-03-27"
+
+[[releases]]
+title = "0004000000136D00"
+region = "eur"
+release_date = "2015-03-27"
+
+[[releases]]
+title = "00040000000A1B00"
+region = "jpn"
+release_date = "2012-12-13"
+
+[[releases]]
+title = "00040000000A1C00"
+region = "jpn"
+release_date = "2012-12-13"

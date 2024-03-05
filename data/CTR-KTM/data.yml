@@ -1,0 +1,27 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000153D00
+  name: TOYS VS MONSTERS
+  updates: []
+- regions:
+  - JP
+  id: 0004000000187900
+  name: Toys VS Monsters
+  updates: []
+- regions:
+  - KR
+  id: 000400000019BA00
+  name: Toys VS Monsters
+  updates: []
+- regions:
+  - TW
+  id: 0004000000199D00
+  name: Toys VS Monsters (日文版)
+  updates: []
+- regions:
+  - US
+  id: 0004000000150800
+  name: TOYS VS MONSTERS
+  updates: []

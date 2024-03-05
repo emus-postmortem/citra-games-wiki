@@ -1,0 +1,26 @@
+title = "Sudoku by Nikoli"
+description = "Sudoku by Nikoli, known as \"Nikoli no Puzzle: Sudoku\" in Japan, is a sudoku puzzle game developed and published by Hamster Corporation. The game features 50 sudoku puzzles and a mode called \"Stage Clear\" in which the player progresses further by solving a sudoku puzzle on each stage. A second mode called \"Random\" randomly generates puzzles."
+needs_system_files = true
+needs_shared_font = false
+issues = [3627]
+game_type = "eshop"
+
+[[releases]]
+title = "000400000008E000"
+region = "usa"
+release_date = "2012-05-10"
+
+[[releases]]
+title = "0004000000092200"
+region = "eur"
+release_date = "2013-08-15"
+
+[[releases]]
+title = "0004000000052900"
+region = "jpn"
+release_date = "2011-06-07"
+
+[[releases]]
+title = "00040000000CD600"
+region = "kor"
+release_date = "2013-01-23"

@@ -1,0 +1,24 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000F8400
+  name: Bike Rider DX
+  updates: []
+- regions:
+  - JP
+  id: 00040000000AFB00
+  name: チャリ走 DX
+  updates:
+  - id: 0004000E000AFB00
+    name: 更新データ Ver. 1.1 チャリ走DX
+- regions:
+  - KR
+  id: 0004000000107400
+  name: Bike Rider DX
+  updates: []
+- regions:
+  - US
+  id: 00040000000FC000
+  name: Bike Rider DX
+  updates: []

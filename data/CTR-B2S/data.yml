@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001C3000
+  name: スイキャラ スイーツ学校へようこそ！
+  updates: []

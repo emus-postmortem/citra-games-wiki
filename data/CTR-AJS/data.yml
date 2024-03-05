@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000199900
+  name: 超・戦闘中 究極の忍と バトルプレイヤー頂上決戦！
+  updates: []

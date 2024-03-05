@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001A4400
+  name: Noah's Cradle
+  updates: []
+- regions:
+  - JP
+  id: 0004000000170200
+  name: ノアの揺り籠
+  updates: []
+- regions:
+  - US
+  id: 00040000001A4300
+  name: Noah's Cradle
+  updates: []

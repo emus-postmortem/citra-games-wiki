@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 000400000009A500
+  name: Johnny Impossible™
+  updates: []

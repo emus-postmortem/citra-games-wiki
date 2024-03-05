@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000018B700
+  name: Alphadia
+  updates: []
+- regions:
+  - JP
+  id: 0004000000177D00
+  name: アルファディア
+  updates: []
+- regions:
+  - US
+  id: 0004000000188100
+  name: Alphadia
+  updates: []

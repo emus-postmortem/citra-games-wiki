@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001A9800
+  name: PixelMaker
+  updates: []
+- regions:
+  - JP
+  id: 00040000001BF300
+  name: ドットアーティスト
+  updates: []
+- regions:
+  - US
+  id: 00040000001A6700
+  name: PixelMaker
+  updates: []

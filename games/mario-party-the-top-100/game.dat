@@ -1,0 +1,29 @@
+title = "Mario Party: The Top 100"
+description = "Mario Party: The Top 100 is a party video game developed by Nd Cube and published by Nintendo. It is a compilation of the 100 best minigames throughout the Mario Party series."
+needs_system_files = true
+needs_shared_font = true
+
+[[ releases ]]
+title = "00040000001C4E00"
+region = "usa"
+release_date = "2017-11-10"
+
+[[ releases ]]
+title = "00040000001C4D00"
+region = "eur"
+release_date = "2017-12-22"
+
+[[ releases ]]
+title = "00040000001C0A00"
+region = "jpn"
+release_date = "2017-12-28"
+
+[[testcases]]
+title = "00040000001C4E00"
+compatibility = "1"
+date = "2017-11-19"
+version = "HEAD-e9a95b2"
+cpu = "AMD FX-6300"
+gpu = "Nvidia GeForce GTX 960"
+os = "Windows 7 6.1.7601"
+author = "greggameplayer"

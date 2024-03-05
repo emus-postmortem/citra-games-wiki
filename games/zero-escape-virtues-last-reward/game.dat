@@ -1,0 +1,29 @@
+title = "Zero Escape: Virtue's Last Reward"
+description = "Zero Escape: Virtue's Last Reward is an adventure video game developed by Chunsoft. The story follows the player character Sigma, a man who is abducted and forced along with eight other individuals to play the Nonary Game, which puts its participants in a life-or-death situation."
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000096700"
+region = "usa"
+release_date = "2012-10-23"
+
+[[ releases ]]
+title = "00040000000AEB00"
+region = "eur"
+release_date = "2012-11-23"
+
+[[ releases ]]
+title = "000400000005DE00"
+region = "jpn"
+release_date = "2012-02-16"
+
+[[ testcases ]]
+title = "0004000000096700"
+compatibility = "1"
+date = "2017-07-08"
+version = "HEAD-2e37ce0"
+author = "lonewolf329"
+cpu = "Intel Core 2 Duo CPU e7500"
+gpu = "GeForce GT 640"
+os = "Windows 7 Ultimate SP1"

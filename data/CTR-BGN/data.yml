@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001D1A00
+  name: Luigi's Mansion™
+  updates: []
+- regions:
+  - JP
+  id: 00040000001D1800
+  name: ルイージマンション
+  updates: []
+- regions:
+  - KR
+  id: 00040000001D4F00
+  name: 루이지 맨션
+  updates: []
+- regions:
+  - US
+  id: 00040000001D1900
+  name: Luigi’s Mansion™
+  updates: []

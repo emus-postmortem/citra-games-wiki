@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001C8300
+  name: VoxelMaker
+  updates: []
+- regions:
+  - US
+  id: 00040000001C6E00
+  name: VoxelMaker
+  updates: []

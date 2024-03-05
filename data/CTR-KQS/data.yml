@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001A1B00
+  name: Ambition of the Slimes
+  updates: []
+- regions:
+  - JP
+  id: 000400000018D900
+  name: スライムの野望
+  updates: []
+- regions:
+  - US
+  id: 00040000001A1700
+  name: Ambition of the Slimes
+  updates: []

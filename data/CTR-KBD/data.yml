@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000198700
+  name: 棒人間チャレンジ！
+  updates:
+  - id: 0004000E00198700
+    name: 更新データ Ver. 3.0.0 棒人間チャレンジ！

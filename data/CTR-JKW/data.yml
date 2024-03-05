@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000114C00
+  name: マル合格! 地方公務員上級 教養試験 2015年度版
+  updates: []

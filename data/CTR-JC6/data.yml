@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000E8100
+  name: Cut the Rope
+  updates: []
+- regions:
+  - US
+  id: 00040000000EB900
+  name: Cut the Rope
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000102C00
+  name: Cube Tactics
+  updates: []
+- regions:
+  - JP
+  id: 00040000000D1000
+  name: peakvox CUBE タクティクス
+  updates: []
+- regions:
+  - US
+  id: 0004000000101C00
+  name: Cube Tactics
+  updates: []

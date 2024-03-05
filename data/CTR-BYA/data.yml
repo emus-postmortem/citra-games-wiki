@@ -1,0 +1,30 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001CEC00
+  name: 'YO-KAI WATCH BLASTERS®: Red Cat Corps'
+  updates:
+  - id: 0004000E001CEC00
+    name: 'Red Cat Corps:  Update'
+- regions:
+  - JP
+  id: 000400000016C700
+  name: 妖怪ウォッチバスターズ 赤猫団
+  updates:
+  - id: 0004000E0016C700
+    name: 更新データ Ver. 2.3 妖怪ウォッチバスターズ 赤猫団
+- regions:
+  - KR
+  id: 00040000001CED00
+  name: 요괴워치® 버스터즈 적묘단
+  updates:
+  - id: 0004000E001CED00
+    name: 업데이트 데이터 Ver.2.3 요괴워치® 버스터즈 적묘단
+- regions:
+  - US
+  id: 00040000001CEB00
+  name: 'YO-KAI WATCH™  BLASTERS:  Red Cat Corps'
+  updates:
+  - id: 0004000E001CEB00
+    name: 'YO-KAI WATCH™ BLASTERS:    Red Cat Corps  Update Ver. 2.4'

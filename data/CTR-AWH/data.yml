@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001BFD00
+  name: すみっコぐらし ここ、どこなんです？
+  updates: []

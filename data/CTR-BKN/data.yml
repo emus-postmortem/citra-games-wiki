@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000D5100
+  name: 名探偵コナン マリオネット交響曲
+  updates: []

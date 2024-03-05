@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 0004000000163F00
+  name: 'Dragon Fantasy: The Volumes of Westeria'
+  updates: []

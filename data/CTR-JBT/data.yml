@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000147300
+  name: Crazy Construction
+  updates: []
+- regions:
+  - JP
+  id: 000400000006E100
+  name: 超高層建造計画 ビルディンガー
+  updates: []
+- regions:
+  - US
+  id: 00040000000CEE00
+  name: CRAZY CONSTRUCTION
+  updates: []

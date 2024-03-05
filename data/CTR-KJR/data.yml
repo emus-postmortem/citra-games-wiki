@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000194F00
+  name: 電車運転指令！ 東海道編
+  updates:
+  - id: 0004000E00194F00
+    name: 更新データ Ver. 1.0.2 電車運転指令！ 東海道編

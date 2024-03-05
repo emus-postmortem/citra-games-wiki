@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000DC200
+  name: 3D Altered Beast
+  updates: []
+- regions:
+  - JP
+  id: 00040000000E9800
+  name: 3D 獣王記
+  updates: []
+- regions:
+  - US
+  id: 00040000000D9D00
+  name: 3D Altered Beast
+  updates: []

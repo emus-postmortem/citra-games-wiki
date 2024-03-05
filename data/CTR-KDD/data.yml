@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000018AB00
+  name: Dementium Remastered
+  updates: []
+- regions:
+  - US
+  id: 0004000000161B00
+  name: Dementium Remastered
+  updates: []

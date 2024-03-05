@@ -1,0 +1,15 @@
+title = "3D Ecco the Dolphin"
+description = "Ecco the Dolphin is an action-adventure game originally developed by Ed Annunziata and Novotrade International for the Sega Genesis and published by Sega in 1992. It was republished digitally multiple times and was eventually put onto the 3DS eShop with the name 3D Ecco the Dolphin"
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "00040000000D9E00"
+region = "usa"
+release_date = "2013-12-12"
+
+[[releases]]
+title = "00040000000DE300"
+region = "eur"
+release_date = "2013-12-12"

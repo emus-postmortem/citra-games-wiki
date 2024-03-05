@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000187100
+  name: Johnny Dynamite
+  updates: []
+- regions:
+  - JP
+  id: 0004000000169400
+  name: ダイナマイト ジョニー
+  updates: []
+- regions:
+  - US
+  id: 000400000011BB00
+  name: Johnny Dynamite
+  updates: []

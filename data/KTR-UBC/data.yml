@@ -1,0 +1,7 @@
+platform: SuperNES
+releases:
+- regions:
+  - JP
+  id: 000400000F705700
+  name: Pop'nツインビー
+  updates: []

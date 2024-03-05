@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000D4000
+  name: シャーロック･ホームズ パズルシティ
+  updates: []

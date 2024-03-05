@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000170400
+  name: ニコ☆プチ ガールズランウェイ
+  updates:
+  - id: 0004000E00170400
+    name: 更新データ Ver. 1.2.0 ニコ☆プチ ガールズランウェイ

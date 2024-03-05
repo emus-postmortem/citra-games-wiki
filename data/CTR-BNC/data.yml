@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000015EE00
+  name: Navy Commander
+  updates: []
+- regions:
+  - US
+  id: 0004000000160400
+  name: Navy Commander
+  updates: []

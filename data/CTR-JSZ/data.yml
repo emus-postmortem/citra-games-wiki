@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000FB800
+  name: SWORDS & DARKNESS
+  updates: []
+- regions:
+  - US
+  id: 0004000000146200
+  name: SWORDS & DARKNESS
+  updates: []

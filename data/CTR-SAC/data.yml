@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000055300
+  name: 3D Classics TwinBee™
+  updates: []
+- regions:
+  - JP
+  id: 000400000004D600
+  name: 3Dクラシックス ツインビー
+  updates: []
+- regions:
+  - US
+  id: 0004000000054400
+  name: '3D Classics: TwinBee™'
+  updates: []

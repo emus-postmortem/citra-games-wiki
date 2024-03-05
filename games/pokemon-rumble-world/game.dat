@@ -1,0 +1,35 @@
+title = "Pokémon Rumble World"
+description = "Pokémon Rumble World is a freemium action RPG developed by Ambrella and published by The Pokémon Company. It is the fourth entry in the Pokémon Rumble series."
+github_issues = [1826]
+needs_system_files = true
+needs_shared_font = true
+
+[[ releases ]]
+title = "0004000000185A00"
+region = "usa"
+release_date = "2016-04-29"
+
+[[ releases ]]
+title = "0004000000185A00"
+region = "eur"
+release_date = "2016-01-22"
+
+[[ releases ]]
+title = "0004000000185A00"
+region = "jpn"
+release_date = "2015-11-19"
+
+[[ releases ]]
+title = "0004000000164600"
+region = "all"
+release_date = "2015-04-08"
+
+[[ testcases ]]
+title = "0004000000164600"
+compatibility = "3"
+date = "2017-08-09"
+version = "HEAD-343bbfd"
+author = "Breadfish64"
+cpu = "Intel Core i7-4700mq"
+gpu = "Nvidia GeForce GT 740m"
+os = "Windows 10 Home 1703"

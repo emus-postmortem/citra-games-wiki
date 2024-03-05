@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001BF100
+  name: Cursed Castilla
+  updates: []
+- regions:
+  - JP
+  id: 00040000001C4800
+  name: マルディタカスティーラ
+  updates: []
+- regions:
+  - US
+  id: 00040000001BF000
+  name: Cursed Castilla
+  updates: []

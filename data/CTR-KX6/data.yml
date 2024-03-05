@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001CDE00
+  name: デジコロ ケシカスくん Vol.014 クセになるお宝探し!!
+  updates: []

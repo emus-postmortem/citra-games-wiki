@@ -1,0 +1,12 @@
+platform: GameBoy
+releases:
+- regions:
+  - JP
+  id: 0004000000058700
+  name: おいらじゃじゃ丸!世界大冒険
+  updates: []
+- regions:
+  - US
+  id: 0004000000058800
+  name: Maru's Mission
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000EDA00
+  name: 'Pure Chess® '
+  updates: []
+- regions:
+  - US
+  id: 00040000000F1700
+  name: 'Pure Chess® '
+  updates: []

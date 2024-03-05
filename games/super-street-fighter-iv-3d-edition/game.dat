@@ -1,0 +1,31 @@
+title = "Super Street Fighter IV: 3D Edition"
+description = "Super Street Fighter IV: 3D Edition is a fighting video game developed and published by Capcom for the Nintendo 3DS handheld game console. It was released as a launch game in all continents, but in Japan first on 26 February 2011. It is a port of the console game Super Street Fighter IV."
+needs_system_files = false
+needs_shared_font = false
+game_type = "3ds"
+incomplete = true
+
+[[ releases ]]
+title = "0004000000032D00"
+region = "usa"
+release_date = "2011-03-27"
+
+[[ releases ]]
+title = "0004000000033C00"
+region = "eur"
+release_date = "2011-03-25"
+
+[[ releases ]]
+title = "0004000000030500"
+region = "jpn"
+release_date = "2011-02-26"
+
+[[ testcases ]]
+title = "0004000000032D00"
+compatibility = "4"
+date = "2017-07-04"
+version = "HEAD-22e7402"
+author = "DrewThatGamer"
+cpu = "Intel Core i5 6400"
+gpu = "NVIDIA GeForce GTX 1050"
+os = "Windows 10"

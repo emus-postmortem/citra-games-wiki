@@ -1,0 +1,17 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000043300
+  name: Sports Island 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000033700
+  name: DECA SPORTA 3D SPORTS （デカスポルタ 3Dスポーツ）
+  updates: []
+- regions:
+  - US
+  id: 0004000000044600
+  name: Deca Sports Extreme
+  updates: []

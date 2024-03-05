@@ -1,0 +1,17 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000037800
+  name: DRIVER® RENEGADE 3D
+  updates: []
+- regions:
+  - JP
+  id: 000400000004F000
+  name: ドライバー：レネゲイド 3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000036000
+  name: DRIVER® RENEGADE
+  updates: []

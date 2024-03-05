@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000117900
+  name: Quell Reflect
+  updates: []
+- regions:
+  - JP
+  id: 000400000013FD00
+  name: Shizuku
+  updates: []
+- regions:
+  - US
+  id: 0004000000119700
+  name: Quell Reflect
+  updates: []

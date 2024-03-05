@@ -1,0 +1,23 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001A1C00
+  name: SmileBASIC
+  updates:
+  - id: 0004000E001A1C00
+    name: SmileBASIC 3.6 Update
+- regions:
+  - JP
+  id: 0004000000117200
+  name: プチコン3号 SmileBASIC
+  updates:
+  - id: 0004000E00117200
+    name: 更新データ Ver. 3.6.3 プチコン3号 SmileBASIC
+- regions:
+  - US
+  id: 000400000016DE00
+  name: SmileBASIC
+  updates:
+  - id: 0004000E0016DE00
+    name: SmileBASIC Update Ver. 3.6.0

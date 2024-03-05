@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000073900
+  name: PROJECT X ZONE
+  updates: []
+- regions:
+  - TW
+  id: 00040000000ECC00
+  name: PROJECT X ZONE (英文版)
+  updates: []

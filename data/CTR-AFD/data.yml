@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000044200
+  name: 'Angler’s Club: Ultimate Bass Fishing™ 3D'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000043F00
+  name: フィッシング3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000048200
+  name: "Angler's Club: Ultimate Bass Fishing™ 3D"
+  updates: []

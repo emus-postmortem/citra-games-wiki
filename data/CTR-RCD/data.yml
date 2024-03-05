@@ -1,0 +1,17 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 00040000000EF300
+  name: Mega Man™ 2
+  updates: []
+- regions:
+  - JP
+  id: 00040000000EF100
+  name: ロックマンワールド2
+  updates: []
+- regions:
+  - US
+  id: 00040000000EF200
+  name: Mega Man II™
+  updates: []

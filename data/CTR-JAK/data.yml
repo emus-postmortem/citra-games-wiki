@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000010F300
+  name: 殺人ミステリー 切り裂きジャック
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000008D500
+  name: まめゴマ よいこ まるいこ げんきなこ!
+  updates: []

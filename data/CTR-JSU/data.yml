@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000009CB00
+  name: Football Up 3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000087E00
+  name: Soccer Up 3D
+  updates: []

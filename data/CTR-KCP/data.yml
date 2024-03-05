@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000146500
+  name: Mes Comptines
+  updates: []
+- regions:
+  - US
+  id: 0004000000143500
+  name: Mes Comptines
+  updates: []

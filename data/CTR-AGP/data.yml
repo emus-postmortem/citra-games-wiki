@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000168900
+  name: Garfield Kart
+  updates: []
+- regions:
+  - US
+  id: 0004000000169800
+  name: Garfield Kart
+  updates: []

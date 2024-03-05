@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001CA100
+  name: 超人ベースボールスタジアム 熱血ストーリー版
+  updates:
+  - id: 0004000E001CA100
+    name: 更新データ Ver.1.1 超人ベースボールスタジアム 熱血ストーリー版

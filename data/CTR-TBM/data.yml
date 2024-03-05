@@ -1,0 +1,22 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000A6300
+  name: Super Mario Bros. 2™
+  updates: []
+- regions:
+  - JP
+  id: 00040000000A6100
+  name: スーパーマリオUSA
+  updates: []
+- regions:
+  - KR
+  id: 0004000000181200
+  name: Super Mario Bros. 2
+  updates: []
+- regions:
+  - US
+  id: 00040000000A6200
+  name: Super Mario Bros.™ 2
+  updates: []

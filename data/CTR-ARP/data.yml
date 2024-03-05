@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000178400
+  name: 雷子-紺碧の章-
+  updates: []

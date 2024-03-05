@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000017AC00
+  name: エルミナージュ異聞 アメノミハシラ･怪
+  updates: []

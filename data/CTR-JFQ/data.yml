@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000007A400
+  name: Flick Golf 3D
+  updates: []
+- regions:
+  - US
+  id: 000400000015C600
+  name: Flick Golf 3D
+  updates: []

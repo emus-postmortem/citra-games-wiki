@@ -1,0 +1,17 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000033B00
+  name: RIDGE RACER™ 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000032800
+  name: リッジレーサー3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000035800
+  name: RIDGE RACER® 3D
+  updates: []

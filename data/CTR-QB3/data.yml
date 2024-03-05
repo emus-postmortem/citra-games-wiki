@@ -1,0 +1,7 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 0004000000173200
+  name: Pokémon™ Versione Oro
+  updates: []

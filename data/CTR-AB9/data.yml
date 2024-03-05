@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000039F00
+  name: ビックリマン漢熟覇王 三位動乱戦創紀
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000097900
+  name: Shifting World
+  updates: []
+- regions:
+  - JP
+  id: 0004000000090B00
+  name: SHIFTING WORLD 白と黒の迷宮
+  updates: []
+- regions:
+  - US
+  id: 0004000000057100
+  name: Shifting World
+  updates: []

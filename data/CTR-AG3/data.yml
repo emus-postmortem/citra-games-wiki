@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000005F500
+  name: Gabrielle's Ghostly Groove 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000046A00
+  name: うしみつモンストルオ リンゼと魔法のリズム
+  updates: []
+- regions:
+  - US
+  id: 0004000000046400
+  name: Gabrielle's Ghostly Groove™ 3D
+  updates: []

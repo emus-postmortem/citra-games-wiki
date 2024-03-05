@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001B6300
+  name: かわいいペットとくらそう わんニャン＆ミニミニアニマル
+  updates:
+  - id: 0004000E001B6300
+    name: 更新データ Ver. 1.1 かわいいペットとくらそう

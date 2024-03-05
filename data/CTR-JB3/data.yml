@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 000400000009B200
+  name: Bomb Monkey™
+  updates: []

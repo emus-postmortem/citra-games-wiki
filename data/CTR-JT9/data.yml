@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000097000
+  name: Bird Mania 3D
+  updates: []
+- regions:
+  - JP
+  id: 00040000000CA000
+  name: バードマニア3D
+  updates: []
+- regions:
+  - KR
+  id: 00040000000CD700
+  name: Bird Mania 3D
+  updates: []
+- regions:
+  - US
+  id: 000400000008C000
+  name: Bird Mania 3D
+  updates: []

@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000F4500
+  name: SENRAN KAGURA Burst
+  updates: []
+- regions:
+  - JP
+  id: 000400000009F600
+  name: 閃乱カグラ Burst -紅蓮の少女達-
+  updates: []
+- regions:
+  - KR
+  id: 00040000000CFD00
+  name: SENRAN KAGURA Burst
+  updates: []
+- regions:
+  - US
+  id: 00040000000ED100
+  name: SENRAN KAGURA Burst
+  updates: []

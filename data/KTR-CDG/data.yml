@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70AC00
+  name: DON'T CRASH GO
+  updates: []
+- regions:
+  - US
+  id: 000400000F70A900
+  name: DON'T CRASH GO
+  updates: []

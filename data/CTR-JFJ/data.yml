@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  - JP
+  - US
+  id: 000400000017C100
+  name: Pokémon™ Picross
+  updates: []

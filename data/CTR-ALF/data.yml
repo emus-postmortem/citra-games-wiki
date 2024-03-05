@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000047E00
+  name: ワンピース アンリミテッド クルーズ スペシャル
+  updates: []

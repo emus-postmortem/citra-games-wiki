@@ -1,0 +1,7 @@
+platform: 26
+releases:
+- regions:
+  - JP
+  id: 000400000011C900
+  name: R-TYPE
+  updates: []

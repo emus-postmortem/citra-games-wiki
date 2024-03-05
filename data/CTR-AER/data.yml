@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000F1C00
+  name: My Vet Practice 3D - In the Country
+  updates: []

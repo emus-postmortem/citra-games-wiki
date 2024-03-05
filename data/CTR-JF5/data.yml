@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000008C700
+  name: おきらく大富豪3D
+  updates: []

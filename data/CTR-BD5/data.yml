@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001B2500
+  name: 世界樹と不思議のダンジョン2
+  updates:
+  - id: 0004000E001B2500
+    name: 更新データ Ver. 1.01 世界樹と不思議のダンジョン2

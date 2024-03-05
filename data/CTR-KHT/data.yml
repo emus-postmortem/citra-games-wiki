@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000182400
+  name: Petit Novel series - Harvest December
+  updates: []
+- regions:
+  - US
+  id: 0004000000182800
+  name: Petit Novel series - Harvest December
+  updates: []

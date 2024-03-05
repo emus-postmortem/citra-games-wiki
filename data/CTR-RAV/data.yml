@@ -1,0 +1,7 @@
+platform: GameBoy
+releases:
+- regions:
+  - JP
+  id: 0004000000049B00
+  name: びっくり熱血新記録! どこでも金メダル
+  updates: []

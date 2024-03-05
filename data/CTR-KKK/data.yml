@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001AAF00
+  name: Kutar Powder Factory
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A2200
+  name: クターの粉
+  updates: []
+- regions:
+  - US
+  id: 00040000001AC300
+  name: Kutar Powder Factory
+  updates: []

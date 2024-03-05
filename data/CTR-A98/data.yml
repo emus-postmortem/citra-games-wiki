@@ -1,0 +1,10 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  - JP
+  - TW
+  - US
+  id: 00040000001C1E00
+  name: Detective Pikachu
+  updates: []

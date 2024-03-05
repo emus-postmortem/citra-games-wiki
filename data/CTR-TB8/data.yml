@@ -1,0 +1,7 @@
+platform: NES
+releases:
+- regions:
+  - JP
+  id: 00040000000BD200
+  name: ファミコン探偵倶楽部 PARTⅡ うしろに立つ少女(前後編)
+  updates: []

@@ -1,0 +1,19 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000095500
+  name: KINGDOM HEARTS 3D [Dream Drop Distance]
+  updates: []
+- regions:
+  - JP
+  id: 000400000004EE00
+  name: KINGDOM HEARTS 3D [Dream Drop Distance]
+  updates:
+  - id: 0004000E0004EE00
+    name: 更新データ Ver. 1.1 KINGDOM HEARTS 3D [Dream Drop Distance]
+- regions:
+  - US
+  id: 000400000008D300
+  name: KINGDOM HEARTS 3D [Dream Drop Distance]
+  updates: []

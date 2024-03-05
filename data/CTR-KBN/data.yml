@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000018CA00
+  name: 名探偵ピカチュウ ～新コンビ誕生～
+  updates: []

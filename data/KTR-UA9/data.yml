@@ -1,0 +1,7 @@
+platform: SuperNES
+releases:
+- regions:
+  - JP
+  id: 000400000F705200
+  name: タクティクスオウガ
+  updates: []

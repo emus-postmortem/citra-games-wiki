@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000ED300
+  name: Tangram Style
+  updates: []
+- regions:
+  - JP
+  id: 0004000000145100
+  name: タングラム×タングラム ～誰もがハマるシルエットパズル～
+  updates: []
+- regions:
+  - US
+  id: 00040000000EBB00
+  name: Tangram Style
+  updates: []

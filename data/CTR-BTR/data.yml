@@ -1,0 +1,24 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000FC600
+  name: Bravely Default™
+  updates: []
+- regions:
+  - JP
+  id: 00040000000DB600
+  name: BRAVELY DEFAULT -For the Sequel-
+  updates:
+  - id: 0004000E000DB600
+    name: 更新データ Ver. 1.1 BRAVELY DEFAULT -For the Sequel-
+- regions:
+  - KR
+  id: 0004000000122200
+  name: BRAVELY DEFAULT
+  updates: []
+- regions:
+  - US
+  id: 00040000000FC500
+  name: Bravely Default™
+  updates: []

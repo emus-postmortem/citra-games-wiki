@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000010BA00
+  name: イナズマイレブンGO ギャラクシー ビッグバン
+  updates:
+  - id: 0004000E0010BA00
+    name: 更新データ Ver. 1.1 イナズマ イレブンGO ギャラクシー ビッグバン

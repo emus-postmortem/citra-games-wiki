@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000D0200
+  name: Summer Carnival '92 RECCA
+  updates: []
+- regions:
+  - JP
+  id: 0004000000094200
+  name: サマーカーニバル'92 烈火
+  updates: []
+- regions:
+  - US
+  id: 00040000000D0100
+  name: Summer Carnival '92 RECCA
+  updates: []

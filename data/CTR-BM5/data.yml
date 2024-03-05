@@ -1,0 +1,27 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000017F400
+  name: Moco Moco Friends
+  updates: []
+- regions:
+  - JP
+  id: 000400000015E900
+  name: 見習い魔女とモコモコフレンズ
+  updates: []
+- regions:
+  - KR
+  id: 000400000018E400
+  name: Moco Moco Friends
+  updates: []
+- regions:
+  - TW
+  id: 000400000018BB00
+  name: Moco Moco Friends (英文版)
+  updates: []
+- regions:
+  - US
+  id: 000400000017F200
+  name: Moco Moco Friends
+  updates: []

@@ -1,0 +1,16 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D0E00
+  name: Link-a-Pix Colour
+  updates:
+  - id: 0004000E001D0E00
+    name: 'Link-a-Pix Colour:  Update'
+- regions:
+  - US
+  id: 00040000001D1300
+  name: Link-a-Pix Color
+  updates:
+  - id: 0004000E001D1300
+    name: Link-a-Pix Color  Update Ver. 1.01

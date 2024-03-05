@@ -1,0 +1,27 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000D2400
+  name: Witch & Hero
+  updates: []
+- regions:
+  - JP
+  id: 00040000000E8C00
+  name: 魔女と勇者
+  updates: []
+- regions:
+  - KR
+  id: 000400000011BD00
+  name: Witch&Hero
+  updates: []
+- regions:
+  - TW
+  id: 00040000000FC900
+  name: 魔女與勇者
+  updates: []
+- regions:
+  - US
+  id: 00040000000D0700
+  name: Witch & Hero
+  updates: []

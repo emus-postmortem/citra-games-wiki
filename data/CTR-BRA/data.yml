@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000015CB00
+  name: 新･ロロナのアトリエ はじまりの 物語 ～アーランドの錬金術士～
+  updates:
+  - id: 0004000E0015CB00
+    name: 更新データ Ver. 1.0.1 新･ロロナのアトリエ  はじまりの物語 ～アーランドの錬金術士～

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000095B00
+  name: こびとづかん こびと観察セット
+  updates: []

@@ -1,0 +1,7 @@
+platform: SuperNES
+releases:
+- regions:
+  - JP
+  id: 000400000F708200
+  name: ファミコン探偵倶楽部 PARTⅡ うしろに立つ少女
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001DA900
+  name: Space Intervention
+  updates: []
+- regions:
+  - US
+  id: 00040000001DB200
+  name: Space Intervention
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D9C00
+  name: Squarcat
+  updates: []
+- regions:
+  - US
+  id: 00040000001D9D00
+  name: Squarcat
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000014F800
+  name: 七つの大罪 真実の冤罪
+  updates: []

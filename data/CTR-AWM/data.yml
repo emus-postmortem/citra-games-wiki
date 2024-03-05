@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000059E00
+  name: 女の子と密室にいたら ○○しちゃうかもしれない。
+  updates: []

@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70DC00
+  name: Zeus Quests Remastered Anagenissis of Gaia
+  updates: []
+- regions:
+  - US
+  id: 000400000F70CA00
+  name: Zeus Quest Remastered
+  updates: []

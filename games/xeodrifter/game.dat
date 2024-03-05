@@ -1,0 +1,20 @@
+title = "Xeodrifter"
+description = "Xeodrifter is a Metroidvania video game, where the player controls an astronaut whose spaceship is damaged by an asteroid, and must visit four nearby planets in order to repair it. The game allows the player to explore the planets, each representing a different environment. The planets can be visited in any order, but exploration depends on power-ups to gain access to new areas. The game draws inspiration from the Metroid series, and borrows elements from another Renegade Kid game, Mutant Mudds."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[ releases ]]
+title = "000400000014D600"
+region = "usa"
+release_date = "2014-12-11"
+
+[[ testcases ]]
+compatibility = "5"
+date = "2017-06-19"
+title = "000400000014D600"
+version = "HEAD-d0888f8"
+author = "Kloen"
+cpu = "Intel Core i5-760"
+gpu = "AMD Radeon HD 5670"
+os = "Windows 10 Education 1511"

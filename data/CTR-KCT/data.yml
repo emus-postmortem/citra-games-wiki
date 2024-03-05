@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001B1900
+  name: Chou2トーク
+  updates:
+  - id: 0004000E001B1900
+    name: 更新データ Ver. 1.1 Chou2トーク

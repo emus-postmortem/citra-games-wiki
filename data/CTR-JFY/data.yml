@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001B4400
+  name: Butterfly Inchworm Animation II
+  updates: []
+- regions:
+  - JP
+  id: 00040000001B6500
+  name: インチワームアニメーション２
+  updates: []
+- regions:
+  - US
+  id: 0004000000110E00
+  name: Butterfly Inchworm Animation II
+  updates: []

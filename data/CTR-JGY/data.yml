@@ -1,0 +1,24 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000161100
+  name: 'BIKE RIDER DX2: GALAXY'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000111E00
+  name: チャリ走 DX2 ギャラクシー
+  updates:
+  - id: 0004000E00111E00
+    name: 更新データ Ver. 1.2 チャリ走 DX2 ギャラクシー
+- regions:
+  - KR
+  id: 0004000000161400
+  name: BIKE RIDER DX2 GALAXY
+  updates: []
+- regions:
+  - US
+  id: 0004000000128600
+  name: 'BIKE RIDER DX2: GALAXY'
+  updates: []

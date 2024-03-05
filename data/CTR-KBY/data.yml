@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001C3600
+  name: Bit Dungeon+
+  updates: []
+- regions:
+  - US
+  id: 00040000001B9200
+  name: Bit Dungeon Plus
+  updates: []

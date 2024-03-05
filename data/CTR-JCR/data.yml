@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000008A800
+  name: Colors! 3D
+  updates: []
+- regions:
+  - JP
+  id: 00040000000FB700
+  name: Colors! 3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000081100
+  name: Colors! 3D
+  updates: []

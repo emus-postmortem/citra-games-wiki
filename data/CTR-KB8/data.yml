@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000198400
+  name: ベイブレードバースト ベイロガープラス＆パズル
+  updates:
+  - id: 0004000E00198400
+    name: 更新データ Ver. 1.1 ベイブレードバースト　ベイロガープラス＆パズル

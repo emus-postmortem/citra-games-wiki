@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001C3800
+  name: ドラゴンクエストⅡ 悪霊の神々
+  updates: []

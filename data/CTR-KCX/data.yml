@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000155500
+  name: Castle Conqueror EX
+  updates: []
+- regions:
+  - US
+  id: 0004000000146A00
+  name: Castle Conqueror EX
+  updates: []

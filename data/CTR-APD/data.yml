@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000BA900
+  name: 'Pokémon™ Mystery Dungeon: Gates to Infinity'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000095000
+  name: ポケモン不思議のダンジョン ～マグナゲートと∞迷宮～
+  updates: []
+- regions:
+  - US
+  id: 00040000000BA800
+  name: 'Pokémon Mystery Dungeon: Gates to Infinity'
+  updates: []

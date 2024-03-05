@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001AB200
+  name: Kutar Ski Lift
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A2400
+  name: クターのリフト
+  updates: []
+- regions:
+  - US
+  id: 00040000001AC500
+  name: Kutar Ski Lift
+  updates: []

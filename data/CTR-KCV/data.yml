@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001B3B00
+  name: 仮面ライダーあつめ
+  updates: []

@@ -1,0 +1,23 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000014F200
+  name: 'Animal Crossing™:  Happy Home Designer'
+  updates:
+  - id: 0004000E0014F200
+    name: 'AC: Happy Home Designer: Update'
+- regions:
+  - JP
+  id: 000400000014F000
+  name: どうぶつの森 ハッピーホームデザイナー
+  updates:
+  - id: 0004000E0014F000
+    name: 更新データ Ver. 2.0 どうぶつの森 ハッピーホームデザイナー
+- regions:
+  - US
+  id: 000400000014F100
+  name: 'Animal Crossing™: Happy Home Designer'
+  updates:
+  - id: 0004000E0014F100
+    name: 'Animal Crossing™: Happy Home Designer Update Ver. 2.0'

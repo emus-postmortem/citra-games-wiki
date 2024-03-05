@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000016FF00
+  name: マル合格! ケアマネジャー試験 平成27年度版
+  updates: []

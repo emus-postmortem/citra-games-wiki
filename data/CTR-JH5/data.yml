@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000080500
+  name: CahiEr ～飼い絵～
+  updates: []

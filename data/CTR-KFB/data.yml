@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000197C00
+  name: マル合格！介護福祉士試験 平成28年度版
+  updates: []

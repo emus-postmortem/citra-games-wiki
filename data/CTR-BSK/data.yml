@@ -1,0 +1,27 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000010EB00
+  name: 'Etrian Odyssey™ Untold: The Millennium Girl'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000CF800
+  name: 新･世界樹の迷宮 ミレニアムの少女
+  updates: []
+- regions:
+  - KR
+  id: 0004000000115D00
+  name: 신 세계수의 미궁 밀레니엄의 소녀
+  updates: []
+- regions:
+  - TW
+  id: 00040000000F7300
+  name: 新・世界樹の迷宮 ミレニアムの少女        (日文版)
+  updates: []
+- regions:
+  - US
+  id: 00040000000EC700
+  name: 'Etrian Odyssey™ Untold:  The Millennium Girl'
+  updates: []

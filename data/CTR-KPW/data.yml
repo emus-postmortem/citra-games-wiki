@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000177200
+  name: ピンポントリックショット2
+  updates: []
+- regions:
+  - US
+  id: 00040000001BFE00
+  name: Ping Pong Trick Shot 2
+  updates: []

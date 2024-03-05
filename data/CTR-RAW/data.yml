@@ -1,0 +1,17 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 000400000004F200
+  name: "Mega Man™: Dr. Wily's Revenge"
+  updates: []
+- regions:
+  - JP
+  id: 000400000004EF00
+  name: ロックマンワールド
+  updates: []
+- regions:
+  - US
+  id: 000400000004F100
+  name: "Mega Man™: Dr. Wily's Revenge"
+  updates: []

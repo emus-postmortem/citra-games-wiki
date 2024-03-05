@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000014A700
+  name: Rune Factory 4
+  updates: []
+- regions:
+  - JP
+  id: 0004000000065800
+  name: ルーンファクトリー4
+  updates: []
+- regions:
+  - US
+  id: 00040000000D2800
+  name: Rune Factory 4
+  updates: []

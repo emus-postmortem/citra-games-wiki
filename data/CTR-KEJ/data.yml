@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001BE000
+  name: エルミナージュⅡ ～双生の女神と運命の大地～
+  updates:
+  - id: 0004000E001BE000
+    name: 更新データ Ver. 1.1  エルミナージュⅡ ～双生の女神と運命の大地～

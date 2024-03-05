@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000141D00
+  name: 大合奏!バンドブラザーズP デビュー
+  updates:
+  - id: 0004000E00141D00
+    name: 更新データ Ver. 1.2 大合奏!バンドブラザーズP デビュー

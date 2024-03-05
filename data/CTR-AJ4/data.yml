@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000006CE00
+  name: Jewel Quest 4 Heritage
+  updates: []
+- regions:
+  - US
+  id: 00040000000DDC00
+  name: Jewel Quest 4 Heritage
+  updates: []

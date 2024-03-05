@@ -1,0 +1,17 @@
+platform: GameGear
+releases:
+- regions:
+  - EU
+  id: 0004000000088500
+  name: Sonic Drift 2
+  updates: []
+- regions:
+  - JP
+  id: 0004000000085400
+  name: ソニックドリフト2
+  updates: []
+- regions:
+  - US
+  id: 000400000008BD00
+  name: Sonic Drift 2
+  updates: []

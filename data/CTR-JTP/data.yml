@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000117600
+  name: Tappingo
+  updates: []
+- regions:
+  - JP
+  id: 000400000015DD00
+  name: アイコンパズル タッピンゴ
+  updates: []
+- regions:
+  - US
+  id: 0004000000119800
+  name: Tappingo
+  updates: []

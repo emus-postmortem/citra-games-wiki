@@ -1,0 +1,14 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000009C000
+  name: 'Shin Megami Tensei: Devil Survivor Overclocked'
+  updates:
+  - id: 0004000E0009C000
+    name: 'Shin Megami Tensei: Devil Survivor Overclocked Patch'
+- regions:
+  - US
+  id: 0004000000038800
+  name: 'Shin Megami Tensei®: Devil  Survivor Overclocked™'
+  updates: []

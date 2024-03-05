@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001AF000
+  name: 新みんなの塗り絵 Hello Kitty
+  updates:
+  - id: 0004000E001AF000
+    name: 更新データ Ver. 1.1 新みんなの塗り絵 Hello Kitty

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001CC800
+  name: Bonds of the Skies
+  updates: []
+- regions:
+  - JP
+  id: 00040000001C9700
+  name: 空のフォークロア
+  updates: []
+- regions:
+  - US
+  id: 00040000001CC700
+  name: Bonds of the Skies
+  updates: []

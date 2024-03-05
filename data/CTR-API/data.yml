@@ -1,0 +1,19 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000008CB00
+  name: Petz® Beach
+  updates: []
+- regions:
+  - JP
+  id: 00040000000C1C00
+  name: オシャレでかわいい 子犬と遊ぼ!-海編-
+  updates:
+  - id: 0004000E000C1C00
+    name: 更新データ Ver. 1.1 オシャレで かわいい 子犬と遊ぼ!-海編-
+- regions:
+  - US
+  id: 0004000000077C00
+  name: Petz® Beach
+  updates: []

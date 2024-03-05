@@ -1,0 +1,28 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000008C400
+  name: Tomodachi Life™
+  updates:
+  - id: 0004000E0008C400
+    name: 'Tomodachi Life™: Update'
+- regions:
+  - JP
+  id: 000400000008C500
+  name: トモダチコレクション 新生活
+  updates:
+  - id: 0004000E0008C500
+    name: 更新データ Ver. 1.2 トモダチコレクション 新生活
+- regions:
+  - KR
+  id: 0004000000120C00
+  name: 친구모아 아파트
+  updates: []
+- regions:
+  - US
+  id: 000400000008C300
+  name: Tomodachi Life™
+  updates:
+  - id: 0004000E0008C300
+    name: Tomodachi Life™ Update Ver. 1.1

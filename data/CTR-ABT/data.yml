@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000075F00
+  name: BIT.TRIP SAGA
+  updates: []
+- regions:
+  - US
+  id: 0004000000045F00
+  name: BIT.TRIP SAGA
+  updates: []

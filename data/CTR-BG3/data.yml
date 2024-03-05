@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000144400
+  name: ワンピース 超グランドバトル!X
+  updates:
+  - id: 0004000E00144400
+    name: 更新データ Ver. 1.5 ワンピース 超グランドバトル!X

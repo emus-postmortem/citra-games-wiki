@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001AB500
+  name: Kutar Tube Rider
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A2700
+  name: クターのチューブライダー
+  updates: []
+- regions:
+  - US
+  id: 00040000001AC600
+  name: Kutar Tube Rider
+  updates: []

@@ -1,0 +1,29 @@
+title = "Kirby: Triple Deluxe"
+description = "Kirby: Triple Deluxe is the thirteenth platform installment of the Kirby video game series, developed by HAL Laboratory and published by Nintendo for the Nintendo 3DS."
+needs_system_files = true
+needs_shared_font = true
+
+[[ releases ]]
+title = "000400000010BE00"
+region = "jpn"
+release_date = "2014-01-11"
+
+[[ releases ]]
+title = "000400000010BF00"
+region = "usa"
+release_date = "2014-05-02"
+
+[[ releases ]]
+title = "000400000010C000"
+region = "eur"
+release_date = "2014-05-16"
+
+[[ testcases ]]
+title = "000400000010BF00"
+compatibility = "1"
+date = "2017-06-05"
+version = "HEAD-8f0a23b"
+author = "Clector"
+cpu = "Intel Core i3-4160"
+gpu = "Intel HD Graphics 4400"
+os = "Windows 8.1"

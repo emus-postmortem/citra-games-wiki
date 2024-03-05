@@ -1,0 +1,30 @@
+title = "Mario Tennis Open"
+description = "Mario Tennis Open is a Mario sports game developed by Camelot Software Planning and published by Nintendo for the Nintendo 3DS. The game was developed by Camelot, which has produced most of the previous Mario Tennis titles."
+needs_system_files = true
+needs_shared_font = false
+game_type = "3ds"
+
+[[ releases ]]
+title = "000400000007C700"
+region = "usa"
+release_date = "2012-05-20"
+
+[[ releases ]]
+title = "000400000007C800"
+region = "eur"
+release_date = "2012-05-24"
+
+[[ releases ]]
+title = "0004000000064D00"
+region = "jpn"
+release_date = "2012-05-25"
+
+[[ testcases ]]
+title = "000400000007C700"
+compatibility = "5"
+date = "2017-07-04"
+version = "HEAD-22e7402"
+author = "DrewThatGamer"
+cpu = "Intel Core i5 6400"
+gpu = "NVIDIA GeForce GTX 1050"
+os = "Windows 10"

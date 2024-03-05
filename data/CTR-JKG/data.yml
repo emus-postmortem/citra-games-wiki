@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000A7E00
+  name: Crazy Kangaroo
+  updates: []
+- regions:
+  - JP
+  id: 00040000000CA100
+  name: クレイジーカンガルー
+  updates: []
+- regions:
+  - US
+  id: 0004000000092400
+  name: Crazy Kangaroo
+  updates: []

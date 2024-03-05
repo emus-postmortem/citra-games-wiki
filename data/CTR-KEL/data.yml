@@ -1,0 +1,14 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001B3C00
+  name: エルミナージュ Original ～闇の巫女と神々の指輪～
+  updates:
+  - id: 0004000E001B3C00
+    name: 更新データ Ver. 1.1 エルミナージュ Original
+- regions:
+  - US
+  id: 00040000001BFF00
+  name: Elminage Original
+  updates: []

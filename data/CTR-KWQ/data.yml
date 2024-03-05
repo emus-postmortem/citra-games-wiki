@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001AC900
+  name: WORLD END ECONOMiCA Episode.2
+  updates: []

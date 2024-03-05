@@ -1,0 +1,37 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000EE000
+  name: Super Smash Bros.™ for Nintendo 3DS
+  updates:
+  - id: 0004000E000EE000
+    name: 'Super Smash Bros.™  for Nintendo 3DS: Update'
+- regions:
+  - JP
+  id: 00040000000B8B00
+  name: 大乱闘スマッシュブラザーズ for Nintendo 3DS
+  updates:
+  - id: 0004000E000B8B00
+    name: 更新データ Ver. 1.1.7 大乱闘スマッシュブラザーズ for Nintendo 3DS
+- regions:
+  - KR
+  id: 0004000000167C00
+  name: 슈퍼 스매시브라더스 for 닌텐도 3DS
+  updates:
+  - id: 0004000E00167C00
+    name: 업데이트 데이터 Ver.1.1.7 슈퍼 스매시브라더스 for 닌텐도 3DS
+- regions:
+  - TW
+  id: 0004000000168600
+  name: 大亂鬥スマッシュブラザーズ for  Nintendo 3DS(日文版)
+  updates:
+  - id: 0004000E00168600
+    name: 大亂鬥スマッシュブラザーズ for  Nintendo 3DS 更新資料 Ver. 1.1.7
+- regions:
+  - US
+  id: 00040000000EDF00
+  name: Super Smash Bros.™ for Nintendo 3DS
+  updates:
+  - id: 0004000E000EDF00
+    name: Super Smash Bros.™ for Nintendo 3DS Update Ver. 1.1.7

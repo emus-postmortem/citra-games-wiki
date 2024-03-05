@@ -1,0 +1,11 @@
+title = "Pokémon X"
+description = "Pokémon X is a role-playing video game developed by Game Freak and published by Nintendo for the Nintendo 3DS. It is the first installment in the sixth generation of the Pokémon series of role-playing games."
+github_issues = [2263, 2551, 2262, 2133, 2084, 3703]
+needs_system_files = true
+needs_shared_font = true
+wiki_override = "pokemon-x-y"
+
+[[ releases ]]
+title = "0004000000055D00"
+region = "all"
+release_date = "2013-10-12"

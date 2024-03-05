@@ -1,0 +1,19 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000015FE00
+  name: Adventure Bar Story
+  updates: []
+- regions:
+  - JP
+  id: 0004000000129D00
+  name: 不思議の国の冒険酒場
+  updates:
+  - id: 0004000E00129D00
+    name: 更新データ Ver. 1.1 不思議の国の冒険酒場
+- regions:
+  - US
+  id: 0004000000160F00
+  name: Adventure Bar Story
+  updates: []

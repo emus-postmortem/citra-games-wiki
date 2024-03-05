@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000052800
+  name: ミステリー P.I. ～消えたフィルム～
+  updates: []

@@ -1,0 +1,19 @@
+title = "Shin Megami Tensei IV: Apocalypse"
+description = "Shin Megami Tensei IV: Apocalypse is a post-apocalyptic role-playing video game developed and published by Atlus for the Nintendo 3DS. It is a indirect sequel to Shin Megami Tensei IV."
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "000400000019A200"
+region = "usa"
+release_date = "2016-09-20"
+
+[[releases]]
+title = "00040000001A6B00"
+region = "eur"
+release_date = "2016-12-02"
+
+[[releases]]
+title = "0004000000166B00"
+region = "jpn"
+release_date = "2016-02-10"

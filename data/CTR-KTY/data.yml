@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001C0B00
+  name: Timberman
+  updates: []
+- regions:
+  - US
+  id: 00040000001C0200
+  name: Timberman
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000006DD00
+  name: ニコリのパズル へやわけ
+  updates: []
+- regions:
+  - KR
+  id: 0004000000109C00
+  name: Heyawake by Nikoli
+  updates: []
+- regions:
+  - US
+  id: 0004000000092800
+  name: Heyawake by Nikoli
+  updates: []

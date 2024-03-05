@@ -1,0 +1,24 @@
+title = "Persona Q: Shadow of the Labyrinth"
+description = "Persona Q: Shadow of the Labyrinth is a crossover role-playing video game developed by Atlus. The gameplay, which fuses elements of the Persona and Etrian Odyssey, focuses on first-person dungeon crawling through labyrinths and combat using the titular Personas against hostiles known as Shadows."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000123400"
+region = "usa"
+release_date = "2014-11-25"
+
+[[releases]]
+title = "0004000000149F00"
+region = "eur"
+release_date = "2014-11-28"
+
+[[releases]]
+title = "00040000000C3600"
+region = "jpn"
+release_date = "2014-06-05"
+
+[[releases]]
+title = "0004000000145C00"
+region = "kor"
+release_date = "2014-10-23"

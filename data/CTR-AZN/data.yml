@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000008D600
+  name: ニコリの数独3D 第二集 ～8つのパズルで1000問～
+  updates: []

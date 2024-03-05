@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000162400
+  name: マル合格! 宅建試験 平成27年度版
+  updates: []

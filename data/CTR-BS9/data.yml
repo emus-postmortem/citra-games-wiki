@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 000400000013BE00
+  name: Skylanders Trap Team™
+  updates: []
+- regions:
+  - US
+  id: 0004000000131200
+  name: Skylanders Trap Team™
+  updates: []

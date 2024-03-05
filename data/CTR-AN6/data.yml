@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001BFA00
+  name: I am an air traffic controller  AIRPORT HERO NARITA
+  updates: []
+- regions:
+  - JP
+  id: 00040000000BFF00
+  name: ぼくは航空管制官 エアポート ヒーロー3D 成田 with ANA
+  updates: []
+- regions:
+  - US
+  id: 0004000000173E00
+  name: I am an Air Traffic Controller Airport Hero Narita
+  updates: []

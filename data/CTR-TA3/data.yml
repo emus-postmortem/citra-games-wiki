@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 0004000000099300
+  name: BLASTER MASTER™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000099100
+  name: 超惑星戦記メタファイト
+  updates: []
+- regions:
+  - US
+  id: 0004000000099200
+  name: Blaster Master
+  updates: []

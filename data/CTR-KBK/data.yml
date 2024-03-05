@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000169100
+  name: Bloo Kid 2
+  updates: []
+- regions:
+  - JP
+  id: 000400000016B500
+  name: ブルーキッド 2
+  updates: []

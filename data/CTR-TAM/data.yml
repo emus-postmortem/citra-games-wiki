@@ -1,0 +1,22 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 0004000000070700
+  name: Ice Climber™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000070500
+  name: アイスクライマー
+  updates: []
+- regions:
+  - KR
+  id: 0004000000184C00
+  name: Ice Climber
+  updates: []
+- regions:
+  - US
+  id: 0004000000070600
+  name: Ice Climber™
+  updates: []

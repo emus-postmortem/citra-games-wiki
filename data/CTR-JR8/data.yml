@@ -1,0 +1,13 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000126000
+  name: 'Pokémon™ Link: Battle!'
+  updates: []
+- regions:
+  - JP
+  - US
+  id: 000400000011C600
+  name: Pokémon™ Battle Trozei
+  updates: []

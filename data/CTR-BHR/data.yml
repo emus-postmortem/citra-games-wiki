@@ -1,0 +1,18 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001C4D00
+  name: 'Mario Party™: The Top 100'
+  updates: []
+- regions:
+  - JP
+  id: 00040000001C0A00
+  name: マリオパーティ100  ミニゲームコレクション
+  updates: []
+- regions:
+  - TW
+  - US
+  id: 00040000001C4E00
+  name: 'Mario Party™: The Top 100'
+  updates: []

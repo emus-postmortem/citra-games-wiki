@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 000400000017D400
+  name: ぼくは航空管制官 エアポート ヒーロー3D 関空 ALL STARS
+  updates: []

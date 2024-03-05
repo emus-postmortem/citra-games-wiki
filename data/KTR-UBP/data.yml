@@ -1,0 +1,7 @@
+platform: SuperNES
+releases:
+- regions:
+  - JP
+  id: 000400000F707900
+  name: ロマンシング サ・ガ2
+  updates: []

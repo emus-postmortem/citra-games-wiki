@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000016B000
+  name: 'Hello Kitty and the Apron of Magic: Rhythm Cooking'
+  updates: []
+- regions:
+  - JP
+  id: 000400000010EC00
+  name: ハローキティとまほうのエプロン リズムクッキング♪
+  updates: []
+- regions:
+  - US
+  id: 0004000000175100
+  name: Hello Kitty's Magic Apron
+  updates: []

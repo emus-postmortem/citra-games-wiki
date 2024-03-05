@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000018E900
+  name: 僕のヒーローアカデミア バトル・フォー・オール
+  updates: []

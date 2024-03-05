@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000C0700
+  name: 3D Space Harrier
+  updates: []
+- regions:
+  - JP
+  id: 00040000000C9300
+  name: 3D スペースハリアー
+  updates: []
+- regions:
+  - US
+  id: 00040000000C0C00
+  name: 3D Space Harrier
+  updates: []

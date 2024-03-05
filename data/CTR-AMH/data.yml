@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000B1D00
+  name: Monster Hunter™ 3 Ultimate
+  updates: []
+- regions:
+  - JP
+  id: 0004000000048100
+  name: モンスターハンター3(トライ)G
+  updates: []
+- regions:
+  - KR
+  id: 00040000000D2E00
+  name: MONSTER HUNTER 3 ULTIMATE
+  updates: []
+- regions:
+  - US
+  id: 00040000000AE400
+  name: Monster Hunter™ 3 Ultimate
+  updates: []

@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000103E00
+  name: '@SIMPLE DLシリーズ Vol.27 THE イラストパズル'
+  updates:
+  - id: 0004000E00103E00
+    name: 更新データ Ver. 1.1.0 @SIMPLE DL Vol.27 THE イラストパズル

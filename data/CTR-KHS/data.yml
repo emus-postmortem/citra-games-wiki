@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000183800
+  name: 'Bravely Second™: End Layer Demo'
+  updates: []
+- regions:
+  - JP
+  id: 000400000014B000
+  name: ブレイブリーセカンド 無料で遊べる三銃士編
+  updates: []
+- regions:
+  - KR
+  id: 0004000000183900
+  name: BRAVELY SECOND  무료로 즐기는 삼총사편
+  updates: []
+- regions:
+  - US
+  id: 0004000000183700
+  name: 'BRAVELY SECOND™: END LAYER DEMO'
+  updates: []

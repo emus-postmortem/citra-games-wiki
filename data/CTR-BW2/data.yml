@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001C9600
+  name: わんニャンどうぶつ病院 ペットのお医者さんになろう！
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 00040000000B0400
+  name: 'Rise of the Guardians:  The Video Game'
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000011D600
+  name: PIKMIN Short Movies 3D
+  updates: []
+- regions:
+  - JP
+  id: 000400000011D400
+  name: PIKMIN Short Movies 3D
+  updates: []
+- regions:
+  - US
+  id: 000400000011D500
+  name: Pikmin™ Short Movies 3D
+  updates: []

@@ -1,0 +1,23 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000012CA00
+  name: Mario vs. Donkey Kong™ Tipping Stars
+  updates:
+  - id: 0004000E0012CA00
+    name: 'Mario vs. Donkey Kong™ Tipping Stars: Update'
+- regions:
+  - JP
+  id: 000400000012C900
+  name: マリオvs.ドンキーコング みんなでミニランド
+  updates:
+  - id: 0004000E0012C900
+    name: 更新データ Ver. 1.0.1 マリオvs.ドンキーコング みんなでミニランド
+- regions:
+  - US
+  id: 000400000012C800
+  name: 'Mario vs. Donkey Kong™: Tipping Stars'
+  updates:
+  - id: 0004000E0012C800
+    name: 'Mario vs. Donkey Kong™: Tipping Stars Update Ver. 1.0.1'

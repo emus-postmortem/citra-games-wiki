@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000192F00
+  name: Jump Trials Supreme
+  updates: []
+- regions:
+  - JP
+  id: 00040000000E9000
+  name: 極めろ!瞬間ジャンプ検定
+  updates: []
+- regions:
+  - US
+  id: 00040000000F1500
+  name: Jump Trials Supreme
+  updates: []

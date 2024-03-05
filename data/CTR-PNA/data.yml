@@ -1,0 +1,7 @@
+platform: 26
+releases:
+- regions:
+  - JP
+  id: 00040000000DF900
+  name: グラディウス
+  updates: []

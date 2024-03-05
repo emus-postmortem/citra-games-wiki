@@ -1,0 +1,17 @@
+platform: GameGear
+releases:
+- regions:
+  - EU
+  id: 000400000009BA00
+  name: 'Vampire: Master of Darkness'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000098200
+  name: IN THE WAKE OF VAMPIRE
+  updates: []
+- regions:
+  - US
+  id: 000400000009C600
+  name: Vampire Master of Darkness
+  updates: []

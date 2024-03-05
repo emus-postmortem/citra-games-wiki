@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000109400
+  name: Spot the Differences!
+  updates: []
+- regions:
+  - US
+  id: 000400000010AB00
+  name: Spot The Differences!
+  updates: []

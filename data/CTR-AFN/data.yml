@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000D6500
+  name: Funfair Party Games
+  updates: []
+- regions:
+  - US
+  id: 00040000000C7600
+  name: Funfair Party Games
+  updates: []

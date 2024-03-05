@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001B1E00
+  name: Word Search 10K
+  updates: []
+- regions:
+  - US
+  id: 00040000001B2200
+  name: Word Search 10K
+  updates: []

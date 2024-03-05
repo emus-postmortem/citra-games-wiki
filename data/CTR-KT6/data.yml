@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001C8200
+  name: Kid Tripp
+  updates: []
+- regions:
+  - JP
+  id: 00040000001C9B00
+  name: キッドトリップ RUN!
+  updates: []
+- regions:
+  - US
+  id: 00040000001C7B00
+  name: Kid Tripp
+  updates: []

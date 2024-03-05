@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000010F100
+  name: 難攻不落三国伝 ～魏と大いなる戦線～
+  updates: []

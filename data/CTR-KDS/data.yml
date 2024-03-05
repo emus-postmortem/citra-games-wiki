@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000140500
+  name: 脱出アドベンチャー 終焉の黒い霧
+  updates: []

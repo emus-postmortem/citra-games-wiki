@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000C2300
+  name: Family Kart 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000052500
+  name: おきらくカート3D
+  updates: []
+- regions:
+  - US
+  id: 00040000000AE700
+  name: Family Kart 3D
+  updates: []

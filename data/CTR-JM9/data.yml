@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000071C00
+  name: ニコリのパズル ましゅ
+  updates: []
+- regions:
+  - KR
+  id: 000400000010AD00
+  name: Masyu by Nikoli
+  updates: []
+- regions:
+  - US
+  id: 000400000008CF00
+  name: Masyu by Nikoli
+  updates: []

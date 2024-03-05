@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000AFC00
+  name: デジモンワールド Re:Digitize Decode
+  updates:
+  - id: 0004000E000AFC00
+    name: 更新データ Ver. 1.1 デジモンワールド Re:Digitize Decode

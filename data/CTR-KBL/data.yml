@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000156000
+  name: 超人ウルトラベースボール アクションカードバトル ライト
+  updates: []

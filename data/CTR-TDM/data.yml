@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000F8700
+  name: Mighty Final Fight
+  updates: []
+- regions:
+  - JP
+  id: 00040000000F8500
+  name: マイティファイナルファイト
+  updates: []
+- regions:
+  - US
+  id: 00040000000F8600
+  name: Mighty Final Fight®
+  updates: []

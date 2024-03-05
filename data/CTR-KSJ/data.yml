@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 000400000013ED00
+  name: 'Secret Journeys: Cities of the World'
+  updates: []

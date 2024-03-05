@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000105300
+  name: バンダイナムコゲームス PRESENTS Jレジェンド列伝
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000F2100
+  name: Darts Up 3D
+  updates: []
+- regions:
+  - JP
+  id: 000400000012B300
+  name: スター★シリーズ:3D ダーツ
+  updates: []
+- regions:
+  - US
+  id: 00040000000EB200
+  name: Darts Up 3D
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000E9D00
+  name: Starry☆Sky～in Summer～3D
+  updates: []

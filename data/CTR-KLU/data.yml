@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000157700
+  name: マル合格! FP3級 平成26-27年度版
+  updates:
+  - id: 0004000E00157700
+    name: 更新データ Ver. 1.1 マル合格! FP3級 平成26-27年度版

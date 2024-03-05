@@ -1,0 +1,8 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - JP
+  - TW
+  id: 0004000000172300
+  name: ポケットモンスター 金
+  updates: []

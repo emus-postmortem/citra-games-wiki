@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000131000
+  name: Slice It!
+  updates: []
+- regions:
+  - JP
+  id: 000400000012A600
+  name: SLICE IT!
+  updates: []
+- regions:
+  - KR
+  id: 0004000000178A00
+  name: 슬라이스 잇!
+  updates: []
+- regions:
+  - US
+  id: 0004000000131400
+  name: Slice It!
+  updates: []

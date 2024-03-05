@@ -1,0 +1,26 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000D4B00
+  name: Disney Magical World
+  updates: []
+- regions:
+  - JP
+  id: 0004000000095C00
+  name: ディズニー マジックキャッスル マイ･ハッピー･ライフ
+  updates:
+  - id: 0004000E00095C00
+    name: 更新データ Ver. 1.1 ディズニー マジックキャッスル
+- regions:
+  - KR
+  id: 000400000012C700
+  name: DISNEY MAGICAL WORLD
+  updates: []
+- regions:
+  - US
+  id: 00040000000EA900
+  name: Disney Magical World
+  updates:
+  - id: 0004000E000EA900
+    name: Disney Magical World Update Ver. 1.1

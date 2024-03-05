@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000074700
+  name: ゴン バクバクバクバクアドベンチャー
+  updates: []
+- regions:
+  - KR
+  id: 00040000000BC800
+  name: 곤 와구와구 어드벤처
+  updates: []

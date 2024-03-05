@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000132300
+  name: VAN HELSING SNIPER ZX100
+  updates: []
+- regions:
+  - JP
+  id: 0004000000170100
+  name: ヴァンパイアスナイパー
+  updates: []
+- regions:
+  - US
+  id: 000400000010C500
+  name: Van Helsing sniper Zx100
+  updates: []

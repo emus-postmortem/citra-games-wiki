@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F711F00
+  name: RTO 3
+  updates: []
+- regions:
+  - US
+  id: 000400000F712000
+  name: RTO 3
+  updates: []

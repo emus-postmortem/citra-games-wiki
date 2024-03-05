@@ -1,0 +1,8 @@
+platform: GameBoy
+releases:
+- regions:
+  - JP
+  - TW
+  id: 0004000000170E00
+  name: ポケットモンスター 青
+  updates: []

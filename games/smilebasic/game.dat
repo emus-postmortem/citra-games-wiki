@@ -1,0 +1,20 @@
+title = "SmileBASIC"
+description = "SmileBASIC is a software development application for the Nintendo 3DS, developed and published by SmileBoom Co.Ltd.. Like its predecessor Petit Computer, SmileBASIC is built around a custom dialect of BASIC called SmileBASIC. With SmileBASIC, users can write programs that use the 3DS's features and then upload the programs (or folders containing programs) to an online repository, where they can be downloaded by entering a short code. Downloaded programs can also be edited and re-uploaded. Programs can utilize the 3DS's touchscreen, controls, speakers, gyroscopes, and 3D screen."
+needs_system_files = true
+needs_shared_font = true
+game_type = "eshop"
+
+[[releases]]
+title = "000400000016DE00"
+region = "usa"
+release_date = "2015-10-15"
+
+[[releases]]
+title = "0004000000117200"
+region = "jpn"
+release_date = "2014-11-19"
+
+[[releases]]
+title = "00040000001A1C00"
+region = "eur"
+release_date = "2017-08-17"

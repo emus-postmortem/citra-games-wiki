@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 0004000000043900
+  name: Cartoon Network Punch Time Explosion
+  updates: []

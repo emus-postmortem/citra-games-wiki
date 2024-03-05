@@ -1,0 +1,26 @@
+title = "Cartoon Network: Punch Time Explosion"
+description = "Cartoon Network: Punch Time Explosion is a 2011 crossover fighting video game developed by Papaya Studio and published by Crave Entertainment, for the Nintendo 3DS."
+incomplete = true
+needs_system_files = false
+needs_shared_font = false
+game_type = "3ds"
+
+[[ releases ]]
+title = "0004000000043900"
+region = "usa"
+release_date = "2011-06-02"
+
+[[ releases ]]
+title = "0004000000061100"
+region = "eur"
+release_date = "2012-04-20"
+
+[[ testcases ]]
+title = "0004000000043900"
+compatibility = "1"
+date = "2017-07-04"
+version = "HEAD-22e7402"
+author = "DrewThatGamer"
+cpu = "Intel Core i5 6400"
+gpu = "NVIDIA GeForce GTX 1050"
+os = "Windows 10"

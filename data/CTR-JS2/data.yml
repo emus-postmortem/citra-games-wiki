@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000CEF00
+  name: Swords & Soldiers 3D
+  updates: []
+- regions:
+  - JP
+  id: 00040000000E8F00
+  name: SWORDS & SOLDIERS 3D
+  updates: []
+- regions:
+  - US
+  id: 00040000000D0600
+  name: Swords & Soldiers 3D
+  updates: []

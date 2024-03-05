@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 000400000010FB00
+  name: Adventures of Lolo™
+  updates: []
+- regions:
+  - JP
+  id: 000400000010F900
+  name: アドベンチャーズ オブ ロロ
+  updates: []
+- regions:
+  - US
+  id: 000400000010FA00
+  name: Adventures of Lolo™
+  updates: []

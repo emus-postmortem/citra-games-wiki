@@ -1,0 +1,22 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 0004000000040A00
+  name: Super Mario Land™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000040900
+  name: スーパーマリオランド
+  updates: []
+- regions:
+  - KR
+  id: 0004000000181600
+  name: Super Mario Land
+  updates: []
+- regions:
+  - US
+  id: 0004000000040800
+  name: Super Mario Land™
+  updates: []

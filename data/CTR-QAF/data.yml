@@ -1,0 +1,7 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - JP
+  id: 0004000000067100
+  name: バルーンファイトGB
+  updates: []

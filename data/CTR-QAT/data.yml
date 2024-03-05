@@ -1,0 +1,12 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 0004000000099E00
+  name: Legend of the River King™
+  updates: []
+- regions:
+  - US
+  id: 0004000000099D00
+  name: Legend of the River King™
+  updates: []

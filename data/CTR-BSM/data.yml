@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000109300
+  name: Shanghai Mahjong
+  updates: []
+- regions:
+  - US
+  id: 000400000010AA00
+  name: Shanghai Mahjong
+  updates: []

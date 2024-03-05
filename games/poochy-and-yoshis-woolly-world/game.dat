@@ -1,0 +1,20 @@
+title = "Poochy & Yoshi's Woolly World"
+description = "Poochy & Yoshi's Woolly World is a platforming game for Nintendo 3DS. It is the second port of the series of platform games starring Yoshi, being a port of Yoshi's Woolly World, which was released for the Wii U in 2015. The game includes the entirety of the original game's levels, along with some bonus features."
+github_issues = [3055, 3321]
+needs_system_files = false
+needs_shared_font = true
+
+[[ releases ]]
+title = "00040000001A4100"
+region = "usa"
+release_date = "2017-02-03"
+
+[[ releases ]]
+title = "00040000001A4200"
+region = "eur"
+release_date = "2017-02-03"
+
+[[ releases ]]
+title = "00040000001A3200"
+region = "jpn"
+release_date = "2017-01-19"

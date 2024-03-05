@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000F9C00
+  name: ペンギンの問題+ 爆勝!ルーレットバトル!!
+  updates: []

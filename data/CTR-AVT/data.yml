@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000173C00
+  name: アドベンチャー・タイム ネームレス王国の3人のプリンセス
+  updates: []

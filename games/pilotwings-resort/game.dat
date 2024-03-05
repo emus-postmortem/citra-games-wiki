@@ -1,0 +1,39 @@
+title = "Pilotwings Resort"
+description = "Pilotwings Resort is an amateur flight simulation video game for the Nintendo 3DS handheld game console, developed by Monster Games and published by Nintendo."
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000031C00"
+region = "usa"
+release_date = "2011-03-27"
+
+[[ releases ]]
+title = "0004000000031D00"
+region = "eur"
+release_date = "2011-03-25"
+
+[[ releases ]]
+title = "0004000000031B00"
+region = "jpn"
+release_date = "2011-04-14"
+
+[[ testcases ]]
+title = "0004000000031D00"
+compatibility = "2"
+date = "2017-06-15"
+version = "HEAD-5fe5cca"
+author = "Anadian"
+cpu = "Intel Core i7-6500U"
+gpu = "Intel HD Graphics 520"
+os = "Windows 10 14393"
+
+[[ testcases ]]
+title = "0004000000031C00"
+compatibility = "2"
+date = "2017-07-24"
+version = "HEAD-f2f3910"
+author = "Breadfish64"
+cpu = "Intel Core i7-4700mq"
+gpu = "Nvidia Geforce GT 740m"
+os = "Windows 10 Home 1703"

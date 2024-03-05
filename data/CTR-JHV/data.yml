@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000FBE00
+  name: 'Heavy Fire: Black Arms 3D'
+  updates: []
+- regions:
+  - US
+  id: 00040000000C4000
+  name: 'Heavy Fire: Black Arms 3D'
+  updates: []

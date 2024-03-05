@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000138D00
+  name: Pyramids 2
+  updates: []
+- regions:
+  - US
+  id: 0004000000126E00
+  name: Pyramids 2
+  updates: []

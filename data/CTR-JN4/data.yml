@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001BE300
+  name: 'River City: Knights of Justice'
+  updates: []
+- regions:
+  - JP
+  id: 000400000012B600
+  name: 熱血魔法物語
+  updates: []
+- regions:
+  - US
+  id: 00040000001C0D00
+  name: 'River City: Knights of Justice'
+  updates: []

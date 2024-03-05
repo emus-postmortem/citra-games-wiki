@@ -1,0 +1,36 @@
+title = "Mario Kart 7"
+description = "Mario Kart 7 is a racing video game developed and published by Nintendo. It is the seventh major installment in the Mario Kart series and the third to be released for handheld consoles."
+incomplete = true
+github_issues = [2443, 1887, 2093, 1749]
+needs_system_files = true
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000030800"
+region = "usa"
+release_date = "2011-12-04"
+
+[[ releases ]]
+title = "0004000000030700"
+region = "eur"
+release_date = "2011-12-02"
+
+[[ releases ]]
+title = "0004000000030600"
+region = "jpn"
+release_date = "2011-12-01"
+
+[[ releases ]]
+title = "000400000008B400"
+region = "twn"
+release_date = "2012-09-28"
+
+[[ testcases ]]
+title = "0004000000030800"
+compatibility = "3"
+date = "2017-06-03"
+version = "HEAD-a7ddec8"
+author = "TheKoopaKingdom"
+cpu = "?"
+gpu = "?"
+os = "?"

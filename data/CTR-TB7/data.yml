@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000BD100
+  name: Mario Bros.™
+  updates: []
+- regions:
+  - JP
+  id: 00040000000BCF00
+  name: マリオブラザーズ
+  updates: []
+- regions:
+  - US
+  id: 00040000000BD000
+  name: Mario Bros™
+  updates: []

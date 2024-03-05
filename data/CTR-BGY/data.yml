@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000152B00
+  name: リラックマ なかよしコレクション
+  updates: []

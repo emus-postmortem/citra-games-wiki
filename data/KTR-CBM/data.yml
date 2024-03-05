@@ -1,0 +1,17 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70E100
+  name: Mom Hid My Game!
+  updates: []
+- regions:
+  - JP
+  id: 000400000F70C700
+  name: ママにゲーム隠された
+  updates: []
+- regions:
+  - US
+  id: 000400000F70E000
+  name: Mom Hid My Game!
+  updates: []

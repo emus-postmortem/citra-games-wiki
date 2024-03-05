@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000B3800
+  name: でんぢゃらすじーさんと1000人のお友だち邪
+  updates: []

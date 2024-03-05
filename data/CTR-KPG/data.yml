@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000191E00
+  name: Psycho Pigs
+  updates: []
+- regions:
+  - JP
+  id: 000400000013C300
+  name: たたかえ ぶたさん
+  updates: []
+- regions:
+  - US
+  id: 0004000000191F00
+  name: Psycho Pigs
+  updates: []

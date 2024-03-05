@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000019A800
+  name: Gunslugs
+  updates: []
+- regions:
+  - US
+  id: 000400000019B400
+  name: Gunslugs
+  updates: []

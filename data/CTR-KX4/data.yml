@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001C7300
+  name: デジコロ ケシカスくん Vol.013 オトナの遊びに挑戦!
+  updates: []

@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000120000
+  name: ナナミと一緒に学ぼ! English日常会話
+  updates:
+  - id: 0004000E00120000
+    name: 更新データ Ver. 1.1  ナナミと一緒に学ぼ!English日常会話

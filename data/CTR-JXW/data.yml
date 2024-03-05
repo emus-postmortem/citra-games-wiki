@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000011B400
+  name: 大人 VS グレコ 漢字の塔と オバケたち ちょいムズ編
+  updates:
+  - id: 0004000E0011B400
+    name: 更新データ Ver. 1.1 大人 VS グレコ 漢字の塔とオバケたち ちょいムズ編

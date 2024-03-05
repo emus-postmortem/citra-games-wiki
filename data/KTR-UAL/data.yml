@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F702400
+  name: Super Punch-Out!!™
+  updates: []
+- regions:
+  - JP
+  id: 000400000F702300
+  name: スーパーパンチアウト!!
+  updates: []

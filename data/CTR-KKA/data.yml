@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001DB600
+  name: Maze Breaker
+  updates: []
+- regions:
+  - US
+  id: 00040000001DB800
+  name: Maze Breaker
+  updates: []

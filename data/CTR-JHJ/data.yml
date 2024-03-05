@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000DB500
+  name: 3D Sonic the Hedgehog
+  updates: []
+- regions:
+  - JP
+  id: 00040000000E9900
+  name: 3D ソニック･ザ･ヘッジホッグ
+  updates: []
+- regions:
+  - US
+  id: 00040000000DA000
+  name: 3D Sonic The Hedgehog
+  updates: []

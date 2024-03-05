@@ -1,0 +1,30 @@
+title = "Pac-Man & Galaga Dimensions"
+description = "Pac-Man & Galaga Dimensions is a compilation of games from the Pac-Man and Galaga franchises for the Nintendo 3DS, by Namco Bandai Games."
+needs_system_files = false
+needs_shared_font = false
+incomplete = true
+
+[[ releases ]]
+title = "0004000000036300"
+region = "usa"
+release_date = "2011-07-26"
+
+[[ releases ]]
+title = "0004000000045D00"
+region = "eur"
+release_date = "2011-08-26"
+
+[[ releases ]]
+title = "0004000000039900"
+region = "jpn"
+release_date = "2011-06-23"
+
+[[ testcases ]]
+title = "0004000000036300"
+compatibility = "0"
+date = "2017-07-04"
+version = "HEAD-22e7402"
+author = "DrewThatGamer"
+cpu = "Intel Core i5 6400"
+gpu = "NVIDIA GeForce GTX 1050"
+os = "Windows 10"

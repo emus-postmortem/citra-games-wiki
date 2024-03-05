@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000190600
+  name: ビンゴde脳とれ ビンとれ
+  updates: []
+- regions:
+  - US
+  id: 00040000001BD100
+  name: Bingo Collection
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000013BF00
+  name: Parking Star 3D
+  updates: []
+- regions:
+  - JP
+  id: 000400000014B200
+  name: ワールドパーキングプロ
+  updates: []
+- regions:
+  - US
+  id: 0004000000131500
+  name: Parking Star 3D
+  updates: []

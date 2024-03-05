@@ -1,0 +1,35 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001B4100
+  name: 'Fire Emblem™ Echoes: Shadows of Valentia'
+  updates:
+  - id: 0004000E001B4100
+    name: 'Fire Emblem™ Echoes:   Shadows of Valentia: Update'
+- regions:
+  - JP
+  id: 00040000001A2B00
+  name: ファイアーエムブレム Echoes もうひとりの英雄王
+  updates:
+  - id: 0004000E001A2B00
+    name: 更新データ Ver. 1.1 ファイアーエムブレム Echoes もうひとりの英雄王
+- regions:
+  - KR
+  id: 00040000001C6800
+  name: 파이어 엠블렘 Echoes 또 하나의 영웅왕
+  updates: []
+- regions:
+  - TW
+  id: 00040000001BC900
+  name: FIRE EMBLEM Echoes 另一位英雄王 (中日版)
+  updates:
+  - id: 0004000E001BC900
+    name: 『FIRE EMBLEM Echoes 另一位英雄王 (中日版)』更新資料 Ver.1.1
+- regions:
+  - US
+  id: 00040000001B4000
+  name: 'Fire Emblem™ Echoes: Shadows of Valentia'
+  updates:
+  - id: 0004000E001B4000
+    name: 'Fire Emblem Echoes: Shadows of Valentia Update Ver. 1.1'

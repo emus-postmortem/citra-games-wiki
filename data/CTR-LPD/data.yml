@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 00040000001D4100
+  name: PDI Check
+  updates: []

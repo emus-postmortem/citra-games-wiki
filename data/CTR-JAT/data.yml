@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000107A00
+  name: Blast 'Em Bunnies
+  updates: []
+- regions:
+  - US
+  id: 0004000000107700
+  name: Blast 'Em Bunnies
+  updates: []

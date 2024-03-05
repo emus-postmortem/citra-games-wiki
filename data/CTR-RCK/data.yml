@@ -1,0 +1,12 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 000400000011A700
+  name: Donkey Kong Land™ III
+  updates: []
+- regions:
+  - US
+  id: 000400000011A600
+  name: Donkey Kong Land III™
+  updates: []

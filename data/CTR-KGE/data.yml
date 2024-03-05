@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001B2B00
+  name: Parascientific Escape   - Gear Detective
+  updates: []
+- regions:
+  - JP
+  id: 000400000017D200
+  name: 超科学脱出 ギア･ディテクティブ
+  updates: []
+- regions:
+  - US
+  id: 00040000001AE700
+  name: Parascientific Escape  - Gear Detective
+  updates: []

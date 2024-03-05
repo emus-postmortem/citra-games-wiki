@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001CA500
+  name: PixelMaker Studio
+  updates: []
+- regions:
+  - US
+  id: 00040000001C6D00
+  name: PixelMaker Studio
+  updates: []

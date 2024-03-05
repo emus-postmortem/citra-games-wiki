@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001AEE00
+  name: NOeSIS 嘘を吐いた記憶の物語
+  updates: []

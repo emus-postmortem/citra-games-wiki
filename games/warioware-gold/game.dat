@@ -1,0 +1,20 @@
+title = "WarioWare Gold"
+description = "WarioWare Gold is an action video game developed and published by Nintendo, with assistance by Intelligent Systems, and is the eighth game in the WarioWare series. Similarly to past entries of the series, in WarioWare Gold, the player must complete consecutive \"microgames\" at increasing paces. Gold features microgames from both past entries in the series, as well as new microgames, making a sum of 300 microgames, the most the series has had to date. In addition, the game is the first of the series to feature full voice acting."
+github_issues = [4048]
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "00040000001D1C00"
+region = "usa"
+release_date = "2018-08-03"
+
+[[releases]]
+title = "00040000001D1C00"
+region = "eur"
+release_date = "2018-07-27"
+
+[[releases]]
+title = "00040000001D1C00"
+region = "jpn"
+release_date = "2018-08-02"

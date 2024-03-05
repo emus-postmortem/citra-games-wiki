@@ -1,0 +1,19 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001A4600
+  name: Urban Trial Freestyle 2
+  updates:
+  - id: 0004000E001A4600
+    name: 'Urban Trial Freestyle 2:  Update'
+- regions:
+  - JP
+  id: 00040000001B4900
+  name: アーバントライアル： フリースタイル２
+  updates: []
+- regions:
+  - US
+  id: 00040000001A4500
+  name: URBAN TRIAL FREESTYLE 2
+  updates: []

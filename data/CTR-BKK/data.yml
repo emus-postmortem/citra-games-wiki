@@ -1,0 +1,19 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000165500
+  name: 'Lord of Magna: Maiden Heaven'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000120900
+  name: 禁忌のマグナ
+  updates:
+  - id: 0004000E00120900
+    name: 更新データ Ver. 2.0.0 禁忌のマグナ
+- regions:
+  - US
+  id: 0004000000164300
+  name: 'Lord of Magna: Maiden Heaven'
+  updates: []

@@ -1,0 +1,28 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000A9000
+  name: Nintendo presents New Style Boutique™
+  updates:
+  - id: 0004000E000A9000
+    name: New Style Boutique™ Update
+- regions:
+  - JP
+  id: 000400000005D100
+  name: わがままファッション GIRLS MO DE よくばり宣言! トキメキUP!
+  updates:
+  - id: 0004000E0005D100
+    name: 更新データ Ver. 1.2 わがままファッション GIRLS MODE よくばり宣言!
+- regions:
+  - KR
+  id: 00040000000C4F00
+  name: Girls Style 패션 리더 선언!
+  updates: []
+- regions:
+  - US
+  id: 00040000000A9100
+  name: 'Style Savvy: Trendsetters'
+  updates:
+  - id: 0004000E000A9100
+    name: 'Style Savvy: Trendsetters Update Ver. 1.1'

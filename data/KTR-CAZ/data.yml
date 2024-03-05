@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F710400
+  name: ZIG ZAG GO
+  updates: []
+- regions:
+  - US
+  id: 000400000F710500
+  name: ZIG ZAG GO
+  updates: []

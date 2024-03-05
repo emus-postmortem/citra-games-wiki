@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000154600
+  name: BOXBOY!™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000126800
+  name: ハコボーイ!
+  updates: []
+- regions:
+  - KR
+  id: 00040000001A5300
+  name: 'BOXBOY! '
+  updates: []
+- regions:
+  - US
+  id: 0004000000154500
+  name: BOXBOY!™
+  updates: []

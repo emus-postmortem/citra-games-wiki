@@ -1,0 +1,12 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 000400000011AB00
+  name: 'Lufia®: The Legend Returns'
+  updates: []
+- regions:
+  - US
+  id: 000400000011AA00
+  name: 'Lufia®: The Legend Returns'
+  updates: []

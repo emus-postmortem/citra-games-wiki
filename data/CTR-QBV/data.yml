@@ -1,0 +1,8 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  - US
+  id: 0004000000172C00
+  name: Pokémon™ Gold Version (French Version)
+  updates: []

@@ -1,0 +1,30 @@
+title = "Super Monkey Ball 3D"
+description = "Super Monkey Ball 3D is an entry in the Super Monkey Ball developed for the Nintendo 3DS handheld game console. Players can either use the Circle Pad or the internal gyroscope of the Nintendo 3DS to navigate AiAi and friends so they can collect as many bananas as possible within the time limit as in previous games in the series."
+incomplete = true
+needs_system_files = false
+needs_shared_font = true
+
+[[ releases ]]
+title = "0004000000037000"
+region = "usa"
+release_date = "2011-03-27"
+
+[[ releases ]]
+title = "0004000000038900"
+region = "eur"
+release_date = "2011-03-25"
+
+[[ releases ]]
+title = "0004000000032E00"
+region = "jpn"
+release_date = "2011-03-03"
+
+[[ testcases ]]
+title = "0004000000037000"
+compatibility = "0"
+date = "2017-07-04"
+version = "HEAD-22e7402"
+author = "DrewThatGamer"
+cpu = "Intel Core i5 6400"
+gpu = "NVIDIA GeForce GTX 1050"
+os = "Windows 10"

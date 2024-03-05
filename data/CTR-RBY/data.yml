@@ -1,0 +1,17 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 000400000008AD00
+  name: Kirby's Star Stacker
+  updates: []
+- regions:
+  - JP
+  id: 0004000000089B00
+  name: カービィのきらきらきっず
+  updates: []
+- regions:
+  - US
+  id: 000400000008AC00
+  name: Kirby's Star Stacker™
+  updates: []

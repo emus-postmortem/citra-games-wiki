@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000096200
+  name: NightSky
+  updates: []
+- regions:
+  - US
+  id: 0004000000087700
+  name: NightSky
+  updates: []

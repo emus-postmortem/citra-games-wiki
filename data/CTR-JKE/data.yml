@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000E7500
+  name: ATTACK OF THE FRIDAY MONSTERS! A TOKYO TALE™
+  updates: []
+- regions:
+  - JP
+  id: 00040000000D0D00
+  name: 怪獣が出る金曜日
+  updates: []
+- regions:
+  - US
+  id: 00040000000E7600
+  name: ATTACK OF THE FRIDAY MONSTERS! A TOKYO TALE™
+  updates: []

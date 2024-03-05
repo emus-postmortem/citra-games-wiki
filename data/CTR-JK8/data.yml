@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000012CB00
+  name: 'Shovel Knight: Treasure Trove'
+  updates: []
+- regions:
+  - US
+  id: 0004000000119A00
+  name: 'Shovel Knight: Treasure Trove'
+  updates: []

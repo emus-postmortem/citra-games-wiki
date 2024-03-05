@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000170300
+  name: Go!プリンセスプリキュア シュガー王国と6人のプリンセス!
+  updates: []

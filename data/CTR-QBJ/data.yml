@@ -1,0 +1,8 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  - US
+  id: 0004000000171B00
+  name: Pokémon™ Yellow Version (Spanish Version)
+  updates: []

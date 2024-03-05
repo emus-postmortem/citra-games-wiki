@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001BAF00
+  name: デジコロ ケシカスくん Vol.011 VS修正液 卓球対決
+  updates: []

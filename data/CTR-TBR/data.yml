@@ -1,0 +1,12 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000A6C00
+  name: 'Ninja Gaiden III: The Ancient Ship of Doom'
+  updates: []
+- regions:
+  - US
+  id: 00040000000A6B00
+  name: 'Ninja Gaiden™ III: The Ancient Ship of Doom'
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001B7A00
+  name: Symphony of Eternity
+  updates: []
+- regions:
+  - JP
+  id: 00040000001B3900
+  name: シンフォニーオブエタニティ
+  updates: []
+- regions:
+  - US
+  id: 00040000001B8900
+  name: Symphony of Eternity
+  updates: []

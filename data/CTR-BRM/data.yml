@@ -1,0 +1,23 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001B9000
+  name: "Mario & Luigi™: Superstar Saga + Bowser's Minions"
+  updates: []
+- regions:
+  - JP
+  id: 0004000000194B00
+  name: マリオ＆ルイージRPG1 DX
+  updates: []
+- regions:
+  - KR
+  id: 00040000001C4F00
+  name: 마리오&루이지 RPG 1 DX
+  updates: []
+- regions:
+  - TW
+  - US
+  id: 00040000001B8F00
+  name: 'Mario and Luigi: Superstar Saga + Bowser’s Minions'
+  updates: []

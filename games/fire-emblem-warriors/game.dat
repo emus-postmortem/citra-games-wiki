@@ -1,0 +1,29 @@
+title = "Fire Emblem Warriors"
+description = "Fire Emblem Warriors is a hack and slash role-playing game developed by Omega Force and Team Ninja, and published by Nintendo for the Nintendo 3DS and Nintendo Switch. The game is a collaboration between Koei Tecmo's Dynasty Warriors franchise and Intelligent Systems' Fire Emblem series."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "000400000F70CC00"
+region = "usa"
+release_date = "2017-10-20"
+
+[[releases]]
+title = "000400000F70CD00"
+region = "eur"
+release_date = "2017-10-20"
+
+[[releases]]
+title = "000400000F70C100"
+region = "jpn"
+release_date = "2017-09-28"
+
+[[testcases]]
+title = "000400000F70CD00"
+compatibility = "5"
+date = "2017-11-19"
+version = "HEAD-c810a3f"
+cpu = "Intel Core i7-4700HQ"
+gpu = "Nvidia GeForce GTX 860M"
+os = "Windows 7 6.1.7601"
+author = "Rignak"

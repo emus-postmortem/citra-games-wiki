@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000AB800
+  name: '@SIMPLE DLシリーズ Vol.5 THE 呪いの廃病院'
+  updates: []

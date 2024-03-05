@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000114400
+  name: 脱出アドベンチャー シアワセの赤い石
+  updates: []

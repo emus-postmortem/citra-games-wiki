@@ -1,0 +1,27 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000A5F00
+  name: 'Paper Mario™: Sticker Star'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000A5D00
+  name: ペーパーマリオ スーパーシール
+  updates: []
+- regions:
+  - KR
+  id: 00040000000C6800
+  name: 페이퍼 마리오 스티커 스타
+  updates: []
+- regions:
+  - TW
+  id: 00040000000C8100
+  name: 紙片瑪利歐 超級貼紙
+  updates: []
+- regions:
+  - US
+  id: 00040000000A5E00
+  name: 'Paper Mario™: Sticker Star'
+  updates: []

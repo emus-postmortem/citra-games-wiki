@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001AAD00
+  name: Kutar Concert Staff
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A2600
+  name: クターのコンサートスタッフ
+  updates: []
+- regions:
+  - US
+  id: 00040000001ABF00
+  name: Kutar Concert Staff
+  updates: []

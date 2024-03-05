@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000190A00
+  name: めがみめぐり
+  updates:
+  - id: 0004000E00190A00
+    name: 更新データ Ver. 2.1.0 めがみめぐり

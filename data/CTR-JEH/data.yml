@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000114500
+  name: '@SIMPLE DLシリーズ Vol.24 THE 密室からの脱出 温泉編'
+  updates: []

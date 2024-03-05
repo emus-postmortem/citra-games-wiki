@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000110F00
+  name: Castle Clout 3D
+  updates: []
+- regions:
+  - JP
+  id: 00040000000E9400
+  name: Castle Clout 3D 攻城戦線キャッスルクラウト
+  updates: []
+- regions:
+  - US
+  id: 0004000000097300
+  name: Castle Clout 3D
+  updates: []

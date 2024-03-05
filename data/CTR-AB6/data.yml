@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000092100
+  name: Bowling Bonanza 3D
+  updates: []
+- regions:
+  - US
+  id: 00040000000C7E00
+  name: Bowling Bonanza 3D
+  updates: []

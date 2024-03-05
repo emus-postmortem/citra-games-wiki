@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001C6500
+  name: Crystareino
+  updates: []
+- regions:
+  - JP
+  id: 00040000001BE700
+  name: クリスタレイノ
+  updates: []
+- regions:
+  - US
+  id: 00040000001C6C00
+  name: Crystareino
+  updates: []

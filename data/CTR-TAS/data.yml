@@ -1,0 +1,22 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 0004000000071600
+  name: Wario's Woods
+  updates: []
+- regions:
+  - JP
+  id: 0004000000071400
+  name: ワリオの森
+  updates: []
+- regions:
+  - KR
+  id: 0004000000195C00
+  name: Wario‘s Woods
+  updates: []
+- regions:
+  - US
+  id: 0004000000071500
+  name: Wario's Woods™
+  updates: []

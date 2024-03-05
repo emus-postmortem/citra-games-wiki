@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001B7300
+  name: Candy, Please!
+  updates: []
+- regions:
+  - US
+  id: 00040000001B5E00
+  name: Candy, Please!
+  updates: []

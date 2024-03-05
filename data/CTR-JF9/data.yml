@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000128000
+  name: プチノベル「闘劇の五月」
+  updates: []

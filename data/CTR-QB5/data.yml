@@ -1,0 +1,7 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 0004000000173400
+  name: Pokémon Versione Cristallo
+  updates: []

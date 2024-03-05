@@ -1,0 +1,12 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 000400000011B000
+  name: S.C.A.T.™
+  updates: []
+- regions:
+  - US
+  id: 000400000011AF00
+  name: S.C.A.T.
+  updates: []

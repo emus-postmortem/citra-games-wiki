@@ -1,0 +1,7 @@
+platform: GameBoy
+releases:
+- regions:
+  - JP
+  id: 0004000000098D00
+  name: 熱血高校サッカー部 ワールドカップ編
+  updates: []

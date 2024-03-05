@@ -1,0 +1,13 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  - JP
+  - KR
+  - TW
+  - US
+  id: 0004000000164800
+  name: Pokémon™ Sun
+  updates:
+  - id: 0004000E00164800
+    name: Pokémon™ Sun Update Ver. 1.2

@@ -1,0 +1,17 @@
+platform: GameGear
+releases:
+- regions:
+  - EU
+  id: 00040000000BBB00
+  name: Sonic the Hedgehog 2
+  updates: []
+- regions:
+  - JP
+  id: 00040000000C1200
+  name: ソニック･ザ･ヘッジホッグ2
+  updates: []
+- regions:
+  - US
+  id: 00040000000C7A00
+  name: Sonic The Hedgehog 2
+  updates: []

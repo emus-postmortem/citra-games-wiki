@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000103100
+  name: 難攻不落三国伝 ～蜀と時の銅雀～
+  updates: []

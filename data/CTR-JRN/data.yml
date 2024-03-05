@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000108100
+  name: アロー･オブ･ラピュタ 影なし先生とキロンの封鍵
+  updates:
+  - id: 0004000E00108100
+    name: 更新データ Ver. 1.1 アロー･オブ･ラピュタ

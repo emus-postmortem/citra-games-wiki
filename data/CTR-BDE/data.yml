@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000134400
+  name: ドラえいご のび太と妖精のふしぎコレクション
+  updates: []

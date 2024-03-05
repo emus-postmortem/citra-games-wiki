@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000064A00
+  name: 萌え萌え大戦争☆げんだいばーん 3D
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D7A00
+  name: Quarters, Please!
+  updates: []
+- regions:
+  - US
+  id: 00040000001D5A00
+  name: Quarters, Please!
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000127800
+  name: プチノベル「贈与の二月」
+  updates: []

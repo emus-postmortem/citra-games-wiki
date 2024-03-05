@@ -1,0 +1,20 @@
+title = "Cubit The Hardcore Platformer Robot"
+description = "Cubit The Hardcore Platformer Robot, known in Japan as Cubit: One Button Running Action, is a platform video game developed and published by CoderChild."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000112300"
+region = "usa"
+release_date = "2013-12-26"
+
+[[releases]]
+title = "0004000000124300"
+region = "eur"
+release_date = "2014-03-13"
+
+[[releases]]
+title = "0004000000144900"
+region = "jpn"
+release_date = "2014-08-06"

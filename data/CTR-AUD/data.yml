@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000019D100
+  name: デジモンユニバース アプリモンスターズ
+  updates: []

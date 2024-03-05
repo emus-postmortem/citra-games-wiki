@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 000400000006A600
+  name: 'F1 2011™ '
+  updates: []
+- regions:
+  - JP
+  id: 0004000000067B00
+  name: F1 2011
+  updates: []

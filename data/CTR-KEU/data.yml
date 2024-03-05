@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000017AB00
+  name: エルミナージュゴシック3D REMIX ～ウルム･ザキールと闇の儀式～
+  updates: []

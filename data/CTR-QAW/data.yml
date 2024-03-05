@@ -1,0 +1,17 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 00040000000D3E00
+  name: Mario Tennis™
+  updates: []
+- regions:
+  - JP
+  id: 00040000000D3C00
+  name: マリオテニスGB
+  updates: []
+- regions:
+  - US
+  id: 00040000000D3D00
+  name: Mario Tennis™
+  updates: []

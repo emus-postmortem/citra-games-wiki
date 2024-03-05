@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000012EA00
+  name: "Hello Kitty & Friends: Rockin' World Tour"
+  updates: []
+- regions:
+  - JP
+  id: 0004000000134200
+  name: ハローキティとサンリオキャラ クターズ ワールドロックツアー
+  updates: []

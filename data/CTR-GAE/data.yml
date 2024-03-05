@@ -1,0 +1,17 @@
+platform: GameGear
+releases:
+- regions:
+  - EU
+  id: 0004000000088400
+  name: 'Columns™ '
+  updates: []
+- regions:
+  - JP
+  id: 0004000000085500
+  name: コラムス
+  updates: []
+- regions:
+  - US
+  id: 000400000008BE00
+  name: Columns™
+  updates: []

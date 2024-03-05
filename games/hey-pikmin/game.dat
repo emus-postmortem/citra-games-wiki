@@ -1,0 +1,29 @@
+title = "Hey! Pikmin"
+description = "Hey! Pikmin is a Pikmin spin-off game for the Nintendo 3DS. Unlike the main games in the series, which are 3D real-time strategy and action games, this is a 2.5D puzzle platformer."
+needs_system_files = false
+needs_shared_font = true
+
+[[releases]]
+title = "00040000001AFA00"
+region = "usa"
+release_date = "2017-07-28"
+
+[[releases]]
+title = "00040000001AF800"
+region = "eur"
+release_date = "2017-07-28"
+
+[[releases]]
+title = "00040000001A9200"
+region = "jpn"
+release_date = "2017-07-13"
+
+[[testcases]]
+title = "00040000001AF800"
+compatibility = "1"
+date = "2017-09-11"
+version = "HEAD-5880771"
+cpu = "Intel Core i3-4150"
+gpu = "Intel HD Graphics 4400"
+os = "Windows 7 7600"
+author = "valentinvanelslande"

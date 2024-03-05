@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000074600
+  name: ドラゴンクエストモンスターズ テリーのワンダーランド3D
+  updates:
+  - id: 0004000E00074600
+    name: 更新データ Ver. 1.1 DQM テリーのワンダーランド3D

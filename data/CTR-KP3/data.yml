@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001A5B00
+  name: ようこそ！ペットホテル
+  updates: []
+- regions:
+  - US
+  id: 0004000000186A00
+  name: PET INN 3D
+  updates: []

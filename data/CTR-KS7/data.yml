@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001B1A00
+  name: Mercenaries Saga 3
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A8E00
+  name: マーセナリーズサーガ3
+  updates: []
+- regions:
+  - US
+  id: 00040000001B1C00
+  name: Mercenaries Saga 3
+  updates: []

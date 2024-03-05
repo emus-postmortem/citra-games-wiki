@@ -1,0 +1,7 @@
+platform: GameBoy
+releases:
+- regions:
+  - JP
+  id: 000400000008E400
+  name: ダウンタウン熱血行進曲 どこでも大運動会
+  updates: []

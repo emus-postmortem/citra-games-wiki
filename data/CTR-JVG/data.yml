@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000012B700
+  name: ぐんまのやぼう for ニンテンドー3DS
+  updates:
+  - id: 0004000E0012B700
+    name: 更新データ Ver. 1.0.3 ぐんまのやぼう for ニンテンドー3DS

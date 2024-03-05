@@ -1,0 +1,19 @@
+title = "Etrian Odyssey V: Beyond the Myth"
+description = "Etrian Odyssey V: Beyond the Myth is a dungeon crawling, initiative-turn-based RPG where you map out the dungeons yourself as you progress. It was developed and published by Atlus and localized by their USA division later."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001C5100"
+region = "usa"
+release_date = "2017-10-17"
+
+[[releases]]
+title = "00040000001C5300"
+region = "eur"
+release_date = "2017-11-03"
+
+[[ releases ]]
+title = "000400000018D000"
+region = "jpn"
+release_date = "2016-08-04"

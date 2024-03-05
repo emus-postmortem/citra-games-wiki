@@ -1,0 +1,27 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000147B00
+  name: Dedede’s Drum Dash™ Deluxe
+  updates: []
+- regions:
+  - JP
+  id: 000400000012F000
+  name: デデデ大王のデデデでデンZ
+  updates: []
+- regions:
+  - KR
+  id: 0004000000147C00
+  name: 대왕 디디디로 쿵쿵 Z
+  updates: []
+- regions:
+  - TW
+  id: 0004000000147D00
+  name: Dedede's Drum Dash Deluxe(英文版)
+  updates: []
+- regions:
+  - US
+  id: 0004000000147A00
+  name: Dedede’s Drum Dash Deluxe
+  updates: []

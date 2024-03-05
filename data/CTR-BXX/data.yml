@@ -1,0 +1,26 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000185B00
+  name: Monster Hunter™ Generations
+  updates: []
+- regions:
+  - JP
+  id: 0004000000155400
+  name: モンスターハンタークロス
+  updates:
+  - id: 0004000E00155400
+    name: 更新データ Ver. 1.3.0 モンスターハンタークロス
+- regions:
+  - TW
+  id: 000400000017EC00
+  name: MONSTER HUNTER® X (日文版)
+  updates:
+  - id: 0004000E0017EC00
+    name: MONSTER HUNTER X 更新資料 Ver. 1.3.0
+- regions:
+  - US
+  id: 0004000000187000
+  name: Monster Hunter Generations™
+  updates: []

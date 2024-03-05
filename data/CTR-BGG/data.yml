@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000126400
+  name: ぐるぐるたまごっち!
+  updates: []

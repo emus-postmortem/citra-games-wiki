@@ -1,0 +1,24 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000149F00
+  name: 'Persona Q: Shadow of the Labyrinth'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000C3600
+  name: ペルソナQ シャドウ オブ ザ ラビリンス
+  updates:
+  - id: 0004000E000C3600
+    name: 更新データ Ver. 1.2 ペルソナQ シャドウ オブ ザ ラビリンス
+- regions:
+  - KR
+  id: 0004000000145C00
+  name: 페르소나 Q 섀도우 오브 더 래버린스
+  updates: []
+- regions:
+  - US
+  id: 0004000000123400
+  name: 'Persona Q: Shadow  of the Labyrinth'
+  updates: []

@@ -1,0 +1,22 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 0004000000057D00
+  name: 'Wario Land: Super Mario Land 3'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000057B00
+  name: スーパーマリオランド3 ワリオランド
+  updates: []
+- regions:
+  - KR
+  id: 0004000000181A00
+  name: 'Wario Land: Super Mario Land 3'
+  updates: []
+- regions:
+  - US
+  id: 0004000000057C00
+  name: 'Wario Land™:  Super Mario Land™ 3'
+  updates: []

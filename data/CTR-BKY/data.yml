@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000157000
+  name: Hello Kitty & Sanrio Friends 3D Racing
+  updates: []
+- regions:
+  - JP
+  id: 000400000016BC00
+  name: ハローキティの キラキラわくわくレース
+  updates: []
+- regions:
+  - US
+  id: 000400000014EF00
+  name: Hello Kitty and Sanrio Friends 3D Racing
+  updates: []

@@ -1,0 +1,14 @@
+title = "Sonic & All-Stars Racing Transformed"
+description = "Sonic & All-Stars Racing Transformed is a kart racing video game developed by Sumo Digital and published by Sega. Released in February 2013, Sonic & All-Stars Racing Transformed is the sequel to Sonic & Sega All-Stars Racing, the fourth installment in the Sega Superstars series, and the eighth racing game in the Sonic the Hedgehog series."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000000B3500"
+region = "usa"
+release_date = "2013-02-12"
+
+[[releases]]
+title = "000400000008FC00"
+region = "eur"
+release_date = "2013-02-08"

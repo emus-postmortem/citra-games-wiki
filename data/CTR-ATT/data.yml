@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000032B00
+  name: コンバット オブ ジャイアント ダイナソー3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000035100
+  name: Combat of Giants™ Dinosaurs 3D
+  updates: []

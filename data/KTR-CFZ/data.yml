@@ -1,0 +1,7 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000F712900
+  name: ドラゴンファングZ 竜者ロゼと宿り木の迷宮
+  updates: []

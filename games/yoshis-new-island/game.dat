@@ -1,0 +1,30 @@
+title = "Yoshi's New Island"
+description = "Yoshi's New Island is a platforming game developed by Arzest and published by Nintendo for the Nintendo 3DS handheld game console. Yoshi's New Island is the successor to the 1995 game Super Mario World 2: Yoshi's Island and the 2006 game Yoshi's Island DS, but chronologically takes place between them."
+needs_system_files = false
+needs_shared_font = true
+incomplete = true
+
+[[ releases ]]
+title = "0004000000111B00"
+region = "usa"
+release_date = "2014-03-14"
+
+[[ releases ]]
+title = "0004000000111C00"
+region = "eur"
+release_date = "2014-03-14"
+
+[[ releases ]]
+title = "0004000000083B00"
+region = "jpn"
+release_date = "2014-07-24"
+
+[[ testcases ]]
+title = "0004000000111B00"
+compatibility = "0"
+date = "2017-07-04"
+version = "HEAD-22e7402"
+author = "DrewThatGamer"
+cpu = "Intel Core i5 6400"
+gpu = "NVIDIA GeForce GTX 1050"
+os = "Windows 10"

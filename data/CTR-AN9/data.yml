@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000A9800
+  name: nicola監修 モデル☆おしゃれ オーディション プラチナ
+  updates:
+  - id: 0004000E000A9800
+    name: 更新データ Ver. 1.1 nicola監修 モデル☆おしゃれオーディション プラチナ

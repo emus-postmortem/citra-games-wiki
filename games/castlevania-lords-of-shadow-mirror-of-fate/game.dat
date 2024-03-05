@@ -1,0 +1,30 @@
+title = "Castlevania Lords Of Shadow - Mirror of Fate"
+description = "The player assumes the role of Gabriel Belmont, his son Trevor Belmont, grandson Simon Belmont (Trevor's son), and Alucard. Mirror of Fate is a side-scrolling action-adventure game."
+incomplete = true
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000096600"
+region = "usa"
+release_date = "2013-03-05"
+
+[[ releases ]]
+title = "000400000009E500"
+region = "eur"
+release_date = "2013-03-08"
+
+[[ releases ]]
+title = "00040000000BAC00"
+region = "jpn"
+release_date = "2013-03-20"
+
+[[ testcases ]]
+compatibility = "4"
+date = "2017-06-19"
+title = "000400000009E500"
+version = "HEAD-d0888f8"
+author = "Kloen"
+cpu = "Intel Core i5-760"
+gpu = "AMD Radeon HD 5670"
+os = "Windows 10 Education 1511"

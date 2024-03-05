@@ -1,0 +1,24 @@
+title = "Tappingo"
+description = "Tappingo is an awesome new puzzle game, in which you create small pictures by solving puzzles. Your goal is to solve each puzzle picture by making all the numbered blocks extend into lines of the correct length. The number on each block indicates exactly how long the line needs to be."
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000117600"
+region = "eur"
+release_date = "2014-06-03"
+
+[[ releases ]]
+title = "0004000000119800"
+region = "usa"
+release_date = "2014-02-27"
+
+[[ testcases ]]
+title = "0004000000119800"
+compatibility = "1"
+date = "2017-06-16"
+version = "HEAD-8658bb7"
+author = "Stewartisme"
+cpu = "Intel Core i5-4460"
+gpu = "NVIDIA GeForce GTX 960"
+os = "Windows 7 Ultimate 64-bit"

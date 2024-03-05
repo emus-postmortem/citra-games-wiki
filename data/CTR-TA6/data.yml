@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 000400000009A100
+  name: PAC-MAN™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000099F00
+  name: パックマン
+  updates: []
+- regions:
+  - US
+  id: 000400000009A000
+  name: PAC-MAN®
+  updates: []

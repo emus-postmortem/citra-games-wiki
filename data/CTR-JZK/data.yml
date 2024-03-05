@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000127000
+  name: Color Zen Kids
+  updates: []
+- regions:
+  - US
+  id: 0004000000124E00
+  name: Color Zen Kids
+  updates: []

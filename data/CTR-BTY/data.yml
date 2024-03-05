@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001AE900
+  name: Japanese Rail Sim 3D Monorail Trip to Okinawa
+  updates: []
+- regions:
+  - JP
+  id: 0004000000176600
+  name: 鉄道にっぽん!路線たび ゆいレール編
+  updates: []
+- regions:
+  - US
+  id: 00040000001A5D00
+  name: Japanese Rail Sim 3D Monorail Trip to Okinawa
+  updates: []

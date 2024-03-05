@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F710D00
+  name: UP UP BOT
+  updates: []
+- regions:
+  - US
+  id: 000400000F711000
+  name: UP UP BOT
+  updates: []

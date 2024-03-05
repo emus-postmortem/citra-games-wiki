@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000017FF00
+  name: Mini Golf Resort
+  updates: []

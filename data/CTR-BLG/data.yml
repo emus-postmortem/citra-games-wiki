@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000013D600
+  name: I Love My Little Girl
+  updates: []
+- regions:
+  - US
+  id: 0004000000141900
+  name: I Love My Little Girl
+  updates: []

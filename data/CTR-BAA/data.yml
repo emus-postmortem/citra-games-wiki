@@ -1,0 +1,24 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000019BE00
+  name: 'Mario Party™: Star Rush'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000193900
+  name: マリオパーティ スターラッシュ
+  updates: []
+- regions:
+  - KR
+  id: 00040000001AC700
+  name: 마리오 파티 스타 러시
+  updates:
+  - id: 0004000E001AC700
+    name: 업데이트 데이터 Ver. 1.1 마리오 파티 스타 러시
+- regions:
+  - US
+  id: 000400000019BD00
+  name: Mario Party™ Star Rush
+  updates: []

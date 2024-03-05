@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001A1400
+  name: デジコロ ケシカスくん Vol.003 よっちゃんの不思議な釣り!?
+  updates: []

@@ -1,0 +1,9 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000DBD00
+  name: SIMPLEシリーズ for ニンテンドー3DS Vol.1 THE 麻雀
+  updates:
+  - id: 0004000E000DBD00
+    name: 更新データ Ver. 1.3 SIMPLEシリーズ for ニンテンドー3DS Vol.1 THE 麻雀

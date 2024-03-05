@@ -1,0 +1,26 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000016E600
+  name: 'Shin Megami Tensei: Devil Survivor 2: Record Breaker'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000C3A00
+  name: デビルサバイバー2 ブレイクレコード
+  updates:
+  - id: 0004000E000C3A00
+    name: 更新データ Ver. 1.1 デビルサバイバー2 ブレイクレコード
+- regions:
+  - KR
+  id: 000400000015EC00
+  name: 데빌 서바이버2 브레이크 레코드
+  updates:
+  - id: 0004000E0015EC00
+    name: 업데이트 데이터 Ver. 1.1 데빌 서바이버2 브레이크 레코드
+- regions:
+  - US
+  id: 0004000000159500
+  name: 'Shin Megami Tensei: Devil  Survivor 2: Record Breaker'
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000D4A00
+  name: Star Wars Pinball
+  updates: []
+- regions:
+  - US
+  id: 00040000000E6800
+  name: Star Wars Pinball
+  updates: []

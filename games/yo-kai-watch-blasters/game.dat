@@ -1,0 +1,44 @@
+title = "Yo-kai Watch Blasters"
+description = "Yo-kai Watch Blasters (Busters in Korea/Japan) is an action RPG spin-off of the Yo-kai Watch series. It was developed and published by Level-5 in Japan, and by Nintendo in overseas territories. It was released as a pair titled Red Cat Corps and White Dog Squad, and a free content update titled Moon Rabbit Crew was released later."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "04000000001CEB00"
+region = "usa"
+release_date = "2018-09-07"
+
+[[releases]]
+title = "00040000001CEF00"
+region = "usa"
+release_date = "2018-09-07"
+
+[[releases]]
+title = "00040000001CB000"
+region = "eur"
+release_date = "2018-09-07"
+
+[[releases]]
+title = "00040000001CF000"
+region = "eur"
+release_date = "2018-09-07"
+
+[[releases]]
+title = "000400000016C700"
+region = "jpn"
+release_date = "2015-07-11"
+
+[[releases]]
+title = "000400000016C600"
+region = "jpn"
+release_date = "2015-07-11"
+
+[[releases]]
+title = "00040000001CED00"
+region = "kor"
+release_date = "2018-04-19"
+
+[[releases]]
+title = "00040000001CF200"
+region = "kor"
+release_date = "2018-04-19"

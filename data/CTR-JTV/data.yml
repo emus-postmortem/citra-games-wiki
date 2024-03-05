@@ -1,0 +1,27 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000012CC00
+  name: Toy Stunt Bike
+  updates: []
+- regions:
+  - JP
+  id: 0004000000156D00
+  name: トイスタントバイク
+  updates: []
+- regions:
+  - KR
+  id: 0004000000166600
+  name: Toy Stunt Bike
+  updates: []
+- regions:
+  - TW
+  id: 0004000000166400
+  name: Toy Stunt Bike(日文版)
+  updates: []
+- regions:
+  - US
+  id: 0004000000125400
+  name: Toy Stunt Bike
+  updates: []

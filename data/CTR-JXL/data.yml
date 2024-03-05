@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000F3D00
+  name: グレコからの挑戦状! 漢字の館とオバケたち 小学6年生
+  updates: []

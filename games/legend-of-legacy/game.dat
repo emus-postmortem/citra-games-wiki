@@ -1,0 +1,31 @@
+title = "The Legend of Legacy"
+description = "The game is a spiritual sequel to the SaGa series, and plays as a Japanese role-playing video game. However, while many games in the genre are rather linear in their progression, the game allows the player to freely progress through the game. The player is given a vague main goal in the beginning, and otherwise, it is up to the player to explore the game and figure out where to go from there."
+github_issues = [3056]
+incomplete = true
+needs_system_files = false
+needs_shared_font = true
+
+[[ releases ]]
+title = "000400000017C800"
+region = "eur"
+release_date = "2016-02-05"
+
+[[ releases ]]
+title = "000400000016DB00"
+region = "usa"
+release_date = "2015-10-13"
+
+[[ releases ]]
+title = "0004000000131C00"
+region = "jpn"
+release_date = "2015-01-22"
+
+[[ testcases ]]
+compatibility = "1"
+date = "2017-06-19"
+title = "000400000017C800"
+version = "HEAD-d0888f8"
+author = "Kloen"
+cpu = "Intel Core i5-760"
+gpu = "AMD Radeon HD 5670"
+os = "Windows 10 Education 1511"

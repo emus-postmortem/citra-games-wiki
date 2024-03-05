@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000145900
+  name: プチノベル「収斂の十二月」
+  updates: []

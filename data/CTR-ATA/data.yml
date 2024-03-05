@@ -1,0 +1,27 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000111C00
+  name: Yoshi's New Island™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000083B00
+  name: ヨッシー New アイランド
+  updates: []
+- regions:
+  - KR
+  id: 000400000012C500
+  name: 요시 New 아일랜드
+  updates: []
+- regions:
+  - TW
+  id: 000400000012CD00
+  name: ヨッシー New アイランド(日文版)
+  updates: []
+- regions:
+  - US
+  id: 0004000000111B00
+  name: Yoshi's New Island
+  updates: []

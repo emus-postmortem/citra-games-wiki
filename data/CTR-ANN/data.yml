@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000D3F00
+  name: 忍者じゃじゃ丸くん さくら姫と火竜のひみつ
+  updates: []

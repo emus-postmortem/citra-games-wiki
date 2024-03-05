@@ -1,0 +1,17 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F708B00
+  name: SHOOT THE BALL
+  updates: []
+- regions:
+  - JP
+  id: 000400000F709900
+  name: SHOOT THE BALL
+  updates: []
+- regions:
+  - US
+  id: 000400000F708800
+  name: SHOOT THE BALL
+  updates: []

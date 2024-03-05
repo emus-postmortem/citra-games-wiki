@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001AFF00
+  name: 桃太郎電鉄2017 たちあがれ日本!! 持っている人と対戦版
+  updates:
+  - id: 0004000E001AFF00
+    name: 更新データ Ver. 1.1 桃太郎電鉄2017 たちあがれ日本!! 持っている人と対戦版

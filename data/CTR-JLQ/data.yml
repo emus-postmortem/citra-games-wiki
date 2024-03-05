@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000117D00
+  name: Rubik's® Cube
+  updates: []
+- regions:
+  - US
+  id: 000400000010BD00
+  name: Rubik's® Cube
+  updates: []

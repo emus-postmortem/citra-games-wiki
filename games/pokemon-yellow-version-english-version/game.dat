@@ -1,0 +1,26 @@
+title = "Pokémon Yellow"
+description = "Pokémon Yellow is an enhanced version of the Game Boy games Pokémon Red and Blue. Like its predecessors, it is a third-person, overhead perspective and consists of three basic screens: an overworld, in which the player navigates the main character; a side-view battle screen; and a menu interface, in which the player configures his or her Pokémon, items, or gameplay settings. The player can use his or her Pokémon to battle other Pokémon."
+needs_system_files = false
+needs_shared_font = true
+game_type = "vc"
+vc_system = "gb"
+
+[[releases]]
+title = "0004000000171200"
+region = "usa"
+release_date = "2016-02-17"
+
+[[releases]]
+title = "000400000B000200"
+region = "eur"
+release_date = "2016-02-17"
+
+[[testcases]]
+title = "0004000000171200"
+compatibility = "1"
+date = "2017-11-22"
+version = "HEAD-b7cf793"
+cpu = "AMD Ryzen 5 1600"
+gpu = "Nvidia GeForce GTX 1060"
+os = "Windows 10 16299"
+author = "Distantworld101"

@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 0004000000150C00
+  name: Asterix The Mansions of the Gods
+  updates: []

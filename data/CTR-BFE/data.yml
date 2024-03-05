@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001CDF00
+  name: 大戦略　大東亜興亡史DX ～第二次世界大戦～
+  updates: []

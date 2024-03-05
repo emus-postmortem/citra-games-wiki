@@ -1,0 +1,17 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000C4400
+  name: NARUTO Powerful Shippuden
+  updates: []
+- regions:
+  - JP
+  id: 00040000000AFE00
+  name: NARUTO-ナルト-SD パワフル疾風伝
+  updates: []
+- regions:
+  - TW
+  id: 00040000000C1F00
+  name: 火影忍者 SD 力量全開疾風傳 (日文版)
+  updates: []

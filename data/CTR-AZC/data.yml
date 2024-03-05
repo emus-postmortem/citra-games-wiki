@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000A4D00
+  name: 戦国無双 Chronicle 2nd
+  updates:
+  - id: 0004000E000A4D00
+    name: 更新データ Ver. 1.1 戦国無双 Chronicle 2nd

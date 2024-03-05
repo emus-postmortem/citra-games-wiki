@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000F4300
+  name: PAC-MAN and the Ghostly Adventures
+  updates: []
+- regions:
+  - JP
+  id: 00040000000F5400
+  name: パックワールド
+  updates: []
+- regions:
+  - US
+  id: 00040000000F1200
+  name: PAC-MAN and the Ghostly Adventures
+  updates: []

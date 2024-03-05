@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000014A100
+  name: Luv Me Buddies Wonderland
+  updates: []

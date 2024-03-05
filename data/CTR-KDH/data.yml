@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000184500
+  name: 脱出アドベンチャー 神降しの占い盤
+  updates: []

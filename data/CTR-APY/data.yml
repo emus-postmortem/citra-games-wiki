@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 000400000004D400
+  name: ドッグスクール ラブリーパピー
+  updates: []

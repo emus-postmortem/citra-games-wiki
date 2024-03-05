@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000157200
+  name: Sumico
+  updates: []
+- regions:
+  - JP
+  id: 0004000000191400
+  name: ツナガレ・ナンバーズ
+  updates: []
+- regions:
+  - US
+  id: 000400000015C200
+  name: Sumico
+  updates: []

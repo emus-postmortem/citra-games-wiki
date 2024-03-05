@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000153F00
+  name: 梨汁アクション! ふなっしーの愉快なおはなっしー
+  updates: []

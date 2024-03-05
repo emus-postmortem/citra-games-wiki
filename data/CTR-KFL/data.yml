@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000015B100
+  name: 'IronFall: Invasion'
+  updates: []
+- regions:
+  - JP
+  id: 000400000017D000
+  name: IRONFALL -Invasion-
+  updates: []
+- regions:
+  - TW
+  id: 000400000017BF00
+  name: IRONFALL -Invasion- (日文版)
+  updates: []
+- regions:
+  - US
+  id: 000400000015D800
+  name: IRONFALL Invasion
+  updates: []

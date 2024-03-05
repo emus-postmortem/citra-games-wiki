@@ -1,0 +1,28 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000165600
+  name: Azure Striker GUNVOLT
+  updates: []
+- regions:
+  - JP
+  id: 000400000012A700
+  name: 蒼き雷霆 ガンヴォルト
+  updates:
+  - id: 0004000E0012A700
+    name: 更新データ Ver. 1.2 蒼き雷霆 ガンヴォルト
+- regions:
+  - KR
+  id: 000400000015BD00
+  name: Azure Striker GUNVOLT
+  updates:
+  - id: 0004000E0015BD00
+    name: 업데이트 데이터 Ver. 1.2 Azure Striker GUNVOLT
+- regions:
+  - US
+  id: 000400000014C800
+  name: Azure Striker GUNVOLT
+  updates:
+  - id: 0004000E0014C800
+    name: Azure Striker GUNVOLT Update Ver. 1.4

@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001A7300
+  name: ヘボット！ ヘボヘボ! ヘボットーナメント!
+  updates:
+  - id: 0004000E001A7300
+    name: 更新データ Ver. 1.1.0 ヘボット！ ヘボヘボ! ヘボットーナメント!

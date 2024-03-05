@@ -1,0 +1,17 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 00040000000EF600
+  name: Mega Man™ 3
+  updates: []
+- regions:
+  - JP
+  id: 00040000000EF400
+  name: ロックマンワールド3
+  updates: []
+- regions:
+  - US
+  id: 00040000000EF500
+  name: Mega Man III™
+  updates: []

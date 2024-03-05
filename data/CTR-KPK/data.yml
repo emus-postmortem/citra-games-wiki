@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000189300
+  name: みつけて！ おじぽっくる＋（プラス）
+  updates: []

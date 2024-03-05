@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000139F00
+  name: ぐ～にゃん
+  updates: []
+- regions:
+  - KR
+  id: 0004000000166800
+  name: Goonyan
+  updates: []
+- regions:
+  - TW
+  id: 0004000000179100
+  name: Goonyan(日文版)
+  updates: []

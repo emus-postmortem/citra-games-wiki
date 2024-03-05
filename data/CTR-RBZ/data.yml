@@ -1,0 +1,17 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 000400000008B100
+  name: Kirby's Pinball Land
+  updates: []
+- regions:
+  - JP
+  id: 0004000000089C00
+  name: カービィのピンボール
+  updates: []
+- regions:
+  - US
+  id: 000400000008B000
+  name: Kirby's Pinball Land™
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000112900
+  name: ドラえもん 新･のび太の大魔境 ～ペコと5人の探検隊～
+  updates: []

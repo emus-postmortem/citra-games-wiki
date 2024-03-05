@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001AEC00
+  name: Collide-a-Ball
+  updates: []
+- regions:
+  - JP
+  id: 000400000017AE00
+  name: 出会い玉
+  updates: []
+- regions:
+  - US
+  id: 00040000001A1800
+  name: Collide-a-Ball
+  updates: []

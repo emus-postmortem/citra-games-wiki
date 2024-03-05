@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000043B00
+  name: 'Thor™: God of Thunder'
+  updates: []
+- regions:
+  - US
+  id: 0004000000040500
+  name: 'Thor™: God of Thunder'
+  updates: []

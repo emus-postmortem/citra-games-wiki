@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000071A00
+  name: SDガンダム GGENERATION 3D
+  updates: []

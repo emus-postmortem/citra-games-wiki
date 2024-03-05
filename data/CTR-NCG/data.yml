@@ -1,0 +1,14 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  - KR
+  - US
+  id: 00040000000AE100
+  name: Pokémon™ Dream Radar
+  updates: []
+- regions:
+  - JP
+  id: 0004000000073200
+  name: ポケモンARサーチャー
+  updates: []

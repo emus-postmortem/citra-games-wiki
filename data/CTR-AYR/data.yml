@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000168B00
+  name: 'YAKARI: The Mystery of Four-Seasons'
+  updates: []

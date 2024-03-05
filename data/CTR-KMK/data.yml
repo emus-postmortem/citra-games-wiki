@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000016A700
+  name: 'Musicverse: Electronic Keyboard'
+  updates: []
+- regions:
+  - JP
+  id: 000400000018CB00
+  name: Musicverse バーチャル キーボード
+  updates: []
+- regions:
+  - US
+  id: 000400000016A800
+  name: 'Musicverse: Electronic Keyboard'
+  updates: []

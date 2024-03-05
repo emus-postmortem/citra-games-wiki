@@ -1,0 +1,9 @@
+title = "Dragon Ball Heroes: Ultimate Mission"
+description = "Dragon Ball Heroes: Ultimate Mission is a port of the Japanese card-based fighting arcade game \"Dragon Ball Heroes\", in which the player can experience the different stories of the Dragon Ball series, including movies and spinoffs like Dragon Ball GT."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000000AD900"
+region = "jpn"
+release_date = "2013-02-28"

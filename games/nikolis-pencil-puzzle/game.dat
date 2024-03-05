@@ -1,0 +1,19 @@
+title = "Nikoli's Pencil Puzzle"
+description = "Nikoli's Pencil Puzzle, known as \"Sudoku: The Puzzle Game Collection\" in Europe and \"Sudoku to 3-Tsu no Puzzle: Nikoli no Puzzle Variety\" in Japan, is a puzzle video game developed and published by Hudson. It is a collection of 600 puzzles including Sudoku, Bridges, Boxes and Museum types."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000048C00"
+region = "usa"
+release_date = "2011-10-25"
+
+[[releases]]
+title = "0004000000043400"
+region = "eur"
+release_date = "2011-06-10"
+
+[[releases]]
+title = "0004000000034000"
+region = "jpn"
+release_date = "2011-06-02"

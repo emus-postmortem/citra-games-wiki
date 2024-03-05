@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D3E00
+  name: SPACE DEFENDER BATTLE INFINITY
+  updates: []
+- regions:
+  - US
+  id: 00040000001D2700
+  name: SPACE DEFENDER
+  updates: []

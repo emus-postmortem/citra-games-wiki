@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001AFB00
+  name: おそ松さん 松まつり！
+  updates:
+  - id: 0004000E001AFB00
+    name: 更新データ Ver. 1.0.1 おそ松さん 松まつり！

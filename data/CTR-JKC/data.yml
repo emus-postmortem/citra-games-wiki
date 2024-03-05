@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001A3300
+  name: いかちゃん
+  updates: []
+- regions:
+  - US
+  id: 00040000000C4300
+  name: Ikachan
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001A6C00
+  name: '7th Dragon III Code: VFD'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000115400
+  name: セブンスドラゴンⅢ code:VFD
+  updates: []
+- regions:
+  - US
+  id: 000400000018F800
+  name: '7th Dragon III Code: VFD'
+  updates: []

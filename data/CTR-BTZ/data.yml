@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000199200
+  name: ドラゴンクエストXI 過ぎ去りし時を求めて
+  updates: []

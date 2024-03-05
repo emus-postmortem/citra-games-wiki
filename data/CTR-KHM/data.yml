@@ -1,0 +1,27 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000176300
+  name: The Magic Hammer
+  updates: []
+- regions:
+  - JP
+  id: 0004000000194C00
+  name: マジックハンマー
+  updates: []
+- regions:
+  - KR
+  id: 000400000019B800
+  name: Magic Hammer
+  updates: []
+- regions:
+  - TW
+  id: 000400000019A100
+  name: Magic Hammer (日文版)
+  updates: []
+- regions:
+  - US
+  id: 000400000016F300
+  name: The Magic Hammer
+  updates: []

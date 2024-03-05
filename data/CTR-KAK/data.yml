@@ -1,0 +1,27 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000182A00
+  name: JOHNNY'S PAYDAY PANIC
+  updates: []
+- regions:
+  - JP
+  id: 000400000016FC00
+  name: 激働!アルバイターKOJI
+  updates: []
+- regions:
+  - KR
+  id: 0004000000184600
+  name: JOHNNY'S PAYDAY PANIC
+  updates: []
+- regions:
+  - TW
+  id: 000400000017A900
+  name: Johnny's Payday Panic(英日版)
+  updates: []
+- regions:
+  - US
+  id: 0004000000183000
+  name: JOHNNY'S PAYDAY PANIC
+  updates: []

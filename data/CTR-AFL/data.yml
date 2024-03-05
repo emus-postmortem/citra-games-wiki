@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000113100
+  name: Fantasy Life™
+  updates: []
+- regions:
+  - US
+  id: 0004000000113200
+  name: Fantasy Life™
+  updates: []

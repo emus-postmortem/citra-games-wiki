@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000015FB00
+  name: Monster Hunter™ 4 Ultimate Special Demo
+  updates: []
+- regions:
+  - US
+  id: 000400000015FA00
+  name: Monster Hunter™ 4 Ultimate Special Demo
+  updates: []

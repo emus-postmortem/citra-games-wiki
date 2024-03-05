@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001AE300
+  name: ドラえもん のび太の南極カチコチ大冒険
+  updates: []

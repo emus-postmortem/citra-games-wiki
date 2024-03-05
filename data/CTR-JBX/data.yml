@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D0600
+  name: 'Big Bass Arcade: No Limit'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000110700
+  name: ビッグバス アーケード
+  updates: []
+- regions:
+  - US
+  id: 00040000000D6600
+  name: 'Big Bass Arcade: No Limit'
+  updates: []

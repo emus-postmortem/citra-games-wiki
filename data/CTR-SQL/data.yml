@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 00040000001D7E00
+  name: Games to Play on Halloween!
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001B3700
+  name: こねこのいえ2 ヒミツの箱から飛び出た夢
+  updates: []

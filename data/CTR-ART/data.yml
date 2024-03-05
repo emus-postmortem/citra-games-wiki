@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000006DA00
+  name: Rhythm Thief & the Emperor's Treasure
+  updates: []
+- regions:
+  - JP
+  id: 0004000000078100
+  name: リズム怪盗R 皇帝ナポレオンの遺産
+  updates: []
+- regions:
+  - KR
+  id: 00040000000C4200
+  name: Rhythm Thief & the Emperor’s Treasure™
+  updates: []
+- regions:
+  - US
+  id: 0004000000067600
+  name: Rhythm Thief & the Emperor's Treasure™
+  updates: []

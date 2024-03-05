@@ -1,0 +1,7 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000F70E700
+  name: 密着対戦スピード
+  updates: []

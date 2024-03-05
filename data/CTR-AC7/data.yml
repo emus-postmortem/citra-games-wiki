@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000CB500
+  name: Code of Princess
+  updates: []
+- regions:
+  - JP
+  id: 0004000000068000
+  name: CODE OF PRINCESS
+  updates: []

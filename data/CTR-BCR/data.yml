@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000157900
+  name: エースコンバット 3D クロスランブル +
+  updates:
+  - id: 0004000E00157900
+    name: 更新データ Ver. 2.1.0 エースコンバット 3D クロスランブル +

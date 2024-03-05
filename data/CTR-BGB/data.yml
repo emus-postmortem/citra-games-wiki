@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000105200
+  name: クレヨンしんちゃん 嵐を呼ぶ カスカベ映画スターズ!
+  updates: []

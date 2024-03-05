@@ -1,0 +1,7 @@
+platform: GameBoy
+releases:
+- regions:
+  - JP
+  id: 000400000009D700
+  name: 熱血硬派くにおくん 番外乱闘編
+  updates: []

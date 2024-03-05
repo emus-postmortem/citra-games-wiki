@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000E7300
+  name: '10-in-1: Arcade Collection'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000123300
+  name: 9-in-1 アーケードコレクション
+  updates: []
+- regions:
+  - US
+  id: 00040000000C1400
+  name: '10-in-1: Arcade Collection'
+  updates: []

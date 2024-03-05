@@ -1,0 +1,17 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 000400000004FC00
+  name: PAC-MAN™
+  updates: []
+- regions:
+  - JP
+  id: 000400000004FA00
+  name: パックマン
+  updates: []
+- regions:
+  - US
+  id: 000400000004FB00
+  name: PAC-MAN®
+  updates: []

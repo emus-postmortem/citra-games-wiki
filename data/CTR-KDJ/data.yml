@@ -1,0 +1,24 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001B7C00
+  name: Frontier Days Founding Pioneers
+  updates: []
+- regions:
+  - JP
+  id: 000400000017DD00
+  name: 大開拓時代 ～街をつくろう～
+  updates:
+  - id: 0004000E0017DD00
+    name: 更新データ Ver. 1.2.0 大開拓時代 ～街をつくろう～
+- regions:
+  - KR
+  id: 00040000001B8200
+  name: 대개척시대 도시를 만들자
+  updates: []
+- regions:
+  - US
+  id: 00040000001B7200
+  name: Frontier Days Founding Pioneers
+  updates: []

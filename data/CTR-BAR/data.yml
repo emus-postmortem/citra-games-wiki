@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000166E00
+  name: モンハン日記 ぽかぽかアイルー村DX
+  updates: []

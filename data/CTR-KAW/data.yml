@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001C6400
+  name: Alchemic Dungeons
+  updates: []
+- regions:
+  - JP
+  id: 00040000001C3200
+  name: アルケミックダンジョンズ
+  updates: []
+- regions:
+  - US
+  id: 00040000001C6B00
+  name: Alchemic Dungeons
+  updates: []

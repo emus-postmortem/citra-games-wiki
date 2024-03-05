@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 000400000009E300
+  name: Super C
+  updates: []
+- regions:
+  - JP
+  id: 000400000009E000
+  name: SUPER魂斗羅
+  updates: []
+- regions:
+  - US
+  id: 000400000009E100
+  name: Super C™
+  updates: []

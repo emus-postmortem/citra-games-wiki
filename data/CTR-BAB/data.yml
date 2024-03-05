@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001A6000
+  name: 'Mario Party™: Star Rush: Party Guest'
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A5E00
+  name: マリオパーティ スターラッシュ 持っている人と対戦版
+  updates: []
+- regions:
+  - KR
+  id: 00040000001AC800
+  name: 마리오 파티 스타 러시 파티 게스트
+  updates: []
+- regions:
+  - US
+  id: 00040000001A5F00
+  name: Mario Party™ Star Rush Party Guest Edition
+  updates: []

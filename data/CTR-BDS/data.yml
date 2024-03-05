@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000F9B00
+  name: ダービースタリオンGOLD
+  updates:
+  - id: 0004000E000F9B00
+    name: 更新データ Ver. 1.4 ダービースタリオンGOLD

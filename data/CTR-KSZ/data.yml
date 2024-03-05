@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001C1700
+  name: Of Mice And Sand
+  updates: []
+- regions:
+  - JP
+  id: 0004000000190B00
+  name: サバクのネズミ団！
+  updates: []
+- regions:
+  - KR
+  id: 00040000001BF800
+  name: 사막의 서생결단!
+  updates: []
+- regions:
+  - US
+  id: 00040000001C1A00
+  name: Of Mice And Sand
+  updates: []

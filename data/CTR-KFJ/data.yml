@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001C3D00
+  name: 'Mysterious Stars 3D: Road To Idol'
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A0F00
+  name: 不思議な点つなぎ3D アイドル編
+  updates: []
+- regions:
+  - US
+  id: 00040000001C0900
+  name: 'Mysterious Stars 3D: Road To Idol'
+  updates: []

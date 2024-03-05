@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000CFA00
+  name: Adventure Island II
+  updates: []
+- regions:
+  - JP
+  id: 00040000000CA600
+  name: 高橋名人の冒険島Ⅱ
+  updates: []
+- regions:
+  - US
+  id: 00040000000CA700
+  name: Adventure Island II
+  updates: []

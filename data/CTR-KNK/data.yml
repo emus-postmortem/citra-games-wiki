@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000156B00
+  name: ぬいぐるみのケーキ屋さん ミニ 魔法のパティシエール
+  updates: []

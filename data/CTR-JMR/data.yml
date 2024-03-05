@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000A7A00
+  name: '@SIMPLE DLシリーズ Vol.4 THE 密室からの脱出 南国のリゾート編'
+  updates: []

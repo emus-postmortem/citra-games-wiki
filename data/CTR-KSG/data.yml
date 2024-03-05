@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 000400000013D800
+  name: Scarygirl Illustration Kit
+  updates: []

@@ -1,0 +1,30 @@
+title = "The Legend of Dark Witch"
+description = "The Legend of Dark Witch is a 2D platform action game developed by Inside System / Flyhigh Works for the Nintendo 3DS."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[ releases ]]
+title = "0004000000145300"
+region = "jpn"
+release_date = "2014-08-06"
+
+[[ releases ]]
+title = "000400000014EE00"
+region = "usa"
+release_date = "2014-10-16"
+
+[[ releases ]]
+title = "0004000000148500"
+region = "eur"
+release_date = "2014-12-04"
+
+[[ testcases ]]
+title = "000400000014EE00"
+compatibility = "0"
+date = "2017-06-08"
+version = "HEAD-8c22334"
+author = "Clector"
+cpu = "Intel Core i3-4160"
+gpu = "Intel HD Graphics 4400"
+os = "Windows 8.1"

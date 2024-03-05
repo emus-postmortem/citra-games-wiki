@@ -1,0 +1,33 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000030700
+  name: Mario Kart™ 7
+  updates:
+  - id: 0004000E00030700
+    name: Mario Kart 7 Update data
+- regions:
+  - JP
+  id: 0004000000030600
+  name: マリオカート7
+  updates:
+  - id: 0004000E00030600
+    name: 更新データ Ver. 1.1 マリオカート7
+- regions:
+  - KR
+  id: 0004000000030A00
+  name: 마리오 카트 7
+  updates: []
+- regions:
+  - TW
+  id: 000400000008B400
+  name: 瑪利歐賽車7
+  updates: []
+- regions:
+  - US
+  id: 0004000000030800
+  name: Mario Kart™ 7
+  updates:
+  - id: 0004000E00030800
+    name: Mario Kart™ 7 Update Ver. 1.1

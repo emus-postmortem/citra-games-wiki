@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000F9800
+  name: 魔界王子 devils and realist 代理王の秘宝
+  updates: []

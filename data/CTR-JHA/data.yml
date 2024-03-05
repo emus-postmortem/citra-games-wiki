@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000C0A00
+  name: 3D Super Hang On
+  updates: []
+- regions:
+  - JP
+  id: 00040000000D7B00
+  name: 3D スーパーハングオン
+  updates: []
+- regions:
+  - US
+  id: 00040000000C0D00
+  name: 3D Super Hang-On
+  updates: []

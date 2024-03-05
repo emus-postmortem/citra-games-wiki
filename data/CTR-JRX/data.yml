@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000108D00
+  name: 'Retro City Rampage: DX'
+  updates: []
+- regions:
+  - US
+  id: 000400000010D200
+  name: 'Retro City Rampage™: DX'
+  updates: []

@@ -1,0 +1,10 @@
+title = "Woah Dave!"
+description = "Woah Dave! is a platform video game developed and published by MiniVisions. The game focuses around Dave Lonuts and his survival during an alien invasion."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "000400000013EE00"
+region = "usa"
+release_date = "2014-10-30"

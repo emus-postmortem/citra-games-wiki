@@ -1,0 +1,17 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 000400000011A400
+  name: Donkey Kong Land™ 2
+  updates: []
+- regions:
+  - JP
+  id: 000400000011A200
+  name: ドンキーコングランド
+  updates: []
+- regions:
+  - US
+  id: 000400000011A300
+  name: Donkey Kong Land 2™
+  updates: []

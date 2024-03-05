@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000CF500
+  name: ドラゴンクエストモンスターズ2 イルとルカの不思議なふしぎな鍵
+  updates:
+  - id: 0004000E000CF500
+    name: 更新データ Ver. 1.1 DQM2 イルとルカの不思議なふしぎな鍵

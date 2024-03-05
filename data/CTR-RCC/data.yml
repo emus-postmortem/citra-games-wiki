@@ -1,0 +1,17 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 00040000000B2800
+  name: 'Pinball: Revenge of the Gator'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000B2600
+  name: ピンボール66匹のワニ大行進
+  updates: []
+- regions:
+  - US
+  id: 00040000000B2700
+  name: 'Pinball: Revenge of the Gator'
+  updates: []

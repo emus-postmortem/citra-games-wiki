@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000018AC00
+  name: Mutant Mudds Super Challenge
+  updates: []
+- regions:
+  - US
+  id: 0004000000165A00
+  name: Mutant Mudds Super Challenge
+  updates: []

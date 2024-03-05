@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70A700
+  name: Super Destronaut 3D
+  updates: []
+- regions:
+  - US
+  id: 000400000F70A600
+  name: Super Destronaut 3D
+  updates: []

@@ -1,0 +1,7 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 000400000F711D00
+  name: 'Phasmophobia: Hall of Specters 3D'
+  updates: []

@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000118500
+  name: 公益財団法人 日本漢字能力検定 協会 漢検トレーニング
+  updates:
+  - id: 0004000E00118500
+    name: 更新データ Ver. 1.1 漢検トレーニング

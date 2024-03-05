@@ -1,0 +1,17 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 000400000007DF00
+  name: Castlevania The Adventure
+  updates: []
+- regions:
+  - JP
+  id: 000400000007DD00
+  name: ドラキュラ伝説
+  updates: []
+- regions:
+  - US
+  id: 000400000007DE00
+  name: 'Castlevania: The Adventure'
+  updates: []

@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000104A00
+  name: ジュエルペット カフェで魔法のクッキング!
+  updates:
+  - id: 0004000E00104A00
+    name: 更新データ Ver.1.1ジュエルペット カフェで魔法のクッキング!

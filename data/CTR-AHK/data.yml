@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000B7600
+  name: Around the World with Hello Kitty and Friends
+  updates: []
+- regions:
+  - JP
+  id: 0004000000080700
+  name: ハローキティとせかいりょこう! いろんなくにへ おでかけしましょ!
+  updates: []
+- regions:
+  - US
+  id: 00040000000B0500
+  name: Travel Adventures with  Hello Kitty®
+  updates: []

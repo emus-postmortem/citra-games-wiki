@@ -1,0 +1,19 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D3C00
+  name: 'Bloodstained: Curse of the Moon'
+  updates: []
+- regions:
+  - JP
+  id: 00040000001D3A00
+  name: 'Bloodstained: Curse of the Moon'
+  updates:
+  - id: 0004000E001D3A00
+    name: '更新データ Ver.1.1 Bloodstained: Curse of the Moon'
+- regions:
+  - US
+  id: 00040000001D4000
+  name: 'Bloodstained: Curse of the Moon'
+  updates: []

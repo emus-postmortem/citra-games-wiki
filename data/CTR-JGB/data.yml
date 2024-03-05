@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 00040000000E7700
+  name: Gabrielle's Ghostly Groove™ Mini
+  updates: []

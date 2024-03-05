@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001A3800
+  name: Geki Yaba Runner Deluxe
+  updates: []
+- regions:
+  - JP
+  id: 00040000001C1000
+  name: ゲキヤバランナーハバネロ
+  updates: []
+- regions:
+  - US
+  id: 00040000001A3100
+  name: Geki Yaba Runner Deluxe
+  updates: []

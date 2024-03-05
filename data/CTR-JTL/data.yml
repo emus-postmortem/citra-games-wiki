@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000146E00
+  name: タートルテイル 亀島奪回
+  updates: []

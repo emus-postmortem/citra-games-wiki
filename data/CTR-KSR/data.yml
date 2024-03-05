@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000015B800
+  name: 3D Streets of Rage 2
+  updates: []
+- regions:
+  - JP
+  id: 0004000000162500
+  name: 3D ベア･ナックルⅡ  死闘への鎮魂歌
+  updates: []
+- regions:
+  - US
+  id: 0004000000158300
+  name: 3D Streets of Rage 2
+  updates: []

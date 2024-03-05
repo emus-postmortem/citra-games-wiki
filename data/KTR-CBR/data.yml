@@ -1,0 +1,22 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F700900
+  name: 'The Binding of Isaac: Rebirth'
+  updates: []
+- regions:
+  - JP
+  id: 000400000F701700
+  name: ザ バインディング オブ アイザック:リバース
+  updates: []
+- regions:
+  - KR
+  id: 000400000F703900
+  name: '아이작의 번제: 리버스'
+  updates: []
+- regions:
+  - US
+  id: 000400000F700800
+  name: 'The Binding of Isaac: Rebirth'
+  updates: []

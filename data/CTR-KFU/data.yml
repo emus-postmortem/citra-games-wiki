@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000016CF00
+  name: Fairune2
+  updates: []
+- regions:
+  - JP
+  id: 000400000015E100
+  name: フェアルーン2
+  updates: []
+- regions:
+  - US
+  id: 000400000016D500
+  name: Fairune2
+  updates: []

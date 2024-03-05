@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F703300
+  name: Mega Man X2
+  updates: []
+- regions:
+  - JP
+  id: 000400000F703200
+  name: ロックマンX2
+  updates: []

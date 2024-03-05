@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000160A00
+  name: みんなのデコレーションカード
+  updates: []

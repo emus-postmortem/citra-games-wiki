@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F704300
+  name: Street Fighter™ Alpha 2
+  updates: []
+- regions:
+  - JP
+  id: 000400000F704200
+  name: ストリートファイターZERO2
+  updates: []

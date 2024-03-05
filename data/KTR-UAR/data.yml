@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F702F00
+  name: "Donkey Kong Country 3:  Dixie Kong's Double Trouble™"
+  updates: []
+- regions:
+  - JP
+  id: 000400000F702E00
+  name: スーパードンキーコング3 謎のクレミス島
+  updates: []

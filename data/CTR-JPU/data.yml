@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000016AF00
+  name: Steel Empire
+  updates: []
+- regions:
+  - JP
+  id: 000400000012A500
+  name: 鋼鉄帝国 STEEL EMPIRE
+  updates: []
+- regions:
+  - KR
+  id: 000400000017F700
+  name: 강철제국
+  updates: []
+- regions:
+  - US
+  id: 000400000013CD00
+  name: Steel Empire
+  updates: []

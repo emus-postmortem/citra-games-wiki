@@ -1,0 +1,25 @@
+title = "Kirby Fighters Deluxe"
+description = "Kirby Fighters Deluxe is a battle-action game developed by HAL Laboratory, where the player can use Kirby's Copy Abilities. It is an upgraded version of the Kirby: Triple Deluxe sub-game, Kirby Fighters. It has improved single and multi-player modes, as well as new items and stages."
+needs_system_files = false
+needs_shared_font = true
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000147E00"
+region = "usa"
+release_date = "2014-08-29"
+
+[[releases]]
+title = "0004000000147F00"
+region = "eur"
+release_date = "2015-02-13"
+
+[[testcases]]
+title = "0004000000147F00"
+compatibility = "0"
+date = "2017-11-01"
+version = "HEAD-ed17c54"
+cpu = "Intel Core i5-6400"
+gpu = "nVidia GeForce GTX 750TI"
+os = "Windows 10 15063"
+author = "Sedhaild"

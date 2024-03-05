@@ -1,0 +1,26 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001A2F00
+  name: 'River City: Tokyo Rumble'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000DC700
+  name: 熱血硬派くにおくんSP 乱闘協奏曲
+  updates:
+  - id: 0004000E000DC700
+    name: 更新データ Ver. 1.1 熱血硬派くにおくんSP 乱闘協奏曲
+- regions:
+  - KR
+  id: 0004000000188A00
+  name: 열혈경파 쿠니오군SP 난투협주곡
+  updates:
+  - id: 0004000E00188A00
+    name: 업데이트 데이터 Ver. 1.2 열혈경파 쿠니오군SP 난투협주곡
+- regions:
+  - US
+  id: 0004000000197700
+  name: 'River City: Tokyo Rumble'
+  updates: []

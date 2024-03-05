@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000B3900
+  name: 鉄道にっぽん!路線たび 長良川鉄道編
+  updates: []
+- regions:
+  - TW
+  id: 0004000000136A00
+  name: 鐵道日本！長良川鐵道 出發篇 (繁體中文版)
+  updates: []
+- regions:
+  - US
+  id: 0004000000161900
+  name: 'Japanese Rail Sim 3D Journey in Suburbs #1'
+  updates: []

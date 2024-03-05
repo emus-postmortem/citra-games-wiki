@@ -1,0 +1,27 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000005EE00
+  name: Resident Evil™ Revelations
+  updates: []
+- regions:
+  - JP
+  id: 0004000000053B00
+  name: バイオハザード リベレーションズ
+  updates: []
+- regions:
+  - KR
+  id: 000400000009FF00
+  name: 바이오하자드 레벌레이션스
+  updates: []
+- regions:
+  - TW
+  id: 00040000000A0000
+  name: BIOHAZARD REVELATIONS
+  updates: []
+- regions:
+  - US
+  id: 0004000000060200
+  name: Resident Evil® Revelations
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000064700
+  name: エースコンバット 3D クロスランブル
+  updates: []
+- regions:
+  - US
+  id: 0004000000064900
+  name: ACE COMBAT® Assault Horizon Legacy
+  updates: []

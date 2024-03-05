@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001AD000
+  name: A列車で行こう3D NEO
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000010A300
+  name: 'My Style Studio: Hair Salon'
+  updates: []
+- regions:
+  - US
+  id: 0004000000109A00
+  name: 'My Style Studio: Hair Salon'
+  updates: []

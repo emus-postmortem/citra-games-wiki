@@ -1,0 +1,22 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 0004000000058D00
+  name: 'The Legend of Zelda™: Oracle of Seasons'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000058B00
+  name: ゼルダの伝説 ふしぎの木の実 大地の章
+  updates: []
+- regions:
+  - KR
+  id: 0004000000191900
+  name: 'The Legend of Zelda: Oracle of Seasons'
+  updates: []
+- regions:
+  - US
+  id: 0004000000058C00
+  name: 'The Legend of Zelda™: Oracle of Seasons™'
+  updates: []

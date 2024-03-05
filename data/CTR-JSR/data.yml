@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000116300
+  name: 'Banana Bliss: Jungle Puzzles'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000D4500
+  name: スイートランデブー さるっぱ
+  updates: []
+- regions:
+  - US
+  id: 0004000000116B00
+  name: 'Banana Bliss: Jungle Puzzles'
+  updates: []

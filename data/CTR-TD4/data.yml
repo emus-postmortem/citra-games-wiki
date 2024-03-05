@@ -1,0 +1,7 @@
+platform: NES
+releases:
+- regions:
+  - JP
+  id: 000400000011AC00
+  name: シャドウゲイト
+  updates: []

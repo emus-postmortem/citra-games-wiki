@@ -1,0 +1,19 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000F5500
+  name: Soul Hackers
+  updates: []
+- regions:
+  - JP
+  id: 0004000000091000
+  name: デビルサマナー ソウルハッカーズ
+  updates:
+  - id: 0004000E00091000
+    name: 更新データ Ver. 1.1 デビルサマナー ソウルハッカーズ
+- regions:
+  - US
+  id: 00040000000C5600
+  name: 'Shin Megami Tensei®: Devil  Summoner®: Soul Hackers'
+  updates: []

@@ -1,0 +1,29 @@
+title = "Bravely Second: End Layer"
+description = "Bravely Second: End Layer is a Japanese role-playing video game developed by Silicon Studio and published by Square Enix for the Nintendo 3DS, and is the sequel to Bravely Default."
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "000400000017BA00"
+region = "usa"
+release_date = "2016-04-15"
+
+[[releases]]
+title = "000400000017BB00"
+region = "eur"
+release_date = "2016-02-26"
+
+[[releases]]
+title = "00040000000DC800"
+region = "jpn"
+release_date = "2015-04-23"
+
+[[testcases]]
+title = "000400000017BA00"
+compatibility = "1"
+date = "2017-10-07"
+version = "HEAD-84c344b"
+cpu = "Intel Core i7-7700HQ"
+gpu = "NVIDIA GeForce GTX 1060"
+os = "Windows 10 15063"
+author = "NeiBragwin"

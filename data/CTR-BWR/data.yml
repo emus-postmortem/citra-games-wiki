@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000149300
+  name: WRC The Official Game
+  updates: []
+- regions:
+  - US
+  id: 0004000000149600
+  name: WRC Official Game of the FIA World Rally Championship
+  updates: []

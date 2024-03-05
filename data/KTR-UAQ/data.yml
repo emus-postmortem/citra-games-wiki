@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F702C00
+  name: 'Contra® III: The Alien Wars™'
+  updates: []
+- regions:
+  - JP
+  id: 000400000F702B00
+  name: 魂斗羅スピリッツ
+  updates: []

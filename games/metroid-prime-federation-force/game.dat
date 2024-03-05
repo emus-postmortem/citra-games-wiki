@@ -1,0 +1,29 @@
+title = "Metroid Prime: Federation Force"
+description = "Metroid Prime: Federation Force is a first-person shooter developed by Next Level Games and published by Nintendo. A spin-off of the Metroid Prime series where the player assumes the role of a Galactic Federation Marine sent on missions to defeat the Space Pirates. It includes a multiplayer soccer-based game mode known as Metroid Prime: Blast Ball."
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "000400000016E300"
+region = "usa"
+release_date = "2016-08-19"
+
+[[ releases ]]
+title = "0004000000175200"
+region = "eur"
+release_date = "2016-09-02"
+
+[[ releases ]]
+title = "000400000016CE00"
+region = "jpn"
+release_date = "2016-08-25"
+
+[[testcases]]
+title = "000400000016E300"
+compatibility = "3"
+date = "2017-11-08"
+version = "HEAD-ddee442"
+cpu = "AMD FX 5600"
+gpu = "AMD R9 270"
+os = "Windows 10 15063"
+author = "EzekielRage"

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D0300
+  name: Fat Dragons
+  updates: []
+- regions:
+  - US
+  id: 00040000001CFA00
+  name: Fat Dragons
+  updates: []

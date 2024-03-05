@@ -1,0 +1,23 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001B9D00
+  name: RPG Maker Fes
+  updates:
+  - id: 0004000E001B9D00
+    name: 'RPG Maker Fes:  Update'
+- regions:
+  - JP
+  id: 000400000018B300
+  name: RPGツクール フェス
+  updates:
+  - id: 0004000E0018B300
+    name: 更新データ Ver. 1.1.4 RPGツクール フェス
+- regions:
+  - US
+  id: 00040000001BD500
+  name: RPG Maker Fes
+  updates:
+  - id: 0004000E001BD500
+    name: RPG Maker Fes  Update Ver. 1.1.5

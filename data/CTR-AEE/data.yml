@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000037C00
+  name: PES 2011 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000032900
+  name: ウイニングイレブン 3DSoccer
+  updates: []

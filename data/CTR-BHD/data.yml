@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000133300
+  name: 'Phoenix Wright: Ace Attorney Trilogy'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000108800
+  name: 逆転裁判123 成歩堂セレクション
+  updates: []
+- regions:
+  - TW
+  id: 0004000000132900
+  name: '逆轉裁判123 / Phoenix Wright: Ace Attorney Trilogy(日英版)'
+  updates: []
+- regions:
+  - US
+  id: 0004000000138F00
+  name: 'Phoenix Wright®: Ace Attorney® Trilogy'
+  updates: []

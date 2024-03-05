@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001A4200
+  name: Poochy & Yoshi's™  Woolly World
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A3200
+  name: ポチと！ ヨッシー ウールワールド
+  updates: []
+- regions:
+  - KR
+  id: 00040000001B3300
+  name: 포치와! 요시 울리 월드
+  updates: []
+- regions:
+  - US
+  id: 00040000001A4100
+  name: Poochy & Yoshi’s Woolly World
+  updates: []

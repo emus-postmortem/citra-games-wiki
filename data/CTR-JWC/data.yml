@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000010AE00
+  name: World Conqueror 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000114F00
+  name: WORLD CONQUEROR 3D
+  updates: []
+- regions:
+  - US
+  id: 00040000000FE700
+  name: World Conqueror 3D
+  updates: []

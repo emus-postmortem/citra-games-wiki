@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001B2300
+  name: 電車運転指令！ 東京湾編
+  updates: []

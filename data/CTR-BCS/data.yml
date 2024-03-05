@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000118800
+  name: Best of Casual Games
+  updates: []
+- regions:
+  - US
+  id: 000400000011DC00
+  name: Best of Casual Games
+  updates: []

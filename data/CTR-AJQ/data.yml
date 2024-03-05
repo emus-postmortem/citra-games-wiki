@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000006CD00
+  name: Jewel Quest Mysteries 3 - The Seventh Gate
+  updates: []

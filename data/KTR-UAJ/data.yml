@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F702000
+  name: "Donkey Kong Country 2: Diddy's Kong Quest™"
+  updates: []
+- regions:
+  - JP
+  id: 000400000F701F00
+  name: スーパードンキーコング2 ディクシー&ディディー
+  updates: []

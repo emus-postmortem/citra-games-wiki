@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000006D000
+  name: Azada
+  updates: []
+- regions:
+  - US
+  id: 0004000000130A00
+  name: Azada
+  updates: []

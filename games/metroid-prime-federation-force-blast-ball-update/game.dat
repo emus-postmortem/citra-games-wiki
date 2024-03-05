@@ -1,0 +1,21 @@
+title = "Metroid Prime Blast Ball"
+description = "Metroid Prime Blast Ball is a demo of the soccer minigame seen in Metroid Prime: Federation Force. It was developed by Next Level Games and features single and local multiplayer (online features have been 'discontinued'). It is a First Person Shooter, where the goal of the game is to shoot a large ball using weapons attached to mechs into the opposing team's goal."
+github_issues = [3679]
+needs_system_files = false
+needs_shared_font = true
+game_type = "eshop"
+
+[[releases]]
+title = "000400000016F600"
+region = "usa"
+release_date = "2016-07-21"
+
+[[releases]]
+title = "0004000000175300"
+region = "eur"
+release_date = "2016-07-21"
+
+[[releases]]
+title = "000400000016E400"
+region = "jpn"
+release_date = "2016-07-22"

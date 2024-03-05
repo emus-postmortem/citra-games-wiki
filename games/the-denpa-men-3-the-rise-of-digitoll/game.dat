@@ -1,0 +1,20 @@
+title = "The Denpa Men 3: The Rise of Digitoll"
+description = "The Denpa Men 3: The Rise of Digitoll is a 3D augmented reality role playing video game developed and published by Genius Sonority, and is the third game in \"The Denpa Men\" series."
+needs_system_files = true
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "000400000011DE00"
+region = "usa"
+release_date = "2014-05-08"
+
+[[releases]]
+title = "000400000011C800"
+region = "eur"
+release_date = "2014-05-08"
+
+[[releases]]
+title = "00040000000EF000"
+region = "jpn"
+release_date = "2013-08-07"

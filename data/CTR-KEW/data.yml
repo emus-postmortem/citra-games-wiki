@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000016A400
+  name: Epic Word Search Collection
+  updates: []
+- regions:
+  - US
+  id: 000400000016AA00
+  name: Epic Word Search Collection
+  updates: []

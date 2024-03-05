@@ -1,0 +1,19 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000182900
+  name: SADAME
+  updates: []
+- regions:
+  - JP
+  id: 0004000000114900
+  name: 異史戦国伝宿業
+  updates:
+  - id: 0004000E00114900
+    name: 更新データ Ver. 1.1 異史戦国伝宿業
+- regions:
+  - US
+  id: 0004000000186C00
+  name: Sadame
+  updates: []

@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000118B00
+  name: 'LEGO® Ninjago™: Nindroids™'
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A1500
+  name: LEGO® ニンジャゴー ニンドロイド
+  updates: []
+- regions:
+  - KR
+  id: 000400000015BF00
+  name: 'LEGO Ninjago: 닌드로이드'
+  updates: []
+- regions:
+  - US
+  id: 0004000000118C00
+  name: 'LEGO® Ninjago™: Nindroids™ '
+  updates: []

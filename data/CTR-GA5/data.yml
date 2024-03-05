@@ -1,0 +1,7 @@
+platform: GameGear
+releases:
+- regions:
+  - JP
+  id: 000400000010B300
+  name: シャイニング･フォース外伝I 遠征･邪神の国へ
+  updates: []

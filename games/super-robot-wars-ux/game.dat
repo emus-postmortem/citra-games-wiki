@@ -1,0 +1,9 @@
+title = "Super Robot Wars UX"
+description = "Super Robot Wars UX (スーパーロボット大戦UX Sūpā Robotto Taisen Yū Ekkusu) is a tactical role-playing game for the Nintendo 3DS developed by Banpresto and published by Bandai Namco Games. It is the first Super Robot Wars (SRW) game released for the 3DS."
+needs_system_files = false
+needs_shared_font = true
+
+[[releases]]
+title = "0004000000078A00"
+region = "jpn"
+release_date = "2013-03-14"

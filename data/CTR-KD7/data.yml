@@ -1,0 +1,19 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001AF900
+  name: Drancia Saga
+  updates: []
+- regions:
+  - JP
+  id: 0004000000189B00
+  name: ドランシア・サーガ
+  updates:
+  - id: 0004000E00189B00
+    name: 更新データ Ver. 1.1 ドランシア・サーガ
+- regions:
+  - US
+  id: 00040000001AFC00
+  name: Drancia Saga
+  updates: []

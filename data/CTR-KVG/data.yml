@@ -1,0 +1,17 @@
+platform: DownloadableVideo
+releases:
+- regions:
+  - EU
+  id: 00040000001B9400
+  name: 'Azure Striker Gunvolt: The Anime'
+  updates: []
+- regions:
+  - JP
+  id: 00040000001B3600
+  name: アニメ 蒼き雷霆ガンヴォルト
+  updates: []
+- regions:
+  - US
+  id: 00040000001B7600
+  name: 'Azure Striker Gunvolt: The Anime'
+  updates: []

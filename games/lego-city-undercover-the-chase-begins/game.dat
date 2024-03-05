@@ -1,0 +1,29 @@
+title = "LEGO City Undercover: The Chase Begins"
+description = "LEGO City Undercover: The Chase Begins is an \"open world\" game developed by TT Fusion. While the game is technically open world, it is split into various city districts and needs to load each new district when traveling from one part of the city to another. The game is based on the LEGO City brand and was published by Nintendo. It serves as a prequel to Lego City Undercover."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000000AD500"
+region = "usa"
+release_date = "2013-04-21"
+
+[[releases]]
+title = "00040000000AD600"
+region = "eur"
+release_date = "2013-04-26"
+
+[[releases]]
+title = "0004000000154700"
+region = "jpn"
+release_date = "2013-04-27"
+
+[[testcases]]
+title = "00040000000AD500"
+compatibility = "3"
+date = "2017-11-08"
+version = "HEAD-ddee442"
+cpu = "AMD FX 5600"
+gpu = "AMD R9 270"
+os = "Windows 10 15063"
+author = "EzekielRage"

@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000F3000
+  name: Professor Layton and the Azran Legacy™
+  updates: []
+- regions:
+  - JP
+  id: 00040000000C0200
+  name: レイトン教授と超文明Aの遺産
+  updates: []
+- regions:
+  - US
+  id: 00040000000F2F00
+  name: Professor Layton and the Azran Legacy™
+  updates: []

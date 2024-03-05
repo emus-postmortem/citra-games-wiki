@@ -1,0 +1,27 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000018A900
+  name: RV-7 My Drone
+  updates: []
+- regions:
+  - JP
+  id: 0004000000195000
+  name: RV-7 マイ・ドローン
+  updates: []
+- regions:
+  - KR
+  id: 000400000019BB00
+  name: RV-7 My Drone
+  updates: []
+- regions:
+  - TW
+  id: 0004000000199F00
+  name: RV-7 My Drone (日文版)
+  updates: []
+- regions:
+  - US
+  id: 0004000000188000
+  name: RV-7 My Drone
+  updates: []

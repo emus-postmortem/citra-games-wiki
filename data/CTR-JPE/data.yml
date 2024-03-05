@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000FED00
+  name: Best of Board Games - Mahjong
+  updates: []
+- regions:
+  - US
+  id: 0004000000101A00
+  name: Best of Board Games - Mahjong
+  updates: []

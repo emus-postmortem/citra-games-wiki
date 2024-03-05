@@ -1,0 +1,17 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 0004000000093D00
+  name: Mario Golf™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000093B00
+  name: マリオゴルフGB
+  updates: []
+- regions:
+  - US
+  id: 0004000000093C00
+  name: Mario Golf™
+  updates: []

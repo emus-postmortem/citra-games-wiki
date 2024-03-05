@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000039700
+  name: ニコリの数独3D ～8つのパズルで1000問～
+  updates: []

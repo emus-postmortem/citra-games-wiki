@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000012B500
+  name: '@SIMPLE DLシリーズ Vol.32 THEバトルロボ大共闘スクランブル'
+  updates: []

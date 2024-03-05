@@ -1,0 +1,14 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000175800
+  name: Word Puzzles by POWGI
+  updates:
+  - id: 0004000E00175800
+    name: 'Word Puzzles by POWGI: Update'
+- regions:
+  - US
+  id: 0004000000175B00
+  name: Word Puzzles by POWGI
+  updates: []

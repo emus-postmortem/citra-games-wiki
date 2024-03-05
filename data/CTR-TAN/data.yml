@@ -1,0 +1,22 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 0004000000070A00
+  name: 'Zelda II: The Adventure of Link'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000070800
+  name: リンクの冒険
+  updates: []
+- regions:
+  - KR
+  id: 0004000000195300
+  name: Zelda II The Adventure of Link
+  updates: []
+- regions:
+  - US
+  id: 0004000000070900
+  name: Zelda II™ - The Adventure of Link™
+  updates: []

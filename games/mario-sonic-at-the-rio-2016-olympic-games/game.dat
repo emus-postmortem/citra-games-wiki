@@ -1,0 +1,24 @@
+title = "Mario & Sonic at the Rio 2016 Olympic Games"
+description = "Mario & Sonic at the Rio 2016 Olympic Games is a crossover sports and party game in the Mario & Sonic at the Olympic Games series. It was developed by Sega Sports R&D, with assistance from Arzest and Spike Chunsoft, and published by Nintendo. It is the fifth title in the Mario & Sonic at the Olympic Games series."
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "000400000017E200"
+region = "usa"
+release_date = "2016-03-18"
+
+[[releases]]
+title = "000400000017E300"
+region = "eur"
+release_date = "2016-04-08"
+
+[[releases]]
+title = "000400000014A400"
+region = "jpn"
+release_date = "2016-02-18"
+
+[[releases]]
+title = "0004000000191D00"
+region = "kor"
+release_date = "2016-06-23"

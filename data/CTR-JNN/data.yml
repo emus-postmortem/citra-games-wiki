@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000016EC00
+  name: Ninja Battle Heroes
+  updates: []
+- regions:
+  - JP
+  id: 00040000000BAF00
+  name: 忍スピリッツ 真田獣勇士伝
+  updates: []
+- regions:
+  - US
+  id: 000400000013D200
+  name: Ninja Battle Heroes
+  updates: []

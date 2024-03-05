@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000D1200
+  name: 獣電戦隊キョウリュウジャー ゲームでガブリンチョ!!
+  updates: []

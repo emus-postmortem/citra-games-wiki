@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000066700
+  name: 'ARC STYLE: ソリティア'
+  updates: []
+- regions:
+  - US
+  id: 00040000000AE900
+  name: 'ARC STYLE: Solitaire'
+  updates: []

@@ -1,0 +1,28 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000198F00
+  name: 'Animal Crossing™: New Leaf -  Welcome amiibo'
+  updates:
+  - id: 0004000E00198F00
+    name: 'Animal Crossing™: New Leaf -   Welcome amiibo: Update'
+- regions:
+  - JP
+  id: 0004000000198D00
+  name: とびだせ どうぶつの森 amiibo+
+  updates:
+  - id: 0004000E00198D00
+    name: 更新データ Ver. 1.5 とびだせ どうぶつの森 amiibo+
+- regions:
+  - KR
+  id: 0004000000199000
+  name: 튀어나와요 동물의 숲 amiibo+
+  updates:
+  - id: 0004000E00199000
+    name: 업데이트 데이터 Ver.1.5 튀어나와요 동물의 숲 amiibo+
+- regions:
+  - US
+  id: 0004000000198E00
+  name: 'Animal Crossing™: New Leaf Welcome amiibo'
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000012C200
+  name: 'Sonic Boom™: Shattered Crystal'
+  updates: []
+- regions:
+  - JP
+  id: 000400000014AE00
+  name: ソニックトゥーン アイランドアドベンチャー
+  updates: []
+- regions:
+  - US
+  id: 0004000000127500
+  name: 'Sonic Boom: Shattered Crystal'
+  updates: []

@@ -1,0 +1,30 @@
+title = "Monster Hunter 3 Ultimate"
+description = "Monster Hunter 3 Ultimate is a role playing game published by Capcom for 3DS, as a port of the game Monster Hunter Tri from Wii."
+github_issues = [1498]
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "00040000000AE400"
+region = "usa"
+release_date = "2013-03-19"
+
+[[ releases ]]
+title = "00040000000B1D00"
+region = "eur"
+release_date = "2013-03-22"
+
+[[ releases ]]
+title = "0004000000048100"
+region = "jpn"
+release_date = "2011-12-10"
+
+[[ testcases ]]
+title = "00040000000B1D00"
+compatibility = "4"
+date = "2017-07-11"
+version = "HEAD-c017065"
+cpu = "Intel Xeon L5420"
+gpu = "GeForce GTX 1050Ti"
+os = "Windows 10 15063"
+author = "brunomenezes66"

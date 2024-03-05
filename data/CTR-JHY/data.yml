@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000FA100
+  name: マル合格! 秘書検定
+  updates: []

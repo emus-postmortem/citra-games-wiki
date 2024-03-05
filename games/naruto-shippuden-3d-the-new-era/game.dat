@@ -1,0 +1,14 @@
+title = "Naruto Shippuden 3D: The New Era"
+description = "Naruto Shippuden 3D: The New Era is an action game developed by Tomy and published by 505 Games. The game starts off with Naruto training on Mount Myōboku, soon after his training he is called back to Konoha by Kakashi Hatake. When he arrives, Naruto finds out that Tsunade has cancelled the pact with Sunagakure and the hidden villages all seem to be about to go to war."
+needs_system_files = false
+needs_shared_font = true
+
+[[releases]]
+title = "0004000000045500"
+region = "eur"
+release_date = "2013-07-20"
+
+[[releases]]
+title = "0004000000035B00"
+region = "jpn"
+release_date = "2013-08-20"

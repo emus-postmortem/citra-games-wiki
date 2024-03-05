@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000F4000
+  name: ダンボール戦機ウォーズ
+  updates:
+  - id: 0004000E000F4000
+    name: 更新データ Ver. 1.2 ダンボール戦機ウォーズ

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000F3600
+  name: ブランチ☆パニック!
+  updates: []
+- regions:
+  - KR
+  id: 000400000011BE00
+  name: BRUNCH PANIC
+  updates: []
+- regions:
+  - TW
+  id: 000400000010DB00
+  name: 邦妮早午餐
+  updates: []

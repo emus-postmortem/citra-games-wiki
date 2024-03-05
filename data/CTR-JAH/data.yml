@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000D1700
+  name: Air Battle Hockey 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000089100
+  name: 3次元エアホッケー
+  updates: []

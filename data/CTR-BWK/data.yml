@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001C2C00
+  name: クレヨンしんちゃん おでんわ～るど
+  updates: []

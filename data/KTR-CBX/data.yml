@@ -1,0 +1,17 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F708A00
+  name: BOX UP
+  updates: []
+- regions:
+  - JP
+  id: 000400000F709600
+  name: BOX UP
+  updates: []
+- regions:
+  - US
+  id: 000400000F708900
+  name: BOX UP
+  updates: []

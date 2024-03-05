@@ -1,0 +1,17 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000033D00
+  name: The Sims™ 3
+  updates: []
+- regions:
+  - JP
+  id: 0004000000037F00
+  name: ザ・シムズ3
+  updates: []
+- regions:
+  - US
+  id: 0004000000036500
+  name: The Sims™ 3
+  updates: []

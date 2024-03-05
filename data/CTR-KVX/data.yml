@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001C4000
+  name: Asdivine Cross
+  updates: []
+- regions:
+  - JP
+  id: 00040000001C2900
+  name: アスディバインクロス
+  updates: []
+- regions:
+  - US
+  id: 00040000001C5000
+  name: Asdivine Cross
+  updates: []

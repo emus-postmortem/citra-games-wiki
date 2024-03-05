@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000018F200
+  name: 'Dragon Quest® VIII: Journey of the Cursed King'
+  updates: []
+- regions:
+  - JP
+  id: 000400000015CD00
+  name: ドラゴンクエストⅧ 空と海と大地と呪われし姫君
+  updates: []
+- regions:
+  - KR
+  id: 0004000000198500
+  name: 'Dragon Quest VIII: Journey of the Cursed King'
+  updates: []
+- regions:
+  - US
+  id: 000400000018F100
+  name: 'Dragon Quest® VIII:  Journey of the Cursed King'
+  updates: []

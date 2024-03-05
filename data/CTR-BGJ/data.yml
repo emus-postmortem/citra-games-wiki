@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001AA400
+  name: ぐでたま おかわりいかがっすかー
+  updates: []

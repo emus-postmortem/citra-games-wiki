@@ -1,0 +1,9 @@
+title = "Luigi's Mansion"
+description = "Luigi's Mansion is an action-adventure game developed and published by Nintendo for the GameCube and then Re-Released on the Nintendo 3DS codevelopped by Grezzo."
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "00040000001D1900"
+region = "usa"
+release_date = "2018-10-12"

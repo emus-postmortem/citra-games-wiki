@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000147800
+  name: ブレイブリーデフォルト たっぷり無料で遊べる版
+  updates:
+  - id: 0004000E00147800
+    name: 更新データ Ver. 1.1.0 ブレイブリー デフォルト たっぷり無料で遊べる版

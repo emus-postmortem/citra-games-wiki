@@ -1,0 +1,17 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 000400000007E500
+  name: MYSTICAL NINJA starring GOEMON
+  updates: []
+- regions:
+  - JP
+  id: 000400000007E300
+  name: がんばれゴエモン 黒船党の謎
+  updates: []
+- regions:
+  - US
+  id: 000400000007E400
+  name: MYSTICAL NINJA starring GOEMON
+  updates: []

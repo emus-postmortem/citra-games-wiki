@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000BB900
+  name: アクリルパレット ～彩りカフェ･Cheers～
+  updates: []

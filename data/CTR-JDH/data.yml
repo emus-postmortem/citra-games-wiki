@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000017DB00
+  name: The Delusions of Von Sottendorff  and his Square Mind
+  updates: []
+- regions:
+  - US
+  id: 00040000000E5900
+  name: The delusions of Von Sottendorff
+  updates: []

@@ -1,0 +1,7 @@
+platform: GameBoy
+releases:
+- regions:
+  - JP
+  id: 0004000000059500
+  name: 熱血!ビーチバレーだよ くにおくん
+  updates: []

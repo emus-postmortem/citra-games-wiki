@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001C5200
+  name: エルミナージュⅢ ～暗黒の使徒と太陽の宮殿～
+  updates:
+  - id: 0004000E001C5200
+    name: 更新データ Ver. 1.1 エルミナージュⅢ

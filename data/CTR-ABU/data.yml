@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000E5E00
+  name: My Exotic Farm
+  updates: []
+- regions:
+  - US
+  id: 00040000000E7000
+  name: My Exotic Farm
+  updates: []

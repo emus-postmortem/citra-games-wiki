@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D0400
+  name: 'WAKU WAKU SWEETS: Happy Sweets Making'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000111200
+  name: キラメキ わくわくスイーツ
+  updates: []
+- regions:
+  - US
+  id: 00040000001D0100
+  name: 'WAKU WAKU SWEETS: Happy Sweets Making'
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000016EA00
+  name: Etrian Mystery Dungeon
+  updates: []
+- regions:
+  - JP
+  id: 0004000000118300
+  name: 世界樹と不思議のダンジョン
+  updates: []
+- regions:
+  - US
+  id: 000400000015B200
+  name: Etrian Mystery Dungeon
+  updates: []

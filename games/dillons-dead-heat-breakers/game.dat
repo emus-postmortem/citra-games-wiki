@@ -1,0 +1,19 @@
+title = "Dillon's Dead-Heat Breakers"
+description = "Dillon's Dead-Heat Breakers is an action strategy game developed by Vanpool and published by Nintendo. It is the sequel to Dillon's Rolling Western: The Last Ranger and the third entry in the Dillon series. The setting is more post-apacolyptic futuristic than the previous titles. In addition to playing as Dillon, you also play as your Mii character as an animal."
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "00040000001CF300"
+region = "usa"
+release_date = "2018-05-24"
+
+[[releases]]
+title = "00040000001CF400"
+region = "eur"
+release_date = "2018-05-25"
+
+[[releases]]
+title = "00040000001C4900"
+region = "jpn"
+release_date = "2018-04-26"

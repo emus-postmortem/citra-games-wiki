@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000A5400
+  name: Mutant Mudds™
+  updates: []
+- regions:
+  - JP
+  id: 000400000016FD00
+  name: マッドアタック! マックスVS泥々星人
+  updates: []
+- regions:
+  - US
+  id: 0004000000086600
+  name: Mutant Mudds™
+  updates: []

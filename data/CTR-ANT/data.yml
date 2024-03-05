@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000035B00
+  name: NARUTO-ナルト- 疾風伝 忍立体絵巻! 最強忍界決戦!!
+  updates: []

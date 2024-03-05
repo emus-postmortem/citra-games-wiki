@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000AB300
+  name: ハローキティといっしょ! ブロッククラッシュZ
+  updates: []

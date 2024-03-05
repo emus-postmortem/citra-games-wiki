@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 000400000009CA00
+  name: ATV Wild Ride 3D
+  updates: []

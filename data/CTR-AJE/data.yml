@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000A7C00
+  name: Jewel Master Cradle Of Egypt 2 3D
+  updates: []
+- regions:
+  - US
+  id: 00040000000B4400
+  name: 'Jewel Master: Cradle Of Egypt 2 3D'
+  updates: []

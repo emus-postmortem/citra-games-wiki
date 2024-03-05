@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000013CA00
+  name: FIFA 15
+  updates: []
+- regions:
+  - US
+  id: 000400000013C700
+  name: FIFA 15
+  updates: []

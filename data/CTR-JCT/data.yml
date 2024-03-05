@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000CBD00
+  name: みんなのおしゃべりチャット
+  updates:
+  - id: 0004000E000CBD00
+    name: 更新データ Ver. 1.4 みんなのおしゃべりチャット

@@ -1,0 +1,7 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 000400000F710A00
+  name: 3D Retro Dungeon Puzzle Challenge
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001A9000
+  name: Unlucky Mage
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A4A00
+  name: こんな僕が救う世界
+  updates: []
+- regions:
+  - US
+  id: 00040000001A9700
+  name: Unlucky Mage
+  updates: []

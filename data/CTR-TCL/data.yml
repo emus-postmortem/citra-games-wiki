@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000CAF00
+  name: Renegade
+  updates: []
+- regions:
+  - JP
+  id: 00040000000CA800
+  name: 熱血硬派くにおくん
+  updates: []
+- regions:
+  - US
+  id: 00040000000CA900
+  name: Renegade™
+  updates: []

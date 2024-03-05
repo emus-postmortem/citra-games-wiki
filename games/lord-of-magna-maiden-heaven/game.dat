@@ -1,0 +1,19 @@
+title = "Lord Of Magna: Maiden Heaven"
+description = "Lord of Magna: Maiden Heaven, known as \"Forbidden Magna\" in Japan, is a tactical role-playing life simulation published by Marvelous. with localization by XSEED for the West. It shares several similarities with the Rune Factory series."
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "0004000000164300"
+region = "usa"
+release_date = "2015-06-02"
+
+[[releases]]
+title = "0004000000165500"
+region = "eur"
+release_date = "2015-06-04"
+
+[[releases]]
+title = "0004000000120900"
+region = "jpn"
+release_date = "2014-10-02"

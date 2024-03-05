@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000177B00
+  name: 手裏剣戦隊ニンニンジャー ゲームでワッショイ!!
+  updates: []

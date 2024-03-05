@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000127F00
+  name: プチノベル「婚儀の六月」
+  updates: []

@@ -1,0 +1,31 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000D0900
+  name: Pokémon™ Art Academy™
+  updates:
+  - id: 0004000E000D0900
+    name: 'Pokémon™ Art Academy™: Update'
+- regions:
+  - JP
+  id: 00040000000CF900
+  name: ポケモンアートアカデミー
+  updates:
+  - id: 0004000E000CF900
+    name: 更新データ Ver. 1.1 ポケモンアートアカデミー
+- regions:
+  - KR
+  id: 0004000000150B00
+  name: 포켓몬 아트 아카데미
+  updates: []
+- regions:
+  - TW
+  id: 0004000000151F00
+  name: Pokémon Art Academy(英文版)
+  updates: []
+- regions:
+  - US
+  id: 00040000000D0A00
+  name: Pokémon™ Art Academy™
+  updates: []

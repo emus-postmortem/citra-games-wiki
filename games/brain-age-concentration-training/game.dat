@@ -1,0 +1,24 @@
+title = "Brain Age: Concentration Training"
+description = "Brain Age: Concentration Training, known in Europe and Australia as \"Dr. Kawashima's Devilish Brain Training: Can You Stay Focused?\", is a puzzle video game developed and published by Nintendo, and is the fourth major entry in the Brain Age series. It features a selection of activities and minigames that are designed to stimulate and improve the player's concentration and working memory."
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "00040000000B3C00"
+region = "usa"
+release_date = "2013-02-10"
+
+[[releases]]
+title = "00040000000B3D00"
+region = "eur"
+release_date = "2017-07-28"
+
+[[releases]]
+title = "0004000000043700"
+region = "jpn"
+release_date = "2012-07-28"
+
+[[releases]]
+title = "00040000000CB100"
+region = "kor"
+release_date = "2013-09-05"

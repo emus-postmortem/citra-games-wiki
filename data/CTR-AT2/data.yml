@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000007A300
+  name: 'Harvest Moon: The Tale of Two Towns'
+  updates: []
+- regions:
+  - US
+  id: 0004000000047900
+  name: 'Harvest Moon® 3D: The Tale of Two Towns'
+  updates: []

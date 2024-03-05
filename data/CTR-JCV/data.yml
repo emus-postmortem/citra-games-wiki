@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000008CC00
+  name: Sparkle Snapshots™ 3D
+  updates: []
+- regions:
+  - US
+  id: 000400000008CD00
+  name: 'Sparkle Snapshots™ 3D '
+  updates: []

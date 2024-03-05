@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001BBC00
+  name: 1000m ゾンビエスケープ！
+  updates: []

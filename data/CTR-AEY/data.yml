@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000F1D00
+  name: My Baby Pet Hotel 3D
+  updates: []

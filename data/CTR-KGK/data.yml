@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000015F800
+  name: ぼくらの学校戦争 ～痛快アドベンチャー～
+  updates:
+  - id: 0004000E0015F800
+    name: 更新データ Ver. 1.1 ぼくらの学校戦争 ～痛快アドベンチャー～

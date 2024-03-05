@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000012B200
+  name: 名画と楽しむ大人の間違い探し
+  updates: []

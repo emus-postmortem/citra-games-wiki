@@ -1,0 +1,7 @@
+platform: GameBoy
+releases:
+- regions:
+  - JP
+  id: 0004000000043100
+  name: カエルの為に鐘は鳴る
+  updates: []

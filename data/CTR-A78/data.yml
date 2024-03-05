@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000039800
+  name: GUNDAM THE 3D BATTLE
+  updates: []

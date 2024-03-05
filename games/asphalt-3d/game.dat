@@ -1,0 +1,29 @@
+title = "Asphalt 3D"
+description = "Asphalt 3D, released in Japan as Asphalt 3D: Nitro Racing (アスファルト 3ディー: ニトロ レーシング), is a racing game published by Ubisoft (Konami in Japan) and developed by Gameloft, in which the player must maneuver an automobile to compete against computer-controlled drivers on various race tracks. Players earn rewards such as car upgrades and XP points for winning races throughout the game, and reaching higher levels allows them to use better sports cars to unlock."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000034C00"
+region = "usa"
+release_date = "2011-03-27"
+
+[[releases]]
+title = "0004000000037600"
+region = "eur"
+release_date = "2011-03-25"
+
+[[releases]]
+title = "0004000000033300"
+region = "jpn"
+release_date = "2011-03-10"
+
+[[testcases]]
+title = "0004000000037600"
+compatibility = "1"
+date = "2017-10-13"
+version = "HEAD-e1bb198"
+cpu = "Intel Core i7-4710HQ"
+gpu = "NVIDIA GeForce GTX 970M"
+os = "Windows 10 15063"
+author = "danzel"

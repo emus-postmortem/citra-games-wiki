@@ -1,0 +1,7 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 000400000F711900
+  name: PENGUIN HOP
+  updates: []

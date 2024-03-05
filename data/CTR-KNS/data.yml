@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000018F500
+  name: The Battle Cats POP!
+  updates: []
+- regions:
+  - JP
+  id: 000400000015DA00
+  name: とびだす!にゃんこ大戦争
+  updates: []
+- regions:
+  - KR
+  id: 000400000018B500
+  name: 냥코대전쟁 POP!
+  updates: []
+- regions:
+  - US
+  id: 000400000018BC00
+  name: The Battle Cats POP!
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001AE600
+  name: 100%パスカル先生 完璧ペイントボンバーズ
+  updates: []

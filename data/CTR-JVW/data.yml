@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000130300
+  name: 拡散性ミリオンアーサー
+  updates:
+  - id: 0004000E00130300
+    name: 更新データ Ver. 2.4.0 拡散性ミリオンアーサー

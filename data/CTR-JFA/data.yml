@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000BED00
+  name: Carps & Dragons
+  updates: []
+- regions:
+  - JP
+  id: 0004000000122000
+  name: ウオキャッチ!
+  updates: []
+- regions:
+  - US
+  id: 0004000000086D00
+  name: Carps & Dragons
+  updates: []

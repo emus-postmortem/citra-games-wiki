@@ -1,0 +1,12 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 0004000000099C00
+  name: Harvest Moon GBC
+  updates: []
+- regions:
+  - US
+  id: 0004000000099B00
+  name: Harvest Moon®
+  updates: []

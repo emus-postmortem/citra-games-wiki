@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000FEA00
+  name: Best of Board Games - Chess
+  updates: []
+- regions:
+  - US
+  id: 0004000000101900
+  name: Best of Board Games - Chess
+  updates: []

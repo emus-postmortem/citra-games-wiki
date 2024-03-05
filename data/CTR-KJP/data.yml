@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 0004000000193D00
+  name: 'Japanese Rail Sim 3D Journey in suburbs #1 Vol. 2'
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000D6F00
+  name: 'Mystery Case Files Ravenhearst® '
+  updates: []
+- regions:
+  - US
+  id: 00040000000DDF00
+  name: Mystery Case Files®  Ravenhearst
+  updates: []

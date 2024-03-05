@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000D2F00
+  name: 'Mario and Donkey Kong™: Minis on the Move'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000D1E00
+  name: マリオ AND ドンキーコング ミニミニカーニバル
+  updates: []
+- regions:
+  - US
+  id: 00040000000C9D00
+  name: 'Mario and Donkey Kong™: Minis on the Move'
+  updates: []

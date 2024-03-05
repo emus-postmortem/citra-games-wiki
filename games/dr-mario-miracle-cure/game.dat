@@ -1,0 +1,20 @@
+title = "Dr. Mario: Miracle Cure"
+description = "Dr. Mario: Miracle Cure, released in Japan as Dr. Mario Gyakuten! Tokkōyaku & Saikin Bokumetsu (Dr. MARIO ギャクテン！特効薬 & 細菌撲滅 Dr. Mario Reverse! Wonder Drug and Bacteria Eradication), is a puzzle video game for the Nintendo 3DS."
+needs_system_files = true
+needs_shared_font = false
+game_type = "eshop"
+
+[[ releases ]]
+title = "000400000013BB00"
+region = "all"
+release_date = "2015-05-31"
+
+[[ testcases ]]
+title = "000400000013BB00"
+compatibility = "1"
+date = "2017-06-08"
+version = "HEAD-8c22334"
+author = "Clector"
+cpu = "Intel Core i3-4160"
+gpu = "Intel HD Graphics 4400"
+os = "Windows 8.1"

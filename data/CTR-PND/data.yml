@@ -1,0 +1,7 @@
+platform: 26
+releases:
+- regions:
+  - JP
+  id: 00040000000E0200
+  name: エイリアンクラッシュ
+  updates: []

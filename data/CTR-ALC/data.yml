@@ -1,0 +1,18 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000079500
+  name: 'Spirit Camera: The Cursed Memoir'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000040300
+  name: 心霊カメラ ～憑いてる手帳～
+  updates: []
+- regions:
+  - TW
+  - US
+  id: 000400000007B000
+  name: 'Spirit Camera™: The Cursed Memoir'
+  updates: []

@@ -1,0 +1,30 @@
+title = "Shantae and the Pirate's Curse"
+description = "Shantae and the Pirate's Curse is a platform game developed and published by WayForward Technologies, and is the third game in the Shantae series. The retail version was published by Rising Star Games and in Japan, it was published by Intergrow."
+github_issues = [3726]
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000000C2900"
+region = "usa"
+release_date = "2014-10-23"
+
+[[releases]]
+title = "000400000019E600"
+region = "usa"
+release_date = "2016-10-18"
+
+[[releases]]
+title = "000400000010AF00"
+region = "eur"
+release_date = "2015-02-05"
+
+[[releases]]
+title = "000400000019D900"
+region = "eur"
+release_date = "2016-10-21"
+
+[[releases]]
+title = "0004000000181100"
+region = "jpn"
+release_date = "2015-11-19"

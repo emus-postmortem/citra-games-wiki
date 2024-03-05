@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000EA500
+  name: ドラちえ ミニドラ音楽隊と7つの知恵
+  updates: []

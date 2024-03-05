@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000196600
+  name: WordsUp! Academy
+  updates: []
+- regions:
+  - US
+  id: 0004000000185F00
+  name: WordsUp! Academy
+  updates: []

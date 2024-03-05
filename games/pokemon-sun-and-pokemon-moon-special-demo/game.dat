@@ -1,0 +1,10 @@
+title = "Pokémon Sun and Moon: Special Demo Version"
+description = "Pokémon Sun and Moon: Special Demo Version is a demo for Pokémon Sun and Moon that introduces players to the Alola region and features Ash-Greninja, the Pokémon accompanying Ash Ketchum in the animated TV series \"Pokémon the Series: XYZ\". Players are able to transfer their Ash-Greninja from the Special Demo Version to their full version of Pokémon Sun or Pokémon Moon."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "00040000001A7100"
+region = "all"
+release_date = "2016-10-18"

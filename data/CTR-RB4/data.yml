@@ -1,0 +1,7 @@
+platform: GameBoy
+releases:
+- regions:
+  - JP
+  id: 000400000008E600
+  name: がんばれゴエモン さらわれたエビス丸
+  updates: []

@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 0004000000094800
+  name: NINJA GAIDEN®
+  updates: []
+- regions:
+  - JP
+  id: 0004000000094600
+  name: 忍者龍剣伝
+  updates: []
+- regions:
+  - US
+  id: 0004000000094700
+  name: Ninja Gaiden®
+  updates: []

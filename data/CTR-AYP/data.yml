@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000144600
+  name: 弱虫ペダル 明日への高回転
+  updates:
+  - id: 0004000E00144600
+    name: 更新データ Ver. 1.1 弱虫ペダル 明日への高回転

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000009BC00
+  name: Gummy Bears Mini Golf
+  updates: []
+- regions:
+  - US
+  id: 00040000000CEC00
+  name: Gummy Bears Mini Golf
+  updates: []

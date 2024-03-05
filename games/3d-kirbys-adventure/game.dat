@@ -1,0 +1,30 @@
+title = "3D Classics: Kirby's Adventure"
+description = "Kirby's Adventure is a 1993 action-platform video game developed by HAL Laboratory and published by Nintendo for the Nintendo Entertainment System video game console. A 3D Classics version was released for the Nintendo 3DS eShop in November 2011."
+needs_system_files = false
+needs_shared_font = true
+game_type = "eshop"
+
+[[ releases ]]
+title = "0004000000054600"
+region = "usa"
+release_date = "2011-11-17"
+
+[[ releases ]]
+title = "0004000000055000"
+region = "eur"
+release_date = "2011-11-17"
+
+[[ releases ]]
+title = "000400000004E800"
+region = "jpn"
+release_date = "2012-04-25"
+
+[[ testcases ]]
+title = "0004000000054600"
+compatibility = "1"
+date = "2017-06-05"
+version = "HEAD-8f0a23b"
+author = "Clector"
+cpu = "Intel Core i3-4160"
+gpu = "Intel HD Graphics 4400"
+os = "Windows 8.1"

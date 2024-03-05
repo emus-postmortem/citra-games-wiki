@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001A1300
+  name: デジコロ ケシカスくん Vol.004 決死のフライに挑め！
+  updates: []

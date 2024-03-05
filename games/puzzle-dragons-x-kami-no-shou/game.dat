@@ -1,0 +1,19 @@
+title = "Puzzle & Dragons X Kami no Shou"
+description = "Puzzle & Dragons X (パズドラクロス, Pazudora Kurosu) is a spinoff of the mobile game Puzzle & Dragons for the Nintendo 3DS by GungHo Online Entertainment."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000182F00"
+region = "jpn"
+release_date = "2016-07-28"
+
+[[testcases]]
+title = "0004000000182F00"
+compatibility = "4"
+date = "2017-07-29"
+version = "HEAD-fc43e02"
+cpu = "Intel Core i7-4720HQ"
+gpu = "GeForce GTX 960M"
+os = "Windows 8.1 9600"
+author = "ansonamy33"

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 000400000004EC00
+  name: Puzzler Mind Gym® 3
+  updates: []

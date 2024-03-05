@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001D5200
+  name: Etrian Odyssey Nexus
+  updates: []
+- regions:
+  - JP
+  id: 00040000001CA300
+  name: 世界樹の迷宮X（クロス）
+  updates: []
+- regions:
+  - US
+  id: 00040000001D4E00
+  name: Etrian Odyssey Nexus
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001C9D00
+  name: Battleminerz
+  updates: []
+- regions:
+  - JP
+  id: 00040000001D0900
+  name: Battleminerz
+  updates: []
+- regions:
+  - US
+  id: 00040000001B4200
+  name: Battleminerz
+  updates: []

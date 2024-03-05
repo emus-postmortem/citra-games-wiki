@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F704A00
+  name: MEGA MAN X3
+  updates: []
+- regions:
+  - JP
+  id: 000400000F704900
+  name: ロックマンX3
+  updates: []

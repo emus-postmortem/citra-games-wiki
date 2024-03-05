@@ -1,0 +1,17 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000037600
+  name: Asphalt™ 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000033300
+  name: ASPHALT 3D：NITRO RACING  アスファルト 3D ニトロレーシング
+  updates: []
+- regions:
+  - US
+  id: 0004000000034C00
+  name: Asphalt™ 3D
+  updates: []

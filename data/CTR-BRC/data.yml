@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001AF800
+  name: Hey! Pikmin™
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A9200
+  name: Hey! ピクミン
+  updates: []
+- regions:
+  - KR
+  id: 00040000001C5600
+  name: Hey! PIKMIN(헤이! 피크민)
+  updates: []
+- regions:
+  - US
+  id: 00040000001AFA00
+  name: Hey! Pikmin
+  updates: []

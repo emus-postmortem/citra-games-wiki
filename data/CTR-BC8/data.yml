@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001C2F00
+  name: ケーキ屋さん物語 おいしいスイーツをつくろう！
+  updates: []

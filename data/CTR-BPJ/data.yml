@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000018A500
+  name: Rhythm Paradise™ Megamix
+  updates: []
+- regions:
+  - JP
+  id: 0004000000155A00
+  name: リズム天国 ザ･ベスト+
+  updates: []
+- regions:
+  - KR
+  id: 000400000018A600
+  name: 리듬 세상 더 베스트 플러스
+  updates: []
+- regions:
+  - US
+  id: 000400000018A400
+  name: Rhythm Heaven™ Megamix
+  updates: []

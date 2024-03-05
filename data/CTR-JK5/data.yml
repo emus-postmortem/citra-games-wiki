@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000192B00
+  name: Conveni Dream
+  updates: []
+- regions:
+  - JP
+  id: 0004000000115A00
+  name: コンビニドリーム
+  updates: []
+- regions:
+  - US
+  id: 0004000000194400
+  name: Conveni Dream
+  updates: []

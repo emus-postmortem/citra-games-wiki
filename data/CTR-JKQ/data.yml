@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000F4B00
+  name: 脱出アドベンチャー 悪夢の死神列車
+  updates: []

@@ -1,0 +1,27 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000F8200
+  name: 'Mario Party™: Island Tour'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000DD400
+  name: マリオパーティ アイランドツアー
+  updates: []
+- regions:
+  - KR
+  id: 0004000000119B00
+  name: 마리오 파티 아일랜드 투어
+  updates: []
+- regions:
+  - TW
+  id: 0004000000119300
+  name: 'Mario Party: Island Tour (英文版)'
+  updates: []
+- regions:
+  - US
+  id: 00040000000F8100
+  name: Mario Party™ Island Tour
+  updates: []

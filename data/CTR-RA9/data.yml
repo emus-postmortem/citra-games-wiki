@@ -1,0 +1,7 @@
+platform: GameBoy
+releases:
+- regions:
+  - JP
+  id: 0004000000051000
+  name: ZOIDS ゾイド伝説
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000017FE00
+  name: Angry Video Game Nerd Adventures
+  updates: []
+- regions:
+  - US
+  id: 0004000000161000
+  name: Angry Video Game Nerd  Adventures
+  updates: []

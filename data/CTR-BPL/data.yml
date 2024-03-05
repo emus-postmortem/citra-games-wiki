@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000168E00
+  name: 'Paddington™: Adventures in London'
+  updates: []
+- regions:
+  - US
+  id: 000400000016B900
+  name: 'Paddington™: Adventures in London'
+  updates: []

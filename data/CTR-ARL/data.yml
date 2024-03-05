@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000B3A00
+  name: ねらって!とばして!リラックマ ぐらぐらスイーツタワー
+  updates: []
+- regions:
+  - KR
+  id: 0004000000139500
+  name: Rilakkuma Sweets Tower
+  updates: []

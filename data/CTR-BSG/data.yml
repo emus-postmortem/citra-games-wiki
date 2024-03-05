@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000013FF00
+  name: 遊んで将棋が強くなる! 銀星将棋DX
+  updates: []

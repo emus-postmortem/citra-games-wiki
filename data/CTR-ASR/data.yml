@@ -1,0 +1,29 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000B3D00
+  name: Devilish Brain Training™ Can you stay focused?
+  updates: []
+- regions:
+  - JP
+  id: 0004000000043700
+  name: 川島隆太教授監修 ものすごく脳を鍛える5分間の鬼トレーニング
+  updates:
+  - id: 0004000E00043700
+    name: 更新データ Ver. 1.1 東北大学加齢医学研究所 川島隆太教授監修 ものすごく脳を鍛える 5分間の鬼トレーニング
+- regions:
+  - KR
+  id: 00040000000CB100
+  name: 카와시마 류타 박사 감수 초강력! 5분간의 집중력 트레이닝
+  updates: []
+- regions:
+  - TW
+  id: 00040000000CB200
+  name: 突破極限 腦的５分鐘魔鬼鍛鍊
+  updates: []
+- regions:
+  - US
+  id: 00040000000B3C00
+  name: 'Brain Age™: Concentration Training'
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000B8C00
+  name: The Phantom Thief Stina and 30 Jewels
+  updates: []
+- regions:
+  - JP
+  id: 000400000006DF00
+  name: 怪盗スティナと30の宝石
+  updates: []

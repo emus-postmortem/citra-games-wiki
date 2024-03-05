@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000084500
+  name: たまごっちのプチプチ おみせっちでバイオリンレッスン
+  updates: []

@@ -1,0 +1,20 @@
+title = "Mutant Mudds"
+description = "Mutant Mudds is a platform video game developed by Renegade Kid. The goal is to kill enemies, avoid obstacles meant to cause harm and collect the Water Sprite in order to reach the next level."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000086600"
+region = "usa"
+release_date = "2012-01-26"
+
+[[releases]]
+title = "00040000000A5400"
+region = "eur"
+release_date = "2012-06-21"
+
+[[releases]]
+title = "000400020016FD00"
+region = "jpn"
+release_date = "2015-06-24"

@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001D0B00
+  name: ネコ・トモ
+  updates:
+  - id: 0004000E001D0B00
+    name: 更新データ Ver.1.0.4 ネコ・トモ

@@ -1,0 +1,27 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000053F00
+  name: Super Mario 3D Land™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000054100
+  name: スーパーマリオ 3Dランド
+  updates: []
+- regions:
+  - KR
+  id: 0004000000089D00
+  name: 슈퍼 마리오 3D랜드
+  updates: []
+- regions:
+  - TW
+  id: 0004000000089E00
+  name: 超級瑪利歐 3D樂園
+  updates: []
+- regions:
+  - US
+  id: 0004000000054000
+  name: Super Mario™ 3D Land
+  updates: []

@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000182700
+  name: 'Zero Escape: Zero Time Dilemma'
+  updates: []
+- regions:
+  - KR
+  id: 000400000018E600
+  name: 'Zero Escape: Zero Time Dilemma'
+  updates: []
+- regions:
+  - TW
+  id: 000400000018BA00
+  name: 'Zero Escape: Zero Time Dilemma (英文版)'
+  updates: []
+- regions:
+  - US
+  id: 000400000017B200
+  name: 'Zero Escape: Zero Time Dilemma'
+  updates: []

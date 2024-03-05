@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000E8200
+  name: Groove Heaven
+  updates: []
+- regions:
+  - JP
+  id: 00040000000C9600
+  name: peakvox リリリズム
+  updates: []
+- regions:
+  - US
+  id: 00040000000E6600
+  name: Groove Heaven
+  updates: []

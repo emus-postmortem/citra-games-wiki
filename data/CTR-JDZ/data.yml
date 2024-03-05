@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000103B00
+  name: '@SIMPLE DLシリーズ Vol.29 THE ラインパズル'
+  updates: []

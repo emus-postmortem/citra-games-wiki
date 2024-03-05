@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D8300
+  name: Azure Snake
+  updates: []
+- regions:
+  - US
+  id: 00040000001D8400
+  name: Azure Snake
+  updates: []

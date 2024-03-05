@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000B6900
+  name: 女家庭教師 伊都香先生と密室にいたら○○しちゃうかもしれない。
+  updates: []

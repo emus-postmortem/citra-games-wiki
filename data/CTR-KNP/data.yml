@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001BE800
+  name: ねこねこ日本史　歴史発見パズル！
+  updates: []

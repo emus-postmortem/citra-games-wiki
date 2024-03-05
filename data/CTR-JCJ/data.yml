@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000010DF00
+  name: Squids Odyssey
+  updates: []
+- regions:
+  - JP
+  id: 0004000000130000
+  name: SQUIDS-ひっぱりイカの大冒険-
+  updates: []
+- regions:
+  - US
+  id: 000400000010E900
+  name: Squids Odyssey
+  updates: []

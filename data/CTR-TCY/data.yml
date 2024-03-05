@@ -1,0 +1,7 @@
+platform: NES
+releases:
+- regions:
+  - JP
+  id: 00040000000CE600
+  name: ふぁみこんむかし話 新･鬼ヶ島(前後編)
+  updates: []

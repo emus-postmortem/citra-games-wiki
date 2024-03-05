@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000017C800
+  name: The Legend of Legacy
+  updates: []
+- regions:
+  - JP
+  id: 0004000000131C00
+  name: レジェンド オブ レガシー
+  updates: []
+- regions:
+  - US
+  id: 000400000016DB00
+  name: The Legend of Legacy
+  updates: []

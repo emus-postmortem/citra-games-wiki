@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000F0C00
+  name: 101 DinoPets 3D
+  updates: []
+- regions:
+  - JP
+  id: 00040000000D8B00
+  name: きょうりゅうペット3D
+  updates: []
+- regions:
+  - US
+  id: 00040000000B8500
+  name: 101 DinoPets 3D
+  updates: []

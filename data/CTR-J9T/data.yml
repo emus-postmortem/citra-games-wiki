@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001C1300
+  name: マル合格！宅建士試験 平成29年度版
+  updates: []

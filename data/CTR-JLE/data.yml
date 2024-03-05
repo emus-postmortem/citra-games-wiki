@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000197900
+  name: Defend Your Crypt
+  updates: []
+- regions:
+  - JP
+  id: 00040000001AF700
+  name: お宝ディフェンダー ～ファラオの秘宝～
+  updates: []
+- regions:
+  - US
+  id: 0004000000198200
+  name: Defend your Crypt
+  updates: []

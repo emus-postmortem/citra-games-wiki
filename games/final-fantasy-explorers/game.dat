@@ -1,0 +1,19 @@
+title = "Final Fantasy Explorers"
+description = "Final Fantasy Explorers is an action role-playing video game developed by Racjin and published by Square Enix for the Nintendo 3DS. It features character job-oriented combat against classic Final Fantasy monsters and summons."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "000400000016ED00"
+region = "usa"
+release_date = "2016-01-26"
+
+[[releases]]
+title = "000400000016E700"
+region = "eur"
+release_date = "2016-01-29"
+
+[[releases]]
+title = "000400000010E200"
+region = "jpn"
+release_date = "2014-12-18"

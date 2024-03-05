@@ -1,0 +1,7 @@
+platform: SuperNES
+releases:
+- regions:
+  - JP
+  id: 000400000F708300
+  name: 伝説のオウガバトル
+  updates: []

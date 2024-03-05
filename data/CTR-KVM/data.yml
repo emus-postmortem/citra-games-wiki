@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001AF300
+  name: 新みんなの塗り絵 ポムポムプリン
+  updates: []

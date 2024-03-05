@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 0004000000035C00
+  name: Balloon Pop® 2
+  updates: []

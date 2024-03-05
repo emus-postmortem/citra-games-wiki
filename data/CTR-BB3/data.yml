@@ -1,0 +1,23 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001B5500
+  name: 'Story of Seasons: Trio of Towns'
+  updates:
+  - id: 0004000E001B5500
+    name: 'Story of Seasons:  Trio of Towns: Update'
+- regions:
+  - JP
+  id: 0004000000185300
+  name: 牧場物語 ３つの里の大切な友だち
+  updates:
+  - id: 0004000E00185300
+    name: 更新データ Ver. 1.4 牧場物語 ３つの里の大切な友だち
+- regions:
+  - US
+  id: 000400000019F500
+  name: 'STORY OF SEASONS: Trio of Towns'
+  updates:
+  - id: 0004000E0019F500
+    name: 'STORY OF SEASONS:  Trio of Towns  Update Ver. 1.1'

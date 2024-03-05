@@ -1,0 +1,7 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 000400000F711300
+  name: Games for Toddlers 2
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000019EF00
+  name: 'Monster Hunter™ Generations: Demo'
+  updates: []
+- regions:
+  - US
+  id: 000400000019F000
+  name: Monster Hunter Generations™ Special Demo
+  updates: []

@@ -1,0 +1,7 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - JP
+  id: 000400000011A500
+  name: ドンキーコングGB ディンキー コング&ディクシーコング
+  updates: []

@@ -1,0 +1,28 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000167800
+  name: YO-KAI WATCH®
+  updates:
+  - id: 0004000E00167800
+    name: 'YO-KAI WATCH©:  Update'
+- regions:
+  - JP
+  id: 00040000000CF400
+  name: 妖怪ウォッチ
+  updates:
+  - id: 0004000E000CF400
+    name: 更新データ Ver. 1.2 妖怪ウォッチ
+- regions:
+  - KR
+  id: 0004000000167600
+  name: 요괴워치
+  updates: []
+- regions:
+  - US
+  id: 0004000000167700
+  name: YO-KAI WATCH™
+  updates:
+  - id: 0004000E00167700
+    name: YO-KAI WATCH™ Update Ver. 1.2

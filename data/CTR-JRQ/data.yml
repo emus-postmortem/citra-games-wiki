@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000E5A00
+  name: Robot Rescue 3D
+  updates: []
+- regions:
+  - JP
+  id: 00040000000D8D00
+  name: ロボットレスキュー3D
+  updates: []
+- regions:
+  - US
+  id: 00040000000D0500
+  name: Robot Rescue 3D
+  updates: []

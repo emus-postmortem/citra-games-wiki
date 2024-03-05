@@ -1,0 +1,20 @@
+title = "BoxBoy!"
+description = "BoxBoy! is a puzzle platformer video game developed by HAL Laboratory and published by Nintendo for the Nintendo 3DS console. Players control Qbby, a square-shaped character who can produce a string of connected boxes. The boxes are used to overcome obstacles in stages that Qbby must be guided through."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000154500"
+region = "usa"
+release_date = "2015-04-02"
+
+[[releases]]
+title = "0004000000154600"
+region = "eur"
+release_date = "2015-04-02"
+
+[[releases]]
+title = "0004000000126800"
+region = "jpn"
+release_date = "2015-01-15"

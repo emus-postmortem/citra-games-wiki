@@ -1,0 +1,29 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001C2100
+  name: Kirby™ Battle Royale
+  updates:
+  - id: 0004000E001C2100
+    name: 'Kirby™ Battle Royale:  Update'
+- regions:
+  - JP
+  id: 00040000001A8B00
+  name: カービィ バトルデラックス!
+  updates:
+  - id: 0004000E001A8B00
+    name: 更新データ Ver. 3.0 カービィ バトルデラックス！
+- regions:
+  - KR
+  id: 00040000001C2200
+  name: 커비 배틀 디럭스!
+  updates: []
+- regions:
+  - TW
+  - US
+  id: 00040000001C2000
+  name: Kirby™ Battle Royale
+  updates:
+  - id: 0004000E001C2000
+    name: Kirby™ Battle Royale  Update Ver. 3.0

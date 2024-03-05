@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000066100
+  name: Winter Sports 2012 - Feel the Spirit
+  updates: []
+- regions:
+  - EU
+  id: 0004000000117F00
+  name: Winter Sports 2012 - Feel the Spirit
+  updates: []
+- regions:
+  - US
+  id: 0004000000117B00
+  name: Winter Sports - Feel the Spirit
+  updates: []

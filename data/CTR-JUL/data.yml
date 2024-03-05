@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000132200
+  name: Football Up Online
+  updates: []
+- regions:
+  - JP
+  id: 000400000013F000
+  name: スター★シリーズ:3D サッカー
+  updates: []
+- regions:
+  - US
+  id: 0004000000126F00
+  name: Soccer Up Online
+  updates: []

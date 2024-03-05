@@ -1,0 +1,23 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 000400000004B500
+  name: モンスターハンター4
+  updates:
+  - id: 0004000E0004B500
+    name: 更新データ Ver. 1.1 モンスターハンター4
+- regions:
+  - KR
+  id: 0004000000105000
+  name: 몬스터헌터 4
+  updates:
+  - id: 0004000E00105000
+    name: 업데이트 데이터 Ver. 1.1 몬스터헌터 4
+- regions:
+  - TW
+  id: 0004000000100900
+  name: MONSTER HUNTER 4 (日文版)
+  updates:
+  - id: 0004000E00100900
+    name: 更新資料 Ver. 1.1  MONSTER HUNTER 4

@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70D200
+  name: GUIDE THE GHOST
+  updates: []
+- regions:
+  - US
+  id: 000400000F70D400
+  name: GUIDE THE GHOST
+  updates: []

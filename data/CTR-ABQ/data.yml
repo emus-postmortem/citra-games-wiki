@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000EAE00
+  name: 'Harvest Moon: A New Beginning'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000073700
+  name: 牧場物語 はじまりの大地
+  updates: []
+- regions:
+  - US
+  id: 00040000000A5900
+  name: 'Harvest Moon® 3D:  A New Beginning'
+  updates: []

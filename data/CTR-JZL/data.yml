@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000120200
+  name: ラジルギでごじゃる!
+  updates: []

@@ -1,0 +1,19 @@
+title = "Etrian Odyssey Untold - The Millennium Girl"
+description = "Etrian Odyssey Untold: The Millennium Girl is a 2013 role-playing video game for the Nintendo 3DS by Atlus. It is part of the Etrian Odyssey series, and is both a \"reimagining\" and a remake of the first entry."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000000EC700"
+region = "usa"
+release_date = "2013-10-01"
+
+[[releases]]
+title = "000400000010EB00"
+region = "eur"
+release_date = "2014-05-02"
+
+[[releases]]
+title = "00040000000CF800"
+region = "jpn"
+release_date = "2013-06-27"

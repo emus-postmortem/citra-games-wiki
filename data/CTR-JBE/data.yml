@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000191B00
+  name: Super Strike Beach Volleyball™
+  updates: []
+- regions:
+  - JP
+  id: 000400000008AB00
+  name: おきらくビーチバレー3D
+  updates: []
+- regions:
+  - KR
+  id: 0004000000186B00
+  name: 패밀리 비치발리볼 3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000190400
+  name: Super Strike Beach Volleyball™
+  updates: []

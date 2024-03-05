@@ -1,0 +1,39 @@
+title = "Shovel Knight"
+description = "Shovel Knight is a 2D side-scrolling platform game presented in 8-bit graphics in which players control the eponymous protagonist as he collects treasure and fights against the Order of No Quarter."
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000119A00"
+region = "usa"
+release_date = "2015-11-03"
+
+[[ releases ]]
+title = "000400000012CB00"
+region = "eur"
+release_date = "2015-11-03"
+
+[[ releases ]]
+title = "0004000000196900"
+region = "jpn"
+release_date = "2015-11-03"
+
+[[testcases]]
+title = "0004000000196900"
+compatibility = "3"
+date = "2017-08-09"
+version = "HEAD-792dee4"
+cpu = "Intel Core i7 2630QM"
+gpu = "GeForce GT 540M"
+os = "Windows 7 7601"
+author = "flaviculpus"
+
+[[testcases]]
+title = "0004000000119A00"
+compatibility = "0"
+date = "2017-10-24"
+version = "HEAD-e9d1e8c"
+cpu = "Intel Core i7-4720HQ"
+gpu = "GeForce GT 960M"
+os = "Windows 10 14393"
+author = "Flamboyant_Ham"

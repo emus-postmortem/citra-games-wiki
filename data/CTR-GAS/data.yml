@@ -1,0 +1,17 @@
+platform: GameGear
+releases:
+- regions:
+  - EU
+  id: 000400000009BB00
+  name: 'Shining Force™: The Sword of Hajya'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000098400
+  name: シャイニング･フォース外伝Ⅱ 邪神の覚醒
+  updates: []
+- regions:
+  - US
+  id: 000400000009C500
+  name: 'Shining Force™: Sword of Hajya'
+  updates: []

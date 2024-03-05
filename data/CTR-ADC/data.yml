@@ -1,0 +1,27 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000031600
+  name: Toy Poodle &  New Friends
+  updates: []
+- regions:
+  - JP
+  id: 0004000000031500
+  name: nintendogs + cats トイ･プードル & Newフレンズ
+  updates: []
+- regions:
+  - KR
+  id: 0004000000031900
+  name: nintendogs + cats 푸들 & NEW친구들
+  updates: []
+- regions:
+  - TW
+  id: 0004000000090900
+  name: 任天狗狗 + 貓貓 玩具貴賓犬與新伙伴們
+  updates: []
+- regions:
+  - US
+  id: 0004000000031700
+  name: 'nintendogs™ + cats: Toy Poodle'
+  updates: []

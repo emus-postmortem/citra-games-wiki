@@ -1,0 +1,20 @@
+title = "Club Nintendo Picross Plus"
+description = "Club Nintendo Picross Plus is a Japan-only Nintendo 3DS eShop Picross title, sequel to Club Nintendo Picross. It is very similar to its predecessor, featuring all the original content from the first, as well as being packed with over 100 new puzzles."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[ releases ]]
+title = "0004000000153400"
+region = "jpn"
+release_date = "2014-10-09"
+
+[[ testcases ]]
+title = "0004000000153400"
+compatibility = "0"
+date = "2017-06-05"
+version = "HEAD-8f0a23b"
+author = "SonofUgly"
+cpu = "i5-6600k @ 4.3GHz"
+gpu = "GeForce GTX 750Ti"
+os = "Windows 8.1"

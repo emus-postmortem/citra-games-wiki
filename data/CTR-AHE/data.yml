@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 000400000009C900
+  name: Spy Hunter™
+  updates: []

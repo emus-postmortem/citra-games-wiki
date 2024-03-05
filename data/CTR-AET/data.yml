@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000BB800
+  name: イナズマイレブン1･2･3!! 円堂守伝説
+  updates:
+  - id: 0004000E000BB800
+    name: 更新データ Ver. 1.1 イナズマイレブン1･2･3!! 円堂守伝説

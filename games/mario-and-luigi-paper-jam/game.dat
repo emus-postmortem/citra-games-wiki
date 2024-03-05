@@ -1,0 +1,41 @@
+title = "Mario & Luigi: Paper Jam"
+description = "Mario & Luigi: Paper Jam, known in Europe and Australia as Mario & Luigi: Paper Jam Bros. and in Japan as Mario & Luigi RPG Paper Mario MIX, is a role-playing video game developed by AlphaDream and published by Nintendo for the Nintendo 3DS. The game is the fifth title in the Mario & Luigi series (and a Paper Mario spin-off game title), crossing over with elements and style of characters from the Paper Mario series."
+incomplete = true
+github_issues = [2910]
+needs_system_files = false
+needs_shared_font = true
+
+[[ releases ]]
+title = "0004000000132700"
+region = "usa"
+release_date = "2016-01-22"
+
+[[ releases ]]
+title = "0004000000132800"
+region = "eur"
+release_date = "2015-12-04"
+
+[[ releases ]]
+title = "0004000000132600"
+region = "jpn"
+release_date = "2015-12-03"
+
+[[ testcases ]]
+title = "0004000000132700"
+compatibility = "0"
+date = "2017-07-04"
+version = "HEAD-22e7402"
+author = "DrewThatGamer"
+cpu = "Intel Core i5 6400"
+gpu = "NVIDIA GeForce GTX 1050"
+os = "Windows 10"
+
+[[ testcases ]]
+title = "0004000000132800"
+compatibility = "3"
+date = "2017-08-31"
+version = "HEAD-ecd332b"
+author = "Avoltance"
+cpu = "Intel Core i5 4200U"
+gpu = "NVIDIA GeForce GT 720M"
+os = "Windows 10"

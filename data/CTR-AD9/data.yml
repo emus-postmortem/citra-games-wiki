@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000CF700
+  name: ドラえもん のび太のひみつ道具博物館
+  updates: []

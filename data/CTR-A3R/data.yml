@@ -1,0 +1,23 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001D1500
+  name: 'Mario & Luigi: Bowser’s Inside  Story + Bowser Jr.’s Journey'
+  updates:
+  - id: 0004000E001D1500
+    name: "Mario & Luigi: Bowser's  Inside Story:  Update"
+- regions:
+  - JP
+  id: 00040000001CA900
+  name: マリオ＆ルイージRPG3 DX
+  updates:
+  - id: 0004000E001CA900
+    name: 更新データ Ver. 1.2 マリオ＆ルイージRPG3 DX
+- regions:
+  - US
+  id: 00040000001D1400
+  name: Mario & Luigi™:Bowser’s Inside  Story + Bowser Jr.’s Journey
+  updates:
+  - id: 0004000E001D1400
+    name: 'Mario & Luigi™: Bowser’s  Inside Story  Update Ver. 1.2 '

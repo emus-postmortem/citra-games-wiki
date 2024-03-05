@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F702800
+  name: MEGA MAN™ 7
+  updates: []
+- regions:
+  - JP
+  id: 000400000F702700
+  name: ロックマン7 宿命の対決！
+  updates: []

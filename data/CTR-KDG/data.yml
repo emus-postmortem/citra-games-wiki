@@ -1,0 +1,19 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000019DD00
+  name: Kingdom's Item Shop
+  updates: []
+- regions:
+  - JP
+  id: 000400000013FE00
+  name: 王国の道具屋さん
+  updates:
+  - id: 0004000E0013FE00
+    name: 更新データ Ver. 1.0.2 王国の道具屋さん
+- regions:
+  - US
+  id: 000400000019E300
+  name: Kingdom's Item Shop
+  updates: []

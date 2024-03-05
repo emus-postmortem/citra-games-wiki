@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000170500
+  name: カードファイト!! ヴァンガードG ストライド トゥ ビクトリー!!
+  updates:
+  - id: 0004000E00170500
+    name: 更新データ Ver. 1.3 カードファイト!! ヴァンガードG ストライド トゥ ビクトリー!!

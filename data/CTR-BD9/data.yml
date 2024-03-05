@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001B4300
+  name: ドラゴンボールヒーローズ アルティメットミッションＸ
+  updates:
+  - id: 0004000E001B4300
+    name: 更新データ Ver. 1.3.0 ドラゴンボールヒーローズ アルティメットミッションＸ

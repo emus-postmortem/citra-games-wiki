@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000153E00
+  name: Space Lift Danger Panic!
+  updates: []
+- regions:
+  - US
+  id: 0004000000154300
+  name: Space Lift Danger Panic!
+  updates: []

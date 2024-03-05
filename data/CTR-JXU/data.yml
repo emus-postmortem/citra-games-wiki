@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000011B200
+  name: 大人 VS グレコ 漢字の塔と オバケたち 完全フルセット
+  updates:
+  - id: 0004000E0011B200
+    name: 更新データ Ver. 1.2 大人 VS グレコ 漢字の塔とオバケたち 完全フルセット

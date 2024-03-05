@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000065C00
+  name: ラビリンスの彼方
+  updates: []

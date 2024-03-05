@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000016A500
+  name: Samurai Defender
+  updates: []
+- regions:
+  - JP
+  id: 0004000000125E00
+  name: サムライディフェンダー
+  updates: []
+- regions:
+  - US
+  id: 000400000016AC00
+  name: Samurai Defender
+  updates: []

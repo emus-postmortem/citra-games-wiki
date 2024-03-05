@@ -1,0 +1,27 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000051800
+  name: Nintendo Letter Box
+  updates: []
+- regions:
+  - JP
+  id: 0004000000051600
+  name: いつの間に交換日記
+  updates: []
+- regions:
+  - KR
+  id: 00040000000CC900
+  name: 어느새 교환 일기
+  updates: []
+- regions:
+  - TW
+  id: 00040000000CCA00
+  name: 悄悄互動日記
+  updates: []
+- regions:
+  - US
+  id: 0004000000051700
+  name: Swapnote™
+  updates: []

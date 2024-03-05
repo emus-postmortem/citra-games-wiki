@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000174300
+  name: マル合格！ 基本情報技術者試験 平成28年度版
+  updates: []

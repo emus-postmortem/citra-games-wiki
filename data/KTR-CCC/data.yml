@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70DB00
+  name: Raining Coins
+  updates: []
+- regions:
+  - US
+  id: 000400000F70CB00
+  name: Raining Coins
+  updates: []

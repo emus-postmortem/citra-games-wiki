@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 000400000012FE00
+  name: おさわり探偵 小沢里奈 なめこリズム
+  updates: []

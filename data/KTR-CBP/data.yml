@@ -1,0 +1,17 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F708500
+  name: Pirate Pop Plus
+  updates: []
+- regions:
+  - JP
+  id: 000400000F70A100
+  name: かいぞくポップ
+  updates: []
+- regions:
+  - US
+  id: 000400000F708600
+  name: Pirate Pop Plus
+  updates: []

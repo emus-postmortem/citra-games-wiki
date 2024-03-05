@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F709D00
+  name: COLOR CUBES
+  updates: []
+- regions:
+  - US
+  id: 000400000F709A00
+  name: COLOR CUBES
+  updates: []

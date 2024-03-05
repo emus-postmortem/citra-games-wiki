@@ -1,0 +1,19 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001CD000
+  name: 'River City: Rival Showdown'
+  updates: []
+- regions:
+  - JP
+  id: 000400000018EB00
+  name: ダウンタウン熱血物語SP
+  updates:
+  - id: 0004000E0018EB00
+    name: 更新データ Ver. 1.1 ダウンタウン熱血物語SP
+- regions:
+  - US
+  id: 00040000001CC600
+  name: 'River City: Rival Showdown'
+  updates: []

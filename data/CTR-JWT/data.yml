@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000126700
+  name: Another World - 20th Anniversary Edition
+  updates: []
+- regions:
+  - JP
+  id: 000400000015DE00
+  name: Outer World 20th Anniversary Edition
+  updates: []
+- regions:
+  - US
+  id: 0004000000127200
+  name: Another World - 20th Anniversary Edition
+  updates: []

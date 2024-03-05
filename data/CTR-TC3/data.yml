@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000D3700
+  name: 'Double Dragon II: The Revenge'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000D3500
+  name: ダブルドラゴンⅡ The Revenge
+  updates: []
+- regions:
+  - US
+  id: 00040000000D3600
+  name: 'Double Dragon II: The Revenge'
+  updates: []

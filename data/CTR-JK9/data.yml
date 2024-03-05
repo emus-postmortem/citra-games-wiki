@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000124C00
+  name: Tiny Games - Knights & Dragons
+  updates: []
+- regions:
+  - JP
+  id: 000400000014B400
+  name: ちっちゃなげ～む Vol.1 ナイトとドラゴンのヒマつぶし
+  updates: []
+- regions:
+  - US
+  id: 0004000000125300
+  name: Tiny Games - Knights & Dragons
+  updates: []

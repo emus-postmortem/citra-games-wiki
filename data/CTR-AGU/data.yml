@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000065D00
+  name: ガールズファッション3D☆ めざせ!トップスタイリスト
+  updates: []

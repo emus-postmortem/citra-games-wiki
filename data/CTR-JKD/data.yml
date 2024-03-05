@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000FB000
+  name: 文字パズル ことだまーる★
+  updates:
+  - id: 0004000E000FB000
+    name: 更新データ Ver. 1.1 文字パズル ことだまーる★

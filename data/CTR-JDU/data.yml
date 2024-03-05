@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000103800
+  name: '@SIMPLE DLシリーズ Vol.18 THE 将棋'
+  updates: []

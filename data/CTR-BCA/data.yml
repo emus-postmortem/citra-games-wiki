@@ -1,0 +1,23 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000175200
+  name: 'Metroid™ Prime: Federation Force'
+  updates:
+  - id: 0004000E00175200
+    name: 'Metroid™ Prime: Federation Force: Update'
+- regions:
+  - JP
+  id: 000400000016CE00
+  name: メトロイドプライム フェデレーションフォース
+  updates:
+  - id: 0004000E0016CE00
+    name: 更新データ Ver. 1.1.0  メトロイドプライム フェデレーションフォース
+- regions:
+  - US
+  id: 000400000016E300
+  name: 'Metroid Prime™:  Federation Force'
+  updates:
+  - id: 0004000E0016E300
+    name: 'Metroid Prime™: Federation Force Update Ver. 1.1.0'

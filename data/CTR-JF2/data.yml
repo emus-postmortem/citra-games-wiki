@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000052100
+  name: Fun! Fun! Minigolf TOUCH!
+  updates: []
+- regions:
+  - US
+  id: 0004000000086E00
+  name: Fun! Fun! Minigolf TOUCH!
+  updates: []

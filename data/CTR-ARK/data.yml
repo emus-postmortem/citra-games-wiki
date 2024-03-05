@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000144200
+  name: 鉄道にっぽん!路線たび 鹿島臨海鉄道編
+  updates: []
+- regions:
+  - US
+  id: 00040000001BED00
+  name: 'Japanese Rail Sim 3D Journey in suburbs #2'
+  updates: []

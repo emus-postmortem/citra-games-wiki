@@ -1,0 +1,19 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000FCA00
+  name: THEATRHYTHM Final Fantasy Curtain Call™
+  updates: []
+- regions:
+  - JP
+  id: 00040000000E9A00
+  name: シアトリズム ファイナル ファンタジー カーテンコール
+  updates:
+  - id: 0004000E000E9A00
+    name: 更新データ Ver. 1.2 TFF CURTAIN CALL
+- regions:
+  - US
+  id: 00040000000FD500
+  name: THEATRHYTHM FINAL FANTASY CURTAIN CALL
+  updates: []

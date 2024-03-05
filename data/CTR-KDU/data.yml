@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000196800
+  name: Infinite Dunamis
+  updates: []
+- regions:
+  - JP
+  id: 0004000000177C00
+  name: 無限のデュナミス
+  updates: []
+- regions:
+  - US
+  id: 0004000000194600
+  name: Infinite Dunamis
+  updates: []

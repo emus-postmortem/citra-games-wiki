@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D8F00
+  name: Tank Onslaught
+  updates: []
+- regions:
+  - US
+  id: 00040000001D9000
+  name: Tank Onslaught
+  updates: []

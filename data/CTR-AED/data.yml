@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000113000
+  name: 'Inazuma Eleven® GO: Shadow'
+  updates: []
+- regions:
+  - JP
+  id: 000400000006D300
+  name: イナズマイレブンGO ダーク
+  updates: []

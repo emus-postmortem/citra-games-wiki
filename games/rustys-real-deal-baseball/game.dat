@@ -1,0 +1,20 @@
+title = "Rusty's Real Deal Baseball"
+description = "Rusty's Real Deal Baseball is a baseball video game developed and published by Nintendo, starring the titular Rusty Slugger and the player's Mii character. It features a collection of baseball themed minigames. Minigames are purchased and downloaded from the Nintendo eShop. Players can haggle with Rusty to decrease a game's price with donuts or discount tickets obtained from the minigames."
+needs_system_files = true
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000106400"
+region = "usa"
+release_date = "2014-04-03"
+
+[[releases]]
+title = "00040000000D2900" 
+region = "jpn"
+release_date = "2013-08-08" 
+
+[[releases]]
+title = "0004000000126200"
+region = "kor"
+release_date = "2014-05-28"

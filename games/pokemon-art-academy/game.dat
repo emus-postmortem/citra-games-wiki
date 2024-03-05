@@ -1,0 +1,30 @@
+title = "Pokémon Art Academy"
+description = "Pokémon Art Academy is an educational drawing video game developed by Headstrong Games and published by Nintendo for the Nintendo 3DS. It is a spin-off of the Art Academy series featuring characters from the Pokémon media franchise."
+incomplete = true
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "00040000000D0A00"
+region = "usa"
+release_date = "2014-10-24"
+
+[[ releases ]]
+title = "00040000000D0900"
+region = "eur"
+release_date = "2014-07-04"
+
+[[ releases ]]
+title = "00040000000CF900"
+region = "jpn"
+release_date = "2014-06-19"
+
+[[ testcases ]]
+title = "00040000000D0A00"
+compatibility = "0"
+date = "2017-07-04"
+version = "HEAD-22e7402"
+author = "DrewThatGamer"
+cpu = "Intel Core i5 6400"
+gpu = "NVIDIA GeForce GTX 1050"
+os = "Windows 10"

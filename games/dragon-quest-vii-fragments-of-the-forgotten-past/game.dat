@@ -1,0 +1,29 @@
+title = "Dragon Quest® VII Fragments of the Forgotten Past"
+description = "Developed by ArtePiazza and published by Square Enix, Dragon Quest® VII Fragments of the Forgotten Past is a remake of the original game that came out in 2000 for the PS1. After discovering that the world he lives in was once composed of more continents than just the tiny island of Estard, the Hero goes on a journey back to the past to restore all the continents."
+needs_system_files = false
+needs_shared_font = true
+
+[[releases]]
+title = "000400000018EF00"
+region = "usa"
+release_date = "2016-09-16"
+
+[[releases]]
+title = "000400000018F000"
+region = "eur"
+release_date = "2016-09-16"
+
+[[releases]]
+title = "0004000000065E00"
+region = "jpn"
+release_date = "2013-02-07"
+
+[[testcases]]
+title = "000400000018F000"
+compatibility = "1"
+date = "2017-08-26"
+version = "HEAD-61442d6"
+cpu = "Intel Core i3-6100"
+gpu = "GeForce GTX 1050ti"
+os = "Windows 10 14393"
+author = "LCypher00"

@@ -1,0 +1,17 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000038A00
+  name: Dead or Alive Dimensions
+  updates: []
+- regions:
+  - JP
+  id: 0004000000032000
+  name: DEAD OR ALIVE Dimensions
+  updates: []
+- regions:
+  - US
+  id: 0004000000034F00
+  name: DEAD OR ALIVE Dimensions
+  updates: []

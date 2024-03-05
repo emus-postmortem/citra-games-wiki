@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000129B00
+  name: プチノベル「青嵐の四月」
+  updates: []

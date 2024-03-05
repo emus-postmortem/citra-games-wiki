@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000014F500
+  name: Rytmik Ultimate
+  updates: []
+- regions:
+  - US
+  id: 000400000014DB00
+  name: Rytmik Ultimate
+  updates: []

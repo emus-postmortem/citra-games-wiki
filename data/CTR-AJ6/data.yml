@@ -1,0 +1,14 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000006CF00
+  name: Jewel Quest The Sapphire Dragon
+  updates:
+  - id: 0004000E0006CF00
+    name: Jewel Quest The Sapphire Dragon - Update
+- regions:
+  - US
+  id: 00040000000DDD00
+  name: Jewel Quest 6 - The Sapphire  Dragon
+  updates: []

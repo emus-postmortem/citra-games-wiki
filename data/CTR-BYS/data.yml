@@ -1,0 +1,24 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001B2900
+  name: 'YO-KAI WATCH® 2: Psychic Specters'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000155100
+  name: 妖怪ウォッチ2 真打
+  updates:
+  - id: 0004000E00155100
+    name: 更新データ Ver. 1.2 妖怪ウォッチ2 真打
+- regions:
+  - KR
+  id: 00040000001B2A00
+  name: 요괴워치 2 끝판왕
+  updates: []
+- regions:
+  - US
+  id: 00040000001B2700
+  name: 'YO-KAI WATCH™ 2: Psychic Specters'
+  updates: []

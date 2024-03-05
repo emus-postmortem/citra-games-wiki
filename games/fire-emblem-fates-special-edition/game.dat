@@ -1,0 +1,26 @@
+title = "Fire Emblem: Fates - Special Edition"
+description = "The overarching story follows the protagonist, a customizable Avatar created by the player, as they are unwillingly drawn into a war between the Kingdoms of Hoshido (their birthplace) and Nohr (their adopted home), and must choose which side to support."
+incomplete = true
+github_issues = [3443]
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000179800"
+region = "usa"
+release_date = "2016-02-19"
+
+[[ releases ]]
+title = "000400000017A800"
+region = "eur"
+release_date = "2016-05-20"
+
+[[ testcases ]]
+compatibility = "2"
+date = "2017-06-19"
+title = "000400000017A800"
+version = "HEAD-d0888f8"
+author = "Kloen"
+cpu = "Intel Core i5-760"
+gpu = "AMD Radeon HD 5670"
+os = "Windows 10 Education 1511"

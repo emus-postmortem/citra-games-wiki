@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001AD700
+  name: Chicken Wiggle
+  updates: []
+- regions:
+  - US
+  id: 00040000001A7F00
+  name: Chicken Wiggle
+  updates: []

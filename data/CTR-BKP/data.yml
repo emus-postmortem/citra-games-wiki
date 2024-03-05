@@ -1,0 +1,9 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000106700
+  name: キャラペット つくって!そだてて! キャラクター小学校
+  updates:
+  - id: 0004000E00106700
+    name: 更新データ Ver. 1.1 キャラペット つくって!そだてて!キャラクター小学校

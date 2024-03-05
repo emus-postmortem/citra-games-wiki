@@ -1,0 +1,30 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001A0500
+  name: Super Mario Maker™ for Nintendo 3DS
+  updates:
+  - id: 0004000E001A0500
+    name: 'Super Mario Maker™  for Nintendo 3DS: Update'
+- regions:
+  - JP
+  id: 00040000001A0300
+  name: スーパーマリオメーカー for ニンテンドー3DS
+  updates:
+  - id: 0004000E001A0300
+    name: 更新データ Ver. 1.04 スーパーマリオメーカー for ニンテンドー3DS
+- regions:
+  - KR
+  id: 00040000001BB800
+  name: 슈퍼 마리오 메이커 for 닌텐도 3DS
+  updates:
+  - id: 0004000E001BB800
+    name: 슈퍼 마리오 메이커 for 닌텐도 3DS 업데이트 데이터 ver.1.04
+- regions:
+  - US
+  id: 00040000001A0400
+  name: Super Mario Maker™ for Nintendo 3DS
+  updates:
+  - id: 0004000E001A0400
+    name: Super Mario Maker™ for Nintendo 3DS Update Ver. 1.04

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000DC400
+  name: League of Heroes
+  updates: []
+- regions:
+  - JP
+  id: 000400000015DB00
+  name: リーグ オブ ヒーローズ
+  updates: []
+- regions:
+  - US
+  id: 00040000000D6800
+  name: League of Heroes
+  updates: []

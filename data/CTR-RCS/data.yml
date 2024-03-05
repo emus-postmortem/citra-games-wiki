@@ -1,0 +1,7 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 0004000000171300
+  name: Pokémon™ Rote Edition
+  updates: []

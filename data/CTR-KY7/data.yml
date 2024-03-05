@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001A1200
+  name: デジコロ ケシカスくん Vol.002 あの文具と真剣勝負!?
+  updates: []

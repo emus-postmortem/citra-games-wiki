@@ -1,0 +1,19 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000017A400
+  name: Fire Emblem™ Fates
+  updates: []
+- regions:
+  - JP
+  id: 000400000016B200
+  name: ファイアーエムブレムif
+  updates:
+  - id: 0004000E0016B200
+    name: 更新データ Ver. 1.1 ファイアーエムブレムif（ダウンロード版）
+- regions:
+  - TW
+  id: 000400000017B800
+  name: ファイアーエムブレムif (日文版)
+  updates: []

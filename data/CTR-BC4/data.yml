@@ -1,0 +1,23 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000173B00
+  name: 'SAMURAI WARRIORS: Chronicles 3'
+  updates:
+  - id: 0004000E00173B00
+    name: 'SAMURAI WARRIORS: Chronicles 3: Update'
+- regions:
+  - JP
+  id: 000400000014DF00
+  name: 戦国無双 Chronicle 3
+  updates:
+  - id: 0004000E0014DF00
+    name: 更新データ Ver. 1.0.4 戦国無双 Chronicle 3
+- regions:
+  - US
+  id: 000400000016F200
+  name: 'SAMURAI WARRIORS: Chronicles 3'
+  updates:
+  - id: 0004000E0016F200
+    name: 'SAMURAI WARRIORS: Chronicles 3 Update Ver. 1.0.2'

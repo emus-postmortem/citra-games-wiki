@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000A1A00
+  name: おうちまいにち たまごっち
+  updates: []

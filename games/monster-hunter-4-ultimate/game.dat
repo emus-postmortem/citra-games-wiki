@@ -1,0 +1,30 @@
+title = "Monster Hunter 4 Ultimate"
+description = "Monster Hunter 4 Ultimate is an action role-playing video game developed and published by Capcom. It is an improved version of Monster Hunter 4 and is the first fourth-generation Monster Hunter game to be released outside of Japan."
+github_issues = [3287]
+needs_system_files = true
+needs_shared_font = true
+
+[[ releases ]]
+title = "0004000000126300"
+region = "usa"
+release_date = "2015-02-13"
+
+[[ releases ]]
+title = "0004000000126100"
+region = "eur"
+release_date = "2015-02-13"
+
+[[ releases ]]
+title = "000400000011D700"
+region = "jpn"
+release_date = "2014-10-11"
+
+[[ testcases ]]
+title = "0004000000126300"
+compatibility = "3"
+date = "2017-06-05"
+version = "HEAD-bae3799"
+author = "Desmond"
+cpu = "?"
+gpu = "?"
+os = "?"

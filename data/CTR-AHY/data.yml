@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D9A00
+  name: 'Shakedown: Hawaii'
+  updates: []
+- regions:
+  - US
+  id: 00040000001A9600
+  name: 'Shakedown: Hawaii'
+  updates: []

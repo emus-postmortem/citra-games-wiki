@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F704100
+  name: 'Street Fighter™ II Turbo: Hyper Fighting'
+  updates: []
+- regions:
+  - JP
+  id: 000400000F704000
+  name: ストリートファイターⅡ ターボ ハイパー ファイティング
+  updates: []

@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001AF200
+  name: 新みんなの塗り絵 シナモロール
+  updates:
+  - id: 0004000E001AF200
+    name: 更新データ Ver. 1.1 新みんなの塗り絵 シナモロール

@@ -1,0 +1,9 @@
+title = "Hatsune Miku and Future Stars: Project Mirai"
+description = "Hatsune Miku and Future Stars: Project Mirai is a rhythm game created by Sega and Crypton Future Media. This game features the Chance Circle System. Buttons will appear around the border of a circle, and a pointer will appear from the center of the circle extending all the way outside the circle's border. It will then turn in a clockwise or counter-clockwise manner according to the song and when the pointer passes the button, the player has to press the face button on the 3DS."
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000048000"
+region = "jpn"
+release_date = "2012-03-08"

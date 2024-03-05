@@ -1,0 +1,20 @@
+title = "Attack of the Friday Monsters! A Tokyo Tale"
+description = "Attack of the Friday Monsters! A Tokyo Tale is a life simulation game developed by Millennium Kitchen and published by Level-5. The game follows a boy named Sohta who lives in a town where monsters and superheroes from 1970s tokusatsu shows appear every Friday. It is part of the Guild02 series which is a compilation of three games designed by Keiji Inafune, Kazuya Asano, Takemaru Abiko and Kaz Ayabe." 
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "00040000000E7600"
+region = "usa"
+release_date = "2013-07-18"
+
+[[ releases ]]
+title = "00040000000E7500"
+region = "eur"
+release_date = "2013-07-18"
+
+[[ releases ]]
+title = "00040000000D0D00"
+region = "jpn"
+release_date = "2013-03-13"

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000192E00
+  name: Alien on the run
+  updates: []
+- regions:
+  - JP
+  id: 000400000010E400
+  name: 脱出星人!? デルデルデルデ
+  updates: []
+- regions:
+  - US
+  id: 0004000000127600
+  name: Alien On The Run
+  updates: []

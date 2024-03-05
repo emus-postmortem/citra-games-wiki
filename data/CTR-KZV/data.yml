@@ -1,0 +1,23 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001BC300
+  name: Blaster Master Zero
+  updates:
+  - id: 0004000E001BC300
+    name: 'Blaster Master Zero:  Update'
+- regions:
+  - JP
+  id: 00040000001B5700
+  name: ブラスターマスター ゼロ
+  updates:
+  - id: 0004000E001B5700
+    name: 更新データ Ver. 1.4.1 ブラスターマスター ゼロ
+- regions:
+  - US
+  id: 00040000001BD000
+  name: Blaster Master Zero
+  updates:
+  - id: 0004000E001BD000
+    name: Blaster Master Zero  Update Ver. 1.4.1

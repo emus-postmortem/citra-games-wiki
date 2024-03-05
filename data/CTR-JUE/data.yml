@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000BCC00
+  name: TOKYO CRASH MOBS™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000092C00
+  name: 行列ナゲループ
+  updates: []
+- regions:
+  - KR
+  id: 00040000000C4E00
+  name: Tokyo Crash Mobs
+  updates: []
+- regions:
+  - US
+  id: 00040000000BCB00
+  name: Tokyo Crash Mobs™
+  updates: []

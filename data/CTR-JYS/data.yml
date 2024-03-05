@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000129600
+  name: AiRace Xeno
+  updates: []
+- regions:
+  - JP
+  id: 000400000014B300
+  name: Aiレース:X
+  updates: []
+- regions:
+  - US
+  id: 000400000012BF00
+  name: AiRace Xeno
+  updates: []

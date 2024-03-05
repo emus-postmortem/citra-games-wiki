@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000178000
+  name: ドリームガール プルミエ
+  updates:
+  - id: 0004000E00178000
+    name: 更新データ Ver. 1.2 ドリームガール プルミエ

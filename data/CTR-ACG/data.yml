@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - US
+  id: 0004000000091700
+  name: 'Classic Games Overload: Card & Puzzle Edition'
+  updates: []

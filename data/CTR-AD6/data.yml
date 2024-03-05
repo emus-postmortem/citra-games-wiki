@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - US
+  id: 00040000000D2300
+  name: 'Scribblenauts™ Unmasked:  A DC Comics Adventure'
+  updates: []

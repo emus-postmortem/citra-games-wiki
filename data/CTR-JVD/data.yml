@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000011E500
+  name: '@SIMPLE DLシリーズ Vol.28 THE 連撃英雄'
+  updates: []

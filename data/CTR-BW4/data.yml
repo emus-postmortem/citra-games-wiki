@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000102700
+  name: ワールドサッカー ウイニングイレブン 2014
+  updates: []

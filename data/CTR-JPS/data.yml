@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000114100
+  name: プチノベル「収穫の十二月」
+  updates: []

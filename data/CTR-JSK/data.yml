@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000013D300
+  name: 1001 Spikes
+  updates: []
+- regions:
+  - JP
+  id: 0004000000180C00
+  name: 1001 Spikes
+  updates: []
+- regions:
+  - US
+  id: 000400000008FE00
+  name: 1001 Spikes
+  updates: []

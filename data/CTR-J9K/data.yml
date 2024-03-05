@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001C1600
+  name: マル合格！介護福祉士  平成29年度版
+  updates: []

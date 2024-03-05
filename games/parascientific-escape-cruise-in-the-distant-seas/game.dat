@@ -1,0 +1,20 @@
+title = "Parascientific Escape: Cruise in the Distant Seas"
+description = "Parascientific Escape: Cruise in the Distant Seas, known as \"Chou Kagaku Dasshutsu Story: Zekkai no Gouka Kyakusen\" in Japan, is a visual novel adventure game developed by Intense. It was self-published in Japan and published by CIRCLE Entertainment in North America and Europe."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000186500"
+region = "usa"
+release_date = "2016-03-03"
+
+[[releases]]
+title = "0004000000186000"
+region = "eur"
+release_date = "2016-03-03"
+
+[[releases]]
+title = "000400000012A100"
+region = "jpn"
+release_date = "2014-07-09"

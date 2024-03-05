@@ -1,0 +1,8 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  - US
+  id: 0004000000173000
+  name: Pokémon™ Silver Version (Spanish Version)
+  updates: []

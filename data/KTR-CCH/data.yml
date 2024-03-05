@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70A000
+  name: Hit Ninja
+  updates: []
+- regions:
+  - US
+  id: 000400000F709500
+  name: Hit Ninja
+  updates: []

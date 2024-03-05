@@ -1,0 +1,12 @@
+platform: NES
+releases:
+- regions:
+  - JP
+  id: 00040000000CAB00
+  name: スカイキッド
+  updates: []
+- regions:
+  - US
+  id: 00040000000CAC00
+  name: Sky Kid
+  updates: []

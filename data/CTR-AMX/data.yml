@@ -1,0 +1,29 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000141C00
+  name: Shin Megami Tensei IV
+  updates: []
+- regions:
+  - JP
+  id: 0004000000088A00
+  name: 真･女神転生Ⅳ
+  updates: []
+- regions:
+  - KR
+  id: 00040000000F6100
+  name: 진 여신전생Ⅳ
+  updates: []
+- regions:
+  - TW
+  id: 00040000000D6D00
+  name: 真・女神轉生Ⅳ (日文版)
+  updates: []
+- regions:
+  - US
+  id: 00040000000E5C00
+  name: Shin Megami Tensei® IV
+  updates:
+  - id: 0004000E000E5C00
+    name: Shin Megami Tensei® IV Update

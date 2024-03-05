@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000ED000
+  name: WAKEDAS
+  updates: []
+- regions:
+  - JP
+  id: 0004000000108000
+  name: ワケダス
+  updates: []
+- regions:
+  - KR
+  id: 000400000011BF00
+  name: WAKEDAS
+  updates: []
+- regions:
+  - US
+  id: 00040000000E6900
+  name: WAKEDAS
+  updates: []

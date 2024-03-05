@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000005A500
+  name: Rayman® Origins
+  updates: []
+- regions:
+  - JP
+  id: 0004000000084400
+  name: レイマン オリジン
+  updates: []
+- regions:
+  - KR
+  id: 00040000000BEC00
+  name: 레이맨 오리진
+  updates: []
+- regions:
+  - US
+  id: 0004000000057600
+  name: RAYMAN® ORIGINS
+  updates: []

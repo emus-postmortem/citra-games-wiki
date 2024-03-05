@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000A7500
+  name: おきらくピンポン3D
+  updates: []
+- regions:
+  - US
+  id: 00040000000E6E00
+  name: Family Table Tennis 3D
+  updates: []

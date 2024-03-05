@@ -1,0 +1,17 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 00040000000F0100
+  name: Mega Man™ Xtreme 2
+  updates: []
+- regions:
+  - JP
+  id: 00040000000EFF00
+  name: ロックマンX2 ソウルイレイザー
+  updates: []
+- regions:
+  - US
+  id: 00040000000F0000
+  name: Mega Man™ Xtreme 2
+  updates: []

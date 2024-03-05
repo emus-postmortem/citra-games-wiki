@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000D8600
+  name: '@SIMPLE DLシリーズ Vol.22 THE 歩兵～戦場の犬たち～'
+  updates: []

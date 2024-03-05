@@ -1,0 +1,7 @@
+platform: SuperNES
+releases:
+- regions:
+  - JP
+  id: 000400000F707400
+  name: がんばれゴエモン2 奇天烈将軍マッギネス
+  updates: []

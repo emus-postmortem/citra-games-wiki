@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000011E700
+  name: バルダーダッシュXL 3D
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000013A000
+  name: パックワールド2
+  updates: []
+- regions:
+  - US
+  id: 0004000000135F00
+  name: PAC-MAN™ and the Ghostly Adventures 2
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000F0800
+  name: KORG M01D
+  updates: []
+- regions:
+  - JP
+  id: 00040000000DB800
+  name: KORG M01D
+  updates: []
+- regions:
+  - US
+  id: 00040000000F1600
+  name: KORG M01D
+  updates: []

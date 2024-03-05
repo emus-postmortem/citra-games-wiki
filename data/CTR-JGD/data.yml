@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000ADE00
+  name: 脱出アドベンチャー 旧校舎の少女
+  updates: []

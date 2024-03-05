@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000013D700
+  name: I Love My Little Boy
+  updates: []
+- regions:
+  - US
+  id: 0004000000141700
+  name: I Love My Little Boy
+  updates: []

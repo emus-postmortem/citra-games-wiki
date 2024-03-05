@@ -1,0 +1,16 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000197100
+  name: モンスターハンターダブルクロス
+  updates:
+  - id: 0004000E00197100
+    name: 更新データ Ver. 1.4.0 モンスターハンターダブルクロス
+- regions:
+  - TW
+  id: 00040000001B8100
+  name: MONSTER HUNTER XX™ (日文版)
+  updates:
+  - id: 0004000E001B8100
+    name: 更新資料 Ver. 1.4.0 MONSTER HUNTER XX

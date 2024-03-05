@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001CD300
+  name: Hiding Out
+  updates: []
+- regions:
+  - US
+  id: 00040000001CC900
+  name: Hiding Out
+  updates: []

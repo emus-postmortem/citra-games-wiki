@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000009F100
+  name: 'Fire Emblem™: Awakening'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000072000
+  name: ファイアーエムブレム 覚醒
+  updates: []
+- regions:
+  - US
+  id: 00040000000A0500
+  name: Fire Emblem™ Awakening
+  updates: []

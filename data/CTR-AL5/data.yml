@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000D1500
+  name: LEGO Marvel Super Heroes Universe In Peril
+  updates: []
+- regions:
+  - JP
+  id: 000400000015A900
+  name: LEGO® マーベル スーパー･ヒーローズ ザ･ゲーム
+  updates: []
+- regions:
+  - US
+  id: 00040000000D2000
+  name: 'LEGO® Marvel™ Super Heroes: Universe in Peril'
+  updates: []

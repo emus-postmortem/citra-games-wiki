@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  - JP
+  - US
+  id: 00040000001D4500
+  name: WarioWare™ Gold Special Demo
+  updates: []

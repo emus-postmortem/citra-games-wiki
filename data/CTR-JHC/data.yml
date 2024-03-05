@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000009FB00
+  name: ニコリのパズル 橋をかけろ
+  updates: []

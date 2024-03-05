@@ -1,0 +1,25 @@
+title = "Attack on Titan: Humanity in Chains"
+description = "Attack on Titan: Humanity in Chains , known as \"Shingeki no Kyojin: Humanity in Chains\" in Europe and \"Shingeki no Kyojin: Jinrui Saigo no Tsubasa CHAIN\" in Japan, is an action game developed by Spike Chunsoft. It was published by Atlus in North America and Europe, and Spike Chunsoft in Japan. The game was originally released in Japan as \"Shingeki no Kyojin: Jinrui Saigo no Tsubasa\"."
+github_issues = [1744]
+needs_system_files = false
+needs_shared_font = true
+
+[[releases]]
+title = "0004000000131E00"
+region = "usa"
+release_date = "2015-05-12"
+
+[[ releases ]]
+title = "0004000000152000"
+region = "eur"
+release_date = "2015-07-02"
+
+[[ releases ]]
+title = "0004000000134500"
+region = "jpn"
+release_date = "2014-12-04"
+
+[[ releases ]]
+title = "00040000000DF800"
+region = "jpn"
+release_date = "2013-12-05"

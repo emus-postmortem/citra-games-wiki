@@ -1,0 +1,21 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001C3E00
+  name: 'Mysterious Stars 3D: A Fairy Tale'
+  updates:
+  - id: 0004000E001C3E00
+    name: 'Mysterious Stars 3D:  A Fairy Tale: Update'
+- regions:
+  - JP
+  id: 000400000018D600
+  name: 不思議な点つなぎ3D メルヘン編
+  updates: []
+- regions:
+  - US
+  id: 00040000001C0800
+  name: 'Mysterious Stars 3D:  A Fairy Tale'
+  updates:
+  - id: 0004000E001C0800
+    name: 'Mysterious Stars 3D:  A Fairy Tale  Update Version 1.1.0'

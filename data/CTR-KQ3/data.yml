@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000197400
+  name: ドラゴンクエストモンスターズ ジョーカー3 特別体験版
+  updates: []

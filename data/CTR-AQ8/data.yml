@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - US
+  id: 000400000005C800
+  name: Crosswords Plus
+  updates: []

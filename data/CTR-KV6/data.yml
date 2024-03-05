@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001A4F00
+  name: デジコロ ケシカスくん Vol.006 カスモールワールドにご案内！
+  updates: []

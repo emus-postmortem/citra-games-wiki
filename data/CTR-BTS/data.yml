@@ -1,0 +1,24 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000015FC00
+  name: Story of Seasons
+  updates: []
+- regions:
+  - JP
+  id: 000400000010BC00
+  name: 牧場物語 つながる新天地
+  updates:
+  - id: 0004000E0010BC00
+    name: 更新データ Ver. 2.0.0 牧場物語 つながる新天地
+- regions:
+  - KR
+  id: 000400000015FD00
+  name: 목장이야기 STORY OF SEASONS
+  updates: []
+- regions:
+  - US
+  id: 0004000000142100
+  name: STORY OF SEASONS
+  updates: []

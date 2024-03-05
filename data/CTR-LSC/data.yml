@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D3100
+  name: Sanrio characters Picross
+  updates: []
+- regions:
+  - JP
+  id: 00040000001D2A00
+  name: サンリオキャラクターズピクロス
+  updates: []
+- regions:
+  - US
+  id: 00040000001D3400
+  name: Sanrio characters Picross
+  updates: []

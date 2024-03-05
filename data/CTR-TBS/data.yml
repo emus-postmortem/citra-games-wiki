@@ -1,0 +1,12 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000B2B00
+  name: "Castlevania III: Dracula's Curse"
+  updates: []
+- regions:
+  - US
+  id: 00040000000B2A00
+  name: "Castlevania III: Dracula's Curse"
+  updates: []

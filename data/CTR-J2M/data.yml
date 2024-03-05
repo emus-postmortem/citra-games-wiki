@@ -1,0 +1,19 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D2400
+  name: MH Gen U Save Data Transfer App
+  updates: []
+- regions:
+  - JP
+  id: 00040000001BEB00
+  name: MHXX データ移行アプリ
+  updates:
+  - id: 0004000E001BEB00
+    name: 更新データ Ver. 1.1.0  モンスターハンターダブルクロス データ移行アプリ
+- regions:
+  - US
+  id: 00040000001D2500
+  name: Monster Hunter Generations  Ultimate™ Save Transfer App
+  updates: []

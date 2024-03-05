@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000015E500
+  name: 黒子のバスケ 未来へのキズナ
+  updates: []

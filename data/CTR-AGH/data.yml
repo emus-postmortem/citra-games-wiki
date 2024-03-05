@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000145500
+  name: 役満 鳳凰
+  updates:
+  - id: 0004000E00145500
+    name: 更新データ Ver. 1.1.1 役満 鳳凰

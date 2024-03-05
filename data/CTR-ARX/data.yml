@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000CBE00
+  name: Beyblade Evolution
+  updates: []
+- regions:
+  - US
+  id: 00040000000CBF00
+  name: Beyblade Evolution
+  updates: []

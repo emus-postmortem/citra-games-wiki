@@ -1,0 +1,17 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000045400
+  name: DualPenSports™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000039C00
+  name: タッチ!ダブルペンスポーツ
+  updates: []
+- regions:
+  - US
+  id: 0004000000036600
+  name: DualPenSports™
+  updates: []

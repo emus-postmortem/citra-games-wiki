@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000A9900
+  name: Crazy Chicken Pirates 3D
+  updates: []
+- regions:
+  - JP
+  id: 00040000000D8900
+  name: クレイジーチキン パイレーツ3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000087500
+  name: Crazy Chicken Pirates 3D
+  updates: []

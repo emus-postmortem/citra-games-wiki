@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000B5800
+  name: Double Dragon
+  updates: []
+- regions:
+  - JP
+  id: 00040000000B5600
+  name: ダブルドラゴン
+  updates: []
+- regions:
+  - US
+  id: 00040000000B5700
+  name: Double Dragon™
+  updates: []

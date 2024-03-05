@@ -1,0 +1,12 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000CA400
+  name: Devil World
+  updates: []
+- regions:
+  - JP
+  id: 00040000000CA300
+  name: デビルワールド
+  updates: []

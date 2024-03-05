@@ -1,0 +1,14 @@
+title = "Barbie and Her Sisters: Puppy Rescue"
+description = "Barbie and Her Sisters: Puppy Rescue is an open-world simulation game developed by Torus Games and published by Little Orbit. As the title implies, players take the role of Barbie as she runs a dog rescue shelter where she and her sisters seek out and aid missing and distressed puppies."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000176000"
+region = "usa"
+release_date = "2015-11-03"
+
+[[releases]]
+title = "000400000017B000"
+region = "eur"
+release_date = "2015-11-19"

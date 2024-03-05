@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000034300
+  name: Cubic Ninja
+  updates: []
+- regions:
+  - US
+  id: 0004000000046500
+  name: Cubic Ninja™
+  updates: []

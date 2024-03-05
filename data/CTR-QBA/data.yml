@@ -1,0 +1,12 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 0004000000119E00
+  name: Pokémon™ Puzzle Challenge
+  updates: []
+- regions:
+  - US
+  id: 0004000000119D00
+  name: Pokémon™ Puzzle Challenge
+  updates: []

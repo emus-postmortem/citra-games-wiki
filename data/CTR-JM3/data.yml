@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000088E00
+  name: '@SIMPLE DLシリーズ Vol.3 THE 密室からの脱出 セレブな豪邸編'
+  updates: []

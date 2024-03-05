@@ -1,0 +1,30 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001CF000
+  name: 'YO-KAI WATCH BLASTERS®: White Dog Squad'
+  updates:
+  - id: 0004000E001CF000
+    name: 'White Dog Squad:  Update'
+- regions:
+  - JP
+  id: 000400000016C600
+  name: 妖怪ウォッチバスターズ 白犬隊
+  updates:
+  - id: 0004000E0016C600
+    name: 更新データ Ver. 2.3 妖怪ウォッチバスターズ 白犬隊
+- regions:
+  - KR
+  id: 00040000001CF200
+  name: 요괴워치® 버스터즈 백견대
+  updates:
+  - id: 0004000E001CF200
+    name: 업데이트 데이터 Ver.2.3 요괴워치® 버스터즈 백견대
+- regions:
+  - US
+  id: 00040000001CEF00
+  name: 'YO-KAI WATCH™ BLASTERS:  White Dog Squad'
+  updates:
+  - id: 0004000E001CEF00
+    name: 'YO-KAI WATCH™ BLASTERS:    White Dog Squad  Update Ver. 2.4'

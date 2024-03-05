@@ -1,0 +1,7 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 0004000000171500
+  name: Pokémon™ Gelbe Edition
+  updates: []

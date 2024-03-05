@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000052E00
+  name: TRUE REMEMBRANCE ～記憶のかけら～
+  updates: []

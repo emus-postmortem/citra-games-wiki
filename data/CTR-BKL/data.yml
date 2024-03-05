@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000152900
+  name: 暗殺教室 殺せんせー大包囲網!!
+  updates:
+  - id: 0004000E00152900
+    name: 更新データ Ver. 1.1 暗殺教室 殺せんせー大包囲網!!

@@ -1,0 +1,8 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  - US
+  id: 0004000000171200
+  name: Pokémon™ Yellow Version (English Version)
+  updates: []

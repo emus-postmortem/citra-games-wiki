@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000191000
+  name: 妖怪ウォッチ3 スシ
+  updates:
+  - id: 0004000E00191000
+    name: 更新データ Ver. 4.0 妖怪ウォッチ3 スシ

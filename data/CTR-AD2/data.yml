@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000DC500
+  name: Deer Drive Legends
+  updates: []
+- regions:
+  - US
+  id: 0004000000061F00
+  name: Deer Drive Legends
+  updates: []

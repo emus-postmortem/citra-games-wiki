@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001BE100
+  name: PICTLOGICA FINAL FANTASY ≒
+  updates: []

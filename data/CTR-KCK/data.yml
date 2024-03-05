@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001B5400
+  name: BYE-BYE BOXBOY!™
+  updates: []
+- regions:
+  - JP
+  id: 00040000001AD300
+  name: さよなら！ ハコボーイ！
+  updates: []
+- regions:
+  - US
+  id: 00040000001B5300
+  name: BYE-BYE BOXBOY!™
+  updates: []

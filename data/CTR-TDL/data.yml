@@ -1,0 +1,7 @@
+platform: NES
+releases:
+- regions:
+  - JP
+  id: 00040000000EA200
+  name: アトランチスの謎
+  updates: []

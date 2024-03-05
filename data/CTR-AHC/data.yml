@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 0004000000036100
+  name: James Noir's Hollywood Crimes™
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - KR
+  id: 00040000000BEB00
+  name: 레이맨 3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000036400
+  name: RAYMAN® 3D
+  updates: []

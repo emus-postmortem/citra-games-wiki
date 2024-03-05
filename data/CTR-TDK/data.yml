@@ -1,0 +1,7 @@
+platform: NES
+releases:
+- regions:
+  - JP
+  id: 00040000000EA100
+  name: かんしゃく玉なげカン太郎の 東海道五十三次
+  updates: []

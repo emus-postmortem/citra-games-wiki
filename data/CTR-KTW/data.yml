@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000017CD00
+  name: Tank Troopers
+  updates: []
+- regions:
+  - JP
+  id: 000400000017CB00
+  name: Tank Troopers （タンクトゥルーパーズ）
+  updates: []
+- regions:
+  - US
+  id: 000400000017CC00
+  name: Tank Troopers™
+  updates: []

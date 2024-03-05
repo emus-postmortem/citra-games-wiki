@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000D5D00
+  name: 3D MahJongg
+  updates: []
+- regions:
+  - JP
+  id: 000400000011FF00
+  name: 上海3D
+  updates: []
+- regions:
+  - US
+  id: 00040000000C1000
+  name: 3D MahJongg
+  updates: []

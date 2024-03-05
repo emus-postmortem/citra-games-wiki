@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000140D00
+  name: Outback Pet Rescue 3D
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 000400000007AA00
+  name: LEGO® The Lord of the Rings™
+  updates: []

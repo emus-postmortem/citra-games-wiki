@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001A9900
+  name: Punch Club
+  updates: []
+- regions:
+  - US
+  id: 00040000001A8200
+  name: Punch Club
+  updates: []

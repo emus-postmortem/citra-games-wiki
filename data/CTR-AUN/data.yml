@@ -1,0 +1,23 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000188D00
+  name: Mario Sports Superstars
+  updates: []
+- regions:
+  - JP
+  id: 0004000000188B00
+  name: マリオスポーツ スーパースターズ
+  updates: []
+- regions:
+  - KR
+  id: 00040000001A6400
+  name: 마리오 스포츠 슈퍼스타즈
+  updates: []
+- regions:
+  - TW
+  - US
+  id: 0004000000188C00
+  name: Mario Sports™ Superstars
+  updates: []

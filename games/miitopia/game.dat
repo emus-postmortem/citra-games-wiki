@@ -1,0 +1,29 @@
+title = "Miitopia"
+description = "Miitopia is a role-playing game developed and published by Nintendo for the Nintendo 3DS."
+needs_system_files = true
+needs_shared_font = true
+
+[[ releases ]]
+title = "00040000001B4E00"
+region = "usa"
+release_date = "2017-07-28"
+
+[[releases]]
+title = "00040000001B4F00"
+region = "eur"
+release_date = "2017-07-28"
+
+[[ releases ]]
+title = "0004000000178800"
+region = "jpn"
+release_date = "2016-12-08"
+
+[[testcases]]
+title = "00040000001B4F00"
+compatibility = "1"
+date = "2017-07-28"
+version = "HEAD-05a38e3"
+cpu = "Intel Core i5-2430M"
+gpu = "GeForce 315M"
+os = "Windows 10 15063"
+author = "valentinvanelslande"

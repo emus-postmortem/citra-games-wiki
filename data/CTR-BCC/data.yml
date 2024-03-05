@@ -1,0 +1,19 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000123C00
+  name: 'Conception II: Children of the Seven Stars'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000CF600
+  name: CONCEPTIONⅡ 七星の導きとマズルの悪夢
+  updates:
+  - id: 0004000E000CF600
+    name: 更新データ Ver. 1.1 CONCEPTIONⅡ 七星の導きとマズルの悪夢
+- regions:
+  - US
+  id: 0004000000112C00
+  name: 'Conception II: Children of the  Seven Stars'
+  updates: []

@@ -1,0 +1,25 @@
+title = "Langrisser Re: Incarnation Tensei"
+description = "Langrisser Re: Incarnation Tensei is a Tactical role-playing game developed by Masaya Games. It was published in Japan by Extreme Games, and in North America by Aksys Games. The game takes place in a flooded world and the story's protagonist is a man with the Sacred Sword Langrisser, looking to reunite himself with a childhood friend, while fighting the empire's army."
+needs_system_files = false
+needs_shared_font = false
+game_type = "3ds"
+
+[[releases]]
+title = "0004000000187F00"
+region = "usa"
+release_date = "2016-04-19"
+
+[[releases]]
+title = "000400000015E700"
+region = "jpn"
+release_date = "2015-07-23"
+
+[[testcases]]
+title = "0004000000187F00"
+compatibility = "3"
+date = "2017-09-05"
+version = "HEAD-b9126a6"
+cpu = "Intel Xeon E5450"
+gpu = "GeForce GTX 550 Ti"
+os = "Windows 7 7601"
+author = "dmiltso"

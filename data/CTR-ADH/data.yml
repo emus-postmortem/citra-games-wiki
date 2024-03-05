@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000C2A00
+  name: Mystery Case Files Dire Grove
+  updates: []
+- regions:
+  - US
+  id: 00040000000DDE00
+  name: Mystery Case Files Dire Grove
+  updates: []

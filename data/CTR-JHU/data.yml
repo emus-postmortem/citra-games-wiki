@@ -1,0 +1,15 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  - JP
+  - TW
+  - US
+  id: 0004000000196F00
+  name: Kirby’s Blowout Blast™
+  updates: []
+- regions:
+  - KR
+  id: 0004000000197000
+  name: 커비의 빨아들이기 대작전
+  updates: []

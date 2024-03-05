@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000DE400
+  name: 3D Streets of Rage
+  updates: []
+- regions:
+  - JP
+  id: 00040000000EE900
+  name: 3D ベア･ナックル 怒りの鉄拳
+  updates: []
+- regions:
+  - US
+  id: 00040000000DA100
+  name: 3D Streets of Rage
+  updates: []

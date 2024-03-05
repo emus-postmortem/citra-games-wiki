@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F704C00
+  name: Final Fight 2™
+  updates: []
+- regions:
+  - JP
+  id: 000400000F704B00
+  name: ファイナルファイト2
+  updates: []

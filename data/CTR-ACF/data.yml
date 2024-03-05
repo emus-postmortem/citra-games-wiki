@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000009E500
+  name: 'Castlevania: Lords of Shadow Mirror of Fate'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000BAC00
+  name: Castlevania - Lords of Shadow - 宿命の魔鏡
+  updates: []
+- regions:
+  - US
+  id: 0004000000096600
+  name: 'Castlevania: Lords of Shadow - Mirror of Fate'
+  updates: []

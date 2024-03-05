@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000112F00
+  name: 'Inazuma Eleven® GO: Light'
+  updates: []
+- regions:
+  - JP
+  id: 000400000006D400
+  name: イナズマイレブンGO シャイン
+  updates: []

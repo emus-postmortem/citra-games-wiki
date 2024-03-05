@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000019D500
+  name: デジモンユニバース アプリ モンスターズ-サイバーアリーナ-
+  updates:
+  - id: 0004000E0019D500
+    name: 更新データ Ver. 1.1 デジモンユニバース アプリモンスターズ-サイバーアリーナ-

@@ -1,0 +1,31 @@
+title = "Rune Factory 4"
+description = "Rune Factory 4 is a simulation/role-playing video game developed by Neverland Co. and published by Marvelous AQL for the Nintendo 3DS. It is the sixth game in the Rune Factory series."
+github_issues = [2265]
+needs_system_files = false
+needs_shared_font = true
+game_type = "3ds"
+
+[[ releases ]]
+title = "00040000000D2800"
+region = "usa"
+release_date = "2013-10-01"
+
+[[ releases ]]
+title = "000400000014A700"
+region = "eur"
+release_date = "2014-12-11"
+
+[[ releases ]]
+title = "0004000000065800"
+region = "jpn"
+release_date = "2012-07-19"
+
+[[ testcases ]]
+title = "00040000000D2800"
+compatibility = "1"
+date = "2017-06-28"
+version = "HEAD-54ea95c"
+author = "tsonayoshi"
+cpu = "Intel Core i7-7700HQ"
+gpu = "NVidia GeForce GTX 1050"
+os = "Windows 10"

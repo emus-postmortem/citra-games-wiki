@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000054D00
+  name: ESSEらくらく家計簿
+  updates: []

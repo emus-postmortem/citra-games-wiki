@@ -1,0 +1,20 @@
+title = "Crashmo"
+description = "Fallblox is a puzzle game about falling blocks. Similar gameplay to its predecessor, Pullblox. Known as Crashmo in the USA and Hiku Otsu in Japan"
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "00040000000B6E00"
+region = "usa"
+release_date = "2012-11-22"
+
+[[releases]]
+title = "00040000000B4F00"
+region = "eur"
+release_date = "2012-11-15"
+
+[[releases]]
+title = "00040000000AAD00"
+region = "jpn"
+release_date = "2012-10-31"

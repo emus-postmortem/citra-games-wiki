@@ -1,0 +1,23 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000084D00
+  name: AeternoBlade
+  updates:
+  - id: 0004000E00084D00
+    name: AeternoBlade Update
+- regions:
+  - JP
+  id: 0004000000114B00
+  name: タイムアベンジャー
+  updates:
+  - id: 0004000E00114B00
+    name: 更新データ Ver. 1.1 タイムアベンジャー
+- regions:
+  - US
+  id: 00040000000CD300
+  name: AeternoBlade
+  updates:
+  - id: 0004000E000CD300
+    name: AeternoBlade Update Ver. 1.0

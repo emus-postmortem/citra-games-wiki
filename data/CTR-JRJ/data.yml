@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000145200
+  name: オーノーオデッセイ ～地球からの脱出～
+  updates: []
+- regions:
+  - US
+  id: 0004000000107500
+  name: Ohno Odyssey
+  updates: []

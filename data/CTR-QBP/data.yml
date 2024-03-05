@@ -1,0 +1,8 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  - US
+  id: 0004000000172600
+  name: Pokémon™ Gold Version (English Version)
+  updates: []

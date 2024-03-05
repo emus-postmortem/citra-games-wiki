@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000108E00
+  name: Cocoro - Line Defender
+  updates: []
+- regions:
+  - US
+  id: 0004000000109900
+  name: Cocoro - Line Defender
+  updates: []

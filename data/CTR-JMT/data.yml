@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000C2F00
+  name: Aqua Moto Racing 3D
+  updates: []
+- regions:
+  - JP
+  id: 000400000011E600
+  name: アクアモーターレーシング3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000095200
+  name: Aqua Moto Racing 3D™
+  updates: []

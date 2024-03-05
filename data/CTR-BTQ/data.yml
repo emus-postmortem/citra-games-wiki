@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000140000
+  name: シアトリズム ドラゴンクエスト
+  updates: []

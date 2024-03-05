@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000055200
+  name: 3D Classics Kid Icarus™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000045B00
+  name: 3Dクラシックス 光神話 パルテナの鏡
+  updates: []
+- regions:
+  - US
+  id: 0004000000054200
+  name: '3D Classics: Kid Icarus™'
+  updates: []

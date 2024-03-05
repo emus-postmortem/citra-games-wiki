@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000015E600
+  name: ダウンタウン熱血時代劇
+  updates: []

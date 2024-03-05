@@ -1,0 +1,22 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 0004000000042A00
+  name: "The Legend of Zelda™: Link's Awakening DX™"
+  updates: []
+- regions:
+  - JP
+  id: 0004000000042900
+  name: ゼルダの伝説 夢をみる島DX
+  updates: []
+- regions:
+  - KR
+  id: 0004000000184A00
+  name: The Legend of Zelda  Link's Awakening DX
+  updates: []
+- regions:
+  - US
+  id: 0004000000042700
+  name: "The Legend of Zelda™: Link's Awakening DX™"
+  updates: []

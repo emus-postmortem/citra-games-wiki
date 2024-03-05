@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000139C00
+  name: みんなで まもって騎士 姫のトキメキらぷそでぃ
+  updates: []
+- regions:
+  - US
+  id: 0004000000196E00
+  name: Gotta Protectors
+  updates: []

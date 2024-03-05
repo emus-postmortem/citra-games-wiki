@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70D100
+  name: GALAXY BLASTER CODE RED
+  updates: []
+- regions:
+  - US
+  id: 000400000F70D500
+  name: GALAXY BLASTER CODE RED
+  updates: []

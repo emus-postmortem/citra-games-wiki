@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000DD800
+  name: FISH ON 3D
+  updates: []
+- regions:
+  - JP
+  id: 000400000004B800
+  name: FISH ON
+  updates: []

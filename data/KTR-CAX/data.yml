@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F709F00
+  name: Pixel Hunter
+  updates: []
+- regions:
+  - US
+  id: 000400000F707800
+  name: Pixel Hunter
+  updates: []

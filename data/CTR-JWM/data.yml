@@ -1,0 +1,14 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000148400
+  name: Comic Workshop
+  updates: []
+- regions:
+  - JP
+  id: 0004000000114700
+  name: コミック工房
+  updates:
+  - id: 0004000E00114700
+    name: 更新データ Ver. 1.2 コミック工房

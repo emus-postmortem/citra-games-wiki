@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F705400
+  name: BREATH OF FIRE
+  updates: []
+- regions:
+  - JP
+  id: 000400000F705300
+  name: ブレス オブ ファイア 竜の戦士
+  updates: []

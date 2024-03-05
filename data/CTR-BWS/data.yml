@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001C1800
+  name: スナックワールド トレジャラーズ
+  updates:
+  - id: 0004000E001C1800
+    name: 更新データ Ver.3.2 スナックワールド トレジャラーズ

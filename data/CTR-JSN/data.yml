@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000DE200
+  name: 3D Shinobi III
+  updates: []
+- regions:
+  - JP
+  id: 00040000000EE800
+  name: 3D ザ･スーパー忍Ⅱ
+  updates: []
+- regions:
+  - US
+  id: 00040000000D9F00
+  name: '3D Shinobi III: Return of the Ninja Master'
+  updates: []

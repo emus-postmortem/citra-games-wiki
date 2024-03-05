@@ -1,0 +1,17 @@
+platform: GameGear
+releases:
+- regions:
+  - EU
+  id: 0004000000088600
+  name: Shinobi™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000085300
+  name: The GG 忍
+  updates: []
+- regions:
+  - US
+  id: 000400000008BC00
+  name: Shinobi™
+  updates: []

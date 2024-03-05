@@ -1,0 +1,24 @@
+title = "Batman: Arkham Origins Blackgate"
+description = "Batman: Arkham Origins Blackgate is a 2.5-D Metroid-style exploration action game, developed by Armature Studio. This is a spin-off to Batman: Arkham Origins. Alongside its console-counterpart, Batman: Arkham Origins Blackgate adapts the proven Rocksteady formula into a portable setting."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000000D6B00"
+region = "usa"
+release_date = "2013-10-25"
+
+[[releases]]
+title = "00040000000D7000"
+region = "eur"
+release_date = "2013-10-25"
+
+[[testcases]]
+title = "00040000000D7000"
+compatibility = "1"
+date = "2017-10-08"
+version = "HEAD-20e19a3"
+cpu = "Intel Core i5-3570HQ"
+gpu = "Nvidia Geforce GTX 650M"
+os = "Windows 10 15063"
+author = "eclenaeu"

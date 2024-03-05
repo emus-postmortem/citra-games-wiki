@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000FF700
+  name: Best of Arcade Games - Air Hockey
+  updates: []
+- regions:
+  - US
+  id: 0004000000101600
+  name: Best of Arcade Games - Air Hockey
+  updates: []

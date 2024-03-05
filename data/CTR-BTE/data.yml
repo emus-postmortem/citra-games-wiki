@@ -1,0 +1,28 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000016A600
+  name: Terraria
+  updates:
+  - id: 0004000E0016A600
+    name: 'Terraria:   Update 1.0.5'
+- regions:
+  - JP
+  id: 0004000000193500
+  name: テラリア
+  updates:
+  - id: 0004000E00193500
+    name: 更新データ Ver. 1.0.1 テラリア
+- regions:
+  - KR
+  id: 00040000001B3200
+  name: Terraria
+  updates: []
+- regions:
+  - US
+  id: 000400000016A900
+  name: Terraria
+  updates:
+  - id: 0004000E0016A900
+    name: Terraria Update Ver. 1.0.5

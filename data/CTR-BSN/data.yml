@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000140900
+  name: 瞬足 めざせ! 全国最強ランナー
+  updates: []

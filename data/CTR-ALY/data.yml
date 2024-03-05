@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 00040000000AE300
+  name: 'Lalaloopsy™: Carnival of Friends'
+  updates: []

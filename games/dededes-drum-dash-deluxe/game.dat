@@ -1,0 +1,25 @@
+title = "Dedede's Drum Dash Deluxe"
+description = "Dedede's Drum Dash Deluxe is a stand-alone Nintendo eShop software developed by Nintendo and is a sequel/successor to the Kirby: Triple Deluxe sub-game, Dedede's Drum Dash. Like the original, Dedede's Drum Dash Deluxe features King Dedede as the main character and has him bouncing on drums to the rhythm of a song. New songs are added, including secret levels to challenge the player."
+needs_system_files = false
+needs_shared_font = true
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000147A00"
+region = "usa"
+release_date = "2014-08-29"
+
+[[releases]]
+title = "0004000000147B00"
+region = "eur"
+release_date = "2015-02-13"
+
+[[testcases]]
+title = "0004000000147B00"
+compatibility = "0"
+date = "2017-10-31"
+version = "HEAD-ed17c54"
+cpu = "Intel Core i5-6400"
+gpu = "nVidia GeForce GTX 750TI"
+os = "Windows 10 15063"
+author = "Sedhaild"

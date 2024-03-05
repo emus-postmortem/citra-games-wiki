@@ -1,0 +1,7 @@
+platform: DownloadableVideo
+releases:
+- regions:
+  - US
+  id: 00040000001C7400
+  name: 'Metroid™: Samus Returns Announcement Trailer'
+  updates: []

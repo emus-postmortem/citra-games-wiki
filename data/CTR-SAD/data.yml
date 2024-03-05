@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000054F00
+  name: 3D Classics Urban Champion™
+  updates: []
+- regions:
+  - JP
+  id: 000400000004E700
+  name: 3Dクラシックス アーバンチャンピオン
+  updates: []
+- regions:
+  - US
+  id: 0004000000054500
+  name: '3D Classics: Urban Champion™'
+  updates: []

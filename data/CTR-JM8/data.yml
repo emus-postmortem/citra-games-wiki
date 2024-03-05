@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000CC100
+  name: My Farm 3D
+  updates: []
+- regions:
+  - US
+  id: 00040000000E6200
+  name: My Farm 3D
+  updates: []

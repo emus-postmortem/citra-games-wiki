@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000014C600
+  name: Smash Controller
+  updates: []
+- regions:
+  - JP
+  id: 000400000014C400
+  name: スマブラコントローラー
+  updates: []
+- regions:
+  - US
+  id: 000400000014C500
+  name: Smash Controller
+  updates: []

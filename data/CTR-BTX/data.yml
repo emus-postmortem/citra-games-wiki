@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001AE000
+  name: 鉄道にっぽん!路線たび 会津鉄道編
+  updates: []

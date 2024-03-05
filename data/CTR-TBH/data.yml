@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000A4400
+  name: Street Gangs
+  updates: []
+- regions:
+  - JP
+  id: 00040000000A4200
+  name: ダウンタウン熱血物語
+  updates: []
+- regions:
+  - US
+  id: 00040000000A4300
+  name: River City Ransom™
+  updates: []

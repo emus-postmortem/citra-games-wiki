@@ -1,0 +1,20 @@
+title = "Azure Striker Gunvolt - Striker Pack"
+description = "Azure Striker Gunvolt, is an action-platform game. In addition to utilizing gameplay similar to Mega Man Zero, Azure Striker Gunvolt also introduced new gameplay elements such as Gunvolt's ability to 'tag' enemies and target many at once, adding an additional layer of complexity to the genre."
+incomplete = true
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "00040000001A5600"
+region = "usa"
+release_date = "2016-10-04"
+
+[[ testcases ]]
+compatibility = "1"
+date = "2017-06-19"
+title = "00040000001A5600"
+version = "HEAD-d0888f8"
+author = "Kloen"
+cpu = "Intel Core i5-760"
+gpu = "AMD Radeon HD 5670"
+os = "Windows 10 Education 1511"

@@ -1,0 +1,22 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 000400000006F800
+  name: Wrecking Crew
+  updates: []
+- regions:
+  - JP
+  id: 000400000006F600
+  name: レッキングクルー
+  updates: []
+- regions:
+  - KR
+  id: 0004000000181800
+  name: Wrecking Crew(레킹 크루)
+  updates: []
+- regions:
+  - US
+  id: 000400000006F700
+  name: Wrecking Crew™
+  updates: []

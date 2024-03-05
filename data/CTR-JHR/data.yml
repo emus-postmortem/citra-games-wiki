@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000E5700
+  name: 'Halloween: Trick or Treat 2'
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000012D000
+  name: Bit Boy!! ARCADE
+  updates: []
+- regions:
+  - US
+  id: 000400000008D100
+  name: Bit Boy!! ARCADE
+  updates: []

@@ -1,0 +1,23 @@
+platform: New3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000017CA00
+  name: 'Minecraft:  New Nintendo 3DS Edition'
+  updates:
+  - id: 0004000E0017CA00
+    name: 'Minecraft: New Nintendo 3DS   Edition Update Ver. 1.9'
+- regions:
+  - JP
+  id: 000400000017FD00
+  name: 'Minecraft: New Nintendo 3DS Edition'
+  updates:
+  - id: 0004000E0017FD00
+    name: '更新データ Ver. 1.9 Minecraft: New Nintendo 3DS Edition'
+- regions:
+  - US
+  id: 00040000001B8700
+  name: 'Minecraft: New Nintendo 3DS Edition'
+  updates:
+  - id: 0004000E001B8700
+    name: 'Minecraft: New Nintendo 3DS   Edition Update Ver. 1.9'

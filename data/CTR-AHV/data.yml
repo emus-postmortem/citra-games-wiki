@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 000400000009CC00
+  name: HEAVY FIRE THE CHOSEN FEW
+  updates: []

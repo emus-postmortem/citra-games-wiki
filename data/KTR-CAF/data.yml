@@ -1,0 +1,33 @@
+platform: New3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000F700200
+  name: Xenoblade Chronicles 3D
+  updates:
+  - id: 0004000E0F700200
+    name: 'Xenoblade Chronicles 3D: Update'
+- regions:
+  - JP
+  id: 000400000F700000
+  name: Newニンテンドー3DS専用 Xenoblade ゼノブレイド
+  updates:
+  - id: 0004000E0F700000
+    name: 更新データ Ver. 1.1 New 3DS専用 Xenoblade ゼノブレイド
+- regions:
+  - KR
+  id: 000400000F700700
+  name: Xenoblade (일본어)
+  updates: []
+- regions:
+  - KR
+  id: 000400000F700400
+  name: Xenoblade (영어)
+  updates: []
+- regions:
+  - US
+  id: 000400000F700100
+  name: Xenoblade Chronicles™ 3D
+  updates:
+  - id: 0004000E0F700100
+    name: Xenoblade Chronicles™ 3D Update Ver. 1.0

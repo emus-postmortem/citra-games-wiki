@@ -1,0 +1,19 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000188F00
+  name: 'Return to PopoloCrois:  STORY OF SEASONS Fairytale'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000F3F00
+  name: ポポロクロイス牧場物語
+  updates:
+  - id: 0004000E000F3F00
+    name: 更新データ Ver. 2.0.0 ポポロクロイス牧場物語
+- regions:
+  - US
+  id: 000400000018CC00
+  name: 'Return to PopoloCrois: A STORY OF SEASONS Fairytale'
+  updates: []

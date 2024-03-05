@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70AD00
+  name: FOUR BOMBS
+  updates: []
+- regions:
+  - US
+  id: 000400000F70AA00
+  name: FOUR BOMBS
+  updates: []

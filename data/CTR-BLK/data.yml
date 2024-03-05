@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000E9C00
+  name: ファンタジーライフ LINK!
+  updates:
+  - id: 0004000E000E9C00
+    name: '更新データ Ver. 1.7 ファンタジーライフ LINK! '

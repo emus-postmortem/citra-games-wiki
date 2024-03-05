@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000CE100
+  name: Galaga™
+  updates: []
+- regions:
+  - JP
+  id: 00040000000CDF00
+  name: ギャラガ
+  updates: []
+- regions:
+  - US
+  id: 00040000000CE000
+  name: Galaga™
+  updates: []

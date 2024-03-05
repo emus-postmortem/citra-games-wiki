@@ -1,0 +1,7 @@
+platform: GameBoy
+releases:
+- regions:
+  - JP
+  id: 0004000000093A00
+  name: ネコジャラ物語
+  updates: []

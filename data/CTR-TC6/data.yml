@@ -1,0 +1,7 @@
+platform: NES
+releases:
+- regions:
+  - JP
+  id: 00040000000D3A00
+  name: ダウンタウン熱血行進曲 それゆけ大運動会
+  updates: []

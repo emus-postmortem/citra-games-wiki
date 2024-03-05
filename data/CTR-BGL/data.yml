@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000174800
+  name: ぐでたま 半熟でたのむわー
+  updates: []

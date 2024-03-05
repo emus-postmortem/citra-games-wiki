@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000143900
+  name: Christmas Wonderland 4
+  updates: []

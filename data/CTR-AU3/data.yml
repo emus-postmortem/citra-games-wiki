@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000089700
+  name: パチパラ3D 大海物語2
+  updates: []

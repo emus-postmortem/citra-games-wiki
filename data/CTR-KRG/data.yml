@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000177A00
+  name: 仮面ライダーゴースト ゲームでカイガン!!
+  updates: []

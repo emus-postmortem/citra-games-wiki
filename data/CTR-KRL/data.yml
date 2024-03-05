@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000019E900
+  name: デンジャーロード
+  updates: []
+- regions:
+  - US
+  id: 00040000001AFE00
+  name: Dangerous Road
+  updates: []

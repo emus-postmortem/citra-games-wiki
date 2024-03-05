@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000108600
+  name: グレコからの挑戦状! 英単語の島とオバケたち STEP4
+  updates: []

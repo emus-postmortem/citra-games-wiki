@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000144E00
+  name: '@SIMPLE DLシリーズ Vol.33 THE 熱血!炎のラーメン屋'
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000F9D00
+  name: 黒子のバスケ 勝利へのキセキ
+  updates: []

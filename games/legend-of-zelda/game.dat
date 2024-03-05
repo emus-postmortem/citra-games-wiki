@@ -1,0 +1,22 @@
+title = "The Legend of Zelda"
+description = "The Legend of Zelda is an action-adventure video game developed and published by Nintendo and designed by Shigeru Miyamoto and Takashi Tezuka. Set in the fantasy land of Hyrule, the plot centers on a boy named Link, the playable protagonist, who aims to collect the eight fragments of the Triforce of Wisdom in order to rescue Princess Zelda from the antagonist, Ganon. During the course of the game, the player sees Link from a top-down perspective and must navigate him through the overworld and several dungeons, defeating enemies and finding secrets along the way."
+github_issues = [2552]
+needs_system_files = false
+needs_shared_font = true
+game_type = "vc"
+vc_system = "nes"
+
+[[ releases ]]
+title = "000400000006F100"
+region = "usa"
+release_date = "2012-07-05"
+
+[[ testcases ]]
+title = "000400000006F100"
+compatibility = "1"
+date = "2017-06-04"
+version = "HEAD-8f0a23b"
+author = "Flamboyant_Ham"
+cpu = "Intel Core i7-4720HQ"
+gpu = "GeForce GTX 960M"
+os = "Windows 10 14393"

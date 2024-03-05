@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000A8600
+  name: Professor Layton and the Miracle Mask
+  updates: []
+- regions:
+  - JP
+  id: 0004000000031F00
+  name: レイトン教授と奇跡の仮面
+  updates: []
+- regions:
+  - US
+  id: 00040000000A8500
+  name: 'Professor Layton and the Miracle Mask™ '
+  updates: []

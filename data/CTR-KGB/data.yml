@@ -1,0 +1,23 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001A6E00
+  name: Azure Striker GUNVOLT 2
+  updates:
+  - id: 0004000E001A6E00
+    name: 'Azure Striker GUNVOLT 2:  Update 1.2'
+- regions:
+  - JP
+  id: 000400000019B200
+  name: 蒼き雷霆 ガンヴォルト 爪
+  updates:
+  - id: 0004000E0019B200
+    name: 更新データ Ver. 1.2 蒼き雷霆 ガンヴォルト 爪
+- regions:
+  - US
+  id: 0004000000196A00
+  name: Azure Striker GUNVOLT 2
+  updates:
+  - id: 0004000E00196A00
+    name: Azure Striker GUNVOLT 2 Update Ver. 1.2

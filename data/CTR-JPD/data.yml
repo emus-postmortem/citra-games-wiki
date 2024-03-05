@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000CBB00
+  name: "Picdun 2: Witch's Curse"
+  updates: []
+- regions:
+  - JP
+  id: 00040000000ADD00
+  name: ダンジョンRPG ピクダン2
+  updates: []
+- regions:
+  - US
+  id: 00040000000C5100
+  name: "Picdun 2: Witch's Curse"
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001A4C00
+  name: まんが家デビュー物語 ステキなまんがをえがこう
+  updates: []

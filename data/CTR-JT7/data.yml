@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000158200
+  name: 3D Thunder Blade
+  updates: []
+- regions:
+  - JP
+  id: 0004000000128A00
+  name: 3D サンダーブレード
+  updates: []
+- regions:
+  - US
+  id: 0004000000158C00
+  name: 3D Thunder Blade
+  updates: []

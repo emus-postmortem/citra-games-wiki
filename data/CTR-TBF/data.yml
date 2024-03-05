@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000A1700
+  name: Mega Man™ 6
+  updates: []
+- regions:
+  - JP
+  id: 00040000000A1500
+  name: ロックマン6 史上最大の戦い!!
+  updates: []
+- regions:
+  - US
+  id: 00040000000A1600
+  name: Mega Man™ 6
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000043400
+  name: Sudoku - The Puzzle Game Collection
+  updates: []
+- regions:
+  - JP
+  id: 0004000000034000
+  name: 数独と3つのパズル ～ニコリのパズルバラエティ～
+  updates: []

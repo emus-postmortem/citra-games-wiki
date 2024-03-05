@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F706A00
+  name: Lifespeed
+  updates: []
+- regions:
+  - US
+  id: 000400000F706900
+  name: Lifespeed
+  updates: []

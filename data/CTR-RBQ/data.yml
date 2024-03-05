@@ -1,0 +1,12 @@
+platform: GameBoy
+releases:
+- regions:
+  - JP
+  id: 000400000007E000
+  name: クォース
+  updates: []
+- regions:
+  - US
+  id: 000400000007E100
+  name: Quarth®
+  updates: []

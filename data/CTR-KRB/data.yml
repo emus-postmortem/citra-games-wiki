@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001A1A00
+  name: Ninja Usagimaru - The Mysterious Karakuri Castle
+  updates: []
+- regions:
+  - JP
+  id: 0004000000176D00
+  name: 疾風のうさぎ丸 -謎のからくり城-
+  updates: []
+- regions:
+  - US
+  id: 00040000001A0800
+  name: Ninja Usagimaru - The Mysterious Karakuri Castle
+  updates: []

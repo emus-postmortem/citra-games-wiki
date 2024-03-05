@@ -1,0 +1,17 @@
+platform: GameGear
+releases:
+- regions:
+  - EU
+  id: 000400000009B900
+  name: 'G-LOC™: Air Battle'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000098100
+  name: G-LOC AIR BATTLE
+  updates: []
+- regions:
+  - US
+  id: 000400000009C400
+  name: G-LOC Air Battle
+  updates: []

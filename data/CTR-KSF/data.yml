@@ -1,0 +1,16 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000132C00
+  name: Siesta Fiesta
+  updates:
+  - id: 0004000E00132C00
+    name: Siesta Fiesta - Update
+- regions:
+  - US
+  id: 0004000000139300
+  name: Siesta Fiesta
+  updates:
+  - id: 0004000E00139300
+    name: Siesta Fiesta Update Ver. 1.0

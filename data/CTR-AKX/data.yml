@@ -1,0 +1,19 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001C1F00
+  name: I am an air traffic controller  AIRPORT HERO OSAKA-KIX
+  updates: []
+- regions:
+  - JP
+  id: 0004000000127A00
+  name: ぼくは航空管制官 エアポート ヒーロー3D 関空 SKY STORY
+  updates:
+  - id: 0004000E00127A00
+    name: 更新データ Ver. 1.1 ぼくは航空管制官 エアポートヒーロー3D 関空 SKY STORY
+- regions:
+  - US
+  id: 00040000001C3F00
+  name: I am an air traffic controller AIRPORT HERO OSAKA-KIX
+  updates: []

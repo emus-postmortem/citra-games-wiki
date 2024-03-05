@@ -1,0 +1,27 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000EC400
+  name: 'The Legend of Zelda™: A Link Between Worlds'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000EC200
+  name: ゼルダの伝説 神々のトライフォース2
+  updates: []
+- regions:
+  - KR
+  id: 0004000000115800
+  name: 젤다의 전설 신들의 트라이포스 2
+  updates: []
+- regions:
+  - TW
+  id: 0004000000115700
+  name: 'The Legend of Zelda:  A Link Between Worlds (英文版)'
+  updates: []
+- regions:
+  - US
+  id: 00040000000EC300
+  name: 'The Legend of Zelda™:  A Link Between Worlds'
+  updates: []

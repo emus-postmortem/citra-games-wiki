@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D0700
+  name: 'Thorium Wars: Attack of the Skyfighter'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000160500
+  name: ザ･スカイファイターズ ～トリウム戦争～
+  updates: []
+- regions:
+  - US
+  id: 0004000000123F00
+  name: 'Thorium Wars: Attack of the Skyfighter'
+  updates: []

@@ -1,0 +1,20 @@
+title = "The Denpa Men 2: Beyond The Waves"
+description = "The Denpa Men 2: Beyond The Waves is a 3D augmented reality role playing video game developed and published by Genius Sonority, and is a sequel to The Denpa Men: They Came By Wave."
+needs_system_files = true
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "00040000000C3300"
+region = "usa"
+release_date = "2013-05-30"
+
+[[releases]]
+title = "00040000000EAF00"
+region = "eur"
+release_date = "2013-05-30"
+
+[[releases]]
+title = "00040000000A7900"
+region = "jpn"
+release_date = "2012-09-26"

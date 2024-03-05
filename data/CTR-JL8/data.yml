@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000F3E00
+  name: 'スーパーリトルリス3D '
+  updates: []
+- regions:
+  - KR
+  id: 00040000000F0700
+  name: Super Little Acorns 3D Turbo
+  updates: []

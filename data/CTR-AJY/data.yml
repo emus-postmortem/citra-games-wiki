@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000A7B00
+  name: ジュエルペット 魔法でおしゃれにダンス☆デコ～!
+  updates: []

@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000015A800
+  name: 6×1≠UNLIMITED?
+  updates:
+  - id: 0004000E0015A800
+    name: 更新データ Ver. 2.0 6×1≠UNLIMITED?

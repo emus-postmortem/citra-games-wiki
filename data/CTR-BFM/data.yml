@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000140B00
+  name: テラフォーマーズ 紅き惑星の激闘
+  updates:
+  - id: 0004000E00140B00
+    name: 更新データ Ver. 1.1 テラフォーマーズ 紅き惑星の激闘

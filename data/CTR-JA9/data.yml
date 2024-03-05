@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000060F00
+  name: Pyramids
+  updates: []
+- regions:
+  - JP
+  id: 0004000000143100
+  name: トレジャーレイダー ピラミッドから脱出!
+  updates: []
+- regions:
+  - US
+  id: 0004000000068200
+  name: Pyramids
+  updates: []

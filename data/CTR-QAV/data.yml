@@ -1,0 +1,12 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 00040000000BE600
+  name: Shantae™
+  updates: []
+- regions:
+  - US
+  id: 00040000000BE500
+  name: Shantae™
+  updates: []

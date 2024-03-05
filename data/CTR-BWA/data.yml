@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001D0F00
+  name: かわいいペットとくらそう！ わんニャン＆アイドルアニマル
+  updates:
+  - id: 0004000E001D0F00
+    name: 更新データ Ver. 1.1 かわいいペットとくらそう！　わんニャン＆アイドルアニマル

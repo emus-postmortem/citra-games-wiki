@@ -1,0 +1,23 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001C7600
+  name: MIGHTY GUNVOLT BURST
+  updates:
+  - id: 0004000E001C7600
+    name: 'MIGHTY GUNVOLT BURST:  Update'
+- regions:
+  - JP
+  id: 00040000001C6900
+  name: マイティガンヴォルト バースト
+  updates:
+  - id: 0004000E001C6900
+    name: 更新データ Ver. 1.3.1 マイティガンヴォルト バースト
+- regions:
+  - US
+  id: 00040000001C7700
+  name: MIGHTY GUNVOLT BURST
+  updates:
+  - id: 0004000E001C7700
+    name: MIGHTY GUNVOLT BURST  Update Ver. 1.3.1

@@ -1,0 +1,19 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000149D00
+  name: Karous - The Beast Of Re:Eden -
+  updates: []
+- regions:
+  - JP
+  id: 0004000000107F00
+  name: Karous‐The Beast of Re：Eden‐
+  updates:
+  - id: 0004000E00107F00
+    name: 更新データ Ver. 2.0 Karous‐ The Beast of Re：Eden‐
+- regions:
+  - US
+  id: 0004000000150600
+  name: 'KAROUS - THE BEAST OF  RE:EDEN - '
+  updates: []

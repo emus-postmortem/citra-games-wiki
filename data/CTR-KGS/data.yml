@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000139D00
+  name: マル合格! 行政書士試験 平成26年度版
+  updates: []

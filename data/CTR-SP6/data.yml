@@ -1,0 +1,7 @@
+platform: DownloadableVideo
+releases:
+- regions:
+  - US
+  id: 00040000001B5900
+  name: The Legend of Zelda Main Theme Medley
+  updates: []

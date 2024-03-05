@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000120600
+  name: ドラゴンボールヒーローズ アルティメットミッション2
+  updates:
+  - id: 0004000E00120600
+    name: 更新データ Ver. 1.7 ドラゴンボールヒーローズ アルティメットミッション2

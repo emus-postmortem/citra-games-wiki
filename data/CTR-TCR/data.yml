@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000CDC00
+  name: Clu Clu Land
+  updates: []
+- regions:
+  - JP
+  id: 00040000000CDA00
+  name: クルクルランド
+  updates: []
+- regions:
+  - US
+  id: 00040000000CDB00
+  name: Clu Clu Land™
+  updates: []

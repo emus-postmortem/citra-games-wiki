@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000147400
+  name: Undead Bowling
+  updates: []
+- regions:
+  - JP
+  id: 00040000000BFB00
+  name: ゾンゲリボウリング
+  updates: []
+- regions:
+  - US
+  id: 00040000000EBA00
+  name: Undead Bowling
+  updates: []

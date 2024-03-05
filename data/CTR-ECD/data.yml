@@ -1,0 +1,21 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000016A100
+  name: 'Nintendo presents: New Style Boutique™ 2'
+  updates:
+  - id: 0004000E0016A100
+    name: 'New Style Boutique™ 2 -  Fashion Forward: Update'
+- regions:
+  - JP
+  id: 000400000012D800
+  name: GIRLS MODE 3 キラキラ☆コーデ
+  updates:
+  - id: 0004000E0012D800
+    name: 更新データ Ver. 1.2.0 GIRLS MODE 3 キラキラ☆コーデ
+- regions:
+  - US
+  id: 0004000000196500
+  name: 'Style Savvy™: Fashion Forward'
+  updates: []

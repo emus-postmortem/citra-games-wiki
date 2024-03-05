@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001ACC00
+  name: こねこのいえ 桐島家と三匹の子ネコ
+  updates: []

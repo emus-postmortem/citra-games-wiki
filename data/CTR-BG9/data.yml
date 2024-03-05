@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001CBD00
+  name: 'Jake Hunter Detective Story: Ghost of the Dusk'
+  updates: []
+- regions:
+  - JP
+  id: 00040000001BF400
+  name: 探偵 神宮寺三郎 GHOST OF THE DUSK
+  updates: []
+- regions:
+  - US
+  id: 00040000001CBC00
+  name: 'Jake Hunter Detective Story:   Ghost of the Dusk'
+  updates: []

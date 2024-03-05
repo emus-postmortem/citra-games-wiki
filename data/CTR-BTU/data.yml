@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000016E200
+  name: 超･逃走中 あつまれ!最強の逃走者たち
+  updates: []

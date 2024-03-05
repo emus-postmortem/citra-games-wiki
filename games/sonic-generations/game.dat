@@ -1,0 +1,31 @@
+title = "Sonic Generations"
+description = "Sonic Generations is a platform video game developed by Sonic Team and published by Sega for PlayStation 3, Xbox 360 and Microsoft Windows. The Nintendo 3DS version of the game was developed by Dimps. The game commemorates the 20th anniversary of the Sonic the Hedgehog series, and was released in North America, Europe and Australia in November 2011, and in Japan the following month."
+needs_system_files = true
+needs_shared_font = false
+game_type = "3ds"
+incomplete = true
+
+[[ releases ]]
+title = "0004000000062300"
+region = "usa"
+release_date = "2011-11-12"
+
+[[ releases ]]
+title = "0004000000062200"
+region = "eur"
+release_date = "2011-11-25"
+
+[[ releases ]]
+title = "000400000004CA00"
+region = "jpn"
+release_date = "2012-12-01"
+
+[[ testcases ]]
+title = "0004000000062300"
+compatibility = "1"
+date = "2017-07-04"
+version = "HEAD-22e7402"
+author = "DrewThatGamer"
+cpu = "Intel Core i5 6400"
+gpu = "NVIDIA GeForce GTX 1050"
+os = "Windows 10"

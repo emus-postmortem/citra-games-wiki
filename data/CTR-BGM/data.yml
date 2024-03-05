@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000155C00
+  name: 'Gardening Mama: Forest Friends'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000F4900
+  name: ガーデニングママ :ママと森のなかまたち
+  updates: []
+- regions:
+  - KR
+  id: 0004000000155E00
+  name: '가드닝마마: 마마와 숲 속 친구들'
+  updates: []
+- regions:
+  - US
+  id: 000400000012D700
+  name: 'Gardening Mama 2: Forest Friends'
+  updates: []

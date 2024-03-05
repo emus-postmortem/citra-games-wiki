@@ -1,0 +1,7 @@
+platform: NES
+releases:
+- regions:
+  - JP
+  id: 00040000000FFE00
+  name: キングスナイト
+  updates: []

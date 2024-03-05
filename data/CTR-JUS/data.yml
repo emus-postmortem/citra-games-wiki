@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000DAF00
+  name: '@SIMPLE DLシリーズ Vol.11 THE 浮気彼氏 家政婦が見た浮気'
+  updates: []

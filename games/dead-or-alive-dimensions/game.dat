@@ -1,0 +1,19 @@
+title = "Dead or Alive: Dimensions"
+description = "Dead or Alive: Dimensions (DOAD) is a fighting game developed by Team Ninja and released by Tecmo Koei and in some regions by Nintendo. This made it the first Dead or Alive title for a Nintendo system, and the series's first fighting game for any handheld."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000034F00"
+region = "usa"
+release_date = "2011-05-24"
+
+[[releases]]
+title = "0004000000038A00"
+region = "eur"
+release_date = "2011-05-20"
+
+[[releases]]
+title = "0004000000032000"
+region = "jpn"
+release_date = "2011-05-19"

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000132B00
+  name: Yu-Gi-Oh! ZEXAL® World Duel Carnival
+  updates: []
+- regions:
+  - JP
+  id: 00040000000F6C00
+  name: 遊戯王ZEXAL 激突!デュエルカーニバル!
+  updates: []
+- regions:
+  - US
+  id: 0004000000136100
+  name: Yu-Gi-Oh! ZEXAL World Duel Carnival
+  updates: []

@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F710E00
+  name: I.F.O
+  updates: []
+- regions:
+  - US
+  id: 000400000F710C00
+  name: I.F.O
+  updates: []

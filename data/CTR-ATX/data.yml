@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000169700
+  name: My Zoo Vet Practice 3D
+  updates: []

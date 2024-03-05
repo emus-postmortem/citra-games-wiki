@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001CAC00
+  name: Kirby Battle Royale Demo
+  updates: []
+- regions:
+  - JP
+  id: 00040000001CAA00
+  name: カービィ バトルデラックス! 特別体験版
+  updates: []
+- regions:
+  - KR
+  id: 00040000001CAD00
+  name: 커비 배틀 디럭스! 체험판
+  updates: []
+- regions:
+  - US
+  id: 00040000001CAB00
+  name: Kirby™ Battle Royale Demo
+  updates: []

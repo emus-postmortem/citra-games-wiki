@@ -1,0 +1,7 @@
+platform: NES
+releases:
+- regions:
+  - JP
+  id: 00040000000A3E00
+  name: 忍者じゃじゃ丸くん
+  updates: []

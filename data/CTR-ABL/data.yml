@@ -1,0 +1,19 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000034A00
+  name: BLAZBLUE CONTINUUM SHIFT Ⅱ
+  updates: []
+- regions:
+  - KR
+  id: 0004000000130C00
+  name: 블레이 블루 컨티뉴엄 시프트 2
+  updates:
+  - id: 0004000E00130C00
+    name: 업데이트 데이터 Ver. 1.1 블레이 블루 컨티뉴엄 시프트 2
+- regions:
+  - US
+  id: 000400000004AC00
+  name: 'BlazBlue: Continuum Shift II'
+  updates: []

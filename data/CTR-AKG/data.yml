@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000AEB00
+  name: Virtue's Last Reward
+  updates: []
+- regions:
+  - JP
+  id: 000400000005DE00
+  name: 極限脱出ADV 善人シボウデス
+  updates: []
+- regions:
+  - US
+  id: 0004000000096700
+  name: "Zero Escape:  Virtue's Last Reward"
+  updates: []

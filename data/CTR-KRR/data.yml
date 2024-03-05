@@ -1,0 +1,19 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001C0300
+  name: Mononoke Forest
+  updates: []
+- regions:
+  - JP
+  id: 0004000000139A00
+  name: コロロケの森 ぽいっと
+  updates:
+  - id: 0004000E00139A00
+    name: 更新データ Ver. 1.1.0 コロロケの森 ぽいっと
+- regions:
+  - US
+  id: 00040000001BD300
+  name: Mononoke Forest
+  updates: []

@@ -1,0 +1,19 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001B9B00
+  name: Brave Dungeon
+  updates: []
+- regions:
+  - JP
+  id: 00040000001ACD00
+  name: ブレイブダンジョン
+  updates:
+  - id: 0004000E001ACD00
+    name: 更新データ Ver. 1.1 ブレイブダンジョン
+- regions:
+  - US
+  id: 00040000001C0100
+  name: Brave Dungeon
+  updates: []

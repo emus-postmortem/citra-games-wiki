@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F701400
+  name: Super Mario Kart™
+  updates: []
+- regions:
+  - JP
+  id: 000400000F701300
+  name: スーパーマリオカート
+  updates: []

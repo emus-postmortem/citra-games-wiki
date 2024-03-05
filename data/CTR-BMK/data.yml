@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000113300
+  name: メダロット8 カブトVer.
+  updates:
+  - id: 0004000E00113300
+    name: 更新データ Ver. 1.1 メダロット8 カブトVer.

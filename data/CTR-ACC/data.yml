@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000066D00
+  name: Super Pokémon™ Rumble
+  updates: []
+- regions:
+  - JP
+  id: 000400000004D700
+  name: スーパーポケモンスクランブル
+  updates: []
+- regions:
+  - KR
+  id: 000400000009AA00
+  name: 슈퍼 포켓몬 대격돌
+  updates: []
+- regions:
+  - US
+  id: 0004000000066C00
+  name: Pokémon™ Rumble Blast
+  updates: []

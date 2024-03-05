@@ -1,0 +1,27 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000068F00
+  name: Pullblox™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000068D00
+  name: 引ク押ス
+  updates: []
+- regions:
+  - KR
+  id: 0004000000086700
+  name: 밀고 당기고
+  updates: []
+- regions:
+  - TW
+  id: 0004000000086800
+  name: 推拉方塊(繁體中文版)
+  updates: []
+- regions:
+  - US
+  id: 0004000000068E00
+  name: Pushmo™
+  updates: []

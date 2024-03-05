@@ -1,0 +1,11 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  - JP
+  - KR
+  - TW
+  - US
+  id: 00040000001A7100
+  name: 'Pokémon™ Sun and Pokémon™ Moon Special Demo '
+  updates: []

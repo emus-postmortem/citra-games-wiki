@@ -1,0 +1,40 @@
+title = "Kingdom Hearts 3D: Dream Drop Distance"
+description = "Kingdom Hearts 3D: Dream Drop Distance is an action role-playing game developed and published by Square Enix. Taking place after the events of Kingdom Hearts Re:coded, the game focuses on Sora and Riku's Mark of Mastery exam in which they have to protect parallel worlds in preparation for the return of Master Xehanort. Besides controlling the two playable characters across a single scenario, the player is able to recruit creatures known as Dream Eaters that are able to assist in fights."
+github_issues = [1830]
+needs_system_files = false
+needs_shared_font = true
+
+[[ releases ]]
+title = "000400000004EE00"
+region = "jpn"
+release_date = "2012-03-29"
+
+[[ releases ]]
+title = "000400000008D300"
+region = "usa"
+release_date = "2012-07-31"
+
+[[ releases ]]
+title = "0004000000095500"
+region = "eur"
+release_date = "2012-07-20"
+
+[[ testcases ]]
+title = "0004000000095500"
+compatibility = "1"
+date = "2017-07-06"
+version = "HEAD-c017065"
+author = "OrangSquid"
+cpu = "Intel Core i7-6700HQ @ 2.60 GHz"
+gpu = "GeForce GTX 965M"
+os = "Windows 10 15063"
+
+[[ testcases ]]
+title = "000400000008D300"
+compatibility = "1"
+date = "2017-09-07"
+version = "HEAD-e0cdaf7"
+author = "SonofUgly"
+cpu = "i5-6600k @ 4.3GHz"
+gpu = "GeForce GTX 750Ti"
+os = "Windows 8.1"

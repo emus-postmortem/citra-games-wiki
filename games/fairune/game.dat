@@ -1,0 +1,25 @@
+title = "Fairune"
+description = "Fairune is a retro-style puzzle action role-playing game (ARPG) developed by Skipmore and published by CIRCLE Entertainment for iOS, Android, and the Nintendo 3DS. The game is followed by a sequel, Fairune 2."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000158700"
+region = "usa"
+release_date = "2014-12-18"
+
+[[releases]]
+title = "0004000000148B00"
+region = "eur"
+release_date = "2014-12-11"
+
+[[testcases]]
+title = "0004000000158700"
+compatibility = "2"
+date = "2017-11-04"
+version = "HEAD-c6b2cc2"
+cpu = "Intel Xeon E31240"
+gpu = "NVIDIA GeForce GTX 750"
+os = "Windows 7 7601"
+author = "AuraOfTheDawn"

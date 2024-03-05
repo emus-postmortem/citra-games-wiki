@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000014DA00
+  name: Battleminer
+  updates: []
+- regions:
+  - JP
+  id: 0004000000189100
+  name: BATTLEMINER
+  updates: []
+- regions:
+  - US
+  id: 000400000014C900
+  name: Battleminer
+  updates: []

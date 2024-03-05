@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000098900
+  name: Cave Story
+  updates: []
+- regions:
+  - JP
+  id: 0004000000179A00
+  name: 洞窟物語
+  updates: []
+- regions:
+  - KR
+  id: 00040000001A5500
+  name: Cave Story 동굴 이야기
+  updates: []
+- regions:
+  - US
+  id: 000400000009B300
+  name: Cave Story
+  updates: []

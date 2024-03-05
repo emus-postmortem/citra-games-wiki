@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001A1100
+  name: デジコロ ケシカスくん Vol.001 貫け！ちくわ道！
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001BCB00
+  name: Drone Fight
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A7500
+  name: ドローンファイト
+  updates: []
+- regions:
+  - US
+  id: 00040000001C0000
+  name: Drone Fight
+  updates: []

@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F703700
+  name: The Legend of The Mystical Ninja
+  updates: []
+- regions:
+  - JP
+  id: 000400000F703600
+  name: がんばれゴエモン ゆき姫救出絵巻
+  updates: []

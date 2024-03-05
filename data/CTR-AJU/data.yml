@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000D6400
+  name: Jewel Match 3
+  updates: []
+- regions:
+  - US
+  id: 00040000000CFE00
+  name: Jewel Match 3
+  updates: []

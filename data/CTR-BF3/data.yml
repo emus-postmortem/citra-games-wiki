@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001AA300
+  name: セガ3D復刻アーカイブス3 FINAL STAGE
+  updates:
+  - id: 0004000E001AA300
+    name: 更新データ Ver. 1.1.0 セガ3D 復刻アーカイブス3 FINAL STAGE

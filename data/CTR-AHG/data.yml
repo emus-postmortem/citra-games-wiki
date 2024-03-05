@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 000400000006DB00
+  name: 姫ギャル♥パラダイス メチカワ! アゲ盛り↑センセーション!
+  updates: []

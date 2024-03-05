@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000019BC00
+  name: Splat The Difference
+  updates: []
+- regions:
+  - JP
+  id: 00040000001B0100
+  name: レッツ！スプラト！間違い探し
+  updates: []
+- regions:
+  - US
+  id: 000400000019BF00
+  name: Splat The Difference
+  updates: []

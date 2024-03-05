@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000008A000
+  name: Cocoto Alien Brick Breaker
+  updates: []
+- regions:
+  - JP
+  id: 0004000000152D00
+  name: 小悪魔ココトの宇宙人くずし
+  updates: []
+- regions:
+  - US
+  id: 00040000000BF400
+  name: Cocoto Alien Brick Breaker
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D8500
+  name: Horror Stories
+  updates: []
+- regions:
+  - US
+  id: 00040000001D8800
+  name: Horror Stories
+  updates: []

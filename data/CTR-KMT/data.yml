@@ -1,0 +1,19 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000016B100
+  name: Mercenaries Saga 2
+  updates: []
+- regions:
+  - JP
+  id: 0004000000156100
+  name: マーセナリーズサーガ2
+  updates:
+  - id: 0004000E00156100
+    name: 更新データ Ver. 1.2 マーセナリーズサーガ2
+- regions:
+  - US
+  id: 000400000016CC00
+  name: Mercenaries Saga 2
+  updates: []

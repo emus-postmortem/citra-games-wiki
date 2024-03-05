@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000005ED00
+  name: Cooking Mama 4
+  updates: []
+- regions:
+  - JP
+  id: 0004000000056A00
+  name: クッキングママ 4
+  updates: []
+- regions:
+  - KR
+  id: 00040000000BF500
+  name: 쿠킹마마 마마와 나의 요리 시간 !
+  updates: []
+- regions:
+  - US
+  id: 000400000004E400
+  name: 'Cooking Mama 4: Kitchen Magic'
+  updates: []

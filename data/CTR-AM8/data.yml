@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000D6100
+  name: Murder on the Titanic
+  updates: []
+- regions:
+  - JP
+  id: 0004000000114300
+  name: タイタニック殺人事件
+  updates: []
+- regions:
+  - US
+  id: 00040000000C1100
+  name: Murder on the Titanic
+  updates: []

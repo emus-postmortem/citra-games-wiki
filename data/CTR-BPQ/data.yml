@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000E8600
+  name: ドキドキ!プリキュア なりきりライフ!
+  updates: []

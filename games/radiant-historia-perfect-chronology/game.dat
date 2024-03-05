@@ -1,0 +1,19 @@
+title = "Radiant Historia: Perfect Chronology"
+description = "Radiant Historia: Perfect Chronology is a role-playing game developed and published by Atlus. It is a Nintendo 3DS port of the original Nintendo DS game with additional story content and features such as voice acting, new visuals and music."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001C8F00"
+region = "usa"
+release_date = "2018-02-13"
+
+[[releases]]
+title = "00040000001CD900"
+region = "eur"
+release_date = "2018-02-16"
+
+[[releases]]
+title = "00040000001A0C00"
+region = "jpn"
+release_date = "2017-06-29"

@@ -1,0 +1,16 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001AAA00
+  name: Dragon Ball Fusions
+  updates:
+  - id: 0004000E001AAA00
+    name: 'Dragon Ball Fusions: Update'
+- regions:
+  - JP
+  id: 0004000000196D00
+  name: ドラゴンボールフュージョンズ
+  updates:
+  - id: 0004000E00196D00
+    name: 更新データ Ver. 2.2.0 ドラゴンボールフュージョンズ

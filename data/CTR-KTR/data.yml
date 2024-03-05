@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000150100
+  name: チャリ走 DX3 タイムライダー
+  updates:
+  - id: 0004000E00150100
+    name: 更新データ Ver. 1.5 チャリ走 DX3 タイムライダー

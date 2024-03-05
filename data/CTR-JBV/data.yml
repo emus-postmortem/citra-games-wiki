@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000053100
+  name: VectorRacing
+  updates: []
+- regions:
+  - US
+  id: 000400000008B800
+  name: VectorRacing
+  updates: []

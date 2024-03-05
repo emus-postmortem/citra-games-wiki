@@ -1,0 +1,7 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000F710900
+  name: Back in 199564
+  updates: []

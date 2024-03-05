@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000055900
+  name: Rabbids® Rumble
+  updates: []
+- regions:
+  - US
+  id: 0004000000055400
+  name: Rabbids® Rumble
+  updates: []

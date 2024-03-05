@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000128B00
+  name: LolaのABCパーティー
+  updates: []

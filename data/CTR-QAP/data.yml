@@ -1,0 +1,17 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 000400000008AF00
+  name: Wario Land™ 3
+  updates: []
+- regions:
+  - JP
+  id: 0004000000089A00
+  name: ワリオランド3 不思議なオルゴール
+  updates: []
+- regions:
+  - US
+  id: 000400000008AE00
+  name: Wario Land™ 3
+  updates: []

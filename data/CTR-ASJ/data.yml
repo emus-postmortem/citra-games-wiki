@@ -1,0 +1,37 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000EA600
+  name: 'Etrian Odyssey™ IV: Legends of the Titan'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000080100
+  name: 世界樹の迷宮Ⅳ 伝承の巨神
+  updates: []
+- regions:
+  - KR
+  id: 00040000000F7800
+  name: 세계수의 미궁 Ⅳ (영어)
+  updates: []
+- regions:
+  - KR
+  id: 00040000000F7700
+  name: 세계수의 미궁 Ⅳ (일본어)
+  updates: []
+- regions:
+  - TW
+  id: 0004000000105900
+  name: Etrian Odyssey Ⅳ Legends of the Titan (英文版)
+  updates: []
+- regions:
+  - TW
+  id: 0004000000105800
+  name: 世界樹の迷宮Ⅳ 伝承の巨神 (日文版)
+  updates: []
+- regions:
+  - US
+  id: 00040000000BD300
+  name: 'Etrian Odyssey™ IV:  Legends of the Titan'
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000084A00
+  name: Jewel Master Cradle Of Rome 2
+  updates: []
+- regions:
+  - US
+  id: 000400000009D100
+  name: 'Jewel Master: Cradle of Rome 2'
+  updates: []

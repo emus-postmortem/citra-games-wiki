@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000159900
+  name: LEGO® Jurassic World™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000172200
+  name: LEGO®ジュラシック･ワールド
+  updates: []
+- regions:
+  - US
+  id: 000400000015B000
+  name: 'LEGO® Jurassic World™ '
+  updates: []

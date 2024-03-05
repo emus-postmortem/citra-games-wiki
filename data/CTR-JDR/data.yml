@@ -1,0 +1,19 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000011C800
+  name: THE "DENPA" MEN 3 The Rise of Digitoll
+  updates: []
+- regions:
+  - JP
+  id: 00040000000EF000
+  name: 電波人間のRPG3
+  updates:
+  - id: 0004000E000EF000
+    name: 更新データ Ver. 1.4 電波人間のRPG3
+- regions:
+  - US
+  id: 000400000011DE00
+  name: THE "DENPA" MEN 3 The Rise of Digitoll
+  updates: []

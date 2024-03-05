@@ -1,0 +1,30 @@
+title = "Dragon Quest® VIII Journey of the Cursed King"
+description = "Published by Square Enix, Dragon Quest® VIII Journey of the Cursed King is a remake of the original game for PS2. It's a JRPG set in a world full of weird looking monsters where you take control of an unnamed hero seeking to lift the curse cast by the evil Dhoulmagus, off of king Trode and the princess Medea, who both have been transformed respectively into a monster and a horse, and the castle of Trodain."
+incomplete = true
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "000400000018F100"
+region = "usa"
+release_date = "2017-01-20"
+
+[[releases]]
+title = "000400000018F200"
+region = "eur"
+release_date = "2017-01-20"
+
+[[releases]]
+title = "000400000015CD00"
+region = "jpn"
+release_date = "2015-08-27"
+
+[[testcases]]
+title = "000400000018F200"
+compatibility = "1"
+date = "2017-08-18"
+version = "HEAD-035716d"
+cpu = "Intel Core i3-6100"
+gpu = "GeForce GTX 1050ti"
+os = "Winodows 10 14393"
+author = "LCypher00"

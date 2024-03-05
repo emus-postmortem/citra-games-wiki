@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000FEF00
+  name: Best of Arcade Games - Tetraminos
+  updates: []
+- regions:
+  - US
+  id: 0004000000101800
+  name: Best of Arcade Games - Tetraminos
+  updates: []

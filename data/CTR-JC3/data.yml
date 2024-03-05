@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000066800
+  name: ニコリのパズル スリザーリンク
+  updates: []
+- regions:
+  - KR
+  id: 0004000000102500
+  name: Slitherlink by Nikoli
+  updates: []
+- regions:
+  - US
+  id: 000400000008D000
+  name: Slitherlink by Nikoli
+  updates: []

@@ -1,0 +1,31 @@
+title = "Fire Emblem Awakening"
+description = "Fire Emblem Awakening is a tactical role-playing video game, developed by Intelligent Systems and Nintendo SPD and published by Nintendo for the Nintendo 3DS handheld. It is the eleventh entry in the Fire Emblem series, and the first to be developed for the Nintendo 3DS."
+incomplete = true
+github_issues = [2548]
+needs_system_files = true
+needs_shared_font = false
+
+[[ releases ]]
+title = "00040000000A0500"
+region = "usa"
+release_date = "2013-02-04"
+
+[[ releases ]]
+title = "000400000009F100"
+region = "eur"
+release_date = "2013-04-19"
+
+[[ releases ]]
+title = "0004000000072000"
+region = "jpn"
+release_date = "2012-04-19"
+
+[[ testcases ]]
+title = "00040000000A0500"
+compatibility = "2"
+date = "2017-05-31"
+version = "HEAD-4857eb4"
+author = "Flamboyant_Ham"
+cpu = "Intel Core i7-4720HQ"
+gpu = "GeForce GTX 960M"
+os = "Windows 10 14393"

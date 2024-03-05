@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000096100
+  name: VVVVVV
+  updates: []
+- regions:
+  - JP
+  id: 0004000000181D00
+  name: VVVVVV
+  updates: []
+- regions:
+  - US
+  id: 000400000007FD00
+  name: VVVVVV
+  updates: []

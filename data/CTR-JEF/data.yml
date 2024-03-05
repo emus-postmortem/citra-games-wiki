@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000012AE00
+  name: Excave
+  updates: []
+- regions:
+  - JP
+  id: 000400000010EF00
+  name: エクスケーブ
+  updates: []
+- regions:
+  - US
+  id: 0004000000158500
+  name: Excave
+  updates: []

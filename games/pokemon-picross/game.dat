@@ -1,0 +1,21 @@
+title = "Pokémon Picross"
+description = "Pokémon Picross is a freemium puzzle video game featuring Pokémon characters developed by Jupiter Corporation and published by The Pokémon Company for the Nintendo 3DS."
+github_issues = [1980]
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[ releases ]]
+title = "000400000017C100"
+region = "all"
+release_date = "2015-12-02"
+
+[[ testcases ]]
+title = "000400000017C100"
+compatibility = "1"
+date = "2017-06-05"
+version = "HEAD-8f0a23b"
+author = "SonofUgly"
+cpu = "i5-6600k @ 4.3GHz"
+gpu = "GeForce GTX 750Ti"
+os = "Windows 8.1"

@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001CA400
+  name: フューチャーカードバディファイト 誕生！オレたちの最強バディ！
+  updates:
+  - id: 0004000E001CA400
+    name: 更新データ Ver.1.2 フューチャーカード バディファイト　誕生！オレたちの最強バディ！

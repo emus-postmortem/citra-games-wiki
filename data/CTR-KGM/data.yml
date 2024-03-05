@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 000400000013E900
+  name: Gothic Masquerade
+  updates: []

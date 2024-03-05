@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000195100
+  name: 'Cartoon Network:  Battle Crashers'
+  updates: []
+- regions:
+  - US
+  id: 0004000000192000
+  name: 'Cartoon Network:  Battle Crashers'
+  updates: []

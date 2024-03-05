@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000015CE00
+  name: Gunman Clive 2
+  updates: []
+- regions:
+  - JP
+  id: 0004000000164B00
+  name: ガンマンストーリー2
+  updates: []
+- regions:
+  - US
+  id: 000400000012D300
+  name: Gunman Clive 2
+  updates: []

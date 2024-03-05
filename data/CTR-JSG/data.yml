@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000AF200
+  name: Samurai G™
+  updates: []
+- regions:
+  - US
+  id: 00040000000AF300
+  name: Samurai G™
+  updates: []

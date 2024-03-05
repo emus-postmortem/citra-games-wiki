@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - US
+  id: 000400000016F100
+  name: Are You Smarter Than a  5th Grader?
+  updates: []

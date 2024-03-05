@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000005DF00
+  name: TOEIC®テスト超速トレーニング
+  updates: []

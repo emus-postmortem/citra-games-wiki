@@ -1,0 +1,24 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000017ED00
+  name: 'LEGO® STAR WARS™: THE FORCE AWAKENS'
+  updates:
+  - id: 0004000E0017ED00
+    name: 'LEGO® STAR WARS™: THE FORCE AWAKENS - Update'
+- regions:
+  - JP
+  id: 0004000000190D00
+  name: LEGO®スター・ウォーズ
+  updates: []
+- regions:
+  - KR
+  id: 00040000001A5900
+  name: '레고® 스타워즈™: 깨어난 포스'
+  updates: []
+- regions:
+  - US
+  id: 000400000017F900
+  name: 'LEGO® Star Wars™: The Force Awakens'
+  updates: []

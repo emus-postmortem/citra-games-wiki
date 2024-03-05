@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001AF500
+  name: 高円寺女子サッカー3 ～恋する イレブン いつかはヘブン～
+  updates: []

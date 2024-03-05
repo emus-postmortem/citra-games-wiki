@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000165F00
+  name: Severed
+  updates: []
+- regions:
+  - JP
+  id: 00040000001B4800
+  name: SEVERED-セヴァード-
+  updates: []
+- regions:
+  - US
+  id: 0004000000166300
+  name: Severed
+  updates: []

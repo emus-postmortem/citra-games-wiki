@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 000400000005A000
+  name: Earthpedia(アースペディア)
+  updates: []

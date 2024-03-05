@@ -1,0 +1,35 @@
+title = "Naruto Powerful Shippuden"
+description = "Naruto Powerful Shippuden is a side-scrolling action/adventure game in development by Namco Bandai Games and Inti Creates for the Nintendo 3DS platform. The game is based on the Naruto spin-off series, Rock Lee's Springtime of Youth Full Power Ninja Chronicles."
+incomplete = true
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "000400000003CF00"
+region = "usa"
+release_date = "2013-03-05"
+
+[[ releases ]]
+title = "00040000000C4400"
+region = "eur"
+release_date = "2013-03-18"
+
+[[ releases ]]
+title = "00040000000AFE00"
+region = "jpn"
+release_date = "2012-11-29"
+
+[[ releases ]]
+title = "00040000000C1F00"
+region = "chn"
+release_date = "2013-03-08"
+
+[[ testcases ]]
+compatibility = "1"
+date = "2017-06-19"
+title = "00040000000C4400"
+version = "HEAD-d0888f8"
+author = "Kloen"
+cpu = "Intel Core i5-760"
+gpu = "AMD Radeon HD 5670"
+os = "Windows 10 Education 1511"

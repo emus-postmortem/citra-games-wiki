@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F701900
+  name: F-Zero™
+  updates: []
+- regions:
+  - JP
+  id: 000400000F701800
+  name: F-ZERO
+  updates: []

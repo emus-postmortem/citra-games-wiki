@@ -1,0 +1,21 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001BB700
+  name: Go! Go! Kokopolo 3D
+  updates:
+  - id: 0004000E001BB700
+    name: 'Go! Go! Kokopolo 3D:  Update Ver. 1.1'
+- regions:
+  - JP
+  id: 00040000001C9800
+  name: ゴー！ゴー！ココポロ3D
+  updates: []
+- regions:
+  - US
+  id: 00040000000B7800
+  name: Go! Go! Kokopolo 3D
+  updates:
+  - id: 0004000E000B7800
+    name: Go! Go! Kokopolo 3D  Update Ver. 1.1

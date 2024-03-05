@@ -1,0 +1,29 @@
+title = "Etrian Odyssey IV: Legends of the Titan"
+description = "Etrian Odyssey IV: Legends of the Titan is a dungeon crawler role playing video game developed and published by Atlus for the Nintendo 3DS. It is the sequel to Etrian Odyssey III: The Drowned City and the first in the Etrian Odyssey series to be released on the 3DS."
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "00040000000BD300"
+region = "usa"
+release_date = "2013-02-26"
+
+[[releases]]
+title = "00040000000EA600"
+region = "eur"
+release_date = "2013-08-30"
+
+[[ releases ]]
+title = "0004000000080100"
+region = "jpn"
+release_date = "2012-07-05"
+
+[[testcases]]
+title = "00040000000BD300"
+compatibility = "1"
+date = "2017-07-13"
+version = "HEAD-5137a19"
+cpu = "Intel Core i7-6700HQ"
+gpu = "GeForce GTX 960M"
+os = "Windows 10 15063"
+author = "findanother1"

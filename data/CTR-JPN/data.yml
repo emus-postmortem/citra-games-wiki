@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000011F000
+  name: プチノベル「境域の一月」
+  updates: []

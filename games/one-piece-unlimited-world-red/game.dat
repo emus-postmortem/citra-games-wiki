@@ -1,0 +1,19 @@
+title = "One Piece: Unlimited World Red"
+description = "One Piece: Unlimited World Red is an action-adventure video game based on the manga and the anime of One Piece, developed by Ganbarion and published by Bandai Namco Games. This is the thirty-sixth video game based on the series, and the fifth title in the Unlimited sub-series."
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000123D00"
+region = "usa"
+release_date = "2014-07-08"
+
+[[releases]]
+title = "0004000000117E00"
+region = "eur"
+release_date = "2014-06-27"
+
+[[releases]]
+title = "00040000000F5800"
+region = "jpn"
+release_date = "2013-11-21"

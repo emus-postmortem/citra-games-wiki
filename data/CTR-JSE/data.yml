@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000FEE00
+  name: Best of Board Games - Solitaire
+  updates: []
+- regions:
+  - US
+  id: 0004000000101B00
+  name: Best of Board Games - Solitaire
+  updates: []

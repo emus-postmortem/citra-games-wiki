@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000120700
+  name: カードファイト!! ヴァンガード ロック オン ビクトリー!!
+  updates:
+  - id: 0004000E00120700
+    name: 更新データ Ver. 1.1 カードファイト!! ヴァンガード LOV

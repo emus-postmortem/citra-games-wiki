@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000012FF00
+  name: ご当地鉄道 ～ご当地キャラと日本全国の旅～
+  updates: []

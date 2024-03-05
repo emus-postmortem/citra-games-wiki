@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000010A400
+  name: Angry Bunnies
+  updates: []
+- regions:
+  - US
+  id: 00040000000C5800
+  name: Angry Bunnies
+  updates: []

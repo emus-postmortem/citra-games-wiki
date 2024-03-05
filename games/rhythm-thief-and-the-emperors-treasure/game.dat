@@ -1,0 +1,30 @@
+title = "Rhythm Thief & the Emperor's Treasure"
+description = "Rhythm Thief & the Emperor's Treasure, known in Japan as Rhythm Thief R: Emperor Napoleon's Legacy, is a rhythm–puzzle and adventure video game co-developed by Sega and Xeen for the Nintendo 3DS."
+incomplete = true
+needs_system_files = false
+needs_shared_font = true
+
+[[ releases ]]
+title = "0004000000067600"
+region = "usa"
+release_date = "2012-04-12"
+
+[[ releases ]]
+title = "000400000006DA00"
+region = "eur"
+release_date = "2012-04-05"
+
+[[ releases ]]
+title = "0004000000078100"
+region = "jpn"
+release_date = "2012-01-19"
+
+[[ testcases ]]
+title = "0004000000067600"
+compatibility = "2"
+date = "2017-07-04"
+version = "HEAD-22e7402"
+author = "DrewThatGamer"
+cpu = "Intel Core i5 6400"
+gpu = "NVIDIA GeForce GTX 1050"
+os = "Windows 10"

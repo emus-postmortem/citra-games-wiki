@@ -1,0 +1,23 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000174400
+  name: Pokémon™ Super Mystery Dungeon
+  updates:
+  - id: 0004000E00174400
+    name: 'Pokémon™ Super  Mystery Dungeon: Update'
+- regions:
+  - JP
+  id: 0004000000149B00
+  name: ポケモン超不思議のダンジョン
+  updates:
+  - id: 0004000E00149B00
+    name: 更新データ ポケモン超不思議のダンジョン
+- regions:
+  - US
+  id: 0004000000174600
+  name: Pokémon™ Super Mystery Dungeon
+  updates:
+  - id: 0004000E00174600
+    name: Pokémon™ Super Mystery  Dungeon Update Ver.

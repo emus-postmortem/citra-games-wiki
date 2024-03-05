@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000015F300
+  name: Zombie Incident
+  updates: []
+- regions:
+  - US
+  id: 000400000012E900
+  name: Zombie Incident
+  updates: []

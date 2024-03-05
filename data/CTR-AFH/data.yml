@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 00040000000B6200
+  name: 'Fast & Furious™: Showdown'
+  updates: []

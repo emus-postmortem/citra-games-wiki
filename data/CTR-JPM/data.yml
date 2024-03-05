@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000F7600
+  name: Chibi-Robo!™ Let’s Go, Photo!
+  updates: []
+- regions:
+  - JP
+  id: 00040000000C9E00
+  name: 実写でちびロボ!
+  updates: []
+- regions:
+  - US
+  id: 0004000000107C00
+  name: 'Chibi-Robo!™: Photo Finder'
+  updates: []

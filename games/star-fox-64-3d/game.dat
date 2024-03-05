@@ -1,0 +1,30 @@
+title = "Star Fox 64 3D"
+description = "Star Fox 64 3D is a video game for the Nintendo 3DS and is a remake of Star Fox 64. It was co-developed between Nintendo EAD and Q-Games, and was published by Nintendo."
+github_issues = [2749, 3104]
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000049000"
+region = "usa"
+release_date = "2011-09-09"
+
+[[ releases ]]
+title = "0004000000049100"
+region = "eur"
+release_date = "2011-09-09"
+
+[[ releases ]]
+title = "0004000000030400"
+region = "jpn"
+release_date = "2011-07-14"
+
+[[ testcases ]]
+title = "0004000000049000"
+compatibility = "1"
+date = "2017-06-04"
+version = "HEAD-8f0a23b"
+author = "Flamboyant_Ham"
+cpu = "Intel Core i7-4720HQ"
+gpu = "GeForce GTX 960M"
+os = "Windows 10 14393"

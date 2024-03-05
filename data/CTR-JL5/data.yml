@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001A6200
+  name: LEGO® ムービー 3D
+  updates: []

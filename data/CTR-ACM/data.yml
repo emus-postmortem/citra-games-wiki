@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000032500
+  name: マリオ&ソニック AT ロンドンオリンピック™
+  updates: []
+- regions:
+  - KR
+  id: 0004000000053500
+  name: 마리오와 소닉 런던 올림픽™
+  updates: []

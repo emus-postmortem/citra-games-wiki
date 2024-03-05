@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 000400000013EB00
+  name: 'Hideaways: Foggy Valley'
+  updates: []

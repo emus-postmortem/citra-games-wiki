@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000013F600
+  name: GLORY OF GENERALS
+  updates: []
+- regions:
+  - US
+  id: 000400000013F900
+  name: Glory of Generals
+  updates: []

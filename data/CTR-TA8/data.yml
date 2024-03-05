@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 000400000009DC00
+  name: Castlevania™
+  updates: []
+- regions:
+  - JP
+  id: 000400000009DA00
+  name: 悪魔城ドラキュラ
+  updates: []
+- regions:
+  - US
+  id: 000400000009DB00
+  name: Castlevania®
+  updates: []

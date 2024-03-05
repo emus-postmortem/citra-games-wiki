@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001A7200
+  name: SubaraCity
+  updates: []
+- regions:
+  - JP
+  id: 000400000018DA00
+  name: スバラシティ
+  updates: []
+- regions:
+  - US
+  id: 00040000001A8100
+  name: SubaraCity
+  updates: []

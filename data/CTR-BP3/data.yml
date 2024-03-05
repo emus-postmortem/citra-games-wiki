@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 000400000018FE00
+  name: SIMPLEシリーズ for 3DS Vol.3 THE密室からの脱出 アーカイブス2
+  updates: []

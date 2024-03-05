@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001AB700
+  name: Crollors Game Pack
+  updates: []
+- regions:
+  - US
+  id: 00040000001C4A00
+  name: Crollors Game Pack
+  updates: []

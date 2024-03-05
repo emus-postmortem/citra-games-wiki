@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70FC00
+  name: RTO 2
+  updates: []
+- regions:
+  - US
+  id: 000400000F70FD00
+  name: RTO 2
+  updates: []

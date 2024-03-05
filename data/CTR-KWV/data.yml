@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001BCF00
+  name: おそ松さん ニート脱出スパイラル!!
+  updates:
+  - id: 0004000E001BCF00
+    name: 更新データ Ver. 1.1 おそ松さん ニート脱出スパイラル!!

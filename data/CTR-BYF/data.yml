@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001B3F00
+  name: プロ野球 ファミスタ クライマックス
+  updates:
+  - id: 0004000E001B3F00
+    name: 更新データ Ver. 1.5.0 プロ野球 ファミスタ クライマックス

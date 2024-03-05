@@ -1,0 +1,23 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001CA800
+  name: Layton's Mystery Journey™
+  updates:
+  - id: 0004000E001CA800
+    name: "Layton's Mystery Journey™:  Update"
+- regions:
+  - JP
+  id: 00040000001C1900
+  name: レイトン ミステリージャーニー カトリーエイルと大富豪の陰謀
+  updates:
+  - id: 0004000E001C1900
+    name: 更新データ Ver. 1.2 レイトン ミステリージャーニー
+- regions:
+  - US
+  id: 00040000001CB400
+  name: LAYTON'S MYSTERY JOURNEY™
+  updates:
+  - id: 0004000E001CB400
+    name: LAYTON'S MYSTERY JOURNEY  Update Ver. 1.2

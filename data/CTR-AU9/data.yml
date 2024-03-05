@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000C3B00
+  name: パチパラ3D デラックス海物語
+  updates: []

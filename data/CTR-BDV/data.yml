@@ -1,0 +1,16 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000163C00
+  name: ドラゴンボールZ 超究極武闘伝
+  updates:
+  - id: 0004000E00163C00
+    name: 更新データ Ver. 1.6.0 ドラゴンボールZ 超究極武闘伝
+- regions:
+  - KR
+  id: 000400000017E800
+  name: 드래곤볼 Z 초궁극무투전
+  updates:
+  - id: 0004000E0017E800
+    name: 업데이트 데이터 Ver. 1.1  드래곤볼 Z 초궁극무투전

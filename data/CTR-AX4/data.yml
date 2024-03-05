@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000AFD00
+  name: メタルマックス4 月光のディーヴァ
+  updates:
+  - id: 0004000E000AFD00
+    name: 更新データ Ver. 1.1 メタルマックス4 月光のディーヴァ

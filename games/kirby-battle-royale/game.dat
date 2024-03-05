@@ -1,0 +1,20 @@
+title = "Kirby Battle Royale"
+description = "Kirby Battle Royale is a brawler video game part of the Kirby series. It was developed by HAL Laboratory and published by Nintendo."
+github_issues = [3233]
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001C2000"
+region = "usa"
+release_date = "2018-01-19"
+
+[[releases]]
+title = "00040000001C2100"
+region = "eur"
+release_date = "2017-11-03"
+
+[[releases]]
+title = "00040000001A8B00"
+region = "jpn"
+release_date = "2017-11-30"

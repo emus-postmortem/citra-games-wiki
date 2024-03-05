@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000BFD00
+  name: '@SIMPLE DLシリーズ Vol.7 THE 浮気彼氏 ～突撃!浮気現場～'
+  updates: []

@@ -1,0 +1,21 @@
+title = "Mario vs. Donkey Kong: Tipping Stars"
+description = "Mario vs. Donkey Kong: Tipping Stars is a puzzle video game developed by Nintendo Software Technology and published by Nintendo. It is the sixth game in the Mario vs. Donkey Kong series."
+github_issues = [3183]
+needs_system_files = true
+needs_shared_font = true
+game_type = "eshop"
+
+[[releases]]
+title = "000400000012C800"
+region = "usa"
+release_date = "2015-03-05"
+
+[[testcases]]
+title = "000400000012C800"
+compatibility = "3"
+date = "2017-12-03"
+version = "HEAD-b2a9904"
+cpu = "AMD FX-6300"
+gpu = "Nvidia GeForce GTX 960"
+os = "Windows 7 6.1.7601"
+author = "greggameplayer"

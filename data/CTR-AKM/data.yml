@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000179300
+  name: Teddy Together
+  updates: []
+- regions:
+  - JP
+  id: 00040000000AC900
+  name: クマ･トモ
+  updates: []

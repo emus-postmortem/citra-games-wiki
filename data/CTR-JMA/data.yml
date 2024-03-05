@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000008A900
+  name: Mad Dog McCree™
+  updates: []
+- regions:
+  - US
+  id: 0004000000087300
+  name: Mad Dog McCree™
+  updates: []

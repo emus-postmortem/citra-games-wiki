@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000015B500
+  name: Ninja Usagimaru - The Gem of Blessings -
+  updates: []
+- regions:
+  - JP
+  id: 0004000000089000
+  name: 疾風のうさぎ丸 -恵みの珠と封魔の印-
+  updates: []
+- regions:
+  - US
+  id: 000400000015CA00
+  name: Ninja Usagimaru - The Gem of Blessings -
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001AA100
+  name: プリパラ めざめよ！女神のドレスデザイン
+  updates: []

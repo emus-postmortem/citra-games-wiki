@@ -1,0 +1,20 @@
+title = "Bloody Vampire"
+description = "Bloody Vampire is a action-adventure platform game developed by Silver Star Japan. It was self-published in Japan and published by Agetec in North America and Europe."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "00040000000BA400"
+region = "usa"
+release_date = "2013-01-31"
+
+[[releases]]
+title = "00040000000D1800"
+region = "eur"
+release_date = "2013-05-09"
+
+[[releases]]
+title = "0004000000088B00"
+region = "jpn"
+release_date = "2012-04-25"

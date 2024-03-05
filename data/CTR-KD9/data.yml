@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001B7B00
+  name: Dragon Sinker
+  updates: []
+- regions:
+  - JP
+  id: 0004000000193B00
+  name: ドラゴンシンカー
+  updates: []
+- regions:
+  - US
+  id: 00040000001B8800
+  name: Dragon Sinker
+  updates: []

@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000F9700
+  name: 王だぁランド!
+  updates:
+  - id: 0004000E000F9700
+    name: 更新データ Ver. 1.1 王だぁランド!

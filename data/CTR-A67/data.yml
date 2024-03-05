@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001DBC00
+  name: Quarters, Please! Vol. 2
+  updates: []
+- regions:
+  - US
+  id: 00040000001DB700
+  name: Quarters, Please! Vol. 2
+  updates: []

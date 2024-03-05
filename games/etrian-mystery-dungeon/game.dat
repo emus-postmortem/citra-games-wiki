@@ -1,0 +1,29 @@
+title = "Etrian Mystery Dungeon"
+description = "Etrian Mystery Dungeon is a role-playing video game for the Nintendo 3DS. It was developed by Spike Chunsoft and Atlus. The game features the character customization and character class system from the Etrian Odyssey series, and the dungeon crawling from the Mystery Dungeon series; the player's party, which is made up of custom-made characters, ventures into randomly generated multi-floor dungeons, with the objective to reach the end of each dungeon."
+needs_system_files = true
+needs_shared_font = false
+
+[[ releases ]]
+title = "000400000015B200"
+region = "usa"
+release_date = "2015-04-07"
+
+[[ releases ]]
+title = "000400000016EA00"
+region = "eur"
+release_date = "2015-09-11"
+
+[[ releases ]]
+title = "0004000000118300"
+region = "jpn"
+release_date = "2015-03-05"
+
+[[ testcases ]]
+title = "000400000015B200"
+compatibility = "0"
+date = "2017-09-01"
+version = "HEAD-f251b88"
+author = "Hexagon12"
+cpu = "Intel Core i3-6100"
+gpu = "Nvidia GTX 750 Ti"
+os = "Windows 10 Pro 15063"

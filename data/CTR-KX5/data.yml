@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001C4700
+  name: ザ・ゲーム１５　Vol２
+  updates: []

@@ -1,0 +1,20 @@
+title = "Shin Megami Tensei: Devil Survivor Overclocked"
+description = "Shin Megami Tensei: Devil Survivor Overclocked is a 3DS port of the NDS game Shin Megami Tensei: Devil Survivor, with some additional/improved content. This tactical RPG game is set in Tokyo as it is put in quarantine due to a demon invasion. It was published by Atlus in North America and Japan, and Ghostlight in Europe."
+github_issues = [3330]
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000038800"
+region = "usa"
+release_date = "2011-08-23"
+
+[[releases]]
+title = "000400000009C000"
+region = "eur"
+release_date = "2013-03-29"
+
+[[releases]]
+title = "000400000004D900"
+region = "jpn"
+release_date = "2011-09-01"

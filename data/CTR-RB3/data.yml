@@ -1,0 +1,7 @@
+platform: GameBoy
+releases:
+- regions:
+  - JP
+  id: 000400000008E500
+  name: ボンバーマンGB3
+  updates: []

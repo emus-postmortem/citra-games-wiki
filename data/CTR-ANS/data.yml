@@ -1,0 +1,17 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000051500
+  name: 'Need for Speed: The Run'
+  updates: []
+- regions:
+  - JP
+  id: 000400000006E200
+  name: ニード･フォー･スピード ザ･ラン
+  updates: []
+- regions:
+  - US
+  id: 0004000000051400
+  name: 'Need For Speed™: The Run'
+  updates: []

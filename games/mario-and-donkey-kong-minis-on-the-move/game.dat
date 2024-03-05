@@ -1,0 +1,21 @@
+title = "Mario and Donkey Kong: Minis on the Move"
+description = "Mario and Donkey Kong: Minis on the Move is a puzzle video game and is the fifth game in the Mario vs. Donkey Kong series published and edited by Nintendo."
+github_issues = [3182]
+needs_system_files = true
+needs_shared_font = true
+game_type = "eshop"
+
+[[releases]]
+title = "00040000000C9D00"
+region = "usa"
+release_date = "2013-05-09"
+
+[[testcases]]
+title = "00040000000C9D00"
+compatibility = "1"
+date = "2017-12-03"
+version = "HEAD-b2a9904"
+cpu = "AMD FX-6300"
+gpu = "Nvidia GeForce GTX 960"
+os = "Windows 7 6.1.7601"
+author = "greggameplayer"

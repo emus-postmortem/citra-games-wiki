@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000118100
+  name: 名探偵コナン ファントム狂詩曲
+  updates:
+  - id: 0004000E00118100
+    name: 更新データ Ver. 1.1 名探偵コナン ファントム狂詩曲

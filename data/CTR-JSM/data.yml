@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000078000
+  name: 'ARC STYLE: シンプル麻雀3D'
+  updates: []

@@ -1,0 +1,16 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000159000
+  name: Titan Attacks!
+  updates:
+  - id: 0004000E00159000
+    name: Titan Attacks! - Update
+- regions:
+  - US
+  id: 0004000000158600
+  name: Titan Attacks!
+  updates:
+  - id: 0004000E00158600
+    name: Titan Attacks! Update Ver. 1.1

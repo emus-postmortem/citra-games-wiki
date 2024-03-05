@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 0004000000099A00
+  name: MEGA MAN™ 2
+  updates: []
+- regions:
+  - JP
+  id: 0004000000099800
+  name: ロックマン2 Dr.ワイリーの謎
+  updates: []
+- regions:
+  - US
+  id: 0004000000099900
+  name: Mega Man™ 2
+  updates: []

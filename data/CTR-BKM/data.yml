@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000FA800
+  name: くまモン★ボンバー パズル de くまモン体操
+  updates: []

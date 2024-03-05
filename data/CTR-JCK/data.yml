@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000005DB00
+  name: 鹿狩王
+  updates: []
+- regions:
+  - US
+  id: 0004000000092600
+  name: Deer Hunting King
+  updates: []

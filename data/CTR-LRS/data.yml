@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D3800
+  name: Rainbow Snake
+  updates: []
+- regions:
+  - US
+  id: 00040000001D3F00
+  name: Rainbow Snake
+  updates: []

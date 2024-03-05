@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000010A700
+  name: 'The Mysterious Cities of Gold: Secret Paths'
+  updates: []

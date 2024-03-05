@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000D1100
+  name: ビーストサーガ 最強激突コロシアム!
+  updates: []

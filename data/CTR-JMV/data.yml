@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000008C900
+  name: Marvel Pinball 3D
+  updates: []
+- regions:
+  - US
+  id: 000400000008E300
+  name: Marvel Pinball 3D
+  updates: []

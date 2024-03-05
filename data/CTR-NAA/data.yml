@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000008F600
+  name: トモダチコレクション 新生活 Mii引越しソフト
+  updates: []

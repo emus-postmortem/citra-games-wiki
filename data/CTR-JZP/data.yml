@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000012E000
+  name: Zombie Panic in Wonderland DX
+  updates: []
+- regions:
+  - JP
+  id: 0004000000167A00
+  name: ゾンビ パニック イン ワンダーランド DX
+  updates: []
+- regions:
+  - US
+  id: 00040000000F5600
+  name: Zombie Panic in Wonderland DX
+  updates: []

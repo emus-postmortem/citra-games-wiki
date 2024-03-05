@@ -1,0 +1,40 @@
+title = "The Legend of Zelda: A Link Between Worlds"
+description = "The Legend of Zelda: A Link Between Worlds is an action-adventure game developed and published by Nintendo for the Nintendo 3DS handheld game console. It is the seventeenth installment in The Legend of Zelda series and a successor to the 1991 Super Nintendo Entertainment System title The Legend of Zelda: A Link to the Past."
+github_issues = [2731]
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "00040000000EC300"
+region = "usa"
+release_date = "2013-11-22"
+
+[[ releases ]]
+title = "00040000000EC400"
+region = "eur"
+release_date = "2013-11-22"
+
+[[ releases ]]
+title = "00040000000EC200"
+region = "jpn"
+release_date = "2013-12-26"
+
+[[ testcases ]]
+title = "00040000000EC300"
+compatibility = "1"
+date = "2017-06-03"
+version = "HEAD-e46ec64"
+author = "Leo121"
+cpu = "Intel i5 4670k"
+gpu = "Nvidia GTX 970"
+os = "Windows 10 10.0.15063"
+
+[[ testcases ]]
+title = "00040000000EC300"
+compatibility = "1"
+date = "2017-06-18"
+version = "HEAD-5fe5cca"
+author = "Anadian"
+cpu = "Intel Core i7-6500U"
+gpu = "Intel HD Graphics 520"
+os = "Windows 10 14393"

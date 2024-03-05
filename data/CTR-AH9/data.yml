@@ -1,0 +1,21 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000FCE00
+  name: Hakuoki
+  updates:
+  - id: 0004000E000FCE00
+    name: 'Hakuoki: Memories of the Shinsengumi Update'
+- regions:
+  - JP
+  id: 000400000005DD00
+  name: 薄桜鬼 3D
+  updates: []
+- regions:
+  - US
+  id: 00040000000DD900
+  name: 'Hakuoki: Memories of the Shinsengumi'
+  updates:
+  - id: 0004000E000DD900
+    name: 'Hakuoki: Memories of the Shinsengumi Update'

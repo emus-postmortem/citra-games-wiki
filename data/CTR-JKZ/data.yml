@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000056C00
+  name: うごくメモ帳 3D
+  updates: []

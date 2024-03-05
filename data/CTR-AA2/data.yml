@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000081200
+  name: ドラえもん のび太と奇跡の島 ～アニマル アドベンチャー～
+  updates: []

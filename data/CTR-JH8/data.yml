@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000F2E00
+  name: Happy Circus
+  updates: []
+- regions:
+  - US
+  id: 00040000000EBC00
+  name: Happy Circus
+  updates: []

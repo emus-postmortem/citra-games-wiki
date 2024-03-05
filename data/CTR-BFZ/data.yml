@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - KR
+  id: 0004000000188E00
+  name: 파이어 엠블렘 if
+  updates: []

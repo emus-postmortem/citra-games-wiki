@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001A8700
+  name: Plantera
+  updates: []
+- regions:
+  - JP
+  id: 00040000001B6100
+  name: プランテラ ガーデンライフ
+  updates: []
+- regions:
+  - US
+  id: 00040000001A8F00
+  name: Plantera
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 000400000009D000
+  name: Ben 10 Omniverse
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000071F00
+  name: クレヨンしんちゃん 宇宙DE アチョー!? 友情のおバカラテ!!
+  updates: []
+- regions:
+  - KR
+  id: 00040000000FD700
+  name: 짱구는 못말려 판타스틱-! 우주별 대모험!!
+  updates: []

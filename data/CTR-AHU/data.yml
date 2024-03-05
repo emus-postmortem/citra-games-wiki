@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000084B00
+  name: Cats and Dogs 3D Pets at play
+  updates: []
+- regions:
+  - US
+  id: 0004000000187200
+  name: MY PETS
+  updates: []

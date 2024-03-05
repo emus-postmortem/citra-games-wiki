@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001BBF00
+  name: SteamWorld Dig 2
+  updates: []
+- regions:
+  - US
+  id: 00040000001B2D00
+  name: SteamWorld Dig 2
+  updates: []

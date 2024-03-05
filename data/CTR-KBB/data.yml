@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000166C00
+  name: バトル オブ エレメンタル REBOOST
+  updates: []

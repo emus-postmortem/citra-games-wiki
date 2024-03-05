@@ -1,0 +1,7 @@
+platform: GameBoy
+releases:
+- regions:
+  - JP
+  id: 0004000000049900
+  name: ダウンタウンスペシャル くにおくんの時代劇だよ全員集合!
+  updates: []

@@ -1,0 +1,22 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000DED00
+  name: Mach Rider
+  updates: []
+- regions:
+  - JP
+  id: 00040000000DEB00
+  name: マッハライダー
+  updates: []
+- regions:
+  - KR
+  id: 0004000000195600
+  name: Mach Rider(마하 라이더)
+  updates: []
+- regions:
+  - US
+  id: 00040000000DEC00
+  name: Mach Rider™
+  updates: []

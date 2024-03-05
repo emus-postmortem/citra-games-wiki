@@ -1,0 +1,26 @@
+title = "Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?!!"
+description = "Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?!! is a 2D side-scrolling action-adventure video game developed by WayForward Technologies and published by Bandai Namco Games and D3 Publisher for the Nintendo 3DS and Nintendo DS. It is based on Pendleton Ward's animated television series Adventure Time."
+needs_system_files = false
+needs_shared_font = false
+game_type = "3ds"
+incomplete = true
+
+[[ releases ]]
+title = "000400000009F200"
+region = "usa"
+release_date = "2012-11-20"
+
+[[ releases ]]
+title = "0004000000112400"
+region = "eur"
+release_date = "2014-02-13"
+
+[[ testcases ]]
+title = "000400000009F200"
+compatibility = "0"
+date = "2017-07-04"
+version = "HEAD-22e7402"
+author = "DrewThatGamer"
+cpu = "Intel Core i5 6400"
+gpu = "NVIDIA GeForce GTX 1050"
+os = "Windows 10"

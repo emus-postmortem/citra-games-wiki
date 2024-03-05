@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 00040000000A7300
+  name: 'Bratz®: Fashion Boutique'
+  updates: []

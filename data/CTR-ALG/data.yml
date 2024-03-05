@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000038C00
+  name: 'LEGO® Star Wars® III: The Clone Wars™ '
+  updates: []
+- regions:
+  - US
+  id: 0004000000035400
+  name: 'LEGO® Star Wars® III: The Clone Wars™'
+  updates: []

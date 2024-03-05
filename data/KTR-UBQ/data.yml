@@ -1,0 +1,7 @@
+platform: SuperNES
+releases:
+- regions:
+  - JP
+  id: 000400000F707A00
+  name: がんばれゴエモン3 獅子重禄兵衛のからくり卍固め
+  updates: []

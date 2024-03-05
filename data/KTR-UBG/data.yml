@@ -1,0 +1,12 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  id: 000400000F706600
+  name: Mario’s Super Picross™
+  updates: []
+- regions:
+  - JP
+  id: 000400000F706500
+  name: マリオのスーパーピクロス
+  updates: []

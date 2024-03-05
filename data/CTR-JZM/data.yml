@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000DB900
+  name: 奪還指令魔女ダンジョン ～主の為ならやらねばなるまい～
+  updates: []

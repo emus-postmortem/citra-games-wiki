@@ -1,0 +1,27 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000007C800
+  name: MARIO TENNIS™ OPEN
+  updates: []
+- regions:
+  - JP
+  id: 0004000000064D00
+  name: マリオテニス オープン
+  updates: []
+- regions:
+  - KR
+  id: 00040000000B8800
+  name: 마리오 테니스 오픈
+  updates: []
+- regions:
+  - TW
+  id: 00040000000B9100
+  name: 瑪利歐網球 公開賽
+  updates: []
+- regions:
+  - US
+  id: 000400000007C700
+  name: Mario Tennis™ Open
+  updates: []

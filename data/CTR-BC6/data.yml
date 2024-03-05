@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000F4F00
+  name: 喧嘩番長6～ソウル&ブラッド～
+  updates:
+  - id: 0004000E000F4F00
+    name: 更新データ Ver. 1.1 喧嘩番長6～ソウル&ブラッド～

@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000B4800
+  name: Girls' Fashion Shoot
+  updates: []
+- regions:
+  - JP
+  id: 0004000000065700
+  name: nicola監修 モデル☆おしゃれオーディション 2
+  updates: []
+- regions:
+  - KR
+  id: 0004000000091F00
+  name: 전국민 모델★오디션 슈퍼스타 2
+  updates: []
+- regions:
+  - US
+  id: 00040000000B6300
+  name: Girls' Fashion Shoot
+  updates: []

@@ -1,0 +1,9 @@
+title = "Aikatsu! 365 Idol Days"
+description = "Aikatsu! 365 Idol Days is the third Aikatsu! game. It was developed by h.a.n.d. and published by Bandai Namco Games. The theme of the game is \"Real Idol Adventure.\" The game also includes characters from the season of the show that started airing earlier that Fall."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "000400000014E000"
+region = "jpn"
+release_date = "2014-12-04"

@@ -1,0 +1,17 @@
+platform: GameGear
+releases:
+- regions:
+  - EU
+  id: 000400000009B800
+  name: Dr. Robotnik's Mean Bean Machine™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000098300
+  name: ぷよぷよ
+  updates: []
+- regions:
+  - US
+  id: 000400000009C300
+  name: Dr. Robotnik's Mean Bean Machine
+  updates: []

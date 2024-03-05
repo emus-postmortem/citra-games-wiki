@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000111A00
+  name: Kung Fu Rabbit
+  updates: []
+- regions:
+  - JP
+  id: 0004000000152E00
+  name: カンフーラビット
+  updates: []
+- regions:
+  - US
+  id: 000400000010F700
+  name: Kung Fu Rabbit
+  updates: []

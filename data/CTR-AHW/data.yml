@@ -1,0 +1,19 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001BF700
+  name: I am an air traffic controller  AIRPORT HERO HAWAII
+  updates: []
+- regions:
+  - JP
+  id: 00040000000AC800
+  name: ぼくは航空管制官 エアポートヒーロー3D ホノルル
+  updates: []
+- regions:
+  - US
+  id: 00040000000FC100
+  name: I am an Air Traffic Controller Airport Hero Hawaii
+  updates:
+  - id: 0004000E000FC100
+    name: I am an Air Traffic Controller Airport Hero Hawaii Update Ver. 1.1

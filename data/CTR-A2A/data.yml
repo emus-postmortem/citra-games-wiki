@@ -1,0 +1,13 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  - JP
+  - KR
+  - TW
+  - US
+  id: 00040000001B5000
+  name: Pokémon Ultra Sun
+  updates:
+  - id: 0004000E001B5000
+    name: Pokémon™ Ultra Sun Update Ver. 1.2

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000009EC00
+  name: 逃走中 史上最強の ハンターたちからにげきれ!
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000014A400
+  name: マリオ＆ソニック  AT リオオリンピック™
+  updates: []
+- regions:
+  - KR
+  id: 0004000000191D00
+  name: 마리오와 소닉 리우 올림픽™
+  updates: []
+- regions:
+  - TW
+  id: 0004000000191C00
+  name: マリオ&ソニック AT リオオリンピック™ (日文版)
+  updates: []

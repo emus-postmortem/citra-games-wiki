@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000016BE00
+  name: ベイマックス 3D
+  updates: []

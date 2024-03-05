@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001DCF00
+  name: Bricks Pinball 2
+  updates: []

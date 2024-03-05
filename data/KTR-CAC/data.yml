@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70C300
+  name: SWIPE
+  updates: []
+- regions:
+  - US
+  id: 000400000F70C200
+  name: SWIPE
+  updates: []

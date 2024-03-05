@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000E9300
+  name: '@SIMPLE DLシリーズ Vol.14 THE 脱出ゲーム ～裏切りの密室～'
+  updates: []

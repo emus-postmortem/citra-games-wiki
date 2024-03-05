@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000B5B00
+  name: Life Force
+  updates: []
+- regions:
+  - JP
+  id: 00040000000B5900
+  name: 沙羅曼蛇
+  updates: []
+- regions:
+  - US
+  id: 00040000000B5A00
+  name: Life Force
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001B3400
+  name: Quiet, Please!
+  updates: []
+- regions:
+  - US
+  id: 00040000001B3500
+  name: Quiet, Please!
+  updates: []

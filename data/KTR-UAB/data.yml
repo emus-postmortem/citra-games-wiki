@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F701000
+  name: 'The Legend of Zelda™: A Link to the Past™'
+  updates: []
+- regions:
+  - JP
+  id: 000400000F700F00
+  name: ゼルダの伝説 神々のトライフォース
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000144100
+  name: 謎解きバトルTORE! 伝説の魔宮を復活させよ!
+  updates: []

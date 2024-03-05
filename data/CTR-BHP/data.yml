@@ -1,0 +1,9 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000D8E00
+  name: ほっぺちゃん つくって!あそんで! ぷにぷにタウン!!
+  updates:
+  - id: 0004000E000D8E00
+    name: 更新データ Ver. 1.2 ほっぺちゃん つくって!あそんで!ぷにぷにタウン!

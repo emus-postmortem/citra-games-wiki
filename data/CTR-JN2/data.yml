@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000197B00
+  name: Smash Cat Heroes
+  updates: []
+- regions:
+  - JP
+  id: 000400000009EE00
+  name: 一騎当千!スマッシュヒーローズ
+  updates: []
+- regions:
+  - US
+  id: 0004000000128500
+  name: Smash Cat Heroes
+  updates: []

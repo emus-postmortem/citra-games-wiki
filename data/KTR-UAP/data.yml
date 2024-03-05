@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F702A00
+  name: Super Ghouls'n Ghosts™
+  updates: []
+- regions:
+  - JP
+  id: 000400000F702900
+  name: 超魔界村
+  updates: []

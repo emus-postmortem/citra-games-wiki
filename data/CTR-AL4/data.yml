@@ -1,0 +1,19 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001CF500
+  name: The Alliance Alive
+  updates: []
+- regions:
+  - JP
+  id: 00040000001B4500
+  name: アライアンス・アライブ
+  updates:
+  - id: 0004000E001B4500
+    name: 更新データ Ver. 1.1 アライアンス・アライブ
+- regions:
+  - US
+  id: 00040000001CCD00
+  name: The Alliance Alive
+  updates: []

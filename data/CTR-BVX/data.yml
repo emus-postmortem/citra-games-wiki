@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000105100
+  name: VitaminX Evolution Plus
+  updates:
+  - id: 0004000E00105100
+    name: 更新データ Ver. 1.1 VitaminX Evolution Plus

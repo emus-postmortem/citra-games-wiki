@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000BC100
+  name: LIBERATION MAIDEN™
+  updates: []
+- regions:
+  - JP
+  id: 00040000000C8500
+  name: 解放少女
+  updates: []
+- regions:
+  - US
+  id: 00040000000BBE00
+  name: LIBERATION MAIDEN
+  updates: []

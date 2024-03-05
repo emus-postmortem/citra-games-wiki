@@ -1,0 +1,24 @@
+title = "Shin Megami Tensei IV"
+description = "Shin Megami Tensei IV is a Japanese post-apocalyptic role-playing video game developed by Atlus for the Nintendo 3DS. It is the fifth entry in the Shin Megami Tensei series, the central series of the Megami Tensei franchise, though no direct story connection exists to previous entries."
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "00040000000E5C00"
+region = "usa"
+release_date = "2013-07-16"
+
+[[releases]]
+title = "0004000000141C00"
+region = "eur"
+release_date = "2014-10-30"
+
+[[releases]]
+title = "00040000000D6D00"
+region = "twn"
+release_date = "2013-05-23"
+
+[[releases]]
+title = "0004000000088A00"
+region = "jpn"
+release_date = "2013-05-23"

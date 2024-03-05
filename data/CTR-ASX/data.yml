@@ -1,0 +1,14 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000065000
+  name: Secret Mysteries in London
+  updates:
+  - id: 0004000E00065000
+    name: Secret Mysteries in London - Update
+- regions:
+  - US
+  id: 00040000000F4A00
+  name: Secret Mysteries in New York
+  updates: []

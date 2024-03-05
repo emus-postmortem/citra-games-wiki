@@ -1,0 +1,21 @@
+title = "Digimon World Re: Digitize Decode"
+description = "The player follows and controls 'Taiga', a 16-year-old male protagonist who is transported to the digital world of Digimon, which in his universe is merely an online game; similar in concept to Digimon World."
+incomplete = true
+github_issues = [2554]
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "00040000000AFC00"
+region = "jpn"
+release_date = "2013-06-27"
+
+[[ testcases ]]
+compatibility = "3"
+date = "2017-06-19"
+title = "00040000000AFC00"
+version = "HEAD-d0888f8"
+author = "Kloen"
+cpu = "Intel Core i5-760"
+gpu = "AMD Radeon HD 5670"
+os = "Windows 10 Education 1511"

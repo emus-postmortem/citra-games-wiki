@@ -1,0 +1,16 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000B1700
+  name: Phonics Fun with Biff, Chip & Kipper vol. 1
+  updates:
+  - id: 0004000E000B1700
+    name: 'Phonics Fun with Biff, Chip & Kipper vol. 1: Update'
+- regions:
+  - JP
+  id: 00040000000D4300
+  name: キッパーのえいご教室 Floppy's Phonics vol.1 キッパー編
+  updates:
+  - id: 0004000E000D4300
+    name: 更新データ Ver. 1.1 キッパーのえいご教室 Floppy's Phonics 1 キッパー編

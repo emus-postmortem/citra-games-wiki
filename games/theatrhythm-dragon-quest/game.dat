@@ -1,0 +1,9 @@
+title = "Theatrhythm Dragon Quest"
+description = "Theatrhythm Dragon Quest (シアトリズムドラゴンクエスト Shiatorizumu Doragon Kuesuto) is a 2015 rhythm game developed by indieszero and published by Square Enix. It was released on March 26, 2015, as the first music video game of the Dragon Quest series. It is the third Theatrhythm game after Theatrhythm Final Fantasy and Theatrhythm Final Fantasy: Curtain Call."
+needs_system_files = false
+needs_shared_font = true
+
+[[releases]]
+title = "0004000000140000"
+region = "jpn"
+release_date = "2015-03-26"

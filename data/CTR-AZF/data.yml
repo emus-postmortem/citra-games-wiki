@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000E7D00
+  name: Animal Hospital
+  updates: []
+- regions:
+  - US
+  id: 0004000000186F00
+  name: PET HOSPITAL
+  updates: []

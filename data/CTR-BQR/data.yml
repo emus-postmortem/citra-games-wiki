@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000015EA00
+  name: トライブクルクル THE G@ME
+  updates: []

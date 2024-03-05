@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000033C00
+  name: Super Street Fighter IV 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000030500
+  name: スーパーストリートファイターIV 3D EDITION
+  updates: []
+- regions:
+  - US
+  id: 0004000000032D00
+  name: SUPER STREET FIGHTER® IV 3D EDITION
+  updates: []

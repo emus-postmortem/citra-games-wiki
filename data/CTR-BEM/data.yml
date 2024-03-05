@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001DAA00
+  name: Pinball Breaker 4
+  updates: []
+- regions:
+  - US
+  id: 00040000001DB300
+  name: Pinball Breaker 4
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001BE200
+  name: Kung Fu FIGHT!
+  updates: []
+- regions:
+  - US
+  id: 00040000001BDC00
+  name: Kung Fu FIGHT!
+  updates: []

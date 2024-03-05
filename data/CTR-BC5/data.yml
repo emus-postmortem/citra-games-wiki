@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000155B00
+  name: 'Cooking Mama: Bon Appétit'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000FA500
+  name: クッキングママ5
+  updates: []
+- regions:
+  - KR
+  id: 0004000000155D00
+  name: 쿠킹마마 마마를 도와줄래?
+  updates: []
+- regions:
+  - US
+  id: 000400000012D600
+  name: 'Cooking Mama 5: Bon Appétit!'
+  updates: []

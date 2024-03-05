@@ -1,0 +1,10 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  - JP
+  - TW
+  - US
+  id: 000400000013BB00
+  name: 'Dr. Mario™:  Miracle Cure™'
+  updates: []

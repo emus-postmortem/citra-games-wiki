@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F700E00
+  name: Super Mario World™
+  updates: []
+- regions:
+  - JP
+  id: 000400000F700D00
+  name: スーパーマリオワールド
+  updates: []

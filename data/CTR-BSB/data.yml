@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000127C00
+  name: ワールドサッカーウイニング イレブン2014 蒼き侍の挑戦
+  updates: []

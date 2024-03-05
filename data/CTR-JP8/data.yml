@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000117700
+  name: 101 Penguin Pets 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000127700
+  name: ペンギンペット3D
+  updates: []
+- regions:
+  - US
+  id: 00040000000EBE00
+  name: 101 Penguin Pets 3D
+  updates: []

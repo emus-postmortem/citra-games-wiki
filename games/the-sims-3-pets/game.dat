@@ -1,0 +1,19 @@
+title = "The Sims 3 Pets"
+description = "The Sims 3 Pets is a life simulation game developed by EA Salt Lake and published by Electronic Arts. It is an expansion and standalone game to The Sims 3. The game brings cats and dogs into the world and adds various new household items to decorate with. However, the console version only adds cats and dogs while the PC version includes horses."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "000400000005A300"
+region = "usa"
+release_date = "2011-10-18"
+
+[[releases]]
+title = "000400000005A900"
+region = "eur"
+release_date = "2011-10-21"
+
+[[releases]]
+title = "000400000006AB00"
+region = "jpn"
+release_date = "2011-11-17"

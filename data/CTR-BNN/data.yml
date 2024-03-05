@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000018B400
+  name: ドラえもん 新・のび太の日本誕生
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000B4900
+  name: Johnny Hotshot™
+  updates: []
+- regions:
+  - US
+  id: 00040000000B7A00
+  name: Johnny Hotshot™
+  updates: []

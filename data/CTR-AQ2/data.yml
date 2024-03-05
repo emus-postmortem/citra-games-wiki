@@ -1,0 +1,19 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001D7600
+  name: 'Persona Q2: New Cinema Labyrinth'
+  updates: []
+- regions:
+  - JP
+  id: 00040000001CBE00
+  name: ペルソナQ2 ニュー シネマ ラビリンス
+  updates:
+  - id: 0004000E001CBE00
+    name: 更新データ Ver.1.2 ペルソナQ2 ニュー シネマ ラビリンス
+- regions:
+  - US
+  id: 00040000001D7100
+  name: 'Persona Q2:   New Cinema Labyrinth'
+  updates: []

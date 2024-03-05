@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000019EB00
+  name: dreeps： アラームプレイングゲーム
+  updates: []

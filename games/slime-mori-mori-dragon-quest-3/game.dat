@@ -1,0 +1,19 @@
+title = "Slime Mori Mori Dragon Quest 3"
+description = "Spinoff game of the Dragon Quest series, where you control a slime that must sail the sea and reclaim the stolen rainbow orbs. Contains a 'zelda' like adventuring section as well as a ship battle system."
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "000400000005C300"
+region = "jpn"
+release_date = "2011-11-02"
+
+[[testcases]]
+title = "000400000005C300"
+compatibility = "1"
+date = "2017-11-08"
+version = "HEAD-908dbf4"
+cpu = "AMD Ryzen 5 1600"
+gpu = "AMD Radeon R9 Fury"
+os = "Windows 8.1 9600"
+author = "CakeLancelot"

@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000D8C00
+  name: '@SIMPLE DLシリーズ Vol.10  THE浮気彼氏Xmas中止のお知らせ'
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000BA300
+  name: Nano Assault EX
+  updates: []
+- regions:
+  - US
+  id: 00040000000B9E00
+  name: Nano Assault EX
+  updates: []

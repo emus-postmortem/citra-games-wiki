@@ -1,0 +1,9 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 000400000014FC00
+  name: 'PROJECT X ZONE 2: BRAVE NEW WORLD OGSG'
+  updates:
+  - id: 0004000E0014FC00
+    name: 更新データ Ver. 1.2 PROJECT X ZONE 2 オリジナルゲームサウンドエディション

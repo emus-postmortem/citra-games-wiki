@@ -1,0 +1,17 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 00040000000EFC00
+  name: Mega Man™ 5
+  updates: []
+- regions:
+  - JP
+  id: 00040000000EFA00
+  name: ロックマンワールド5
+  updates: []
+- regions:
+  - US
+  id: 00040000000EFB00
+  name: Mega Man™ V
+  updates: []

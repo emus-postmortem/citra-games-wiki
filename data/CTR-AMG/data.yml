@@ -1,0 +1,21 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000082400
+  name: 'Metal Gear Solid: Snake Eater 3D'
+  updates: []
+- regions:
+  - JP
+  id: 000400000007A000
+  name: METAL GEAR SOLID SNAKE EATER 3D
+  updates:
+  - id: 0004000E0007A000
+    name: 更新データ Ver. 1.1 METAL GEAR SOLID SNAKE EATER 3D
+- regions:
+  - US
+  id: 0004000000081E00
+  name: METAL GEAR SOLID SNAKE EATER 3D
+  updates:
+  - id: 0004000E00081E00
+    name: METAL GEAR SOLID SNAKE EATER 3D Update Ver. 1.1

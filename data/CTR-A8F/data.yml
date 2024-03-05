@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001B7500
+  name: Farming Simulator 18
+  updates: []
+- regions:
+  - JP
+  id: 00040000001BDE00
+  name: ファーミングシミュレーター18 ポケット農園4
+  updates: []
+- regions:
+  - US
+  id: 00040000001B7900
+  name: Farming Simulator 18
+  updates: []

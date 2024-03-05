@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000A8C00
+  name: 哭牙 KOKUGA
+  updates: []
+- regions:
+  - KR
+  id: 00040000000C4100
+  name: KOKUGA
+  updates: []
+- regions:
+  - US
+  id: 00040000000EAD00
+  name: Kokuga
+  updates: []

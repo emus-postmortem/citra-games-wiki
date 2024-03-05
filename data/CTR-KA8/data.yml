@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001DA500
+  name: Turkey, Please!
+  updates: []
+- regions:
+  - US
+  id: 00040000001DA400
+  name: Turkey, Please!
+  updates: []

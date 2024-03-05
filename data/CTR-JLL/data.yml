@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000BC600
+  name: Hana Samurai Art of the Sword™
+  updates: []
+- regions:
+  - JP
+  id: 000400000005AC00
+  name: ひらり 桜侍
+  updates: []
+- regions:
+  - US
+  id: 000400000007CD00
+  name: 'Sakura Samurai: Art of the Sword™'
+  updates: []

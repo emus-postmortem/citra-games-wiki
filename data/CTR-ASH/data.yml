@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000034100
+  name: 上海3Dキューブ
+  updates: []
+- regions:
+  - US
+  id: 000400000004EB00
+  name: MAHJONG CUB3D™
+  updates: []

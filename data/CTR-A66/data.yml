@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000031E00
+  name: 戦国無双 Chronicle
+  updates: []
+- regions:
+  - US
+  id: 0004000000034D00
+  name: 'SAMURAI WARRIORS®: Chronicles'
+  updates: []

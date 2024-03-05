@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000B6B00
+  name: '@SIMPLE DLシリーズ Vol.6 THE密室からの脱出クマドナルボウル編'
+  updates: []

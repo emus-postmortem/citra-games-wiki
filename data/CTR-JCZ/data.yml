@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000BC300
+  name: 'CRIMSON SHROUD™ '
+  updates: []
+- regions:
+  - JP
+  id: 00040000000C2600
+  name: CRIMSON SHROUD クリムゾン シュラウド
+  updates: []
+- regions:
+  - US
+  id: 00040000000BBF00
+  name: CRIMSON SHROUD
+  updates: []

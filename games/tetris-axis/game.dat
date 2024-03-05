@@ -1,0 +1,30 @@
+title = "Tetris Axis"
+description = "Tetris Axis, released as simply Tetris in some regions, is a puzzle video game for the Nintendo 3DS developed by Hudson Soft and Bandai and was published by Nintendo."
+needs_system_files = true
+needs_shared_font = false
+incomplete = true
+
+[[ releases ]]
+title = "0004000000043800"
+region = "usa"
+release_date = "2011-10-02"
+
+[[ releases ]]
+title = "000400000004C100"
+region = "eur"
+release_date = "2011-10-21"
+
+[[ releases ]]
+title = "0004000000039E00"
+region = "jpn"
+release_date = "2011-10-20"
+
+[[ testcases ]]
+title = "0004000000043800"
+compatibility = "0"
+date = "2017-07-04"
+version = "HEAD-22e7402"
+author = "DrewThatGamer"
+cpu = "Intel Core i5 6400"
+gpu = "NVIDIA GeForce GTX 1050"
+os = "Windows 10"

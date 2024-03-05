@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000193600
+  name: Justice Chronicles
+  updates: []
+- regions:
+  - JP
+  id: 0004000000180B00
+  name: 聖戦クロニクル
+  updates: []
+- regions:
+  - US
+  id: 0004000000188200
+  name: Justice Chronicles
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - US
+  id: 0004000000038600
+  name: Scribblenauts™ Unlimited
+  updates: []

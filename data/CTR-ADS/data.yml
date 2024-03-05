@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000DC900
+  name: ちび☆デビ!2 ～魔法のゆめえほん～
+  updates: []

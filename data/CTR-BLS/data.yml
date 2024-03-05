@@ -1,0 +1,26 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000014DD00
+  name: 'LEGO® Ninjago™: Shadow of Ronin'
+  updates:
+  - id: 0004000E0014DD00
+    name: 'LEGO® Ninjago™: Shadow of Ronin - Update'
+- regions:
+  - JP
+  id: 0004000000170600
+  name: LEGO®ニンジャゴー ローニンの影
+  updates: []
+- regions:
+  - KR
+  id: 000400000017FC00
+  name: 'LEGO® Ninjago™: 섀도 오브 로닌'
+  updates: []
+- regions:
+  - US
+  id: 000400000014EB00
+  name: 'LEGO® Ninjago™: Shadow of Ronin™'
+  updates:
+  - id: 0004000E0014EB00
+    name: 'LEGO® Ninjago™: Shadow of Ronin™ Update Ver. 2.0'

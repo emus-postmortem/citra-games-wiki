@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001C1400
+  name: 社会福祉士試験 平成29年度版
+  updates:
+  - id: 0004000E001C1400
+    name: 更新データ Ver. 1.1 社会福祉士試験平成29年度版

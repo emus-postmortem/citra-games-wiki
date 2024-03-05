@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000B7400
+  name: Rage of the Gladiator
+  updates: []
+- regions:
+  - US
+  id: 00040000000AAC00
+  name: Rage of the Gladiator
+  updates: []

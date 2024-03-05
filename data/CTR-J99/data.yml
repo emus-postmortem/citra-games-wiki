@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001CE800
+  name: Machine Knight
+  updates: []
+- regions:
+  - JP
+  id: 00040000001CC200
+  name: マシンナイト
+  updates: []
+- regions:
+  - US
+  id: 00040000001CF800
+  name: Machine Knight
+  updates: []

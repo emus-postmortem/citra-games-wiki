@@ -1,0 +1,7 @@
+platform: SuperNES
+releases:
+- regions:
+  - JP
+  id: 000400000F703D00
+  name: ファイアーエムブレム 紋章の謎
+  updates: []

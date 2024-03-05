@@ -1,0 +1,7 @@
+platform: GameBoy
+releases:
+- regions:
+  - JP
+  id: 0004000000049A00
+  name: 熱血高校ドッジボール部 ～強敵!闘球戦士の巻～
+  updates: []

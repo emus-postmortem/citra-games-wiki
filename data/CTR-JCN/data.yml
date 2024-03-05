@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000188600
+  name: Chronus Arc
+  updates: []
+- regions:
+  - JP
+  id: 000400000016BB00
+  name: クロノスアーク
+  updates: []
+- regions:
+  - US
+  id: 0004000000179000
+  name: Chronus Arc
+  updates: []

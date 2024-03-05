@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000009E700
+  name: Crash City Mayhem
+  updates: []
+- regions:
+  - US
+  id: 000400000004CD00
+  name: Crash City Mayhem
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001A7900
+  name: デジコロ ケシカスくん Vol.008 ショッピングモールでやりたい放題
+  updates: []

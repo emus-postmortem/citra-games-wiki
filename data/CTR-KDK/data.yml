@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000014F700
+  name: Demon King Box
+  updates: []
+- regions:
+  - US
+  id: 0004000000134900
+  name: Demon King Box
+  updates: []

@@ -1,0 +1,20 @@
+title = "Pokémon Battle Trozei"
+description = "Pokémon Battle Trozei, released as \"Pokémon Link: Battle!\" in Europe and Australia, is a Pokémon-themed puzzle video game and is the sequel to the 2005 Nintendo DS title Pokémon Trozei!. The game includes all 718 Pokémon that were known at the time."
+needs_system_files = true
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "000400000011C600"
+region = "usa"
+release_date = "2014-03-20"
+
+[[releases]]
+title = "0004000000126000"
+region = "eur"
+release_date = "2014-03-13"
+
+[[releases]]
+title = "000400000011C600"
+region = "jpn"
+release_date = "2014-03-12"

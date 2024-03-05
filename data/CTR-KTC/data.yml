@@ -1,0 +1,19 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001BF200
+  name: Anime Workshop
+  updates: []
+- regions:
+  - JP
+  id: 000400000016BA00
+  name: 動かそう！ ちびキャラ工房
+  updates:
+  - id: 0004000E0016BA00
+    name: 更新データ Ver. 1.1 動かそう！ ちびキャラ工房
+- regions:
+  - US
+  id: 00040000001BEF00
+  name: Anime Workshop
+  updates: []

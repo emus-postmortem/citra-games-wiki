@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000013D500
+  name: I Love My Horse
+  updates: []
+- regions:
+  - US
+  id: 0004000000141600
+  name: I Love My Horse
+  updates: []

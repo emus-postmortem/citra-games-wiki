@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000118200
+  name: エルミナージュ異聞 アメノミハシラ･怪
+  updates: []
+- regions:
+  - KR
+  id: 0004000000193800
+  name: 에르미나쥬 이문록 환세요마전 아메노미하시라
+  updates: []

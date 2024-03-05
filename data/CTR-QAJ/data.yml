@@ -1,0 +1,22 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 000400000007D900
+  name: Wario Land II
+  updates: []
+- regions:
+  - JP
+  id: 000400000007D700
+  name: ワリオランド2 盗まれた財宝
+  updates: []
+- regions:
+  - KR
+  id: 0004000000181900
+  name: Wario Land 2
+  updates: []
+- regions:
+  - US
+  id: 000400000007D800
+  name: Wario Land™ II
+  updates: []

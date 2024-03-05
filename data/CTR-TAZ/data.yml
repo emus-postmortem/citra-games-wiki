@@ -1,0 +1,7 @@
+platform: NES
+releases:
+- regions:
+  - JP
+  id: 0004000000098E00
+  name: サラダの国のトマト姫
+  updates: []

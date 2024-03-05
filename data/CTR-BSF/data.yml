@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 00040000000E6500
+  name: Skylanders SWAP Force™
+  updates: []

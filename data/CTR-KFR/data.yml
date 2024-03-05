@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000148B00
+  name: Fairune
+  updates: []
+- regions:
+  - JP
+  id: 000400000013FC00
+  name: フェアルーン
+  updates: []
+- regions:
+  - TW
+  id: 000400000015D100
+  name: Fairune(繁體中文版)
+  updates: []
+- regions:
+  - US
+  id: 0004000000158700
+  name: Fairune
+  updates: []

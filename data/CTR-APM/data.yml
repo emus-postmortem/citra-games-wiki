@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000C1900
+  name: おさわり探偵 なめこ大繁殖
+  updates: []

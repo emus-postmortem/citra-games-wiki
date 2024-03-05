@@ -1,0 +1,16 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000012BE00
+  name: 'Harvest Moon®: The Lost Valley'
+  updates:
+  - id: 0004000E0012BE00
+    name: 'Harvest Moon®: The Lost Valley: Update'
+- regions:
+  - US
+  id: 000400000010F600
+  name: 'Harvest Moon®: The Lost Valley'
+  updates:
+  - id: 0004000E0010F600
+    name: 'Harvest Moon®: The Lost Valley Update Ver. 1.01'

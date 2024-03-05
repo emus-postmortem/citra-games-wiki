@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000EAF00
+  name: 'THE "DENPA" MEN 2: Beyond the Waves'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000A7900
+  name: 電波人間のRPG2
+  updates: []
+- regions:
+  - US
+  id: 00040000000C3300
+  name: 'THE "DENPA" MEN 2: Beyond the Waves'
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000055100
+  name: 3D Classics Xevious™
+  updates: []
+- regions:
+  - JP
+  id: 000400000004D500
+  name: 3Dクラシックス ゼビウス
+  updates: []
+- regions:
+  - US
+  id: 0004000000054700
+  name: '3D Classics: Xevious™'
+  updates: []

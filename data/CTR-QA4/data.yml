@@ -1,0 +1,12 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 00040000000F0300
+  name: Xtreme Sports
+  updates: []
+- regions:
+  - US
+  id: 00040000000F0200
+  name: Xtreme Sports
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001C7E00
+  name: Parascientific Escape Crossing at the Farthest Horizon
+  updates: []
+- regions:
+  - JP
+  id: 00040000001AEF00
+  name: 超科学脱出 最果てのクロスアイズ
+  updates: []
+- regions:
+  - US
+  id: 00040000001C7D00
+  name: Parascientific Escape - Crossing at the Farthest Horizon
+  updates: []

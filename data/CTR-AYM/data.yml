@@ -1,0 +1,28 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000D9000
+  name: 'Mario & Luigi™: Dream Team Bros.'
+  updates:
+  - id: 0004000E000D9000
+    name: 'Mario & Luigi™: Dream Team Bros. Update'
+- regions:
+  - JP
+  id: 0004000000060600
+  name: マリオ&ルイージRPG4 ドリームアドベンチャー
+  updates:
+  - id: 0004000E00060600
+    name: 更新データ Ver. 1.1 マリオ&ルイージ RPG4 ドリームアドベンチャー
+- regions:
+  - KR
+  id: 00040000000FCD00
+  name: 마리오&루이지 RPG 4 드림 어드벤처
+  updates: []
+- regions:
+  - US
+  id: 00040000000D5A00
+  name: 'Mario & Luigi™: Dream Team'
+  updates:
+  - id: 0004000E000D5A00
+    name: 'Mario & Luigi™: Dream Team Update'

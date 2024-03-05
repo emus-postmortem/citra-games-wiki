@@ -1,0 +1,22 @@
+title = "Tetris"
+description = "Tetris is a puzzle video game for the Game Boy released in 1989.  A Nintendo 3DS Virtual Console version of Tetris was released in December 2011 and lacks the multiplayer functionality. It was delisted from the Nintendo eShop after December 31, 2014."
+github_issues = [2552]
+needs_system_files = false
+needs_shared_font = true
+game_type = "vc"
+vc_system = "gb"
+
+[[ releases ]]
+title = "000400000007E700"
+region = "usa"
+release_date = "2011-12-22"
+
+[[ testcases ]]
+title = "000400000007E700"
+compatibility = "1"
+date = "2017-06-04"
+version = "HEAD-8f0a23b"
+author = "Flamboyant_Ham"
+cpu = "Intel Core i7-4720HQ"
+gpu = "GeForce GTX 960M"
+os = "Windows 10 14393"

@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000197F00
+  name: アイカツスターズ！ ファーストアピール
+  updates:
+  - id: 0004000E00197F00
+    name: 更新データ Ver. 1.2.0  アイカツスターズ！ ファーストアピール

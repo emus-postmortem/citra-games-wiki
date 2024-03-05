@@ -1,0 +1,22 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 0004000000059000
+  name: 'The Legend of Zelda™: Oracle of Ages'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000058E00
+  name: ゼルダの伝説 ふしぎの木の実 時空の章
+  updates: []
+- regions:
+  - KR
+  id: 0004000000191800
+  name: 'The Legend of Zelda:  Oracle of Ages'
+  updates: []
+- regions:
+  - US
+  id: 0004000000058F00
+  name: 'The Legend of Zelda™: Oracle of Ages™'
+  updates: []

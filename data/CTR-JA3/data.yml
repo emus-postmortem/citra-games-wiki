@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000CD900
+  name: 'ARC STYLE: Football 3D'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000052D00
+  name: 'ARC STYLE: さっかー!!3D'
+  updates: []
+- regions:
+  - US
+  id: 0004000000086A00
+  name: 'ARC STYLE: Soccer 3D'
+  updates: []

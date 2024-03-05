@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000F3900
+  name: グレコからの挑戦状! 漢字の館とオバケたち 小学2年生
+  updates: []

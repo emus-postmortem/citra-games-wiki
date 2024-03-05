@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000011B900
+  name: Talking Phrasebook - 7 Languages
+  updates: []
+- regions:
+  - US
+  id: 00040000000FE200
+  name: Talking Phrasebook - 7 Languages
+  updates: []

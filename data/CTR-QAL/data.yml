@@ -1,0 +1,17 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 0004000000083700
+  name: Rayman®
+  updates: []
+- regions:
+  - JP
+  id: 0004000000083500
+  name: レイマン ミスター･ダークの罠
+  updates: []
+- regions:
+  - US
+  id: 0004000000083600
+  name: Rayman®
+  updates: []

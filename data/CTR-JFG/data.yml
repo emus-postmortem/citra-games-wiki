@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000017F600
+  name: Family Fishing
+  updates: []
+- regions:
+  - JP
+  id: 0004000000114A00
+  name: おきらくフィッシング3D
+  updates: []
+- regions:
+  - KR
+  id: 000400000017DA00
+  name: 패밀리 루어피싱 3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000178F00
+  name: Family Fishing
+  updates: []

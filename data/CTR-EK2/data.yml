@@ -1,0 +1,13 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  - JP
+  - KR
+  - TW
+  - US
+  id: 0004000000055E00
+  name: Pokémon™ Y
+  updates:
+  - id: 0004000E00055E00
+    name: Pokémon Y Update Ver. 1.5

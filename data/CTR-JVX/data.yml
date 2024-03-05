@@ -1,0 +1,27 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000147F00
+  name: Kirby Fighters™ Deluxe
+  updates: []
+- regions:
+  - JP
+  id: 000400000012EF00
+  name: カービィファイターズZ
+  updates: []
+- regions:
+  - KR
+  id: 0004000000148000
+  name: 커비 파이터즈! Z
+  updates: []
+- regions:
+  - TW
+  id: 0004000000148100
+  name: Kirby Fighters Deluxe™(英文版)
+  updates: []
+- regions:
+  - US
+  id: 0004000000147E00
+  name: Kirby Fighters Deluxe™
+  updates: []

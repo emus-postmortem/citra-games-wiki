@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000A7D00
+  name: SpeedX 3D
+  updates: []
+- regions:
+  - JP
+  id: 00040000000C9F00
+  name: スピードX3D
+  updates: []
+- regions:
+  - KR
+  id: 00040000000CD800
+  name: SpeedX 3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000087A00
+  name: SpeedX 3D
+  updates: []

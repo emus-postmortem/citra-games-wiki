@@ -1,0 +1,17 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 0004000000083200
+  name: The Sword of Hope II
+  updates: []
+- regions:
+  - JP
+  id: 0004000000083000
+  name: セレクションⅡ 暗黒の封印
+  updates: []
+- regions:
+  - US
+  id: 0004000000083100
+  name: The Sword of Hope II
+  updates: []

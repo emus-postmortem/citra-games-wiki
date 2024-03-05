@@ -1,0 +1,27 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001BBD00
+  name: 'Apollo Justice: Ace Attorney'
+  updates: []
+- regions:
+  - JP
+  id: 00040000001B9E00
+  name: 逆転裁判4
+  updates: []
+- regions:
+  - KR
+  id: 00040000001BC100
+  name: 역전재판®4 / Apollo Justice™ Ace Attorney®
+  updates: []
+- regions:
+  - TW
+  id: 00040000001BC200
+  name: 逆轉裁判®4 (日英版)
+  updates: []
+- regions:
+  - US
+  id: 00040000001BD200
+  name: 'Apollo Justice: Ace Attorney'
+  updates: []

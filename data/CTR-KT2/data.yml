@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000016DC00
+  name: Toki Tori 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000190C00
+  name: TOKI TORI 3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000182000
+  name: Toki Tori 3D
+  updates: []

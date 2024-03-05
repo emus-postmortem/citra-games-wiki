@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000064500
+  name: タンタンの冒険 ★ユニコーン号の秘密★
+  updates: []

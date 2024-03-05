@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000093100
+  name: Samurai Sword Destiny™
+  updates: []
+- regions:
+  - US
+  id: 000400000007FB00
+  name: Samurai Sword Destiny™
+  updates: []

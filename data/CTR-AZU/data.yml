@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000E9B00
+  name: 脱出アドベンチャー 絶望要塞
+  updates: []

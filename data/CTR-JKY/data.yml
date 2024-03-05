@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000009F900
+  name: AZITO 3D Kyoto
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000064F00
+  name: Mahjong 3D Warriors of the Emperor
+  updates: []

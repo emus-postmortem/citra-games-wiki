@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000AD600
+  name: LEGO® City Undercover The Chase Begins
+  updates: []
+- regions:
+  - JP
+  id: 0004000000154700
+  name: レゴ®シティ アンダーカバー チェイス ビギンズ
+  updates: []
+- regions:
+  - KR
+  id: 0004000000159100
+  name: '레고®시티 언더커버: 더 체이스 비긴즈'
+  updates: []
+- regions:
+  - US
+  id: 00040000000AD500
+  name: 'LEGO® City Undercover: The Chase Begins'
+  updates: []

@@ -1,0 +1,12 @@
+platform: New3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000F708D00
+  name: Runbow Pocket
+  updates: []
+- regions:
+  - US
+  id: 000400000F708700
+  name: Runbow Pocket
+  updates: []

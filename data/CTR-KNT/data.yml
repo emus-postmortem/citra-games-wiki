@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000018FD00
+  name: ～なりきりキッズ～ おしごとテーマパーク2ライト
+  updates: []

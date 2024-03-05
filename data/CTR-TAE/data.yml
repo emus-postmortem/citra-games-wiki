@@ -1,0 +1,22 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 000400000006F200
+  name: The Legend of Zelda™
+  updates: []
+- regions:
+  - JP
+  id: 000400000006F000
+  name: ゼルダの伝説1
+  updates: []
+- regions:
+  - KR
+  id: 0004000000184800
+  name: The Legend of Zelda
+  updates: []
+- regions:
+  - US
+  id: 000400000006F100
+  name: The Legend of Zelda™
+  updates: []

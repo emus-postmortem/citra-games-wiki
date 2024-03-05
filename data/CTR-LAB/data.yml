@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001DA600
+  name: Fatal Fracture
+  updates: []
+- regions:
+  - US
+  id: 00040000001DB100
+  name: Fatal Fracture
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000DB000
+  name: マル合!3D ナナミと一緒に学ぼ! English上達のコツ 理論編
+  updates: []

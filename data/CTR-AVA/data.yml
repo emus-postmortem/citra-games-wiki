@@ -1,0 +1,14 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001A6900
+  name: 'Harvest Moon: Skytree Village'
+  updates: []
+- regions:
+  - US
+  id: 00040000001A3500
+  name: 'Harvest Moon®: Skytree Village'
+  updates:
+  - id: 0004000E001A3500
+    name: 'Harvest Moon: Skytree Village Update Ver. 2.00'

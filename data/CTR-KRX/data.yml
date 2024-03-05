@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  - JP
+  - US
+  id: 0004000000141000
+  name: Pokémon™ Shuffle
+  updates: []

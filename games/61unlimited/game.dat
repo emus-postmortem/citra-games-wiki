@@ -1,0 +1,11 @@
+title = "6×1≠UNLIMITED?"
+description = "6×1≠UNLIMITED? is a strategy game that plays like a 360 degree shoot ’em up with visual novel elements, developed and published by A+ Games."
+github_issues = [4149]
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "000400000015A800"
+region = "jpn"
+release_date = "2015-01-07"

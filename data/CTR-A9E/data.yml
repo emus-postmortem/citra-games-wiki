@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001CF400
+  name: Dillon's Dead-Heat Breakers™
+  updates: []
+- regions:
+  - JP
+  id: 00040000001C4900
+  name: ザ・デッドヒートブレイカーズ
+  updates: []
+- regions:
+  - US
+  id: 00040000001CF300
+  name: Dillon’s Dead-Heat Breakers™
+  updates: []

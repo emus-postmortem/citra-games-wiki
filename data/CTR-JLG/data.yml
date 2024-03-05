@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000052000
+  name: Let's Golf! 3D
+  updates: []
+- regions:
+  - US
+  id: 000400000005CA00
+  name: Let's Golf! 3D
+  updates: []

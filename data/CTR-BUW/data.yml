@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000F5800
+  name: ワンピース アンリミテッドワールドR
+  updates:
+  - id: 0004000E000F5800
+    name: 更新データ Ver. 1.2 ワンピース アンリミテッドワールド R

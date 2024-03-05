@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000DBC00
+  name: ワンピース ROMANCE DAWN 冒険の夜明け
+  updates: []

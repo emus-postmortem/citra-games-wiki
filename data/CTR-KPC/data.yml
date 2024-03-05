@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000016C300
+  name: 'Mini Mario & Friends: amiibo Challenge'
+  updates: []
+- regions:
+  - JP
+  id: 000400000016C100
+  name: ミニマリオ ＆ フレンズ amiiboチャレンジ
+  updates: []
+- regions:
+  - US
+  id: 000400000016C200
+  name: Mini Mario & Friends amiibo Challenge
+  updates: []

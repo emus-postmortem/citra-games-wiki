@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D3700
+  name: Japanese Rail Sim 3D  5 types of trains
+  updates: []
+- regions:
+  - JP
+  id: 0004000000164F00
+  name: 鉄道にっぽん!路線たび 近江鉄道編
+  updates: []
+- regions:
+  - US
+  id: 00040000001D3900
+  name: Japanese Rail Sim 3D  5 types of trains
+  updates: []

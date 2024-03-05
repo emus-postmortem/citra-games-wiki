@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000B4F00
+  name: Fallblox™
+  updates: []
+- regions:
+  - JP
+  id: 00040000000AAD00
+  name: 引ク落ツ
+  updates: []
+- regions:
+  - KR
+  id: 00040000000C8A00
+  name: 밀고 떨구고
+  updates: []
+- regions:
+  - US
+  id: 00040000000B6E00
+  name: Crashmo™
+  updates: []

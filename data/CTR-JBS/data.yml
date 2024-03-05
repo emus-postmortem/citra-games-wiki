@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000143F00
+  name: 'ARC STYLE: Baseball 3D'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000095E00
+  name: 'ARC STYLE: 野球!!3D'
+  updates: []
+- regions:
+  - KR
+  id: 0004000000169200
+  name: 아크스타일 베이스볼 3D
+  updates: []
+- regions:
+  - US
+  id: 000400000010C600
+  name: 'ARC STYLE: Baseball 3D'
+  updates: []

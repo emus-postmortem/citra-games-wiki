@@ -1,0 +1,20 @@
+title = "Sonic Boom: Shattered Crystal"
+description = "Sonic Boom: Shattered Crystal, also known as \"Sonic Toon: Island Adventure\" in Japan, is an action-adventure video game developed by Sanzaru Games and published by Sega. Along with its Wii U sibling Sonic Boom: Rise of Lyric, Shattered Crystal is a spin-off of Sega's Sonic the Hedgehog franchise and is a part of the Sonic Boom sub-franchise."
+github_issues = [2654]
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000127500"
+region = "usa"
+release_date = "2014-11-11"
+
+[[releases]]
+title = "000400000012C200"
+region = "eur"
+release_date = "2014-11-21"
+
+[[releases]]
+title = "000400000014AE00"
+region = "jpn"
+release_date = "2014-12-18"

@@ -1,0 +1,29 @@
+title = "Senran Kagura Burst"
+description = " Senran Kagura Burst is a side scrolling 'beat-'em-up' action game for the 3DS. The player assumes control of one of five different female ninja characters. The more the game characters are damaged by enemies, the more their clothes are torn off. The information for each character's back story, major plot points, and general information on the universe of Senran Kagura is displayed in what is called the 'novel', and is structured similarly to a visual novel. The novel is introduced at major plot points in the game story"
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "00040000000ED100"
+region = "usa"
+release_date = "2013-11-14"
+
+[[ releases ]]
+title = "00040000000F4500"
+region = "eur"
+release_date = "2014-02-28"
+
+[[ releases ]]
+title = "000400000009F600"
+region = "jpn"
+release_date = "2012-08-30"
+
+[[ testcases ]]
+compatibility = "5"
+date = "2017-06-19"
+title = "00040000000F4500"
+version = "HEAD-d0888f8"
+author = "Kloen"
+cpu = "Intel Core i5-760"
+gpu = "AMD Radeon HD 5670"
+os = "Windows 10 Education 1511"

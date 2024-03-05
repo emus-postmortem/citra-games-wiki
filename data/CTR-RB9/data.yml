@@ -1,0 +1,7 @@
+platform: GameBoy
+releases:
+- regions:
+  - JP
+  id: 0004000000098C00
+  name: プリプリ PRIMITIVE PRINCESS!
+  updates: []

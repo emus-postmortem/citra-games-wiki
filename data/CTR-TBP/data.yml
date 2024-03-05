@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000A6900
+  name: Solomon's Key™
+  updates: []
+- regions:
+  - JP
+  id: 00040000000A6700
+  name: ソロモンの鍵
+  updates: []
+- regions:
+  - US
+  id: 00040000000A6800
+  name: Solomon's Key™
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001CD900
+  name: 'Radiant Historia: Perfect Chronology'
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A0C00
+  name: ラジアントヒストリア パーフェクトクロノロジー
+  updates: []
+- regions:
+  - US
+  id: 00040000001C8F00
+  name: 'Radiant Historia: Perfect Chronology'
+  updates: []

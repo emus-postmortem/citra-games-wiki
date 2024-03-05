@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000031D00
+  name: Pilotwings Resort™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000031B00
+  name: パイロットウイングス リゾート
+  updates: []
+- regions:
+  - US
+  id: 0004000000031C00
+  name: Pilotwings Resort™
+  updates: []

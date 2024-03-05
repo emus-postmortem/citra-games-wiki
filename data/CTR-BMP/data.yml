@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000111600
+  name: Maple Story 運命の少女
+  updates: []
+- regions:
+  - KR
+  id: 00040000000E6000
+  name: 메이플스토리 운명의 소녀
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000056800
+  name: びっくり!とびだす!魔法のペン
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000FCB00
+  name: Touch Battle Tank 3D 2
+  updates: []
+- regions:
+  - JP
+  id: 00040000000B6A00
+  name: タッチバトル戦車3D-2
+  updates: []

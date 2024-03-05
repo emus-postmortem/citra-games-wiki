@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000117A00
+  name: Quell Memento
+  updates: []
+- regions:
+  - JP
+  id: 0004000000167D00
+  name: Shizuku Memory
+  updates: []
+- regions:
+  - US
+  id: 0004000000119600
+  name: Quell Memento
+  updates: []

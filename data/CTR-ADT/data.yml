@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 000400000004C800
+  name: Dream Trigger 3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000043600
+  name: Dream Trigger™ 3D
+  updates: []

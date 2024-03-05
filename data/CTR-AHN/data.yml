@@ -1,0 +1,14 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000CC400
+  name: 初音ミク Project mirai 2
+  updates:
+  - id: 0004000E000CC400
+    name: 更新データ Ver. 1.1 初音ミク Project mirai 2
+- regions:
+  - TW
+  id: 000400000010DC00
+  name: 初音未來 Project mirai 2 (日文版)
+  updates: []

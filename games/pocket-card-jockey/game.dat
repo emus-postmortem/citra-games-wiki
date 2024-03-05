@@ -1,0 +1,25 @@
+title = "Pocket Card Jockey"
+description = "Pocket Card Jockey (SolitiBa in Japan) is a horse racing game by Game Freak. The game combines horse racing and simplified solitaire."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000194800"
+region = "usa"
+release_date = "2016-05-05"
+
+[[releases]]
+title = "0004000000194900"
+region = "eur"
+release_date = "2016-05-05"
+
+[[releases]]
+title = "0004000000194A00"
+region = "kor"
+release_date = "2016-11-09"
+
+[[releases]]
+title = "00040000000EB000"
+region = "jpn"
+release_date = "2013-07-31"

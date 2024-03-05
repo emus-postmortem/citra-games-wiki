@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000007AC00
+  name: "SpeedThru: Potzol's Puzzle™"
+  updates: []
+- regions:
+  - JP
+  id: 0004000000064C00
+  name: 疾走すりぬけ アナトウス
+  updates: []
+- regions:
+  - US
+  id: 0004000000083800
+  name: Ketzal's Corridors™
+  updates: []

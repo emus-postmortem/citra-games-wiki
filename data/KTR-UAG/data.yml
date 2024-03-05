@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F701B00
+  name: Donkey Kong Country™
+  updates: []
+- regions:
+  - JP
+  id: 000400000F701A00
+  name: スーパードンキーコング
+  updates: []

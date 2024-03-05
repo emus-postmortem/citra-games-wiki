@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F712800
+  name: Silver Falls - 3 Down Stars
+  updates: []
+- regions:
+  - US
+  id: 000400000F712200
+  name: Silver Falls - 3 Down Stars
+  updates: []

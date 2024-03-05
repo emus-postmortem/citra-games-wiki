@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001CFE00
+  name: たのしく・おもしろく 漢検小学生
+  updates: []

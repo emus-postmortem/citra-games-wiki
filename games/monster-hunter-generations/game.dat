@@ -1,0 +1,24 @@
+title = "Monster Hunter Generations"
+description = "Monster Hunter Generations, known as Monster Hunter X in Japan, is an action role-playing video game developed and published by Capcom for the Nintendo 3DS. An expanded version of the game called Monster Hunter XX: Double Cross was released only in Japan."
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "0004000000187000"
+region = "usa"
+release_date = "2016-07-15"
+
+[[releases]]
+title = "0004000000185B00"
+region = "eur"
+release_date = "2016-07-15"
+
+[[releases]]
+title = "0004000000155400"
+region = "jpn"
+release_date = "2015-11-28"
+
+[[releases]]
+title = "0004000000197100"
+region = "jpn"
+release_date = "2017-03-18"

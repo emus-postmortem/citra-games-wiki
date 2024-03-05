@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001DCD00
+  name: Pinball Breaker VI
+  updates: []
+- regions:
+  - US
+  id: 00040000001DC600
+  name: Pinball Breaker VI
+  updates: []

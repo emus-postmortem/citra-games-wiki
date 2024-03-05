@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000013F100
+  name: Farming Simulator 14 -ポケット農園 2-
+  updates: []

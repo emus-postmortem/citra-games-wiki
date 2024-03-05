@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001ABC00
+  name: Epic Word Search Holiday Special
+  updates: []
+- regions:
+  - US
+  id: 00040000001AD100
+  name: Epic Word Search Holiday Special
+  updates: []

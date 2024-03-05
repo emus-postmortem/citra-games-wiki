@@ -1,0 +1,29 @@
+title = "Dragon Ball Z: Extreme Butōden"
+description = "Dragon Ball Z: Extreme Butōden is a 2D fighting game developed by Bandai Namco and is based on the popular anime, Dragon Ball."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "000400000016CD00"
+region = "usa"
+release_date = "2015-10-20"
+
+[[releases]]
+title = "0004000000169600"
+region = "eur"
+release_date = "2015-10-16"
+
+[[releases]]
+title = "0004000000163C00"
+region = "jpn"
+release_date = "2015-06-11"
+
+[[testcases]]
+title = "000400000016CD00"
+compatibility = "0"
+date = "2017-11-10"
+version = "HEAD-7ef905e"
+cpu = "Intel Core 2 Duo E6750"
+gpu = "Nvidia Geforce GT 630"
+os = "Windows 10 15063"
+author = "MojoJojoDojo"

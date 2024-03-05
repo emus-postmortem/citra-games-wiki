@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000EE600
+  name: どぎめぎインリョクちゃん
+  updates: []

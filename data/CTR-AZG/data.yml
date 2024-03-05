@@ -1,0 +1,35 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000137800
+  name: Puzzle & Dragons Z
+  updates:
+  - id: 0004000E00137800
+    name: 'Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition: Update'
+- regions:
+  - JP
+  id: 00040000000C3900
+  name: パズドラＺ
+  updates: []
+- regions:
+  - KR
+  id: 000400000015A700
+  name: 퍼즐앤드래곤 Z + 퍼즐앤드래곤  슈퍼 마리오브라더스 에디션
+  updates:
+  - id: 0004000E0015A700
+    name: 업데이트 데이터 Ver.2.0  퍼즐앤드래곤 Z + 퍼즐앤드래곤  슈퍼 마리오브라더스 에디션
+- regions:
+  - TW
+  id: 000400000016D100
+  name: Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition(英文版)
+  updates:
+  - id: 0004000E0016D100
+    name: Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition  更新資料 Ver.2.0
+- regions:
+  - US
+  id: 0004000000137700
+  name: Puzzle & Dragons Z + Super Mario Bros. Edition
+  updates:
+  - id: 0004000E00137700
+    name: Puzzle & Dragons Z + Super Mario Bros. Edition Update Ver. 2.0

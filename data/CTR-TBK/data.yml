@@ -1,0 +1,12 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000A4900
+  name: 'Ninja Gaiden II™: The Dark Sword of Chaos'
+  updates: []
+- regions:
+  - US
+  id: 00040000000A4800
+  name: 'Ninja Gaiden II™: The Dark Sword of Chaos'
+  updates: []

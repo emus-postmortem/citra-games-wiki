@@ -1,0 +1,22 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000B6000
+  name: Donkey Kong™ 3
+  updates: []
+- regions:
+  - JP
+  id: 00040000000B5E00
+  name: ドンキーコング3
+  updates: []
+- regions:
+  - KR
+  id: 0004000000195E00
+  name: Donkey Kong 3
+  updates: []
+- regions:
+  - US
+  id: 00040000000B5F00
+  name: Donkey Kong™ 3
+  updates: []

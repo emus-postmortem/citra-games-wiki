@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000EA800
+  name: SpeedX 3D Hyper Edition
+  updates: []
+- regions:
+  - JP
+  id: 0004000000110800
+  name: スピードX3D ハイパーエディション
+  updates: []
+- regions:
+  - US
+  id: 00040000000E6D00
+  name: SpeedX 3D Hyper Edition
+  updates: []

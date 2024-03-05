@@ -1,0 +1,17 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 0004000000069500
+  name: Kid Icarus™ Of Myths And Monsters
+  updates: []
+- regions:
+  - JP
+  id: 0004000000069300
+  name: 'Kid Icarus: Of Myths and Monsters'
+  updates: []
+- regions:
+  - US
+  id: 0004000000069400
+  name: Kid Icarus™ Of Myths and Monsters
+  updates: []

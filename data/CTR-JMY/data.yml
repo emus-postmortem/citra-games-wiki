@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000ECB00
+  name: Skater Cat
+  updates: []
+- regions:
+  - JP
+  id: 00040000000C9500
+  name: peakvox ミュウミュウトレイン
+  updates: []
+- regions:
+  - US
+  id: 00040000000E6700
+  name: Skater Cat
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000DB700
+  name: '@SIMPLE DLシリーズ Vol.15 THE 麻雀'
+  updates: []

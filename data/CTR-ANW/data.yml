@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000053200
+  name: 謎惑館 音の間に間に
+  updates: []

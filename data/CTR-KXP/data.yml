@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000189900
+  name: 対戦パズドラクロス
+  updates:
+  - id: 0004000E00189900
+    name: 更新データ Ver. 4.0 対戦パズドラクロス

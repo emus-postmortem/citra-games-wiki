@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000C8800
+  name: Splash or Crash™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000055800
+  name: ひゅ～ストン
+  updates: []
+- regions:
+  - KR
+  id: 00040000000C8900
+  name: 짜릿! 우물로 드롭
+  updates: []
+- regions:
+  - US
+  id: 00040000000C8700
+  name: Kersploosh!™
+  updates: []

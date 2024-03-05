@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000006E300
+  name: ニコリのパズル ぬりかべ
+  updates: []
+- regions:
+  - KR
+  id: 0004000000106900
+  name: Nurikabe by Nikoli
+  updates: []
+- regions:
+  - US
+  id: 0004000000092A00
+  name: Nurikabe by Nikoli
+  updates: []

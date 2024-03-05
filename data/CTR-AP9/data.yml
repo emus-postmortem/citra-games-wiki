@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000056900
+  name: パックマンパーティ 3D
+  updates: []

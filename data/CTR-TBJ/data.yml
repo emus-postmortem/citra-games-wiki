@@ -1,0 +1,22 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000A4700
+  name: Donkey Kong™
+  updates: []
+- regions:
+  - JP
+  id: 00040000000A4500
+  name: ドンキーコング
+  updates: []
+- regions:
+  - KR
+  id: 0004000000181300
+  name: Donkey Kong
+  updates: []
+- regions:
+  - US
+  id: 00040000000A4600
+  name: Donkey Kong™
+  updates: []

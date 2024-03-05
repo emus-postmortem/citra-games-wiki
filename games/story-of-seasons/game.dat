@@ -1,0 +1,24 @@
+title = "Story of Seasons"
+description = "Story of Seasons, known in Japan as \"Bokujō Monogatari: Tsunagaru Shin Tenchi\", is a farming simulation video game developed by Marvelous Entertainment. The game is not under the Harvest Moon title in North America due to Natsume's ownership of the name. It follows along the same lines as the rest of the series, in which the player takes on the role of a farmer."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000142100"
+region = "usa"
+release_date = "2015-03-31"
+
+[[releases]]
+title = "000400000015FC00"
+region = "eur"
+release_date = "2015-12-24"
+
+[[releases]]
+title = "000400000010BC00"
+region = "jpn"
+release_date = "2014-02-27"
+
+[[releases]]
+title = "000400000015FD00"
+region = "kor"
+release_date = "2015-12-17"

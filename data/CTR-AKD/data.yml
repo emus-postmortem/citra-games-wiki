@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000030200
+  name: 'Kid Icarus™: Uprising'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000030000
+  name: 新･光神話 パルテナの鏡
+  updates: []
+- regions:
+  - US
+  id: 0004000000030100
+  name: 'Kid Icarus™: Uprising'
+  updates: []

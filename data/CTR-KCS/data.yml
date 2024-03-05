@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000180A00
+  name: 超チャリ走 あつめて! 超獣ハンター
+  updates:
+  - id: 0004000E00180A00
+    name: 更新データ Ver. 1.2 超チャリ走 あつめて! 超獣ハンター

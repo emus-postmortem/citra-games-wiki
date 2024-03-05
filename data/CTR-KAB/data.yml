@@ -1,0 +1,21 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000019A500
+  name: Stickman Super Athletics
+  updates:
+  - id: 0004000E0019A500
+    name: 'Stickman Super Athletics:  Update'
+- regions:
+  - JP
+  id: 00040000001A6300
+  name: スーパーアスリート棒人間
+  updates: []
+- regions:
+  - US
+  id: 000400000019A400
+  name: Stickman Super Athletics
+  updates:
+  - id: 0004000E0019A400
+    name: Stickman Super Athletics Update Ver. 1.1

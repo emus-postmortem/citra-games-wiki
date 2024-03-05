@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001C0F00
+  name: アライアンス・アライブ 体験版
+  updates: []

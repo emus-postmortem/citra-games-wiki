@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000ACD00
+  name: パチパラ3D 大海物語2 With アグネス･ラム
+  updates: []

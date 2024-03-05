@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000E8500
+  name: トリコ グルメガバトル!
+  updates: []

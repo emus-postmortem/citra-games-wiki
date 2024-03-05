@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 000400000015C100
+  name: My Horse 3D - Best Friends
+  updates: []

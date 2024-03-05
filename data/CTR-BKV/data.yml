@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000014F900
+  name: ドラもじ のび太の漢字大作戦
+  updates: []

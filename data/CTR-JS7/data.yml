@@ -1,0 +1,10 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  - JP
+  - KR
+  - US
+  id: 00040000000C7300
+  name: Save Data Transfer Tool
+  updates: []

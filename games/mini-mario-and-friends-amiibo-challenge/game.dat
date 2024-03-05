@@ -1,0 +1,15 @@
+title = "Mini Mario & Friends: Amiibo Challenge"
+description = "Mini Mario & Friends: Amiibo Challenge is a puzzle video game developed and published by Nintendo for the Wii U and Nintendo 3DS. The game is free to download on the Nintendo eShop, but requires Nintendo's Amiibo lineup in order to play. It was released in Japan in January 2016, and worldwide in April 2016"
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "00040000000D2F00"
+region = "eur"
+release_date = "2016-04-28"
+
+[[releases]]
+title = "00040000000C9D00"
+region = "usa"
+release_date = "2016-04-28"

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000132E00
+  name: Atlantic Quest
+  updates: []
+- regions:
+  - JP
+  id: 000400000017DE00
+  name: アトランティック クエスト
+  updates: []
+- regions:
+  - US
+  id: 0004000000114000
+  name: Atlantic Quest
+  updates: []

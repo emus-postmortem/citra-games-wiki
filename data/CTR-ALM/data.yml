@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000C0100
+  name: マギ はじまりの迷宮
+  updates:
+  - id: 0004000E000C0100
+    name: 更新データ Ver. 2.0 マギ はじまりの迷宮

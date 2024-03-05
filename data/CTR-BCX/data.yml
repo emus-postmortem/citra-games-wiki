@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000110B00
+  name: ゲームセンターCX3丁目の有野
+  updates: []

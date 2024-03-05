@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000009F400
+  name: Johnny Kung Fu™
+  updates: []
+- regions:
+  - US
+  id: 0004000000090000
+  name: Johnny Kung Fu™
+  updates: []

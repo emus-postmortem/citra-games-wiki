@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000084E00
+  name: Secrets of the Titanic 1912-2012
+  updates: []

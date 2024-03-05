@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F704E00
+  name: Final Fight 3™
+  updates: []
+- regions:
+  - JP
+  id: 000400000F704D00
+  name: ファイナルファイト タフ
+  updates: []

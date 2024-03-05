@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001C5500
+  name: 'Squareboy vs Bullies: Arena Edition'
+  updates: []
+- regions:
+  - US
+  id: 00040000001C5B00
+  name: 'Squareboy vs Bullies: Arena Edition'
+  updates: []

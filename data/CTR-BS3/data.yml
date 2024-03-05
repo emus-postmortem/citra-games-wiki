@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000017C700
+  name: Stella Glow
+  updates: []
+- regions:
+  - JP
+  id: 0004000000144500
+  name: STELLA GLOW
+  updates: []
+- regions:
+  - US
+  id: 0004000000173700
+  name: Stella Glow
+  updates: []

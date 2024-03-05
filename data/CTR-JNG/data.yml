@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000095F00
+  name: 'ARC STYLE: 女子サッカー!!3D'
+  updates: []

@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000104C00
+  name: こびとづかん こびとの不思議 実験セット
+  updates:
+  - id: 0004000E00104C00
+    name: 更新データ Ver. 1.1 こびとづかん　 こびとの不思議 実験セット

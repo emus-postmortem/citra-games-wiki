@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001CCB00
+  name: Phil's Epic Fill-a-Pix Adventure
+  updates: []
+- regions:
+  - JP
+  id: 00040000001CFF00
+  name: モザイクアート Fill-a-Pix
+  updates: []
+- regions:
+  - US
+  id: 00040000001CCF00
+  name: Phil's Epic Fill-a-Pix Adventure
+  updates: []

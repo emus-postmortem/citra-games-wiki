@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000014FE00
+  name: '@SIMPLE DLシリーズ Vol.34 THE 密室からの脱出 博物館編'
+  updates: []

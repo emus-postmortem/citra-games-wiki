@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000152A00
+  name: すみっコぐらし ここがおちつくんです
+  updates:
+  - id: 0004000E00152A00
+    name: 更新データ Ver. 1.2 すみっコぐらし ここがおちつくんです

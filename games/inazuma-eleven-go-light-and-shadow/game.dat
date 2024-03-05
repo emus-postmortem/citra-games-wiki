@@ -1,0 +1,24 @@
+title = "Inazuma Eleven GO: Light and Shadow"
+description = "Inazuma Eleven GO is a role-playing and sports video game for the Nintendo 3DS, developed and published by Level-5. It's the first game of the Inazuma Eleven GO series and the fourth installment of the Inazuma Eleven games. There are two versions of the game, Light and Shadow."
+needs_system_files = false
+needs_shared_font = true
+
+[[releases]]
+title = "0004000000112F00"
+region = "eur"
+release_date = "2014-06-13"
+
+[[releases]]
+title = "0004000000113000"
+region = "eur"
+release_date = "2014-06-13"
+
+[[releases]]
+title = "000400000006D400"
+region = "jpn"
+release_date = "2011-12-15"
+
+[[releases]]
+title = "000400000006D300"
+region = "jpn"
+release_date = "2011-12-15"

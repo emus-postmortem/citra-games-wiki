@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001AD200
+  name: TOUCH BATTLE TANK - TAG COMBAT -
+  updates: []
+- regions:
+  - JP
+  id: 0004000000190700
+  name: タッチバトル戦車3D-4 ダブルコマンダー
+  updates: []
+- regions:
+  - US
+  id: 00040000001ADC00
+  name: Touch Battle Tank - Tag Combat -
+  updates: []

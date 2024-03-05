@@ -1,0 +1,29 @@
+title = "Hatsune Miku: Project Mirai DX"
+description = "Hatsune Miku: Project Mirai DX is a 3D rhythm action game starring the world's most famous virtual singer Hatsune Miku. Join the Miku phenomenon by expressing yourself through fun creative tools, sharing your cute customizations, and experiencing some of the best music from the world's favorite digital diva!"
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000148C00"
+region = "usa"
+release_date = "2015-09-08"
+
+[[releases]]
+title = "0004000000148900"
+region = "eur"
+release_date = "2015-09-11"
+
+[[releases]]
+title = "000400000014A800"
+region = "jpn"
+release_date = "2013-10-03"
+
+[[testcases]]
+title = "0004000000148C00"
+compatibility = "1"
+date = "2017-08-01"
+version = "HEAD-60024ad"
+cpu = "Intel Core i5-3210M"
+gpu = "Radeon HD 8750M"
+os = "Windows 10 15063"
+author = "bronozoj"

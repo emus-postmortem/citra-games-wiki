@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000014D900
+  name: Gravity Falls - Legend of the Gnome Gemulets
+  updates: []

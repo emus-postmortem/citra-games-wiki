@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000180F00
+  name: ZERO ESCAPE 刻のジレンマ
+  updates: []

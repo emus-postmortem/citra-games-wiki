@@ -1,0 +1,21 @@
+title = "Steamworld Dig"
+description = "SteamWorld Dig is a platform mining adventure. Take the role as Rusty, a lone mining steambot, as he arrives to an old mining town in great need. Dig your way through the old earth, gaining riches while uncovering the ancient threat that lurks below..."
+incomplete = true
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "00040000000ED400"
+region = "eur"
+release_date = "2013-08-07"
+
+[[testcases]]
+title = "00040000000ED400"
+compatibility = "1"
+date = "2017-07-28"
+version = "HEAD-05a38e3"
+cpu = "Intel Core i5-3330"
+gpu = "AMD Radeon HD 7970"
+os = "Microsoft Windows 10 14393"
+author = "ferspider3"

@@ -1,0 +1,20 @@
+title = "WEAPON SHOP de OMASSE"
+description = "Groove along to the beats of the hammer falls, tapping your Nintendo 3DS Touch Screen to the rhythm in order to forge your shop's weapons. The higher your CHAIN, the stronger and sharper the weapon will turn out! Any blacksmith worth his steel also knows that you have to strike while the iron is hot! Make sure to watch the weapon's temperature, which will affect its critical hit rate, durability, and special properties!"
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000115000"
+region = "eur"
+release_date = "2014-02-20"
+
+[[testcases]]
+title = "0004000000115000"
+compatibility = "2"
+date = "2017-07-20"
+version = "HEAD-5621a65"
+cpu = "Intel Core i7-7920HQ"
+gpu = "Radeon Pro 560"
+os = "macOS 10.12.6"
+author = "Amost-"

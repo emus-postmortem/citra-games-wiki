@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000013C500
+  name: プチノベル「祝祭の八月」
+  updates: []

@@ -1,0 +1,27 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000010C000
+  name: 'Kirby™: Triple Deluxe'
+  updates: []
+- regions:
+  - JP
+  id: 000400000010BE00
+  name: 星のカービィ トリプルデラックス
+  updates: []
+- regions:
+  - KR
+  id: 0004000000120F00
+  name: 별의 커비 트리플 디럭스
+  updates: []
+- regions:
+  - TW
+  id: 0004000000123200
+  name: 'Kirby: Triple Deluxe (英文版)'
+  updates: []
+- regions:
+  - US
+  id: 000400000010BF00
+  name: 'Kirby™: Triple Deluxe'
+  updates: []

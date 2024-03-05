@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000104900
+  name: VitaminZ Revolution
+  updates:
+  - id: 0004000E00104900
+    name: 更新データ Ver. 1.2 VitaminZ Revolution

@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000121700
+  name: 公益財団法人 日本漢字能力検定 協会 漢検トレーニング 6級
+  updates: []

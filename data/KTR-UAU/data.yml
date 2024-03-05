@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F703500
+  name: Super Castlevania IV
+  updates: []
+- regions:
+  - JP
+  id: 000400000F703400
+  name: 悪魔城ドラキュラ
+  updates: []

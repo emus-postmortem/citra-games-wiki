@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000103600
+  name: '@SIMPLE DLシリーズ Vol.23 THE 鑑識官 File.2'
+  updates: []

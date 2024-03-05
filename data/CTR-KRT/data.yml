@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000170A00
+  name: キャラペットライト つくって! そだてて!キャラクター小学校
+  updates: []

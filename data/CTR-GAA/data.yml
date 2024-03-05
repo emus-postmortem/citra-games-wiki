@@ -1,0 +1,17 @@
+platform: GameGear
+releases:
+- regions:
+  - EU
+  id: 0004000000088700
+  name: 'Sonic the Hedgehog™: Triple Trouble'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000085100
+  name: ソニック&テイルス2
+  updates: []
+- regions:
+  - US
+  id: 000400000008BA00
+  name: 'Sonic the Hedgehog™: Triple Trouble'
+  updates: []

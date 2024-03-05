@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000121200
+  name: 公益財団法人日本漢字能力検定協会 漢検トレーニング 1級 準1級 2級
+  updates: []

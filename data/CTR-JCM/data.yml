@@ -1,0 +1,19 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000014F400
+  name: Monster Combine TD
+  updates: []
+- regions:
+  - JP
+  id: 00040000000CF300
+  name: カスタムモンスターズ
+  updates:
+  - id: 0004000E000CF300
+    name: 更新データ Ver. 1.1 カスタムモンスターズ
+- regions:
+  - US
+  id: 0004000000150500
+  name: Monster Combine TD
+  updates: []

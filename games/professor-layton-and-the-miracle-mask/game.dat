@@ -1,0 +1,29 @@
+title = "Professor Layton and the Miracle Mask"
+description = "Professor Layton and the Miracle Mask is a puzzle adventure video game developed by Level-5. It is the fifth game in the Professor Layton series, the second in the prequel trilogy of games, and the first in the series to be developed for the Nintendo 3DS. Professor Layton and the Miracle Mask Plus, an enhanced edition featuring new puzzles and added cutscenes, was released on the Nintendo eShop in Japan."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000000A8500"
+region = "usa"
+release_date = "2012-10-28"
+
+[[releases]]
+title = "00040000000A8600"
+region = "eur"
+release_date = "2012-10-26"
+
+[[releases]]
+title = "00040000000A8700"
+region = "eur"
+release_date = "2012-10-26"
+
+[[releases]]
+title = "0004000000031F00"
+region = "jpn"
+release_date = "2011-02-26"
+
+[[releases]]
+title = "00040000000C9200"
+region = "jpn"
+release_date = "2013-02-06"

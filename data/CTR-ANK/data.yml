@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 0004000000061200
+  name: Nicktoons MLB® 3D
+  updates: []

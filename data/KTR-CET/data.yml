@@ -1,0 +1,17 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70EC00
+  name: 'Physical contact: 2048'
+  updates: []
+- regions:
+  - JP
+  id: 000400000F70E600
+  name: 密着対戦2048
+  updates: []
+- regions:
+  - US
+  id: 000400000F70EA00
+  name: 'Physical contact: 2048'
+  updates: []

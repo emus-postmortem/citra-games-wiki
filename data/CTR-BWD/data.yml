@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000161600
+  name: Disney Art Academy™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000160E00
+  name: ディズニーアートアカデミー
+  updates: []
+- regions:
+  - US
+  id: 0004000000161700
+  name: Disney Art Academy™
+  updates: []

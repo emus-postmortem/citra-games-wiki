@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000178100
+  name: 12歳。 ～恋するDiary～
+  updates: []

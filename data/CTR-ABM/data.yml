@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000038B00
+  name: Resident Evil™ The Mercenaries 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000043E00
+  name: バイオハザード ザ･マーセナリーズ 3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000035900
+  name: 'Resident Evil®: The Mercenaries 3D'
+  updates: []

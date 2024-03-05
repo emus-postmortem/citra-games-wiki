@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000017D600
+  name: 鉄道にっぽん!路線たび 上毛電気鉄道編
+  updates: []

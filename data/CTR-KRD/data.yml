@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000013BA00
+  name: '@SIMPLE DLシリーズ Vol.31 THE 密室からの脱出 カラオケ編'
+  updates: []

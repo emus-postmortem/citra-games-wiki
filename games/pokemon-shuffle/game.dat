@@ -1,0 +1,10 @@
+title = "Pokémon Shuffle"
+description = "Pokémon Shuffle is a puzzle game by The Pokémon Company in which players fight against various Pokémon by matching three of more of the same Pokémon on their bottom of their screen."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000141000"
+region = "all"
+release_date = "2015-02-18"

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - US
+  id: 00040000000A2600
+  name: Hotel Transylvania
+  updates: []

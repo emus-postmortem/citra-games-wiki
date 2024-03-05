@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000010ED00
+  name: チョコ犬のちょこっと不思議な物語 ショコラ姫と魔法のレシピ
+  updates: []

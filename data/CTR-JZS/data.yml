@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000093200
+  name: Zombie Slayer Diox™
+  updates: []
+- regions:
+  - US
+  id: 000400000007FF00
+  name: Zombie Slayer Diox™
+  updates: []

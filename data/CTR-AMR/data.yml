@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 000400000005C300
+  name: スライムもりもり ドラゴンクエスト3
+  updates: []

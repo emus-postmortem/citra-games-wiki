@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000014E200
+  name: Hazumi
+  updates: []
+- regions:
+  - JP
+  id: 0004000000156700
+  name: ハネカエリーノ
+  updates: []
+- regions:
+  - US
+  id: 000400000013C100
+  name: Hazumi
+  updates: []

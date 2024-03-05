@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000B4A00
+  name: とんがりボウシと魔法の町
+  updates:
+  - id: 0004000E000B4A00
+    name: 更新データ Ver. 1.1 とんがりボウシと魔法の町

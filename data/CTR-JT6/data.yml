@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000186000
+  name: Parascientific Escape Cruise in the Distant Seas
+  updates: []
+- regions:
+  - JP
+  id: 000400000012A100
+  name: 超科学脱出ストーリー ～絶海の豪華客船～
+  updates: []
+- regions:
+  - US
+  id: 0004000000186500
+  name: Parascientific Escape Cruise in the Distant Seas
+  updates: []

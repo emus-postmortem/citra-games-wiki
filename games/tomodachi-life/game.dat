@@ -1,0 +1,30 @@
+title = "Tomodachi Life"
+description = "Tomodachi Life is a life simulation handheld video game developed by Nintendo SPD and published by Nintendo for the Nintendo 3DS."
+github_issues = [2475]
+needs_system_files = true
+needs_shared_font = true
+
+[[ releases ]]
+title = "000400000008C300"
+region = "usa"
+release_date = "2014-06-06"
+
+[[ releases ]]
+title = "000400000008C400"
+region = "eur"
+release_date = "2014-06-06"
+
+[[ releases ]]
+title = "000400000008C500"
+region = "jpn"
+release_date = "2013-04-18"
+
+[[testcases]]
+title = "000400000008C400"
+compatibility = "4"
+date = "2017-07-15"
+version = "HEAD-5137a19"
+cpu = "Intel Core i5-2430M"
+gpu = "GeForce 315M"
+os = "Windows 10 15063"
+author = "valentinvanelslande"

@@ -1,0 +1,17 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000040400
+  name: CRUSH™3D
+  updates: []
+- regions:
+  - JP
+  id: 000400000004CB00
+  name: ナイトメアパズル クラッシュ3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000037100
+  name: Crush™3D
+  updates: []

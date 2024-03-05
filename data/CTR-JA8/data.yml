@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000EB300
+  name: 'Dress To Play: Magic Bubbles!'
+  updates: []
+- regions:
+  - JP
+  id: 000400000012B800
+  name: スター★シリーズ:マジックバブル
+  updates: []
+- regions:
+  - US
+  id: 00040000000D2B00
+  name: 'Dress To Play: Magic Bubbles!'
+  updates: []

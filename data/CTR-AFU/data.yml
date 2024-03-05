@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000C6500
+  name: 初心者から日本一まで そろばん･あんざん･フラッシュ暗算
+  updates:
+  - id: 0004000E000C6500
+    name: 更新データ Ver. 1.1 初心者から日本一まで そろばん･あんざん･フラッシュ暗算

@@ -1,0 +1,7 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - US
+  id: 0004000000110000
+  name: Harvest Moon® 2 GBC
+  updates: []

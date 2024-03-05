@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000165700
+  name: MIGHTY GUNVOLT
+  updates: []
+- regions:
+  - JP
+  id: 0004000000146F00
+  name: マイティガンヴォルト
+  updates: []
+- regions:
+  - KR
+  id: 000400000015BE00
+  name: MIGHTY GUNVOLT
+  updates: []
+- regions:
+  - US
+  id: 000400000014CD00
+  name: MIGHTY GUNVOLT
+  updates: []

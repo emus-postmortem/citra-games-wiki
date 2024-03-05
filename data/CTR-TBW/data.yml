@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000B3300
+  name: Milon´s Secret Castle
+  updates: []
+- regions:
+  - JP
+  id: 00040000000B3100
+  name: 迷宮組曲 ミロンの大冒険
+  updates: []
+- regions:
+  - US
+  id: 00040000000B3200
+  name: Milon's Secret Castle®
+  updates: []

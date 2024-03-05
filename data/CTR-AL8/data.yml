@@ -1,0 +1,60 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000D5700
+  name: 'Nintendo 3DS™ Guide: Louvre (German Version)'
+  updates:
+  - id: 0004000E000CB900
+    name: 'Nintendo 3DS™ Guide: Louvre (English Version) Update'
+  - id: 0004000E000D5600
+    name: 'Nintendo 3DS™ Guide: Louvre (French Version) Update'
+  - id: 0004000E000D5900
+    name: 'Nintendo 3DS™ Guide: Louvre (Spanish Version) Update'
+  - id: 0004000E000D5700
+    name: 'Nintendo 3DS™ Guide: Louvre (German Version) Update'
+  - id: 0004000E000D5800
+    name: 'Nintendo 3DS™ Guide: Louvre (Italian Version) Update'
+- regions:
+  - EU
+  - US
+  id: 00040000000D5600
+  name: 'Nintendo 3DS™ Guide: Louvre (French Version)'
+  updates:
+  - id: 0004000E000CB900
+    name: 'Nintendo 3DS™ Guide: Louvre (English Version) Update Ver. 1.1'
+  - id: 0004000E000D5600
+    name: 'Nintendo 3DS™ Guide: Louvre (French Version) Update Ver. 1.1'
+  - id: 0004000E000D5900
+    name: 'Nintendo 3DS™ Guide: Louvre (Spanish Version) Update Ver. 1.1'
+- regions:
+  - EU
+  id: 00040000000D5800
+  name: 'Nintendo 3DS™ Guide: Louvre (Italian Version)'
+  updates: []
+- regions:
+  - EU
+  - US
+  id: 00040000000CB900
+  name: 'Nintendo 3DS™ Guide: Louvre (English Version)'
+  updates: []
+- regions:
+  - EU
+  - US
+  id: 00040000000D5900
+  name: 'Nintendo 3DS™ Guide: Louvre (Spanish Version)'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000CB700
+  name: ニンテンドー3DSガイド ルーヴル美術館
+  updates:
+  - id: 0004000E000CB700
+    name: 更新データ Ver. 1.1 ニンテンドー3DSガイド ルーヴル美術館
+- regions:
+  - KR
+  id: 00040000000CBA00
+  name: 닌텐도 3DS 가이드 루브르 박물관
+  updates:
+  - id: 0004000E000CBA00
+    name: 업데이트 데이터 Ver. 1.1  닌텐도 3DS 가이드 루브르 박물관

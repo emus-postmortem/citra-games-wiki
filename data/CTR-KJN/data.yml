@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000162200
+  name: イジン爆闘!!ウデジマン
+  updates: []

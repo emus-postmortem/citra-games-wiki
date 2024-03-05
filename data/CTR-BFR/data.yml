@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000132100
+  name: Ultimate NES™ Remix
+  updates: []
+- regions:
+  - JP
+  id: 0004000000131F00
+  name: ファミコンリミックス ベストチョイス
+  updates: []
+- regions:
+  - US
+  id: 0004000000132000
+  name: Ultimate NES™ Remix
+  updates: []

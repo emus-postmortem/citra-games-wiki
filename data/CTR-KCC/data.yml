@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000175900
+  name: Cube Creator 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000173D00
+  name: キューブクリエイター3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000151100
+  name: Cube Creator 3D
+  updates: []

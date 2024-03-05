@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000072100
+  name: Super Black Bass 3D
+  updates: []
+- regions:
+  - JP
+  id: 000400000004A800
+  name: スーパーブラックバス 3Dファイト
+  updates: []
+- regions:
+  - US
+  id: 000400000009E800
+  name: Super Black Bass 3D
+  updates: []

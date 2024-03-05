@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000F4200
+  name: アイカツ!2人のmy princess
+  updates:
+  - id: 0004000E000F4200
+    name: 更新データ Ver. 1.2 アイカツ! 2人のmy princess

@@ -1,0 +1,7 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 000400000F704600
+  name: Percy's Predicament Deluxe
+  updates: []

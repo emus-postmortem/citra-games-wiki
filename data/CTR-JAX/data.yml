@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000F1A00
+  name: Mahjong 3D – Essentials
+  updates: []

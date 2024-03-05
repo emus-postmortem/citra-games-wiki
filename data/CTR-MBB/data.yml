@@ -1,0 +1,7 @@
+platform: DownloadableVideo
+releases:
+- regions:
+  - EU
+  id: 00040000000C5D00
+  name: 'The 3D Machine Series: Episode 4'
+  updates: []

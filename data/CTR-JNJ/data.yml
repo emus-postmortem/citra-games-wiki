@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000187700
+  name: ナゾのミニゲーム ちょいがえ
+  updates:
+  - id: 0004000E00187700
+    name: 更新データ Ver. 1.1 ナゾのミニゲーム ちょいがえ

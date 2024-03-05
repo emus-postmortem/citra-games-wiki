@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000110900
+  name: Gardenscapes つくろう!大庭園
+  updates: []
+- regions:
+  - US
+  id: 00040000000C0E00
+  name: Gardenscapes
+  updates: []

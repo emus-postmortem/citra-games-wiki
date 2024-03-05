@@ -1,0 +1,7 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - JP
+  id: 0004000000089800
+  name: コトバトル 天外の守人
+  updates: []

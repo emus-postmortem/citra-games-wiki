@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000015B400
+  name: 'Excave II: Wizard of the Underworld'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000128700
+  name: エクスケーブ ～異界の魔導師編～
+  updates: []
+- regions:
+  - US
+  id: 000400000015C500
+  name: 'Excave II :  Wizard of the Underworld'
+  updates: []

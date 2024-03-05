@@ -1,0 +1,19 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000AF700
+  name: "LEGO®  Legends of CHIMA: Laval's Journey"
+  updates:
+  - id: 0004000E000AF700
+    name: "LEGO®  Legends of CHIMA: Laval's Journey Update"
+- regions:
+  - KR
+  id: 0004000000115E00
+  name: 'LEGO Legends of Chima: 라발의 여행'
+  updates: []
+- regions:
+  - US
+  id: 00040000000AF800
+  name: "LEGO® Legends of Chima: Laval's Journey"
+  updates: []

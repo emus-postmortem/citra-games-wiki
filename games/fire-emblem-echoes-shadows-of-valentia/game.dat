@@ -1,0 +1,20 @@
+title = "Fire Emblem Echoes: Shadows of Valentia"
+description = "Fire Emblem Echoes: Shadows of Valentia is a tactical role-playing game developed by Intelligent Systems and published by Nintendo for the Nintendo 3DS handheld video game console."
+github_issues = [3134]
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001B4000"
+region = "usa"
+release_date = "2017-05-19"
+
+[[releases]]
+title = "00040000001B4100"
+region = "eur"
+release_date = "2017-05-19"
+
+[[releases]]
+title = "00040000001A2B00"
+region = "jpn"
+release_date = "2017-04-20"

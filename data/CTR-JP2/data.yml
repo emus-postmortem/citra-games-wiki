@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000CBC00
+  name: PICROSS e2
+  updates: []
+- regions:
+  - JP
+  id: 0004000000084600
+  name: ピクロスe2
+  updates: []
+- regions:
+  - US
+  id: 00040000000CD400
+  name: PICROSS e2
+  updates: []

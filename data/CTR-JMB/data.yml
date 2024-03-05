@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000BCA00
+  name: "Crazy Chicken: Director's Cut 3D"
+  updates: []
+- regions:
+  - JP
+  id: 000400000011FE00
+  name: クレイジーチキン ディレクターズカット3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000087400
+  name: "Crazy Chicken: Director's Cut 3D"
+  updates: []

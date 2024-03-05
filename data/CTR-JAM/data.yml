@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000007C500
+  name: Dillon's Rolling Western™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000059B00
+  name: ザ･ローリング･ウエスタン
+  updates: []
+- regions:
+  - KR
+  id: 00040000000EDD00
+  name: Dillon's Rolling Western
+  updates: []
+- regions:
+  - US
+  id: 000400000007C400
+  name: Dillon's Rolling Western™
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000011B500
+  name: 大人 VS グレコ 漢字の塔とオバケたち 常識編
+  updates: []

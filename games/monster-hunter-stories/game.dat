@@ -1,0 +1,19 @@
+title = "Monster Hunter Stories"
+description = "Monster Hunter Stories is a role-playing video game developed by Marvelous and published by Capcom. It is a spin-off title set within the Monster Hunter series. Unlike any of the previous titles in the Monster Hunter series, Monster Hunter Stories lets players take on the role of a Rider instead of a Hunter, and are able to battle in an role-playing turn-based system."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001BC500"
+region = "usa"
+release_date = "2017-09-08"
+
+[[releases]]
+title = "00040000001BC600"
+region = "eur"
+release_date = "2017-09-08"
+
+[[releases]]
+title = "000400000016E100"
+region = "jpn"
+release_date = "2016-10-08"

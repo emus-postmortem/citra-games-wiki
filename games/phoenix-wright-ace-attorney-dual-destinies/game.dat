@@ -1,0 +1,30 @@
+title = "Phoenix Wright: Ace Attorney - Dual Destinies"
+description = "Phoenix Wright: Ace Attorney - Dual Destinies, is a visual novel adventure video game developed and published by Capcom. It is the fifth main entry in the Ace Attorney series. The game is set around a year after the previous game, Apollo Justice: Ace Attorney, in a time where the court system has entered a dark era of false charges and fabricated evidence. The player takes the roles of three defense attorneys who defend their clients in multiple cases and try to restore confidence in the courts."
+github_issues = [2505, 1521]
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "00040000000F1400"
+region = "usa"
+release_date = "2013-10-24"
+
+[[ releases ]]
+title = "00040000000F1E00"
+region = "eur"
+release_date = "2013-10-24"
+
+[[ releases ]]
+title = "00040000000BAA00"
+region = "jpn"
+release_date = "2013-07-25"
+
+[[ testcases ]]
+title = "00040000000F1400"
+compatibility = "3"
+date = "2017-06-10"
+version = "HEAD-9a8a90b"
+author = "Hexagon12"
+cpu = "Intel Core i3-6100"
+gpu = "Nvidia GTX 750 Ti"
+os = "Windows 10 Pro 15063"

@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000D4800
+  name: My Riding Stables 3D–  Jumping for the Team
+  updates: []

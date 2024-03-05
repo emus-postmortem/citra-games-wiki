@@ -1,0 +1,11 @@
+title = "Pokémon Alpha Sapphire"
+description = "Pokémon Alpha Sapphire is a 2014 role-playing video game developed by Game Freak and published by Nintendo for the Nintendo 3DS family of systems. It is part of the sixth generation of the Pokémon series, serving as enhanced remake of the 2002 Game Boy Advance title Pokémon Sapphire."
+github_issues = [2419, 3703]
+needs_system_files = true
+needs_shared_font = true
+wiki_override = "pokemon-omega-ruby-alpha-sapphire"
+
+[[ releases ]]
+title = "000400000011C500"
+region = "all"
+release_date = "2014-11-21"

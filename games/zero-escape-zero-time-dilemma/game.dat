@@ -1,0 +1,19 @@
+title = "Zero Time Dilemma"
+description = "Zero Time Dilemma is an adventure video game developed by Chime and published by Spike Chunsoft in Japan and Aksys Games in North America and Europe. It is a direct sequel to Zero Escape: Virtues Last Reward and Zero Escape: Nine Hours Nine Persons Nine Doors."
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "000400000017B200"
+region = "usa"
+release_date = "2016-06-28"
+
+[[releases]]
+title = "0004000000180F00"
+region = "jpn"
+release_date = "2016-06-30"
+
+[[releases]]
+title = "0004000000182700"
+region = "eur"
+release_date = "2016-06-28"

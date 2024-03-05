@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000117C00
+  name: Color Zen
+  updates: []
+- regions:
+  - JP
+  id: 000400000015EB00
+  name: カラフリラックス 色彩合わせ
+  updates: []
+- regions:
+  - US
+  id: 0004000000116D00
+  name: Color Zen
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000121F00
+  name: 神創世界グリンシア
+  updates: []
+- regions:
+  - US
+  id: 0004000000111100
+  name: Grinsia
+  updates: []

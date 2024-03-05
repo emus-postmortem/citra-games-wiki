@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 000400000008D400
+  name: NANO ASSAULT
+  updates: []
+- regions:
+  - US
+  id: 0004000000047B00
+  name: Nano Assault
+  updates: []

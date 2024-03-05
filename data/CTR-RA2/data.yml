@@ -1,0 +1,17 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 000400000004FF00
+  name: ADVENTURE ISLAND
+  updates: []
+- regions:
+  - JP
+  id: 000400000004FD00
+  name: 高橋名人の冒険島Ⅱ
+  updates: []
+- regions:
+  - US
+  id: 000400000004FE00
+  name: Adventure Island
+  updates: []

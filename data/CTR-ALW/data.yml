@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000167000
+  name: I Love My Dogs
+  updates: []
+- regions:
+  - US
+  id: 0004000000167200
+  name: I Love My Dogs
+  updates: []

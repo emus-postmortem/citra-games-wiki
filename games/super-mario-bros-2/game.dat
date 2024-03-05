@@ -1,0 +1,22 @@
+title = "Super Mario Bros. 2"
+description = "Super Mario Bros. 2 is a platform game developed and published by Nintendo. The objective of the game is to navigate the player's character through the dream world Subcon and defeat the main antagonist Wart."
+github_issues = [2552]
+needs_system_files = false
+needs_shared_font = true
+game_type = "vc"
+vc_system = "nes"
+
+[[ releases ]]
+title = "00040000000A6200"
+region = "usa"
+release_date = "2013-07-11"
+
+[[ testcases ]]
+title = "00040000000A6200"
+compatibility = "1"
+date = "2017-06-11"
+version = "HEAD-9a8a90b"
+author = "Hexagon12"
+cpu = "Intel Core i3-6100"
+gpu = "Nvidia GTX 750 Ti"
+os = "Windows 10 Pro 15063"

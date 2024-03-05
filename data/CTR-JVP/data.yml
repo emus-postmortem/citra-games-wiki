@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000089200
+  name: 夜の魔人といくさの国 ～さまよえるヴァンピール～
+  updates: []

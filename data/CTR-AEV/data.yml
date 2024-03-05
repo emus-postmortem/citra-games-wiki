@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001AE100
+  name: 進撃の巨人　死地からの脱出
+  updates: []

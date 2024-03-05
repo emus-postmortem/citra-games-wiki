@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000174A00
+  name: 食戟のソーマ 友情と絆の一皿
+  updates: []

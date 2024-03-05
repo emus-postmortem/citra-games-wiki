@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000012C300
+  name: Best of Mahjong
+  updates: []
+- regions:
+  - US
+  id: 0004000000123500
+  name: Best of Mahjong
+  updates: []

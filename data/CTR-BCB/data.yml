@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000EE100
+  name: 戦闘中 伝説の忍とサバイバルバトル!
+  updates: []

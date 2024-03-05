@@ -1,0 +1,17 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70A200
+  name: 6180 the moon
+  updates: []
+- regions:
+  - JP
+  id: 000400000F70A300
+  name: 6180 the moon
+  updates: []
+- regions:
+  - US
+  id: 000400000F70A500
+  name: 6180 the moon
+  updates: []

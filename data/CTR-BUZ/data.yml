@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000018EA00
+  name: ONE PIECE 大海賊闘技場
+  updates:
+  - id: 0004000E0018EA00
+    name: 更新データ Ver. 1.1.0 ONE PIECE 大海賊闘技場

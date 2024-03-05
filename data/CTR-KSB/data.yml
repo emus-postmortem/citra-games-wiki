@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000018C000
+  name: The Legend of Kusakari
+  updates: []
+- regions:
+  - JP
+  id: 0004000000162B00
+  name: シバ･カーリーの伝説
+  updates: []
+- regions:
+  - US
+  id: 000400000018B800
+  name: 'The Legend of Kusakari  '
+  updates: []

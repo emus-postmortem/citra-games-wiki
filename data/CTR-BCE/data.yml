@@ -1,0 +1,19 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000016E700
+  name: FINAL FANTASY EXPLORERS™
+  updates: []
+- regions:
+  - JP
+  id: 000400000010E200
+  name: FINAL FANTASY EXPLORERS
+  updates:
+  - id: 0004000E0010E200
+    name: 更新データ Ver. 1.2 FINAL FANTASY EXPLORERS
+- regions:
+  - US
+  id: 000400000016ED00
+  name: FINAL FANTASY EXPLORERS
+  updates: []

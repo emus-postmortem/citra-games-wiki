@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000177E00
+  name: モノカゲクエスト
+  updates:
+  - id: 0004000E00177E00
+    name: 更新データ Ver. 1.1 モノカゲクエスト

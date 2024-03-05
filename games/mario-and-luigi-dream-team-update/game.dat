@@ -1,0 +1,30 @@
+title = "Mario & Luigi: Dream Team"
+description = "Mario & Luigi: Dream Team, known in Europe and Australia as Mario & Luigi: Dream Team Bros. and in Japan as Mario & Luigi RPG 4: Dream Adventure (マリオ&ルイージRPG4 ドリームアドベンチャー Mario ando Ruīji Aru Pī Jī Fō: Dorīmu Adobenchā), is a role-playing video game developed by AlphaDream for the Nintendo 3DS."
+github_issues = [2617]
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "00040000000D5A00"
+region = "usa"
+release_date = "2013-08-11"
+
+[[ releases ]]
+title = "00040000000D9000"
+region = "eur"
+release_date = "2013-07-12"
+
+[[ releases ]]
+title = "0004000000060600"
+region = "jpn"
+release_date = "2013-07-18"
+
+[[ testcases ]]
+title = "00040000000D5A00"
+compatibility = "1"
+date = "2017-06-08"
+version = "HEAD-8c22334"
+author = "Clector"
+cpu = "Intel Core i3-4160"
+gpu = "Intel HD Graphics 4400"
+os = "Windows 8.1"

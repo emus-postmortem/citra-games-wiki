@@ -1,0 +1,14 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000136C00
+  name: 'Inazuma Eleven® GO Chrono Stones: Wildfire'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000A1B00
+  name: イナズマイレブンGO2 クロノ･ストーン ネップウ
+  updates:
+  - id: 0004000E000A1B00
+    name: 更新データ Ver. 1.3 イナズマイレブン GO2 クロノ･ストーン ネップウ

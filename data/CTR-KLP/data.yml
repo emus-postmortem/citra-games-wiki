@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000157300
+  name: マル合格! 簿記3級 仕訳ドリル
+  updates: []

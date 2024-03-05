@@ -1,0 +1,24 @@
+title = "Rayman 3D"
+description = "Rayman 3D is an action-adventure video game developed and published by Ubisoft. It is a direct port of the Sega Dreamcast version of Rayman 2: The Great Escape. The game is in full 3D and has enhanced graphics and widescreen display."
+needs_system_files = true
+needs_shared_font = true
+
+[[ releases ]]
+title = "0004000000036400"
+region = "usa"
+release_date = "2011-03-22"
+
+[[releases]]
+title = "0004000000033900"
+region = "eur"
+release_date = "2011-03-25"
+
+[[testcases]]
+title = "0004000000033900"
+compatibility = "0"
+date = "2017-11-30"
+version = "HEAD-b2a9904"
+cpu = "AMD FX-6300"
+gpu = "Nvidia GeForce GTX 960"
+os = "Windows 7 6.1.7601"
+author = "greggameplayer"

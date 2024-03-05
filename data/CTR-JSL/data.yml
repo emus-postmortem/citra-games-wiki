@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000008AA00
+  name: 3D Solitaire
+  updates: []
+- regions:
+  - US
+  id: 000400000008C100
+  name: 3D Solitaire
+  updates: []

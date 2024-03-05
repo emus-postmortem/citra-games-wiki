@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000178300
+  name: プリパラ めざせ! アイドル☆グランプリNo.1!
+  updates: []

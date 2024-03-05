@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000BEF00
+  name: Brilliant Hamsters!
+  updates: []
+- regions:
+  - JP
+  id: 0004000000078900
+  name: おしゃれハムスターと暮らそう いっしょにおでかけ
+  updates: []
+- regions:
+  - US
+  id: 00040000000C1B00
+  name: Brilliant Hamsters!
+  updates: []

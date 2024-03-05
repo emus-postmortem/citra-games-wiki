@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000016AD00
+  name: ドラゴンクエストモンスターズ ジョーカー3
+  updates:
+  - id: 0004000E0016AD00
+    name: 更新データ Ver. 1.1 DQM ジョーカー3

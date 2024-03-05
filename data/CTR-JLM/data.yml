@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000DE100
+  name: Lola's Math Train
+  updates: []
+- regions:
+  - JP
+  id: 00040000000C9A00
+  name: ローラのさんすうでんしゃ
+  updates: []

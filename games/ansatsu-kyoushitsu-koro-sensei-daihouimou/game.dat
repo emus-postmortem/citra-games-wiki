@@ -1,0 +1,9 @@
+title = "Ansatsu Kyoushitsu - Koro-sensei Daihouimou!!"
+description = "A video game based on the series, Assassination Classroom: Koro-sensei's Great Besiegement!! (暗殺教室 殺せんせー大包囲網!! Ansatsu Kyōshitsu: Koro-sensei Dai Hōimō), was developed by Bandai Namco Games and released on Nintendo 3DS in Japan."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000152900"
+region = "jpn"
+release_date = "2015-03-12"

@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001D1F00
+  name: Kirby's Extra Epic Yarn
+  updates: []
+- regions:
+  - JP
+  id: 00040000001D1200
+  name: 毛糸のカービィ プラス
+  updates: []
+- regions:
+  - KR
+  id: 00040000001D7500
+  name: 털실 커비 이야기 플러스
+  updates: []
+- regions:
+  - US
+  id: 00040000001D1E00
+  name: Kirby’s Extra Epic Yarn™
+  updates: []

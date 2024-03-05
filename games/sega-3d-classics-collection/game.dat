@@ -1,0 +1,31 @@
+title = "SEGA 3D Classics Collection"
+description = "Sega 3D Classics Collection is a video game compilation developed by M2 and published by Sega for the Nintendo 3DS. In Japan, the collection was released under the title Sega 3D Fukkoku Archives 2. It is a successor to the 2014 Japan-only video game compilation Sega 3D Fukkoku Archives."
+needs_system_files = false
+needs_shared_font = true
+game_type = "3ds"
+incomplete = true
+
+[[ releases ]]
+title = "0004000000185E00"
+region = "usa"
+release_date = "2012-04-12"
+
+[[ releases ]]
+title = "000400000019A700"
+region = "eur"
+release_date = "2012-04-05"
+
+[[ releases ]]
+title = "0004000000154000"
+region = "jpn"
+release_date = "2012-01-19"
+
+[[ testcases ]]
+title = "0004000000185E00"
+compatibility = "4"
+date = "2017-07-04"
+version = "HEAD-22e7402"
+author = "DrewThatGamer"
+cpu = "Intel Core i5 6400"
+gpu = "NVIDIA GeForce GTX 1050"
+os = "Windows 10"

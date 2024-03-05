@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000052A00
+  name: 3Dブロック崩し
+  updates: []

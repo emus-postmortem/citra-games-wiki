@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000C3500
+  name: '脱出アドベンチャー 魔女の住む館 '
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001A7600
+  name: 脱出アドベンチャー 第七の予言
+  updates: []

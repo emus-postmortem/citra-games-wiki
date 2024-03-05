@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000092000
+  name: Gummy Bears Magical Medallion
+  updates: []
+- regions:
+  - US
+  id: 00040000000CFC00
+  name: Gummy Bears Magical Medallion
+  updates: []

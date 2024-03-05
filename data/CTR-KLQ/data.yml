@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000157400
+  name: マル合格! 簿記2級 仕訳ドリル 商業簿記･工業簿記
+  updates: []

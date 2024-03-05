@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000128C00
+  name: プチノベル「恋々の三月」
+  updates: []

@@ -1,0 +1,7 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 000400000F711400
+  name: Storm Chaser - Tornado Alley
+  updates: []

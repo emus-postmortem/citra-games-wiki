@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000F5000
+  name: 仮面ライダー トラベラーズ戦記
+  updates: []

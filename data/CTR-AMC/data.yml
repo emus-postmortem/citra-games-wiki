@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000AB700
+  name: マダガスカル3
+  updates: []
+- regions:
+  - US
+  id: 0004000000087D00
+  name: 'Madagascar 3:  The Video Game'
+  updates: []

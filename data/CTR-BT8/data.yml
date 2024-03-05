@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000190E00
+  name: 太鼓の達人 ドコドン！ ミステリーアドベンチャー
+  updates:
+  - id: 0004000E00190E00
+    name: 更新データ Ver. 1.1 太鼓の達人 ドコドン！ ミステリーアドベンチャー

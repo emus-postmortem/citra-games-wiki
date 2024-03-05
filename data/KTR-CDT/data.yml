@@ -1,0 +1,17 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70ED00
+  name: 'Physical Contact: Picture Place'
+  updates: []
+- regions:
+  - JP
+  id: 000400000F70E500
+  name: 密着対戦ピクプレ
+  updates: []
+- regions:
+  - US
+  id: 000400000F70EB00
+  name: 'Physical Contact: Picture Place'
+  updates: []

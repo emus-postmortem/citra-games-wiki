@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000016B400
+  name: ドロップゾーン アンダーファイヤ
+  updates: []
+- regions:
+  - US
+  id: 000400000015F100
+  name: Drop Zone - Under Fire
+  updates: []

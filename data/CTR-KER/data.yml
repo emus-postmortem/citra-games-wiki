@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000136500
+  name: EYERESH for ニンテンドー3DS 眼のストレッチ&トレーニング
+  updates:
+  - id: 0004000E00136500
+    name: 更新データ Ver. 1.1 EYERESH for ニンテンドー3DS 眼のストレッチ&トレーニング

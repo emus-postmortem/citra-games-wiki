@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  - JP
+  - US
+  id: 00040000001D2900
+  name: Detective Pikachu™ Special Demo
+  updates: []

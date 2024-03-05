@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000A7600
+  name: ワールドサッカー ウイニングイレブン 2013
+  updates: []

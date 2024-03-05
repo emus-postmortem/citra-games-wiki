@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000019DC00
+  name: 'Lionel City Builder 3D: Rise of the Rails'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000198000
+  name: トレインクリエイター3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000151300
+  name: 'Lionel City Builder 3D: Rise of the Rails'
+  updates: []

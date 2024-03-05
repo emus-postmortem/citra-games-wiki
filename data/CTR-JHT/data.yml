@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000073E00
+  name: ニコリのパズル ひとりにしてくれ
+  updates: []
+- regions:
+  - KR
+  id: 0004000000109D00
+  name: Hitori by Nikoli
+  updates: []
+- regions:
+  - US
+  id: 0004000000092900
+  name: Hitori by Nikoli
+  updates: []

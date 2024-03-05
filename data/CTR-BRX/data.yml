@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000148900
+  name: 'Hatsune Miku: Project Mirai DX'
+  updates: []
+- regions:
+  - JP
+  id: 000400000014A800
+  name: 初音ミク Project mirai でらっくす
+  updates: []
+- regions:
+  - KR
+  id: 0004000000153100
+  name: Hatsune Miku  Project mirai DX
+  updates: []
+- regions:
+  - US
+  id: 0004000000148C00
+  name: 'Hatsune Miku: Project Mirai DX'
+  updates: []

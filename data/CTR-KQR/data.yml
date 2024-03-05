@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000017D300
+  name: Q
+  updates:
+  - id: 0004000E0017D300
+    name: 更新データ Ver. 1.1 Q

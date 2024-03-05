@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000182F00
+  name: パズドラクロス 神の章
+  updates:
+  - id: 0004000E00182F00
+    name: 更新データ Ver. 4.0 パズドラクロス 神の章

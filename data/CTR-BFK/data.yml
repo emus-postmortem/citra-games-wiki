@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000154000
+  name: セガ3D復刻アーカイブス
+  updates: []

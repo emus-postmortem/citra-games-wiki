@@ -1,0 +1,66 @@
+title = "Yo-kai Watch 2"
+description = "Yo-kai Watch 2 is the second installment in the Yo-kai Watch series. It was developed and published by Level-5 in Japan, and by Nintendo in the west. It was released as a pair subtitled Bony Spirits and Fleshy Souls with an enhanced version subtitled Psychic Specters released later."
+incomplete = true
+github_issues = [2938]
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "000400000019A900"
+region = "usa"
+release_date = "2016-09-30"
+
+[[releases]]
+title = "000400000019AB00"
+region = "eur"
+release_date = "2017-04-07"
+
+[[releases]]
+title = "000400000019B000"
+region = "eur"
+release_date = "2017-04-07"
+
+[[releases]]
+title = "000400000012F900"
+region = "jpn"
+release_date = "2014-07-10"
+
+[[releases]]
+title = "000400000019AA00"
+region = "usa"
+release_date = "2016-09-30"
+
+[[releases]]
+title = "000400000019AC00"
+region = "eur"
+release_date = "2017-04-07"
+
+[[releases]]
+title = "000400000019B100"
+region = "eur"
+release_date = "2017-04-07"
+
+[[releases]]
+title = "000400000012F800"
+region = "jpn"
+release_date = "2014-07-10"
+
+[[releases]]
+title = "00040000001B2700"
+region = "usa"
+release_date = "2017-09-29"
+
+[[releases]]
+title = "00040000001B2900"
+region = "eur"
+release_date = "2017-09-29"
+
+[[releases]]
+title = "00040000001B2800"
+region = "eur"
+release_date = "2017-09-29"
+
+[[releases]]
+title = "0004000000155100"
+region = "jpn"
+release_date = "2014-12-13"

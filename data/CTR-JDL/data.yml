@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000DE300
+  name: 3D Ecco The Dolphin
+  updates: []
+- regions:
+  - JP
+  id: 00040000000EE700
+  name: 3D エコー･ザ･ドルフィン
+  updates: []
+- regions:
+  - US
+  id: 00040000000D9E00
+  name: '3D Ecco the Dolphin™ '
+  updates: []

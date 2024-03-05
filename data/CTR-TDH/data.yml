@@ -1,0 +1,7 @@
+platform: NES
+releases:
+- regions:
+  - JP
+  id: 00040000000E9F00
+  name: SDガンダムワールド ガチャポン 戦士 スクランブルウォーズ
+  updates: []

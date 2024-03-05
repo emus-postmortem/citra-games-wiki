@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000162300
+  name: PUZZLE & DRAGONS SUPER MARIO BROS. EDITION
+  updates:
+  - id: 0004000E00162300
+    name: 更新データ Ver. 2.0 PUZZLE & DRAGONS SUPER MARIO BROS. EDITION

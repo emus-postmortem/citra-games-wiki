@@ -1,0 +1,11 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  - JP
+  - US
+  id: 00040000001D1C00
+  name: WarioWare™ Gold
+  updates:
+  - id: 0004000E001D1C00
+    name: Warioware™ Gold  Update Ver. 1.1

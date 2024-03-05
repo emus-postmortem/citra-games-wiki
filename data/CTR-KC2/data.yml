@@ -1,0 +1,24 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000148500
+  name: The Legend of Dark Witch - Chronicle 2D ACT
+  updates: []
+- regions:
+  - JP
+  id: 0004000000145300
+  name: 魔神少女 -Chronicle 2D ACT-
+  updates:
+  - id: 0004000E00145300
+    name: 更新データ Ver. 1.1 魔神少女 -Chronicle 2D ACT-
+- regions:
+  - TW
+  id: 000400000015A600
+  name: 魔神少女 -Chronicle 2D ACT-(繁體中文版)
+  updates: []
+- regions:
+  - US
+  id: 000400000014EE00
+  name: The Legend of Dark Witch
+  updates: []

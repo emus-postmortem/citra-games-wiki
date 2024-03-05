@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000116900
+  name: Sayonara UmiharaKawase
+  updates: []
+- regions:
+  - JP
+  id: 00040000000C9100
+  name: さよなら 海腹川背
+  updates: []
+- regions:
+  - KR
+  id: 00040000000F9A00
+  name: Sayonara Umihara Kawase
+  updates: []
+- regions:
+  - US
+  id: 0004000000112D00
+  name: Yumi's Odd Odyssey™
+  updates: []

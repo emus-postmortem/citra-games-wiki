@@ -1,0 +1,27 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000F1E00
+  name: 'Phoenix Wright™: Ace Attorney™ – Dual Destinies'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000BAA00
+  name: 逆転裁判5
+  updates: []
+- regions:
+  - KR
+  id: 00040000000FEB00
+  name: 'Phoenix Wright: Ace Attorney - Dual Destinies'
+  updates: []
+- regions:
+  - TW
+  id: 00040000000FD300
+  name: 逆轉裁判 5 (英文版)
+  updates: []
+- regions:
+  - US
+  id: 00040000000F1400
+  name: 'Phoenix Wright®: Ace  Attorney® - Dual Destinies'
+  updates: []

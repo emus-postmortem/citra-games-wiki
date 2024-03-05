@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000BB200
+  name: 'Dress To Play: Cute Witches!'
+  updates: []
+- regions:
+  - JP
+  id: 000400000012A300
+  name: 'スター★シリーズ: キュートウィッチ'
+  updates: []
+- regions:
+  - US
+  id: 00040000000B7700
+  name: 'Dress To Play: Cute Witches!'
+  updates: []

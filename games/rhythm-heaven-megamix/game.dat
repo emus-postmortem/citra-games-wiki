@@ -1,0 +1,32 @@
+title = "Rhythm Heaven Megamix"
+description = "Rhythm Heaven Megamix, known in Europe as Rhythm Paradise Megamix, and in Japan as Rhythm Tengoku: The Best Plus, is a rhythm game developed and published by Nintendo for the Nintendo 3DS. It is the fourth game in Nintendo's Rhythm Heaven series and compiles stages from the series' previous entries; Rhythm Tengoku, Rhythm Heaven, and Rhythm Heaven Fever, as well as adding new ones."
+incomplete = true
+github_issues = [2543]
+needs_system_files = true
+needs_shared_font = true
+game_type = "3ds"
+
+[[ releases ]]
+title = "000400000018A400"
+region = "usa"
+release_date = "2011-09-16"
+
+[[ releases ]]
+title = "000400000018A500"
+region = "eur"
+release_date = "2014-09-19"
+
+[[ releases ]]
+title = "0004000000155A00"
+region = "jpn"
+release_date = "2015-06-11"
+
+[[ testcases ]]
+title = "000400000018A400"
+compatibility = "2"
+date = "2017-07-04"
+version = "HEAD-22e7402"
+author = "DrewThatGamer"
+cpu = "Intel Core i5 6400"
+gpu = "NVIDIA GeForce GTX 1050"
+os = "Windows 10"

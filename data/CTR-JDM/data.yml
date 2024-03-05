@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000D9600
+  name: THE STARSHIP DAMREY™
+  updates: []
+- regions:
+  - JP
+  id: 00040000000D0E00
+  name: 宇宙船ダムレイ号
+  updates: []
+- regions:
+  - US
+  id: 00040000000D9900
+  name: THE STARSHIP DAMREY™
+  updates: []

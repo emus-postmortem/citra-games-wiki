@@ -1,0 +1,19 @@
+title = "Downtown no Gaki no Tsukai ya Arahende!! Zettai ni Tsukamatte ha Ikenai Gasu Kuropikari Land"
+description = "Based off Gaki no Tsukai's New Years No-Laughing batsu games, in this 3D action game the challenge is 'Do not get caught.' Failing to do so will result in harsh punishments by black demons. Battle with up to 4 people, including appearances from many familiar characters."
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "000400000017D800"
+region = "jpn"
+release_date = "2015-12-17"
+
+[[ testcases ]]
+title = "000400000017D800"
+compatibility = "0"
+date = "2017-06-10"
+version = "HEAD-8f0a23b"
+author = "SonofUgly"
+cpu = "i5-6600k @ 4.3GHz"
+gpu = "GeForce GTX 750Ti"
+os = "Windows 8.1"

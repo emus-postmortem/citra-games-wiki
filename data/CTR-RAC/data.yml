@@ -1,0 +1,22 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 0004000000041000
+  name: Alleyway™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000040F00
+  name: アレイウェイ
+  updates: []
+- regions:
+  - KR
+  id: 0004000000195F00
+  name: Alleyway
+  updates: []
+- regions:
+  - US
+  id: 0004000000040E00
+  name: Alleyway™
+  updates: []

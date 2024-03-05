@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001A3000
+  name: Doll Fashion Atelier
+  updates: []
+- regions:
+  - JP
+  id: 0004000000154D00
+  name: アトリエ デコ ラ ドール コレクション
+  updates: []
+- regions:
+  - KR
+  id: 000400000017E700
+  name: 내맘대로 프린세스 컬렉션
+  updates: []
+- regions:
+  - US
+  id: 000400000018AA00
+  name: Doll Fashion Atelier
+  updates: []

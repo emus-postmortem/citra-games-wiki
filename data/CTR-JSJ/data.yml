@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000091800
+  name: Sweet Memories Blackjack
+  updates: []
+- regions:
+  - JP
+  id: 00040000000AB400
+  name: 「いつでも一緒に。」BLACKJACK
+  updates: []
+- regions:
+  - US
+  id: 0004000000092700
+  name: Sweet Memories - Blackjack
+  updates: []

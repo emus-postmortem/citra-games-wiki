@@ -1,0 +1,40 @@
+title = "Pokémon Super Mystery Dungeon"
+description = "Pokémon Super Mystery Dungeon is a roguelike video game in the Pokémon Mystery Dungeon series developed by Spike Chunsoft and published by The Pokémon Company for the Nintendo 3DS handheld game console. Like its predecessors, players control a human who has awoken as a Pokémon in a world filled entirely by the series' eponymous creatures, and must travel through random-generated dungeons completing missions and battling enemies to unravel the story."
+github_issues = [2118]
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000174600"
+region = "usa"
+release_date = "2016-02-20"
+
+[[ releases ]]
+title = "0004000000174400"
+region = "eur"
+release_date = "2016-02-19"
+
+[[ releases ]]
+title = "0004000000149B00"
+region = "jpn"
+release_date = "2015-09-17"
+
+[[ testcases ]]
+title = "0004000000174400"
+compatibility = "2"
+date = "2017-06-05"
+version = "HEAD-8f0a23b"
+author = "selby"
+cpu = "Intel i5 6600k"
+gpu = "MSI GTX 1070"
+os = "Windows 10 10.0.14393"
+
+[[ testcases ]]
+title = "0004000000174600"
+compatibility = "1"
+date = "2017-07-23"
+version = "HEAD-081304e"
+author = "Breadfish64"
+cpu = "Intel Core i7-4700mq"
+gpu = "Nvidia Geforce GT 740m"
+os = "Windows 10 Home 1703"

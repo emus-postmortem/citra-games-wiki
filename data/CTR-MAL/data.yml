@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000AA400
+  name: ひつじのショーン3D 第3巻
+  updates: []

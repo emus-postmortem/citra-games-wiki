@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001A0D00
+  name: 斉木楠雄のΨ難 史上Ψ大のΨ難!?
+  updates: []

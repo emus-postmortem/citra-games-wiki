@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000115500
+  name: マジンボーン 時間と空間の魔神
+  updates: []

@@ -1,0 +1,19 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001BCA00
+  name: Culdcept Revolt
+  updates: []
+- regions:
+  - JP
+  id: 00040000000F5700
+  name: カルドセプト® リボルト
+  updates:
+  - id: 0004000E000F5700
+    name: 更新データ Ver. 1.2 カルドセプト® リボルト
+- regions:
+  - US
+  id: 00040000001BEC00
+  name: Culdcept Revolt
+  updates: []

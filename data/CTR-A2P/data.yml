@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001C4600
+  name: １２歳。とろけるパズル ふたりのハーモニー
+  updates: []

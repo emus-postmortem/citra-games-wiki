@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000019E500
+  name: 'Blasting Agent: Ultimate Edition'
+  updates: []
+- regions:
+  - JP
+  id: 00040000001BDF00
+  name: BLASTING AGENT ULTIMATE EDITION
+  updates: []
+- regions:
+  - US
+  id: 000400000019F200
+  name: 'Blasting Agent: Ultimate Edition'
+  updates: []

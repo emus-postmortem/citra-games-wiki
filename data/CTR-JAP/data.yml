@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000BC200
+  name: 'AERO PORTER™ '
+  updates: []
+- regions:
+  - JP
+  id: 00040000000C8600
+  name: AERO PORTER
+  updates: []
+- regions:
+  - US
+  id: 00040000000BC000
+  name: AERO PORTER
+  updates: []

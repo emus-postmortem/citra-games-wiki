@@ -1,0 +1,20 @@
+title = "My Nintendo Picross: The Legend of Zelda: Twilight Princess"
+description = "My Nintendo Picross: The Legend of Zelda: Twilight Princess is a Picross-based puzzle spin-off game, also known as a nonogram, with a theme based on Twilight Princess."
+needs_system_files = false
+needs_shared_font = true
+game_type = "eshop"
+
+[[ releases ]]
+title = "0004000000186700"
+region = "all"
+release_date = "2013-03-17"
+
+[[ testcases ]]
+title = "0004000000186700"
+compatibility = "0"
+date = "2017-06-05"
+version = "HEAD-8f0a23b"
+author = "SonofUgly"
+cpu = "i5-6600k @ 4.3GHz"
+gpu = "GeForce GTX 750Ti"
+os = "Windows 8.1"

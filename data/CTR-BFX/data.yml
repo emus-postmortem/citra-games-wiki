@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - US
+  id: 0004000000179400
+  name: 'Fire Emblem Fates: Birthright'
+  updates: []

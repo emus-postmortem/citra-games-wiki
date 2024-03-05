@@ -1,0 +1,24 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001A4900
+  name: Ever Oasis™
+  updates:
+  - id: 0004000E001A4900
+    name: 'Ever Oasis™:  Update'
+- regions:
+  - JP
+  - KR
+  id: 0004000000164A00
+  name: Ever Oasis 精霊とタネビトの蜃気楼
+  updates: []
+- regions:
+  - KR
+  - TW
+  - US
+  id: 00040000001A4800
+  name: Ever Oasis™
+  updates:
+  - id: 0004000E001A4800
+    name: Ever Oasis™  Update Ver. 1.1

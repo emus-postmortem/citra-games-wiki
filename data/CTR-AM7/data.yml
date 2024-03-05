@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000008FB00
+  name: MYST
+  updates: []
+- regions:
+  - US
+  id: 000400000007C200
+  name: Myst
+  updates: []

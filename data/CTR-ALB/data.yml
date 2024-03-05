@@ -1,0 +1,17 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 000400000005A400
+  name: 'LEGO® Batman 2™: DC Super Heroes'
+  updates: []
+- regions:
+  - KR
+  id: 00040000000C6A00
+  name: '레고 배트맨2: DC 슈퍼 히어로즈'
+  updates: []
+- regions:
+  - US
+  id: 000400000005A200
+  name: 'LEGO® Batman™ 2: DC Super Heroes'
+  updates: []

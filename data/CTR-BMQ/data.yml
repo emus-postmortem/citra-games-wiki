@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000113400
+  name: メダロット8 クワガタVer.
+  updates:
+  - id: 0004000E00113400
+    name: 更新データ Ver. 1.1 メダロット8 クワガタVer.

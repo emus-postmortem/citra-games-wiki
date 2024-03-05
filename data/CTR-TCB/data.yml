@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000BDC00
+  name: Castlevania Ⅱ Simon's Quest
+  updates: []
+- regions:
+  - JP
+  id: 00040000000BDA00
+  name: ドラキュラⅡ 呪いの封印
+  updates: []
+- regions:
+  - US
+  id: 00040000000BDB00
+  name: "Castlevania II: Simon's Quest"
+  updates: []

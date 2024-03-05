@@ -1,0 +1,21 @@
+title = "Kirby's Blowout Blast"
+description = "Kirby's Blowout Blast, known as \"Kirby no Suikomi Daisakusen\" in Japan, is a 3D platforming game in the Kirby series, developed by HAL Laboratory and published by Nintendo. It is an expanded spin-off game of the Kirby 3D Rumble sub-game in Kirby: Planet Robobot."
+incomplete = true
+needs_system_files = false
+needs_shared_font = true
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000196F00"
+region = "usa"
+release_date = "2016-07-06"
+
+[[releases]]
+title = "0004000000196F00"
+region = "jpn"
+release_date = "2016-07-04"
+
+[[releases]]
+title = "0004000000196F00"
+region = "eur"
+release_date = "2016-07-06"

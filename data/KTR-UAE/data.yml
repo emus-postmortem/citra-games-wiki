@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F701600
+  name: EarthBound™
+  updates: []
+- regions:
+  - JP
+  id: 000400000F701500
+  name: MOTHER2 ギーグの逆襲
+  updates: []

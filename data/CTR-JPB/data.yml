@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000005A100
+  name: 'ARC STYLE: 三国志Pinball'
+  updates: []

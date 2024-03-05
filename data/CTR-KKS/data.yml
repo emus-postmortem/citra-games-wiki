@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001AB300
+  name: Kutar Burger Factory
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A2100
+  name: クターの地下バーガー工場
+  updates: []
+- regions:
+  - US
+  id: 00040000001ABE00
+  name: Kutar Burger Factory
+  updates: []

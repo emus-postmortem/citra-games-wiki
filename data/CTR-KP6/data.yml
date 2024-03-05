@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000016E800
+  name: PICROSS e6
+  updates: []
+- regions:
+  - JP
+  id: 000400000015E200
+  name: ピクロスe6
+  updates: []
+- regions:
+  - US
+  id: 000400000016EF00
+  name: PICROSS e6
+  updates: []

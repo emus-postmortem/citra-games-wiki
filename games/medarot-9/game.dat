@@ -1,0 +1,14 @@
+title = "Medarot 9"
+description = "Medarot 9 is a role-playing video game developed by Delta Arts and published by Rocket Company, and the ninth installment in the Medarot series. Like previous games, it was released in Kabuto and Kuwagata versions."
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "0004000000174E00"
+region = "jpn"
+release_date = "2015-12-24"
+
+[[releases]]
+title = "0004000000174F00"
+region = "jpn"
+release_date = "2015-12-24"

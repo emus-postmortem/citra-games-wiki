@@ -1,0 +1,27 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000030C00
+  name: Golden Retriever &  New Friends
+  updates: []
+- regions:
+  - JP
+  id: 0004000000030B00
+  name: nintendogs + cats 柴 & Newフレンズ
+  updates: []
+- regions:
+  - KR
+  id: 0004000000030F00
+  name: nintendogs + cats 시바 이누 & NEW친구들
+  updates: []
+- regions:
+  - TW
+  id: 0004000000090700
+  name: 任天狗狗 + 貓貓 柴犬與新伙伴們
+  updates: []
+- regions:
+  - US
+  id: 0004000000030D00
+  name: 'nintendogs™ + cats: Golden Retriever'
+  updates: []

@@ -1,0 +1,19 @@
+title = "Harvest Moon 3D: The Tale of Two Towns"
+description = "Harvest Moon 3D: The Tale of Two Towns is a farming simulation video game developed by Marvelous Entertainment for the Nintendo 3DS as part of the Story of Seasons series. It was published by Marvelous Interactive in Japan, Natsume in North America, and Rising Star Games in Europe."
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000047900"
+region = "usa"
+release_date = "2011-11-01"
+
+[[releases]]
+title = "000400000007A300"
+region = "eur"
+release_date = "2012-06-29"
+
+[[releases]]
+title = "00040000001CC400"
+region = "jpn"
+release_date = "2017-12-14"

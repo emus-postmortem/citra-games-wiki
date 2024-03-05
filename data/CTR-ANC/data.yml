@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 0004000000047D00
+  name: NCIS™ 3D BASED ON THE TV SERIES
+  updates: []

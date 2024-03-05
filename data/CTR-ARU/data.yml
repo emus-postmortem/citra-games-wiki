@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000019CD00
+  name: オール仮面ライダー ライダーレボリューション
+  updates:
+  - id: 0004000E0019CD00
+    name: 更新データ Ver. 1.2.0 オール仮面ライダー ライダーレボリューション

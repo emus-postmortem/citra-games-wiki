@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000016F700
+  name: プチコンマガジン 創刊号
+  updates: []

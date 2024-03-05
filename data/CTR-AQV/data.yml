@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000009EF00
+  name: メダロットDUAL カブトVer.
+  updates:
+  - id: 0004000E0009EF00
+    name: 更新データ Ver. 1.1 メダロットDUAL カブトVer.

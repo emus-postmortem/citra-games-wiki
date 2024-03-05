@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 0004000000165E00
+  name: Skylanders SuperChargers Racing
+  updates: []

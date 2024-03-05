@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001AB000
+  name: Kutar Jump Rope
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A1F00
+  name: クターのナワトビ
+  updates: []
+- regions:
+  - US
+  id: 00040000001AC100
+  name: Kutar Jump Rope
+  updates: []

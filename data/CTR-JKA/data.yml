@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000C9200
+  name: レイトン教授と奇跡の仮面プラス
+  updates: []

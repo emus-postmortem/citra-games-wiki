@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000178B00
+  name: I Love My Pony
+  updates: []
+- regions:
+  - US
+  id: 0004000000178C00
+  name: I Love My Pony
+  updates: []

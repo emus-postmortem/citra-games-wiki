@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000133000
+  name: Safari Quest
+  updates: []
+- regions:
+  - US
+  id: 000400000014D500
+  name: Safari Quest
+  updates: []

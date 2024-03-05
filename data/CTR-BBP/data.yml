@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000187E00
+  name: 'Picross 3D™: Round 2'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000169A00
+  name: カタチ新発見! 立体ピクロス2
+  updates: []
+- regions:
+  - US
+  id: 0004000000187D00
+  name: Picross 3D™ Round 2
+  updates: []

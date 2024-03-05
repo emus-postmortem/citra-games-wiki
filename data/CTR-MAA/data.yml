@@ -1,0 +1,7 @@
+platform: DownloadableVideo
+releases:
+- regions:
+  - EU
+  id: 0004000000096F00
+  name: The 3D Machine
+  updates: []

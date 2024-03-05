@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000014BA00
+  name: ピンチ50連発!!
+  updates:
+  - id: 0004000E0014BA00
+    name: 更新データ Ver. 1.1.1 ピンチ50連発!!

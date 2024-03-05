@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000073C00
+  name: My Foal 3D
+  updates: []
+- regions:
+  - EU
+  id: 0004000000064E00
+  name: The Whitakers present Milton & Friends 3D
+  updates: []

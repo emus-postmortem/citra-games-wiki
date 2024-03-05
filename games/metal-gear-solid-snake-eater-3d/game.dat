@@ -1,0 +1,30 @@
+title = "Metal Gear Solid: Snake Eater 3D"
+description = "Metal Gear Solid 3: Snake Eater is an action-adventure stealth videogame produced by Konami Computer Entertainment Japan for the PlayStation 2. In 2010, Konami announced a full Metal Gear title for release on the 3DS, which was revealed at Nintendo World 2011 to be Metal Gear Solid: Snake Eater 3D."
+incomplete = true
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000081E00"
+region = "usa"
+release_date = "2012-02-21"
+
+[[ releases ]]
+title = "0004000000082400"
+region = "eur"
+release_date = "2012-03-08"
+
+[[ releases ]]
+title = "000400000007A000"
+region = "jpn"
+release_date = "2012-03-08"
+
+[[ testcases ]]
+title = "0004000000081E00"
+compatibility = "4"
+date = "2017-06-18"
+version = "HEAD-5fe5cca"
+author = "Anadian"
+cpu = "Intel Core i7-6500U"
+gpu = "Intel HD Graphics 520"
+os = "Windows 10 14393"

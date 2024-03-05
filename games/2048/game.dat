@@ -1,0 +1,20 @@
+title = "2048"
+description = "2048 is a single-player sliding block puzzle game developed and published by Cosmigo. It was originally designed by Italian web developer Gabriele Cirulli. The game's objective is to slide numbered tiles on a grid to combine them to create a tile with the number 2048; however, you can keep playing the game, creating tiles with larger numbers. 2048 was originally written in JavaScript and CSS during a weekend, and released as free and open-source software subject to the MIT license."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000139000"
+region = "usa"
+release_date = "2014-06-19"
+
+[[releases]]
+title = "0004000000143D00"
+region = "eur"
+release_date = "2014-07-31"
+
+[[releases]]
+title = "000400000014AF00"
+region = "jpn"
+release_date = "2014-09-10"

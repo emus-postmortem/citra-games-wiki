@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001CD500
+  name: The Legend of Dark Witch 3
+  updates: []
+- regions:
+  - JP
+  id: 00040000001B3A00
+  name: 魔神少女 エピソード3 -勇者と愚者-
+  updates: []
+- regions:
+  - US
+  id: 00040000001CD600
+  name: The Legend of Dark Witch 3 Wisdom and Lunacy
+  updates: []

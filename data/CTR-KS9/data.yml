@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000017AA00
+  name: '@SIMPLE DLシリーズ Vol.39 THE密室からの脱出スポーツジム編'
+  updates: []

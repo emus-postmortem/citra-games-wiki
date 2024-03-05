@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000B1A00
+  name: PIX3D
+  updates: []
+- regions:
+  - JP
+  id: 00040000000D8100
+  name: ピックス3D
+  updates: []
+- regions:
+  - US
+  id: 00040000000AFA00
+  name: PIX3D
+  updates: []

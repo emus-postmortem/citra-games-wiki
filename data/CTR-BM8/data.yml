@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000014AB00
+  name: まほコレ～魔法☆ あいどるコレクション～
+  updates:
+  - id: 0004000E0014AB00
+    name: 更新データ Ver. 1.1 まほコレ ～魔法☆あいどるコレクション～

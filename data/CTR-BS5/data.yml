@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000015E300
+  name: ドラえもん のび太の 宇宙英雄記(スペースヒーローズ)
+  updates:
+  - id: 0004000E0015E300
+    name: 更新データ Ver. 1.0.1 ドラえもん のび太の宇宙英雄記(スペースヒーローズ)

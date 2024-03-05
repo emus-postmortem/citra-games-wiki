@@ -1,0 +1,20 @@
+title = "Kirby: Planet Robobot"
+description = "Kirby: Planet Robobot (星のカービィ ロボボプラネット Hoshi no Kābi: Robobo Puranetto, \"Kirby of the Stars: Robobo Planet\") is an action platformer video game developed by HAL Laboratory and published by Nintendo for the Nintendo 3DS. It is the fifteenth main installment in Nintendo's Kirby franchise."
+github_issues = [2453]
+needs_system_files = true
+needs_shared_font = true
+
+[[ releases ]]
+title = "0004000000183600"
+region = "all"
+release_date = "2016-04-28"
+
+[[ testcases ]]
+title = "0004000000183600"
+compatibility = "1"
+date = "2017-06-08"
+version = "HEAD-8c22334"
+author = "Clector"
+cpu = "Intel Core i3-4160"
+gpu = "Intel HD Graphics 4400"
+os = "Windows 8.1"

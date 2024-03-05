@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000010A500
+  name: Bubble Pop World
+  updates: []
+- regions:
+  - US
+  id: 00040000000BF200
+  name: Bubble Pop World
+  updates: []

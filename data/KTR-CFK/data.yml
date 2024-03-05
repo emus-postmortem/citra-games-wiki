@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70D900
+  name: Frutakia 2
+  updates: []
+- regions:
+  - US
+  id: 000400000F70C800
+  name: Frutakia 2
+  updates: []

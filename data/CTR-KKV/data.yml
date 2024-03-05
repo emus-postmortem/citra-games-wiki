@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001AB600
+  name: Kutar Magic Ball
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A2300
+  name: クターの魔球
+  updates: []
+- regions:
+  - US
+  id: 00040000001AC200
+  name: Kutar Magic Ball
+  updates: []

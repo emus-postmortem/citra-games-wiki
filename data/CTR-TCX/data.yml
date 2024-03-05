@@ -1,0 +1,12 @@
+platform: NES
+releases:
+- regions:
+  - JP
+  id: 00040000000CE400
+  name: 燃えろ!!プロ野球
+  updates: []
+- regions:
+  - US
+  id: 00040000000CE500
+  name: Bases Loaded™
+  updates: []

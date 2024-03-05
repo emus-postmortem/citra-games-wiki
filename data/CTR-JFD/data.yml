@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000B0300
+  name: Fractured Soul
+  updates: []
+- regions:
+  - US
+  id: 00040000000AA800
+  name: Fractured Soul
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000122600
+  name: マル合格! 応用情報技術者試験 平成26年度版
+  updates: []

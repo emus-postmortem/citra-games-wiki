@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000136900
+  name: ぐるたん 中学英単語
+  updates: []

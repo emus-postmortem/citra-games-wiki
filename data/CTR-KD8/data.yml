@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000018FF00
+  name: 80'S OVERDRIVE
+  updates: []
+- regions:
+  - JP
+  id: 00040000001D2B00
+  name: 80's OVERDRIVE
+  updates: []
+- regions:
+  - US
+  id: 000400000018F600
+  name: 80'S OVERDRIVE
+  updates: []

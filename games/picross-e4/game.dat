@@ -1,0 +1,30 @@
+title = "Picross e4"
+description = "Picross e is a series of nonogram puzzle video games developed and published by Jupiter for the Nintendo 3DS handheld game console."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[ releases ]]
+title = "0004000000127300"
+region = "usa"
+release_date = "2013-10-03"
+
+[[ releases ]]
+title = "0004000000128400"
+region = "eur"
+release_date = "2014-05-22"
+
+[[ releases ]]
+title = "000400000010F000"
+region = "jpn"
+release_date = "2013-11-20"
+
+[[ testcases ]]
+title = "0004000000127300"
+compatibility = "0"
+date = "2017-06-05"
+version = "HEAD-8f0a23b"
+author = "SonofUgly"
+cpu = "i5-6600k @ 4.3GHz"
+gpu = "GeForce GTX 750Ti"
+os = "Windows 8.1"

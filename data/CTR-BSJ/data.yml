@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000174D00
+  name: 三國志2
+  updates:
+  - id: 0004000E00174D00
+    name: 更新データ Ver. 1.1 三國志2

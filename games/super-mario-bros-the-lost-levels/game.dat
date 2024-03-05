@@ -1,0 +1,32 @@
+title = "Super Mario Bros.: The Lost Levels"
+description = "Super Mario Bros.: The Lost Levels is a 1986 side-scrolling, platform video game developed and published by Nintendo as the first sequel to their 1985 smash hit Super Mario Bros."
+github_issues = [2552]
+needs_system_files = false
+needs_shared_font = true
+game_type = "vc"
+vc_system = "nes"
+
+[[ releases ]]
+title = "0004000000093E00"
+region = "jpn"
+release_date = "2012-07-25"
+
+[[ releases ]]
+title = "0004000000094E00"
+region = "usa"
+release_date = "2012-12-27"
+
+[[ releases ]]
+title = "0004000000094F00"
+region = "eur"
+release_date = "2012-12-27"
+
+[[ testcases ]]
+title = "0004000000093E00"
+compatibility = "1"
+date = "2017-06-05"
+version = "HEAD-8c22334"
+author = "Clector"
+cpu = "Intel Core i3-4160"
+gpu = "Intel HD Graphics 4400"
+os = "Windows 8.1"

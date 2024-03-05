@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000198300
+  name: Corpse Party
+  updates: []
+- regions:
+  - JP
+  id: 000400000015D500
+  name: コープスパーティーブラッドカバー リピーティッドフィアー
+  updates: []
+- regions:
+  - KR
+  id: 0004000000194000
+  name: '콥스파티  Blood Covered: ...Repeated fear.'
+  updates: []
+- regions:
+  - US
+  id: 0004000000194200
+  name: Corpse Party
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - US
+  id: 00040000000C1500
+  name: 'Wild Adventures: Ultimate Deer Hunt 3D'
+  updates: []

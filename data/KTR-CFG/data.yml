@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70B600
+  name: Infinite Golf
+  updates: []
+- regions:
+  - US
+  id: 000400000F70B500
+  name: Infinite Golf
+  updates: []

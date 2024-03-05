@@ -1,0 +1,27 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000033600
+  name: 'The Legend of Zelda™: Ocarina of Time 3D'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000033400
+  name: ゼルダの伝説 時のオカリナ 3D
+  updates: []
+- regions:
+  - KR
+  id: 000400000008F800
+  name: 젤다의 전설™ 시간의 오카리나 3D
+  updates: []
+- regions:
+  - TW
+  id: 000400000008F900
+  name: 薩爾達傳說 時之笛 3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000033500
+  name: 'The Legend of Zelda™: Ocarina of Time™ 3D'
+  updates: []

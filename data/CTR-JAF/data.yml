@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000100800
+  name: アウトドアズ･アンリーシュド アフリカ3D
+  updates: []
+- regions:
+  - US
+  id: 00040000000AE500
+  name: 'Outdoors Unleashed: Africa 3D'
+  updates: []

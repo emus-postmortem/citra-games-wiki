@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000DCE00
+  name: Mario Golf™ World Tour
+  updates: []
+- regions:
+  - JP
+  id: 00040000000A5300
+  name: マリオゴルフ ワールドツアー
+  updates: []
+- regions:
+  - KR
+  id: 0004000000106300
+  name: 마리오 골프 월드 투어
+  updates: []
+- regions:
+  - US
+  id: 00040000000DCD00
+  name: 'Mario Golf™: World Tour'
+  updates: []

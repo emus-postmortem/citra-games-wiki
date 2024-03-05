@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000182300
+  name: 'The Legend of Zelda™: Tri Force Heroes Demo'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000182100
+  name: ゼルダの伝説 トライフォース3銃士 (試勇版)
+  updates: []
+- regions:
+  - US
+  id: 0004000000182200
+  name: 'The Legend of Zelda™: Tri Force Heroes Demo'
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001CB300
+  name: Creeping Terror
+  updates: []
+- regions:
+  - JP
+  id: 0004000000187500
+  name: CREEPING TERROR
+  updates: []
+- regions:
+  - US
+  id: 00040000001CB600
+  name: Creeping Terror
+  updates: []

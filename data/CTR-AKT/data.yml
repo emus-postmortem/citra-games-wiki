@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000039400
+  name: 空間さがしもの系脳力開発 3D脳トレーニング
+  updates: []

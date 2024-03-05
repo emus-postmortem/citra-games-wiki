@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000084F00
+  name: New Art Academy™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000095700
+  name: 新 絵心教室
+  updates: []
+- regions:
+  - US
+  id: 0004000000095800
+  name: 'Art Academy™:  Lessons for Everyone!'
+  updates: []

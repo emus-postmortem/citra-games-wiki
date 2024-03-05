@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001AA200
+  name: 進撃の巨人２～未来の座標～
+  updates:
+  - id: 0004000E001AA200
+    name: 更新データ Ver1.1  進撃の巨人２～未来の座標～

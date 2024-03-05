@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000006A200
+  name: Zen Pinball 3D
+  updates: []
+- regions:
+  - US
+  id: 000400000007FC00
+  name: Zen Pinball 3D
+  updates: []

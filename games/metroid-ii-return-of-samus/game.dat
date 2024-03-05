@@ -1,0 +1,21 @@
+title = "Metroid II: Return of Samus"
+description = "Metroid II: Return of Samus is an action adventure game developed by Nintendo and initial published for the Game Boy."
+needs_system_files = false
+needs_shared_font = true
+game_type = "vc"
+vc_system = "gb"
+
+[[releases]]
+title = "0004000000050500"
+region = "eur"
+release_date = "2011-11-24"
+
+[[testcases]]
+title = "0004000000050500"
+compatibility = "2"
+date = "2017-10-03"
+version = "HEAD-30fabc4"
+cpu = "Intel Core i5-4590"
+gpu = "Nvidia GeForce GTX 1080"
+os = "Arch Linux"
+author = "SuperNascher"

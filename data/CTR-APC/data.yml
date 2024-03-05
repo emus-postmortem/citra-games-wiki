@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000045600
+  name: 'LEGO® Pirates of the Caribbean: The Video Game'
+  updates: []

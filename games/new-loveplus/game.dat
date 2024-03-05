@@ -1,0 +1,9 @@
+title = "New LovePlus+"
+description = "New LovePlus+ (Newラブプラス+) is a dating sim developed and published by Konami for the Nintendo DS handheld video game console. It was released in Japan in 2014.\n\nWarning: Citra doesn't support rotate screen like \"Book view\" yet. you can use another tool like OBS to capture a game screen and rotate it or \"Rotate your IRL display\"\n\nNote: The game keeps freezing on loading new game assets but it still playable.\n\n3DS save to Citra save is workable!! Just copy and paste it."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000000F4E00"
+region = "jpn"
+release_date = "2014-03-27"

@@ -1,0 +1,16 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000C7700
+  name: 'Real Heroes: Firefighter 3D'
+  updates:
+  - id: 0004000E00091400
+    name: 'Real Heroes: Firefighter 3D - Update'
+  - id: 0004000E000B9900
+    name: 'Real Heroes: Firefighter 3D - Update'
+- regions:
+  - US
+  id: 00040000000C5700
+  name: 'Real Heroes: Firefighter 3D'
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001D2F00
+  name: Dragon Lapis
+  updates: []
+- regions:
+  - JP
+  id: 00040000001D2300
+  name: ドラゴンラピス
+  updates: []
+- regions:
+  - US
+  id: 00040000001D3500
+  name: Dragon Lapis
+  updates: []

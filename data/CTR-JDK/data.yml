@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000103500
+  name: '@SIMPLE DLシリーズ Vol.21 THE 鑑識官 File.1'
+  updates: []

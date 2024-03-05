@@ -1,0 +1,17 @@
+platform: GameGear
+releases:
+- regions:
+  - EU
+  id: 000400000009B600
+  name: Crystal Warriors
+  updates: []
+- regions:
+  - JP
+  id: 0004000000098000
+  name: アーリエル クリスタル伝説
+  updates: []
+- regions:
+  - US
+  id: 000400000009C100
+  name: Crystal Warriors
+  updates: []

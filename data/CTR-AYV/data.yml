@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000F7200
+  name: ナナミと一緒に学ぼ! English上達のコツ
+  updates:
+  - id: 0004000E000F7200
+    name: 更新データ Ver. 1.1  ナナミと一緒に学ぼ!English上達のコツ

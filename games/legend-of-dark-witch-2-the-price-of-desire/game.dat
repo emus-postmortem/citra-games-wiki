@@ -1,0 +1,20 @@
+title = "The Legend of Dark Witch 2: The Price of Desire"
+description = "Created by indie games company INSIDE SYSTEM, The Legend of Dark Witch 2 is a 2D action story sequel to \"The Legend of Dark Witch\". True to its predecessor, Legend of the Dark Witch 2 retains its simple controls and enough challenges to satisfy the completist. Players have 8 stages to choose from and must use SHOTs to make their way through a variety of obstacles to reach the boss enemy. Within each stage there are hidden \"Pura Syega\" which are helpful to power up player characters."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000186600"
+region = "usa"
+release_date = "2015-12-17"
+
+[[testcases]]
+title = "0004000000186600"
+compatibility = "1"
+date = "2017-10-29"
+version = "HEAD-f75dd34"
+cpu = "Intel Xeon E31240"
+gpu = "NVIDIA GeForce GTX 750"
+os = "Windows 7 7601"
+author = "AuraOfTheDawn"

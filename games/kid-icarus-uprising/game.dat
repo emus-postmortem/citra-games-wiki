@@ -1,0 +1,31 @@
+title = "Kid Icarus Uprising"
+description = "Kid Icarus: Uprising, known in Japan as New Light Mythology: Palutena's Mirror, is a third-person shooter developed by Project Sora and published by Nintendo for the Nintendo 3DS handheld video game console. Released worldwide in March 2012, it is the third installment in the Kid Icarus franchise and the first to be released since Kid Icarus: Of Myths and Monsters in 1991."
+github_issues = [2238]
+needs_system_files = false
+needs_shared_font = true
+incomplete = true
+
+[[ releases ]]
+title = "0004000000030100"
+region = "usa"
+release_date = "2012-03-23"
+
+[[ releases ]]
+title = "0004000000030200"
+region = "eur"
+release_date = "2012-03-23"
+
+[[ releases ]]
+title = "0004000000030000"
+region = "jpn"
+release_date = "2012-03-22"
+
+[[ testcases ]]
+title = "0004000000030100"
+compatibility = "4"
+date = "2017-07-04"
+version = "HEAD-22e7402"
+author = "DrewThatGamer"
+cpu = "Intel Core i5 6400"
+gpu = "NVIDIA GeForce GTX 1050"
+os = "Windows 10"

@@ -1,0 +1,24 @@
+title = "Project X Zone 2"
+description = "Project X Zone 2 is a crossover tactical role-playing game for the Nintendo 3DS developed by Monolith Soft and published by Bandai Namco Entertainment."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000160C00"
+region = "usa"
+release_date = "2016-02-16"
+
+[[releases]]
+title = "0004000000162000"
+region = "eur"
+release_date = "2016-02-16"
+
+[[releases]]
+title = "000400000014FB00"
+region = "jpn"
+release_date = "2015-11-12"
+
+[[releases]]
+title = "000400000014FC00"
+region = "jpn"
+release_date = "2015-11-12"

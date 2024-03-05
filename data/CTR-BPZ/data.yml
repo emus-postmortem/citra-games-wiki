@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000154B00
+  name: Pazuru
+  updates: []
+- regions:
+  - US
+  id: 0004000000154C00
+  name: Pazuru
+  updates: []

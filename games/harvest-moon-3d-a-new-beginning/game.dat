@@ -1,0 +1,20 @@
+title = "Harvest Moon 3D: A New Beginning"
+description = "Harvest Moon 3D: A New Beginning is a role playing game for the Nintendo 3DS. It was the last title in the Bokujō Monogatari/Story of Seasons series to be released under the \"Harvest Moon\" name. The game was published by Marvelous AQL in Japan, Marvelous AQL Europe in Europe, and Natsume in North America."
+github_issues = [1583, 1980]
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000000A5900"
+region = "usa"
+release_date = "2012-10-19"
+
+[[releases]]
+title = "00040000000EAE00"
+region = "eur"
+release_date = "2013-09-20"
+
+[[releases]]
+title = "0004000000073700"
+region = "jpn"
+release_date = "2012-02-23"

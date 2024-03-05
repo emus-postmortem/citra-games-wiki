@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000158100
+  name: 3D Fantasy Zone 2™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000121D00
+  name: 3D ファンタジーゾーンⅡダブル
+  updates: []
+- regions:
+  - US
+  id: 0004000000158B00
+  name: 3D Fantasy Zone II W
+  updates: []

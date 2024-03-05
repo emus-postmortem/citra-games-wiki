@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000008F000
+  name: Art of Balance TOUCH!
+  updates: []
+- regions:
+  - JP
+  id: 00040000000E8900
+  name: アートオブバランス タッチ!
+  updates: []
+- regions:
+  - US
+  id: 000400000008FF00
+  name: Art of Balance TOUCH!
+  updates: []

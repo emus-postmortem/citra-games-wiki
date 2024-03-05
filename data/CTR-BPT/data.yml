@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000101200
+  name: ぷよぷよテトリス
+  updates:
+  - id: 0004000E00101200
+    name: 更新データ Ver. 1.1 ぷよぷよテトリス

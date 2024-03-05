@@ -1,0 +1,27 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000076500
+  name: Luigi’s Mansion™ 2
+  updates: []
+- regions:
+  - JP
+  id: 0004000000076400
+  name: ルイージマンション2
+  updates: []
+- regions:
+  - KR
+  id: 00040000000CFF00
+  name: 루이지 맨션 다크 문
+  updates: []
+- regions:
+  - TW
+  id: 00040000000D0000
+  name: 路易吉洋樓２
+  updates: []
+- regions:
+  - US
+  id: 0004000000055F00
+  name: "Luigi's Mansion™: Dark Moon "
+  updates: []

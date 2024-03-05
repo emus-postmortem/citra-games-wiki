@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000013F700
+  name: Glory of Generals The Pacific
+  updates: []
+- regions:
+  - US
+  id: 000400000013FA00
+  name: 'GLORY OF GENERALS: THE PACIFIC'
+  updates: []

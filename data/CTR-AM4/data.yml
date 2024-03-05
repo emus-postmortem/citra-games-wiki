@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 0004000000048700
+  name: Monster 4x4 3D
+  updates: []

@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000005E900
+  name: BRAVELY DEFAULT -FLYING FAIRY-
+  updates:
+  - id: 0004000E0005E900
+    name: 更新データ Ver.1.1 BRAVELY DEFAULT -FLYING FAIRY-

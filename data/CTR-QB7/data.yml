@@ -1,0 +1,7 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - KR
+  id: 0004000000173600
+  name: 포켓몬스터 은
+  updates: []

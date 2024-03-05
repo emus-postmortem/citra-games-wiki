@@ -1,0 +1,7 @@
+platform: DownloadableVideo
+releases:
+- regions:
+  - EU
+  id: 0004000000165B00
+  name: "The Legend of Zelda™: Majora's Mask 3D: Trailer"
+  updates: []

@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000019A700
+  name: SEGA 3D Classics Collection
+  updates: []
+- regions:
+  - JP
+  id: 0004000000180E00
+  name: セガ3D復刻アーカイブス2
+  updates: []
+- regions:
+  - US
+  id: 0004000000185E00
+  name: SEGA 3D Classics Collection
+  updates: []

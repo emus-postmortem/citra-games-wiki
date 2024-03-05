@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001CBF00
+  name: Japanese Rail Sim 3D  Travel of Steam
+  updates: []
+- regions:
+  - JP
+  id: 000400000019D300
+  name: 鉄道にっぽん!路線たび きかんしゃ トーマス編 大井川鐵道を走ろう!
+  updates: []
+- regions:
+  - US
+  id: 00040000001CC500
+  name: Japanese Rail Sim 3D  Travel of Steam
+  updates: []

@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F706800
+  name: DEMON'S CREST™
+  updates: []
+- regions:
+  - JP
+  id: 000400000F706700
+  name: デモンズブレイゾン 魔界村 紋章編
+  updates: []

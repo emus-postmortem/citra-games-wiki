@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000012A800
+  name: ほっぺちゃん みんなでおでかけ! ワクワクほっぺランド!!
+  updates:
+  - id: 0004000E0012A800
+    name: 更新データ Ver. 1.2 ほっぺちゃん みんなでおでかけ! ワクワクほっぺランド!!

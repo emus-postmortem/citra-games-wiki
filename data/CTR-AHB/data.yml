@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000106200
+  name: Nintendo Pocket Football Club™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000039B00
+  name: ポケットサッカーリーグ カルチョビット
+  updates: []

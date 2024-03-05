@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000013C400
+  name: プチノベル「神学の七月」
+  updates: []

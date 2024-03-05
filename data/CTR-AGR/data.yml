@@ -1,0 +1,22 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000037500
+  name: Tom Clancy's Ghost Recon® Shadow Wars
+  updates: []
+- regions:
+  - JP
+  id: 0004000000034600
+  name: ゴーストリコン シャドーウォー
+  updates: []
+- regions:
+  - KR
+  id: 00040000000C7F00
+  name: 톰 클랜시의 고스트 리콘 섀도우 워즈
+  updates: []
+- regions:
+  - US
+  id: 0004000000035A00
+  name: Tom Clancy’s Ghost Recon® Shadow Wars
+  updates: []

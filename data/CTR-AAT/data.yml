@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000DBA00
+  name: キラ★メキ おしゃれサロン! ～わたしのしごとは美容師さん～
+  updates: []

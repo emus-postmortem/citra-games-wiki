@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000077800
+  name: かわいい仔犬3D
+  updates: []
+- regions:
+  - US
+  id: 000400000004E000
+  name: Puppies 3D
+  updates: []

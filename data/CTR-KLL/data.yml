@@ -1,0 +1,16 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000015A200
+  name: OlliOlli
+  updates:
+  - id: 0004000E0015A200
+    name: OlliOlli - Update
+- regions:
+  - US
+  id: 000400000015A400
+  name: OlliOlli
+  updates:
+  - id: 0004000E0015A400
+    name: OlliOlli Update Ver. 1.1.0

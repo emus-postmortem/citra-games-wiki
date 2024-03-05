@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 000400000006EC00
+  name: Punch-Out!!™
+  updates: []
+- regions:
+  - JP
+  id: 000400000006EA00
+  name: パンチアウト
+  updates: []
+- regions:
+  - US
+  id: 000400000006EB00
+  name: Punch-Out!!™ Featuring Mr. Dream
+  updates: []

@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001A7800
+  name: デジコロ ケシカスくん Vol.007 教室に刺客来襲！
+  updates: []

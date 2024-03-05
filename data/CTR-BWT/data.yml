@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000143200
+  name: アンパンマンとタッチでわくわくトレーニング
+  updates: []

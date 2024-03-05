@@ -1,0 +1,23 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000186300
+  name: The Legend of Dark Witch 2
+  updates:
+  - id: 0004000E00186300
+    name: 'The Legend of Dark Witch 2:  Update'
+- regions:
+  - JP
+  id: 000400000016FA00
+  name: 魔神少女 エピソード2 -願いへの代価-
+  updates:
+  - id: 0004000E0016FA00
+    name: 更新データ Ver. 1.1 魔神少女 エピソード2 -願いへの代価-
+- regions:
+  - US
+  id: 0004000000186600
+  name: The Legend of Dark Witch 2
+  updates:
+  - id: 0004000E00186600
+    name: The Legend of Dark Witch 2 Update Ver. 1.2

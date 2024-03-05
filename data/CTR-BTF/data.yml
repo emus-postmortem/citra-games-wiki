@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000012F600
+  name: トーマスとあそんでおぼえる ことばとかずとABC
+  updates: []

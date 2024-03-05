@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000A0B00
+  name: 大合奏!バンドブラザーズP
+  updates:
+  - id: 0004000E000A0B00
+    name: 更新データ Ver. 2.1 大合奏!バンドブラザーズP

@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000F709C00
+  name: 限界！山積みバトル
+  updates: []
+- regions:
+  - US
+  id: 000400000F70C000
+  name: Stack 'em High
+  updates: []

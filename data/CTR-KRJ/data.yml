@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001A2E00
+  name: Swapdoodle™
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A2C00
+  name: イラスト交換日記
+  updates: []
+- regions:
+  - US
+  id: 00040000001A2D00
+  name: Swapdoodle™
+  updates: []

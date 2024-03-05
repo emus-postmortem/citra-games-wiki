@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000165300
+  name: 'Music On: Electric Guitar'
+  updates: []
+- regions:
+  - US
+  id: 0004000000164500
+  name: 'Music On: Electric Guitar'
+  updates: []

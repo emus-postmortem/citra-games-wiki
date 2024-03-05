@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000F7400
+  name: Coaster Creator 3D
+  updates: []
+- regions:
+  - JP
+  id: 00040000000FAF00
+  name: ジェットコースターをつくろう!3D
+  updates: []
+- regions:
+  - US
+  id: 000400000008B200
+  name: Coaster Creator 3D
+  updates: []

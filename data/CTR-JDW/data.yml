@@ -1,0 +1,9 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000103900
+  name: '@SIMPLE DLシリーズ Vol.20 THE カード'
+  updates:
+  - id: 0004000E00103900
+    name: 更新データ Ver.1.1 @SIMPLE DL Vol.20 THE カード

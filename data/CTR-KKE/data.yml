@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001AAE00
+  name: Kutar End Credits
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A2500
+  name: クターのエンドロール
+  updates: []
+- regions:
+  - US
+  id: 00040000001AC000
+  name: Kutar End Credits
+  updates: []

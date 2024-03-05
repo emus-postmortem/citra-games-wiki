@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001CC400
+  name: 牧場物語　ふたごの村＋
+  updates:
+  - id: 0004000E001CC400
+    name: 更新データ Ver. 1.3 牧場物語 ふたごの村＋

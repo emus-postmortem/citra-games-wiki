@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70BF00
+  name: Ascent of Kings
+  updates: []
+- regions:
+  - US
+  id: 000400000F70BC00
+  name: Ascent of Kings
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000016F500
+  name: Unholy Heights
+  updates: []
+- regions:
+  - JP
+  id: 000400000012A400
+  name: メゾン･ド･魔王
+  updates: []

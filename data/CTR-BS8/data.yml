@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001B9500
+  name: 'Cooking Mama: Sweet Shop'
+  updates: []
+- regions:
+  - JP
+  id: 000400000014FA00
+  name: クッキングママ :わたしのスイーツショップ
+  updates: []
+- regions:
+  - US
+  id: 00040000001B9C00
+  name: 'Cooking Mama: Sweet Shop'
+  updates: []

@@ -1,0 +1,22 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 000400000006E900
+  name: Super Mario Bros.™ 3
+  updates: []
+- regions:
+  - JP
+  id: 000400000006E700
+  name: スーパーマリオブラザーズ3
+  updates: []
+- regions:
+  - KR
+  id: 0004000000184B00
+  name: Super Mario Bros. 3
+  updates: []
+- regions:
+  - US
+  id: 000400000006E800
+  name: Super Mario Bros.™ 3
+  updates: []

@@ -1,0 +1,7 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - JP
+  id: 0004000000043200
+  name: トレード&バトル カードヒーロー
+  updates: []

@@ -1,0 +1,26 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000165800
+  name: 'SENRAN KAGURA 2: Deep Crimson'
+  updates: []
+- regions:
+  - JP
+  id: 00040000000FB100
+  name: 閃乱カグラ2 -真紅-
+  updates:
+  - id: 0004000E000FB100
+    name: 更新データ Ver. 1.3 閃乱カグラ2 -真紅-
+- regions:
+  - KR
+  id: 0004000000150200
+  name: 섬란 카구라 2 -진홍-
+  updates:
+  - id: 0004000E00150200
+    name: '업데이트 데이터 Ver. 1.1 섬란 카구라 2 -진홍- '
+- regions:
+  - US
+  id: 0004000000165000
+  name: 'SENRAN KAGURA 2: Deep Crimson'
+  updates: []

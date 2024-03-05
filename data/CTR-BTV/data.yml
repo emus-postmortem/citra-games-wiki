@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000144800
+  name: 12歳。 ～ほんとのキモチ～
+  updates: []

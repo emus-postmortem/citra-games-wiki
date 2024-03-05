@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000D7700
+  name: Jewel Master Atlantis 3D
+  updates: []
+- regions:
+  - JP
+  id: 00040000000F9E00
+  name: ジュエルマスター
+  updates: []

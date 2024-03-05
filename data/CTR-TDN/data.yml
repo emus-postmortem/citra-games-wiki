@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000F8A00
+  name: "Gargoyle's Quest II: The Demon Darkness"
+  updates: []
+- regions:
+  - JP
+  id: 00040000000F8800
+  name: レッドアリーマーⅡ
+  updates: []
+- regions:
+  - US
+  id: 00040000000F8900
+  name: "Gargoyle's Quest™ II: The Demon Darkness"
+  updates: []

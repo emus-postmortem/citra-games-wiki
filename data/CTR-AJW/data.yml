@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - US
+  id: 0004000000048600
+  name: 'Jaws: Ultimate Predator'
+  updates: []

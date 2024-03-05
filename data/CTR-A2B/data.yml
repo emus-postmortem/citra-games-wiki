@@ -1,0 +1,13 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  - JP
+  - KR
+  - TW
+  - US
+  id: 00040000001B5100
+  name: Pokémon Ultra Moon
+  updates:
+  - id: 0004000E001B5100
+    name: Pokémon™ Ultra Moon Update Ver. 1.2

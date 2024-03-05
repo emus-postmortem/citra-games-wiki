@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000152400
+  name: 3D Fantasy Zone
+  updates: []
+- regions:
+  - JP
+  id: 0004000000120100
+  name: 3D ファンタジーゾーン オパオパブラザーズ
+  updates: []
+- regions:
+  - US
+  id: 0004000000152300
+  name: 3D Fantasy Zone™
+  updates: []

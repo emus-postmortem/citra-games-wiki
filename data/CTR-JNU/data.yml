@@ -1,0 +1,23 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000D7E00
+  name: 'Steel Diver™: Sub Wars'
+  updates:
+  - id: 0004000E000D7E00
+    name: 'Steel Diver™: Sub Wars: Update'
+- regions:
+  - JP
+  id: 00040000000D7C00
+  name: STEELDIVER SUBWARS
+  updates:
+  - id: 0004000E000D7C00
+    name: 更新データ Ver. 4.1 STEELDIVER SUBWARS
+- regions:
+  - US
+  id: 00040000000D7D00
+  name: 'Steel Diver™: Sub Wars'
+  updates:
+  - id: 0004000E000D7D00
+    name: 'Steel Diver™: Sub Wars Update Ver. 4.1'

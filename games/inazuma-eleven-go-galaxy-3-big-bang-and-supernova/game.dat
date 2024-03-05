@@ -1,0 +1,14 @@
+title = "Inazuma Eleven Go Galaxy 3: Big Bang and Supernova"
+description = "Inazuma Eleven Go 3: Galaxy is a role-playing and sports video game developed and published by Level-5. It's the third game of the Inazuma Eleven Go series and the sixth installment of the Inazuma Eleven games. There are two versions of the game, Big Bang and Supernova."
+needs_system_files = false
+needs_shared_font = true
+
+[[releases]]
+title = "000400000010BB00"
+region = "jpn"
+release_date = "2013-12-05"
+
+[[releases]]
+title = "000400000010BA00"
+region = "jpn"
+release_date = "2013-12-05"

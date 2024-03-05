@@ -1,0 +1,23 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001D6800
+  name: YO-KAI WATCH™ 3
+  updates:
+  - id: 0004000E001D6800
+    name: 'YO-KAI WATCH™ 3:  Update'
+- regions:
+  - JP
+  id: 00040000001AF400
+  name: 妖怪ウォッチ3 スキヤキ
+  updates:
+  - id: 0004000E001AF400
+    name: 更新データ Ver. 4.0 妖怪ウォッチ3 スキヤキ
+- regions:
+  - US
+  id: 00040000001D6700
+  name: YO-KAI WATCH ™ 3
+  updates:
+  - id: 0004000E001D6700
+    name: YO-KAI WATCH ™ 3  Update Ver. 1.3

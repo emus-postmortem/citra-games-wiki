@@ -1,0 +1,45 @@
+title = "Animal Crossing: New Leaf"
+description = "Animal Crossing: New Leaf is a life simulation video game developed and published by Nintendo for the Nintendo 3DS console. In the game, the player character takes on the role of mayor in a town populated with anthropomorphic animals. An updated version was released as \"Animal Crossing: New Leaf - Welcome Amiibo\"."
+github_issues = [3438]
+needs_system_files = true
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000086300"
+region = "usa"
+release_date = "2013-06-09"
+
+[[ releases ]]
+title = "0004000000086400"
+region = "eur"
+release_date = "2013-06-14"
+
+[[ releases ]]
+title = "0004000000086200"
+region = "jpn"
+release_date = "2012-11-08"
+
+[[releases]]
+title = "0004000000198E00"
+region = "usa"
+release_date = "2016-12-05"
+
+[[releases]]
+title = "0004000000198F00"
+region = "eur"
+release_date = "2016-11-25"
+
+[[releases]]
+title = "0004000000198D00"
+region = "jpn"
+release_date = "2016-11-23"
+
+[[ testcases ]]
+title = "0004000000086300"
+compatibility = "3"
+date = "2017-05-31"
+version = "HEAD-4857eb4"
+author = "Flamboyant_Ham"
+cpu = "Intel Core i7-4720HQ"
+gpu = "GeForce GTX 960M"
+os = "Windows 10 14393"

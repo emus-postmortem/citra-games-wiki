@@ -1,0 +1,22 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000171F00
+  name: Gotcha Racing™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000120400
+  name: ガチャレーシング
+  updates: []
+- regions:
+  - KR
+  id: 0004000000178900
+  name: 가챠 레이싱
+  updates: []
+- regions:
+  - US
+  id: 000400000016F000
+  name: Gotcha Racing™
+  updates: []

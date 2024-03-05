@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000C1700
+  name: AiRace Speed
+  updates: []
+- regions:
+  - JP
+  id: 0004000000114800
+  name: Aiレース:スピード
+  updates: []
+- regions:
+  - US
+  id: 00040000000A2F00
+  name: AiRace Speed
+  updates: []

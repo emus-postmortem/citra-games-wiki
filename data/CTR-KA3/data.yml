@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001BF500
+  name: キュ～トなゴマちゃん いっぱいパズル
+  updates: []

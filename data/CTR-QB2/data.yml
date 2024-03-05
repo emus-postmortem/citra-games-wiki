@@ -1,0 +1,8 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  - US
+  id: 0004000000173100
+  name: Pokémon™ Crystal Version (Spanish Version)
+  updates: []

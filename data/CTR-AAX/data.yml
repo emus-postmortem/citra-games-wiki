@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000DBB00
+  name: Starry☆Sky～in Spring～3D
+  updates: []

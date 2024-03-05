@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000005F600
+  name: Reel Fishing Paradise 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000049600
+  name: Fish Eyes 3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000048D00
+  name: Reel Fishing® Paradise 3D
+  updates: []

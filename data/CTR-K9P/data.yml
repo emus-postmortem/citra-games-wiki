@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001B7400
+  name: Pic-a-Pix Colour
+  updates: []
+- regions:
+  - JP
+  id: 00040000001C9900
+  name: お絵かきパズル Pic-a-Pix
+  updates: []
+- regions:
+  - US
+  id: 00040000001B7800
+  name: Pic-a-Pix Color
+  updates: []

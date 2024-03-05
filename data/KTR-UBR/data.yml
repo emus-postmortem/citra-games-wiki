@@ -1,0 +1,13 @@
+platform: SuperNES
+releases:
+- regions:
+  - EU
+  - US
+  id: 000400000F707D00
+  name: Castlevania Dracula X
+  updates: []
+- regions:
+  - JP
+  id: 000400000F707B00
+  name: 悪魔城ドラキュラXX
+  updates: []

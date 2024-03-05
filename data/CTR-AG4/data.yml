@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001AE500
+  name: ピカピカナース物語 小児科はいつも大騒ぎ
+  updates:
+  - id: 0004000E001AE500
+    name: 更新データ Ver. 1.1 ピカピカ ナース物語 小児科はいつも大騒ぎ

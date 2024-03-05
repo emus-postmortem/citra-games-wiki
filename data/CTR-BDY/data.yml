@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 000400000014AC00
+  name: フューチャーカードバディファイト 友情の爆熱ファイト!
+  updates:
+  - id: 0004000E0014AC00
+    name: 更新データ Ver. 1.4 フューチャーカード バディファイト 友情の爆熱ファイト!

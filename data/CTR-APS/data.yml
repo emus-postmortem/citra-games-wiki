@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000034900
+  name: プロ野球スピリッツ2011
+  updates: []

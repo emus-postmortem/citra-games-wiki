@@ -1,0 +1,17 @@
+platform: GameGear
+releases:
+- regions:
+  - EU
+  id: 0004000000088800
+  name: Dragon Crystal™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000085200
+  name: ドラゴンクリスタル ツラニの迷宮
+  updates: []
+- regions:
+  - US
+  id: 000400000008BB00
+  name: Dragon Crystal™
+  updates: []

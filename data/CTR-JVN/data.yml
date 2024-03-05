@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000157A00
+  name: 3D After Burner II
+  updates: []
+- regions:
+  - JP
+  id: 0004000000114200
+  name: 3D アフターバーナーⅡ
+  updates: []
+- regions:
+  - US
+  id: 0004000000158900
+  name: 3D After Burner II
+  updates: []

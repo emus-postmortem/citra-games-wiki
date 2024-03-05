@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000B7200
+  name: Crash'n the Boys Street Challenge
+  updates: []
+- regions:
+  - JP
+  id: 00040000000B7000
+  name: びっくり熱血新記録! はるかなる金メダル
+  updates: []
+- regions:
+  - US
+  id: 00040000000B7100
+  name: Crash 'n the Boys™ Street Challenge
+  updates: []

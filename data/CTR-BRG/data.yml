@@ -1,0 +1,29 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 000400000018C100
+  name: Langrisser Re:Incarnation  -TENSEI-
+  updates: []
+- regions:
+  - JP
+  id: 000400000015E700
+  name: ラングリッサー リインカーネーション -転生-
+  updates:
+  - id: 0004000E0015E700
+    name: 更新データ Ver. 1.1 ラングリッサー リインカーネーション -転生-
+- regions:
+  - KR
+  id: 000400000018E500
+  name: Langrisser Re:Incarnation -TENSEI-
+  updates: []
+- regions:
+  - TW
+  id: 000400000018BF00
+  name: Langrisser Re:Incarnation -TENSEI-  (英文版)
+  updates: []
+- regions:
+  - US
+  id: 0004000000187F00
+  name: Langrisser Re:Incarnation -TENSEI-
+  updates: []

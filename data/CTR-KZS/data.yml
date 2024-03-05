@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000199700
+  name: Ice Station Z
+  updates: []
+- regions:
+  - JP
+  id: 00040000001BEA00
+  name: Ice Station Z
+  updates: []
+- regions:
+  - US
+  id: 0004000000190300
+  name: Ice Station Z
+  updates: []

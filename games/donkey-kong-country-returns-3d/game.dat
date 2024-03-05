@@ -1,0 +1,29 @@
+title = "Donkey Kong Country Returns 3D"
+description = "Donkey Kong Country Returns 3D is a side-scrolling platformer developed by Monster Studios and published by Nintendo. It is a port of the Wii title Donkey Kong Country Returns, with some additional content."
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "00040000000CCE00"
+region = "usa"
+release_date = "2013-05-24"
+
+[[ releases ]]
+title = "00040000000CCF00"
+region = "eur"
+release_date = "2013-05-24"
+
+[[ releases ]]
+title = "00040000000CC000"
+region = "jpn"
+release_date = "2013-06-13"
+
+[[ testcases ]]
+title = "00040000000CCE00"
+compatibility = "5"
+date = "2017-06-18"
+version = "HEAD-5fe5cca"
+author = "Anadian"
+cpu = "Intel Core i7-6500U"
+gpu = "Intel HD Graphics 520"
+os = "Windows 10 14393"

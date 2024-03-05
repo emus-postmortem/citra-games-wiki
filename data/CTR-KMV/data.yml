@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001A6F00
+  name: Chase-Cold Case Investigations ~Distant Memories~
+  updates: []
+- regions:
+  - JP
+  id: 0004000000187600
+  name: -CHASE- 未解決事件捜査課 ～遠い記憶～
+  updates: []
+- regions:
+  - US
+  id: 00040000001A6600
+  name: Chase Cold Case Investigations ~Distant Memories~
+  updates: []

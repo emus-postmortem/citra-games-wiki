@@ -1,0 +1,12 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000091300
+  name: 大盛り! いきものづくり クリエイトーイ
+  updates: []
+- regions:
+  - US
+  id: 000400000009FA00
+  name: 'Freakyforms™ Deluxe: Your Creations Alive!'
+  updates: []

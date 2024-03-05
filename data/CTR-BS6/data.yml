@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000164700
+  name: 'Sonic Boom™: Fire & Ice'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000170700
+  name: ソニックトゥーン ファイアー＆アイス
+  updates: []
+- regions:
+  - US
+  id: 0004000000161300
+  name: 'Sonic Boom™: Fire & Ice'
+  updates: []

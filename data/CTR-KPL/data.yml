@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 000400000016FB00
+  name: ポラーラ -Polara-
+  updates: []

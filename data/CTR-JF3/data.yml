@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000FA300
+  name: '@SIMPLE DLシリーズ Vol.16 THE 密室からの脱出 ファミレス編'
+  updates: []

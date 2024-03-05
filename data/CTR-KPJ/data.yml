@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000019DE00
+  name: Pixel Paint
+  updates: []
+- regions:
+  - JP
+  id: 000400000019D400
+  name: ドットペイント
+  updates: []
+- regions:
+  - US
+  id: 000400000019E400
+  name: Pixel Paint
+  updates: []

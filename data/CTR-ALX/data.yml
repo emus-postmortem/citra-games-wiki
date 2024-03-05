@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000006D100
+  name: Luxor
+  updates: []
+- regions:
+  - US
+  id: 00040000000F1100
+  name: Luxor™
+  updates: []

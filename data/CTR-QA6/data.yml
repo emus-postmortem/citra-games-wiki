@@ -1,0 +1,12 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 000400000010FF00
+  name: Game & Watch™ Gallery 3
+  updates: []
+- regions:
+  - US
+  id: 000400000010FE00
+  name: Game & Watch™ Gallery 3
+  updates: []

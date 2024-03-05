@@ -1,0 +1,17 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000078300
+  name: ドラかず のび太のすうじ大冒険
+  updates: []
+- regions:
+  - KR
+  id: 00040000000F5F00
+  name: 도라에몽 진구의 수학 대모험
+  updates: []
+- regions:
+  - TW
+  id: 00040000000F6000
+  name: 哆啦A夢 大雄的數字大冒險
+  updates: []

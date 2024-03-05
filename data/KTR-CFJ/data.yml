@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F712E00
+  name: ZARA the Fastest Fairy
+  updates: []
+- regions:
+  - US
+  id: 000400000F712F00
+  name: ZARA the Fastest Fairy
+  updates: []

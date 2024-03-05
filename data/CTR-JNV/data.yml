@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000145800
+  name: プチノベル「別離の十一月」
+  updates: []

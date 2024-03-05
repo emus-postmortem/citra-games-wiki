@@ -1,0 +1,27 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000000CCF00
+  name: Donkey Kong™ Country Returns 3D
+  updates: []
+- regions:
+  - JP
+  id: 00040000000CC000
+  name: ドンキーコング リターンズ 3D
+  updates: []
+- regions:
+  - KR
+  id: 00040000000FFC00
+  name: 동키콩 리턴즈 3D
+  updates: []
+- regions:
+  - TW
+  id: 00040000000FC700
+  name: Donkey Kong Country Returns 3D (英文版)
+  updates: []
+- regions:
+  - US
+  id: 00040000000CCE00
+  name: Donkey Kong Country™ Returns 3D
+  updates: []

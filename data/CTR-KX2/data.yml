@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001C0700
+  name: デジコロ ケシカスくん Vol.012 ランドセルサバイバル！
+  updates: []

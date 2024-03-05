@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001A4E00
+  name: デジコロ ケシカスくん Vol.005 給食を進化スさせるぜ!?
+  updates: []

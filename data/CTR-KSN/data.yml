@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000015BA00
+  name: 3D Sonic The Hedgehog 2
+  updates: []
+- regions:
+  - JP
+  id: 0004000000162700
+  name: 3D ソニック･ザ･ヘッジホッグ2
+  updates: []
+- regions:
+  - US
+  id: 0004000000158D00
+  name: 3D Sonic The Hedgehog 2
+  updates: []

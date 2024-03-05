@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000018B900
+  name: Runny Egg
+  updates: []
+- regions:
+  - JP
+  id: 00040000000D8500
+  name: たまご大冒険
+  updates: []
+- regions:
+  - US
+  id: 0004000000166200
+  name: Runny Egg
+  updates: []

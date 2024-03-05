@@ -1,0 +1,12 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 000400000011A900
+  name: 'Bionic Commando™: Elite Forces'
+  updates: []
+- regions:
+  - US
+  id: 000400000011A800
+  name: 'Bionic Commando™: Elite Forces'
+  updates: []

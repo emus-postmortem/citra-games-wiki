@@ -1,0 +1,7 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - JP
+  id: 000400000009D800
+  name: 女神転生外伝ラストバイブルⅡ
+  updates: []

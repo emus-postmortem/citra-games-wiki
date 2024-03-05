@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000145B00
+  name: 激投戦士 ナゲルンダー
+  updates: []

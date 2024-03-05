@@ -1,0 +1,34 @@
+title = "Resident Evil: Revelations"
+description = "Resident Evil: Revelations, is a third-person shooter video game, created by Capcom, starring original series leads Chris Redfield and Jill Valentine, the game displays hallways reminiscent of the mansions of the original Resident Evil and Resident Evil 5. While most of the game takes place aboard the luxurious cruiser Queen Zenobia, players also briefly visit other settings."
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000060200"
+region = "usa"
+release_date = "2012-02-07"
+
+[[ releases ]]
+title = "000400000005EE00"
+region = "eur"
+release_date = "2012-01-27"
+
+[[ releases ]]
+title = "0004000000053B00"
+region = "jpn"
+release_date = "2012-01-26"
+
+[[ releases ]]
+title = "000400000009FF00"
+region = "kor"
+release_date = "2012-09-20"
+
+[[testcases]]
+title = "000400000005EE00"
+compatibility = "1"
+date = "2017-10-08"
+version = "HEAD-20e19a3"
+cpu = "Intel Core i5-3570HQ"
+gpu = "Nvidia Geforce GTX 650M"
+os = "Windows 10 15063"
+author = "eclenaeu"

@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000143D00
+  name: 2048
+  updates: []
+- regions:
+  - JP
+  id: 000400000014AF00
+  name: 2048
+  updates: []
+- regions:
+  - US
+  id: 0004000000139000
+  name: 2048
+  updates: []

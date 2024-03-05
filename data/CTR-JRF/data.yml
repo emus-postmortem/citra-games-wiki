@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000C5200
+  name: Reel Fishing® 3D Paradise Mini
+  updates: []
+- regions:
+  - US
+  id: 00040000000C2000
+  name: Reel Fishing® 3D Paradise Mini
+  updates: []

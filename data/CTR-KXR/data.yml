@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001B6200
+  name: デジコロ ケシカスくん Vol.010 爆走!ラジコンレース
+  updates: []

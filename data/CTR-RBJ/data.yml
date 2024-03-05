@@ -1,0 +1,7 @@
+platform: GameBoy
+releases:
+- regions:
+  - JP
+  id: 0004000000059600
+  name: セレクション 選ばれし者
+  updates: []

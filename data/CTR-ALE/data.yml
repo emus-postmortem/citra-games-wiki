@@ -1,0 +1,23 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 0004000000168000
+  name: LEGO® Marvel Avengers
+  updates:
+  - id: 0004000E00168000
+    name: 'LEGO® Marvel Avengers: Update'
+- regions:
+  - JP
+  id: 000400000018E300
+  name: LEGO®マーベル アベンジャーズ
+  updates:
+  - id: 0004000E0018E300
+    name: 更新データ Ver. 1.1 LEGO®マーベル アベンジャーズ
+- regions:
+  - US
+  id: 0004000000168500
+  name: LEGO® Marvel's Avengers
+  updates:
+  - id: 0004000E00168500
+    name: LEGO® Marvel's Avengers Update Ver. 1.2.0

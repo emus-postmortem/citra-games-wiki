@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001CE100
+  name: 'Shin Megami Tensei:  Strange Journey Redux'
+  updates: []
+- regions:
+  - JP
+  id: 00040000001B2400
+  name: 真・女神転生 DEEP STRANGE JOURNEY
+  updates: []
+- regions:
+  - US
+  id: 00040000001CD200
+  name: 'Shin Megami Tensei: Strange Journey Redux'
+  updates: []

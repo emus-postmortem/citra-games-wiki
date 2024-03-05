@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 00040000000A1200
+  name: Mega Man™ 4
+  updates: []
+- regions:
+  - JP
+  id: 00040000000A0F00
+  name: ロックマン4 新たなる野望!!
+  updates: []
+- regions:
+  - US
+  id: 00040000000A1000
+  name: Mega Man™ 4
+  updates: []

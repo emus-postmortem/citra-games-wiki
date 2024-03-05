@@ -1,0 +1,17 @@
+platform: GameBoy
+releases:
+- regions:
+  - EU
+  id: 000400000004F500
+  name: GARGOYLE'S QUEST
+  updates: []
+- regions:
+  - JP
+  id: 000400000004F300
+  name: レッドアリーマー MAKAIMURA GAIDEN
+  updates: []
+- regions:
+  - US
+  id: 000400000004F400
+  name: GARGOYLE'S QUEST
+  updates: []

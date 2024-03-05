@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001C9400
+  name: 妖怪ウォッチバスターズ2 ソード
+  updates:
+  - id: 0004000E001C9400
+    name: 更新データ Ver. 1.5 妖怪ウォッチバスターズ2 ソード

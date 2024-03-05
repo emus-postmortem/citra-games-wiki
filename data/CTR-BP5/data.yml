@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000169E00
+  name: プロ野球 ファミスタ リターンズ
+  updates: []

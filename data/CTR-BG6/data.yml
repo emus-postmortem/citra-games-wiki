@@ -1,0 +1,27 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000018FA00
+  name: 'Phoenix Wright: Ace Attorney Spirit of Justice'
+  updates: []
+- regions:
+  - JP
+  id: 0004000000166A00
+  name: 逆転裁判6
+  updates: []
+- regions:
+  - KR
+  id: 000400000018F900
+  name: 'Phoenix Wright: Ace Attorney - Spirit of Justice'
+  updates: []
+- regions:
+  - TW
+  id: 000400000018E700
+  name: '逆轉裁判 6 / Phoenix Wright: Ace Attorney - Spirit of Justice (英文版)'
+  updates: []
+- regions:
+  - US
+  id: 000400000018F400
+  name: 'Phoenix Wright: Ace Attorney – Spirit of Justice'
+  updates: []

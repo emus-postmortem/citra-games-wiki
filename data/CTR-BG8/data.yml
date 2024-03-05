@@ -1,0 +1,16 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 000400000019E700
+  name: 蒼き雷霆 ガンヴォルト ストライカーパック
+  updates:
+  - id: 0004000E0019E700
+    name: 更新データ Ver. 1.2 蒼き雷霆 ガンヴォルト ストライカーパック
+- regions:
+  - US
+  id: 00040000001A5600
+  name: Azure Striker Gunovlt  Striker Pack
+  updates:
+  - id: 0004000E001A5600
+    name: 'Azure Striker Gunvolt: Striker Pack Update Ver. 1.2'

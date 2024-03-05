@@ -1,0 +1,44 @@
+title = "Mii Maker"
+description = "Mii Maker for the Nintendo 3DS is pre-installed on the 3DS as a system application."
+needs_system_files = true
+needs_shared_font = true
+
+[[ releases ]]
+title = "0004001000021700"
+region = "usa"
+release_date = "2011-03-27"
+
+[[ releases ]]
+title = "0004001000022700"
+region = "eur"
+release_date = "2011-03-25"
+
+[[ releases ]]
+title = "0004001000020700"
+region = "jpn"
+release_date = "2011-02-26"
+
+[[ releases ]]
+title = "0004001000026700"
+region = "chn"
+release_date = "2012-09-28"
+
+[[ releases ]]
+title = "0004001000027700"
+region = "kor"
+release_date = "2012-04-28"
+
+[[ releases ]]
+title = "0004001000028700"
+region = "twn"
+release_date = "2012-09-28"
+
+[[testcases]]
+title = "0004001000022700"
+compatibility = "1"
+date = "2017-11-04"
+version = "HEAD-b579bf0"
+cpu = "Intel Core i7-7700HQ"
+gpu = "Nvidia GeForce GTX 1050 Mobile"
+os = "Windows 10 16299"
+author = "Bynari"

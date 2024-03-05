@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000FD100
+  name: Ocean Runner
+  updates: []
+- regions:
+  - JP
+  id: 000400000015E000
+  name: オーシャンランナー
+  updates: []
+- regions:
+  - US
+  id: 00040000000F6B00
+  name: Ocean Runner
+  updates: []

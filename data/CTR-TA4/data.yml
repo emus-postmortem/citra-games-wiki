@@ -1,0 +1,17 @@
+platform: NES
+releases:
+- regions:
+  - EU
+  id: 0004000000099600
+  name: GHOSTS'N GOBLINS™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000099400
+  name: 魔界村
+  updates: []
+- regions:
+  - US
+  id: 0004000000099500
+  name: Ghosts'n Goblins™
+  updates: []

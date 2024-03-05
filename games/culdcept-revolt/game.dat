@@ -1,0 +1,19 @@
+title = "Culdcept Revolt"
+description = "Culdcept Revolt is a turn-based strategy video game developed by OmiyaSoft and published by NIS America in North America and Europe, and Nintendo in Japan. It is the sequel of Culdcept, though the two games have different plotlines."
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001BCA00"
+region = "eur"
+release_date = "2017-10-06"
+
+[[releases]]
+title = "00040000001BEC00"
+region = "usa"
+release_date = "2017-10-03"
+
+[[releases]]
+title = "00040000000F5700"
+region = "jpn"
+release_date = "2016-07-07"

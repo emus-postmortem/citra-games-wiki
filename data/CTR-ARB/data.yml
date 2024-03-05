@@ -1,0 +1,17 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000034500
+  name: ラビッツ タイム・トラベル
+  updates: []
+- regions:
+  - KR
+  id: 00040000000BEA00
+  name: 엽기토끼 시간여행 3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000035700
+  name: Rabbids® Travel in Time 3D
+  updates: []

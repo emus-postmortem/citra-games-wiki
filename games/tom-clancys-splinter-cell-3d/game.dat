@@ -1,0 +1,30 @@
+title = "Tom Clancy's Splinter Cell 3D"
+description = "Tom Clancy's Splinter Cell 3D is a remake of Splinter Cell: Chaos Theory developed by Gameloft and published by Ubisoft. It was both an exclusive and a launch title for the Nintendo 3DS. While the game is a port of Chaos Theory, it includes features from Conviction as well, including projected text and fusion vision."
+github_issues = [1314]
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000040100"
+region = "usa"
+release_date = "2011-04-10"
+
+[[ releases ]]
+title = "0004000000033A00"
+region = "eur"
+release_date = "2011-03-25"
+
+[[ releases ]]
+title = "0004000000034400"
+region = "jpn"
+release_date = "2011-03-17"
+
+[[testcases]]
+title = "0004000000033A00"
+compatibility = "4"
+date = "2017-10-13"
+version = "HEAD-e1bb198"
+cpu = "Intel Core i7-4710HQ"
+gpu = "NVIDIA GeForce GTX 970M"
+os = "Windows 10 15063"
+author = "danzel"

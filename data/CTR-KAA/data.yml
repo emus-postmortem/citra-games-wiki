@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000163200
+  name: Fullblox™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000157B00
+  name: 引ク出ス ヒッパランド
+  updates: []
+- regions:
+  - US
+  id: 0004000000163100
+  name: Stretchmo™
+  updates: []

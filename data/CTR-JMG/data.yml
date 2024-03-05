@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000C6B00
+  name: Mighty Switch Force! 2
+  updates: []
+- regions:
+  - JP
+  id: 000400000019EE00
+  name: マイティースイッチフォース! 2
+  updates: []
+- regions:
+  - US
+  id: 00040000000C2800
+  name: Mighty Switch Force! 2
+  updates: []

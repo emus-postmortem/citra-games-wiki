@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000181100
+  name: シャンティ -海賊の呪い-
+  updates: []

@@ -1,0 +1,19 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  id: 00040000001B4F00
+  name: Miitopia™
+  updates: []
+- regions:
+  - JP
+  id: 0004000000178800
+  name: Miitopia(ミートピア)
+  updates:
+  - id: 0004000E00178800
+    name: 更新データ Ver. 1.1 Miitopia(ミートピア)
+- regions:
+  - US
+  id: 00040000001B4E00
+  name: Miitopia™
+  updates: []

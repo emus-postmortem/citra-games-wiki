@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000182E00
+  name: パズドラクロス 龍の章
+  updates:
+  - id: 0004000E00182E00
+    name: 更新データ Ver. 4.0 パズドラクロス 龍の章

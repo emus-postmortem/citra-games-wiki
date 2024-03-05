@@ -1,0 +1,7 @@
+platform: NES
+releases:
+- regions:
+  - JP
+  id: 00040000000D3900
+  name: ダウンタウンスペシャル くにおくんの時代劇だよ全員集合!
+  updates: []

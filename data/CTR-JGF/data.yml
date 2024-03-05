@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000C0900
+  name: 3D Galaxy Force II
+  updates: []
+- regions:
+  - JP
+  id: 00040000000FB900
+  name: 3D ギャラクシーフォースⅡ
+  updates: []
+- regions:
+  - US
+  id: 00040000000C0B00
+  name: 3D Galaxy Force II
+  updates: []

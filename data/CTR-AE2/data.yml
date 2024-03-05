@@ -1,0 +1,17 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000061700
+  name: PES 2012 3D
+  updates: []
+- regions:
+  - JP
+  id: 0004000000059F00
+  name: ワールドサッカー ウイニングイレブン 2012
+  updates: []
+- regions:
+  - US
+  id: 0004000000067500
+  name: Pro Evolution Soccer 2012 3D
+  updates: []

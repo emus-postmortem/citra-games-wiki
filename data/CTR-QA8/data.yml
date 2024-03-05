@@ -1,0 +1,7 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - US
+  id: 0004000000110200
+  name: Harvest Moon® 3 GBC
+  updates: []

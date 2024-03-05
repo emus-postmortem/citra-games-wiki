@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001AE800
+  name: SKYPEACE
+  updates: []
+- regions:
+  - JP
+  id: 0004000000129A00
+  name: SKYPEACE
+  updates: []
+- regions:
+  - US
+  id: 000400000013CC00
+  name: SKYPEACE
+  updates: []

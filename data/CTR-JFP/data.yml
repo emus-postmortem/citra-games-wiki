@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000066500
+  name: 'ARC STYLE: フリーセル'
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000184300
+  name: ミニゴルフリゾート
+  updates: []
+- regions:
+  - US
+  id: 000400000017FA00
+  name: Mini Golf Resort
+  updates: []

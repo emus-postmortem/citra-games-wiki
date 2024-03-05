@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001C2B00
+  name: メダロット クラシックス　クワガタVer.
+  updates:
+  - id: 0004000E001C2B00
+    name: 更新データ Ver. 2.0 メダロット クラシックス クワガタVer.

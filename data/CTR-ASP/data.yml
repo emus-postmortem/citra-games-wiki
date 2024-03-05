@@ -1,0 +1,12 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 00040000000EB500
+  name: スカイランダーズ スパイロの大冒険
+  updates: []
+- regions:
+  - US
+  id: 0004000000036E00
+  name: Skylanders Spyro's Adventure
+  updates: []

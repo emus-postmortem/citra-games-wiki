@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F710300
+  name: BRICK THRU
+  updates: []
+- regions:
+  - US
+  id: 000400000F710600
+  name: BRICK THRU
+  updates: []

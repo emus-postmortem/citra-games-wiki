@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 0004000000175700
+  name: Brave Tank Hero™
+  updates: []
+- regions:
+  - JP
+  id: 00040000000D0B00
+  name: 戦車3D
+  updates: []
+- regions:
+  - US
+  id: 0004000000175A00
+  name: Brave Tank Hero™
+  updates: []

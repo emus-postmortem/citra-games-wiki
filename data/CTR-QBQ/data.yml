@@ -1,0 +1,8 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  - US
+  id: 0004000000172700
+  name: Pokémon™ Silver Version (English Version)
+  updates: []

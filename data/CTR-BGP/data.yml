@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000169F00
+  name: メダロット ガールズミッション カブトVer.
+  updates: []

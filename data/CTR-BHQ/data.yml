@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000140E00
+  name: ハイキュー!! 繋げ!頂の景色!!
+  updates: []

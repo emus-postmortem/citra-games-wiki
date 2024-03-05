@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000AC700
+  name: カードファイト!! ヴァンガード ライド トゥ ビクトリー!!
+  updates:
+  - id: 0004000E000AC700
+    name: 更新データ Ver. 1.2 カードファイト!! ヴァンガード

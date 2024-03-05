@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000065A00
+  name: メダロット7 クワガタ Ver.
+  updates:
+  - id: 0004000E00065A00
+    name: 更新データ Ver. 1.1 メダロット７ クワガタVer.

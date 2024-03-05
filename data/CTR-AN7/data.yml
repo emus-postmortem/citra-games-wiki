@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000C3700
+  name: おさわり探偵小沢里奈 ライジング3 なめこはバナナの夢を見るか?
+  updates: []

@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001DAC00
+  name: Mountain Peak Battle Mess
+  updates: []
+- regions:
+  - US
+  id: 00040000001DB400
+  name: Mountain Peak Battle Mess
+  updates: []

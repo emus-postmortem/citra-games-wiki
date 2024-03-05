@@ -1,0 +1,12 @@
+platform: New3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000F70B000
+  name: FIFTEEN
+  updates: []
+- regions:
+  - US
+  id: 000400000F70B900
+  name: FIFTEEN
+  updates: []

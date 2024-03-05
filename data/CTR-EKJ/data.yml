@@ -1,0 +1,13 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - EU
+  - JP
+  - KR
+  - TW
+  - US
+  id: 0004000000055D00
+  name: Pokémon™ X
+  updates:
+  - id: 0004000E00055D00
+    name: Pokémon X Update Ver. 1.5

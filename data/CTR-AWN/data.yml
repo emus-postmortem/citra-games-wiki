@@ -1,0 +1,7 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000000A1D00
+  name: わんニャンどうぶつ病院2
+  updates: []

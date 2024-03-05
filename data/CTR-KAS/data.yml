@@ -1,0 +1,14 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 000400000016EB00
+  name: Ash
+  updates: []
+- regions:
+  - US
+  id: 000400000016EE00
+  name: ASH
+  updates:
+  - id: 0004000E0016EE00
+    name: ASH Update Ver. 1.1

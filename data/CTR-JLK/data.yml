@@ -1,0 +1,17 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000001AB900
+  name: Team Kirby Clash Deluxe™
+  updates: []
+- regions:
+  - JP
+  id: 00040000001A0000
+  name: みんなで!カービィハンターズＺ
+  updates: []
+- regions:
+  - US
+  id: 00040000001AB800
+  name: Team Kirby Clash Deluxe™
+  updates: []

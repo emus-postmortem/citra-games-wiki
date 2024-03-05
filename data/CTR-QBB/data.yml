@@ -1,0 +1,17 @@
+platform: GameBoyColor
+releases:
+- regions:
+  - EU
+  id: 000400000011A100
+  name: Pokémon™ Trading Card Game
+  updates: []
+- regions:
+  - JP
+  id: 0004000000119F00
+  name: ポケモンカードGB
+  updates: []
+- regions:
+  - US
+  id: 000400000011A000
+  name: Pokémon™ Trading Card Game
+  updates: []

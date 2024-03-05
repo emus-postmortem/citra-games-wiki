@@ -1,0 +1,7 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - JP
+  id: 00040000001D0000
+  name: ザ・デッドヒートブレイカーズ 体験版
+  updates: []

@@ -1,0 +1,29 @@
+title = "Terraria"
+description = "Explore vast fantasy worlds by excavating down to the depths of the earth or soaring up to islands in the sky. Wage war on hundreds of different enemies and giant bosses with weapons and armour you've crafted yourself. Reach directly into the world of Terraria using the intuitive touch-screen interface, building anything from simple dwellings to immense fortresses with the swipe of your stylus. Share the adventure with up to four friends via Local Play, teaming up to battle monstrous bosses or build amazing super-structures."
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "000400000016A900"
+region = "usa"
+release_date = "2015-12-10"
+
+[[releases]]
+title = "000400000016A600"
+region = "eur"
+release_date = "2015-12-10"
+
+[[releases]]
+title = "0004000000193500"
+region = "jpn"
+release_date = "2015-12-10"
+
+[[testcases]]
+title = "000400000016A600"
+compatibility = "1"
+date = "2017-08-09"
+version = "HEAD-792dee4"
+cpu = "Intel Core i7 2630QM"
+gpu = "GeForce GT 540M"
+os = "Windows 7 7601"
+author = "flaviculpus"

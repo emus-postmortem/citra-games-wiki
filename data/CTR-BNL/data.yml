@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 00040000001CA000
+  name: ドラえもん のび太の宝島
+  updates:
+  - id: 0004000E001CA000
+    name: 更新データVer.1.1　 ドラえもん のび太の宝島

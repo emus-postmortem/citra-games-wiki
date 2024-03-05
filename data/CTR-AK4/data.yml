@@ -1,0 +1,9 @@
+platform: Old3dsRetailOrDownload
+releases:
+- regions:
+  - JP
+  id: 0004000000169D00
+  name: アイカツ!My No.1 Stage!
+  updates:
+  - id: 0004000E00169D00
+    name: 更新データ Ver. 1.1.0 アイカツ!My No.1 Stage!

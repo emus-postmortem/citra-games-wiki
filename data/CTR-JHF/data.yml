@@ -1,0 +1,12 @@
+platform: Old3dsDownloadOnly
+releases:
+- regions:
+  - EU
+  id: 00040000000B1000
+  name: 'Heavy Fire: Special Operations 3D'
+  updates: []
+- regions:
+  - US
+  id: 00040000000AAF00
+  name: 'Heavy Fire:  Special Operations 3D'
+  updates: []

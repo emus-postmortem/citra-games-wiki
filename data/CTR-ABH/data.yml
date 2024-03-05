@@ -1,0 +1,7 @@
+platform: Old3dsRetailOnly
+releases:
+- regions:
+  - JP
+  id: 0004000000051B00
+  name: 閃乱カグラ -少女達の真影-
+  updates: []
